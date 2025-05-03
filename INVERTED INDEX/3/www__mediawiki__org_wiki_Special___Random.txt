@@ -1,0 +1,448 @@
+
+
+
+
+Dokumentering - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+		In other languages
+	
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dokumentering
+
+
+
+
+
+
+
+
+
+
+PageDiscussion
+
+
+
+
+
+svenska
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadTranslateView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadTranslateView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From mediawiki.org
+
+
+This page is a translated version of the page Documentation and the translation is 4% complete.Languages:Bahasa Indonesia
+Deutsch
+English
+Lëtzebuergesch
+Nederlands
+Tiếng Việt
+Türkçe
+català
+dansk
+español
+français
+italiano
+lietuvių
+norsk
+polski
+português
+português do Brasil
+română
+suomi
+svenska
+čeština
+Ελληνικά
+български
+русский
+українська
+العربية
+سنڌي
+فارسی
+پښتو
+अवधी
+भोजपुरी
+मराठी
+हिन्दी
+অসমীয়া
+বাংলা
+中文
+日本語
+粵語
+한국어
+This page introduces the basics of Wikimedia technical documentation.
+It links to resources to help you find technical documentation, improve your docs or your writing, and get involved in contributing to Wikimedia technical documentation efforts.
+
+
+What is technical documentation?
+
+Technical documentation refers to any documentation that contains information regarding a technical product, process, or task.
+This page focuses on technical documentation for MediaWiki and related software, including the infrastructure, tools and other technologies that power Wikimedia projects.
+
+
+Get started
+
+
+
+
+ Find documentation
+Wikimedia has many technical projects, so technical documentation exists in multiple locations.→ Use the Developer Portal to find docs, or read about doc locations .
+
+
+ Improve your documentation
+Use templates, best practices, and checklists to help you audit and improve docs.→ Visit the Documentation Toolkit 
+
+
+ Learn about writing
+Find style guides and tips to help you write clearly and effectively.→ Browse style guides and writing resources 
+
+
+ Get involved in doc work
+Help improve Wikimedia technical documentation, connect with the community, and learn about outreach programs.→ Get involved 
+
+Get help
+
+
+
+
+ Find help for documentation questions
+Ask documentation questions on Talk:Documentation, or in any of the forums listed on the Communication page.→ See communication channels 
+
+
+ File documentation bugs or requests
+Learn how and where to record potential doc tasks.→ How to file doc tasks 
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Documentation/sv&oldid=5810237"
+Category: Documentation/sv
+
+
+
+
+
+
+ This page was last edited on 4 March 2023, at 03:07.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

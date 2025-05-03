@@ -1,0 +1,1179 @@
+
+
+
+Promoting potato as staple food can reduce the carbon–land–water impacts of crops in China | Nature Food
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all journals
+
+
+
+
+Search
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+
+About the journal
+
+
+
+
+Publish with us
+
+
+
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+
+
+
+nature
+
+
+
+nature food
+
+
+
+articles
+
+
+
+
+article
+
+
+
+
+
+
+
+
+
+                        Promoting potato as staple food can reduce the carbon–land–water impacts of crops in China
+                    
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+Article
+Published: 12 August 2021
+
+Promoting potato as staple food can reduce the carbon–land–water impacts of crops in China
+Beibei Liu 
+            ORCID: orcid.org/0000-0003-3788-018X1,2,3, Weiyi Gu 
+            ORCID: orcid.org/0000-0002-4777-35241, Yi Yang 
+            ORCID: orcid.org/0000-0002-0600-602X4, Bufan Lu1, Feng Wang5,6, Bing Zhang 
+            ORCID: orcid.org/0000-0002-3395-86671 & …Jun Bi 
+            ORCID: orcid.org/0000-0001-9591-48061 Show authors
+
+Nature Food
+volume 2, pages 570–577 (2021)Cite this article
+
+
+
+
+3138 Accesses
+
+
+53 Citations
+
+
+73 Altmetric
+
+
+Metrics details
+
+
+
+
+
+Subjects
+
+Climate-change mitigationEnvironmental impact
+
+
+
+
+AbstractChina has recently implemented a policy to promote potato as a national staple food and to close its large yield gaps with other countries. The carbon–land–water implications of this policy are examined here by compiling and analysing detailed city-level life-cycle inventories of China’s staple crops. We find that in general potato, despite relatively low yields, has lower greenhouse gas emissions and water demand than other staple crops (maize, wheat and rice) on a per-calorie basis, but substantial regional variation exists for each crop. Integrating potato as a staple in China to meet increases in food demand and close the yield gap has the potential to reduce the total carbon–land–water impacts of staple crops by 17–25% by 2030. However, an unsuccessful integration runs the risk of global burden-shifting if the policy, for example, reduced domestic rice production and led to increased rice imports. Potential synergies between food security and environmental sustainability in China can be created by the potato policy, but greater efforts are needed to promote potato across the entire food supply chain from production to consumption.
+
+
+You have full access to this article via your institution.
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+Similar content being viewed by others
+
+
+
+
+
+
+Climate change impacts on banana yields around the world
+                                        
+
+
+Article
+02 September 2019
+
+
+
+
+
+
+
+
+
+Integrating crop redistribution and improved management towards meeting China’s food demand with lower environmental costs
+                                        
+
+
+Article
+01 December 2022
+
+
+
+
+
+
+
+
+
+Crop switching can enhance environmental sustainability and farmer incomes in China
+                                        
+
+
+Article
+16 March 2023
+
+
+
+
+
+
+
+
+MainChina is facing increasing pressure to ensure food security and achieve agricultural sustainability. Food demand will continue to rise in the next decade, propelled by population growth, rising per-capita income and changing dietary preferences1,2. However, increasing crop production domestically will become increasingly difficult due to continuous soil degradation, resource scarcity3 and climate change4,5,6,7,8,9,10,11. Furthermore, fertilizer use in China has increased >300% (Supplementary Fig. 1) in the last three decades (compared with a 63% increase in grain output)12 and the application rates are now much higher than global averages13, resulting in substantial loss of nutrients into, and severe contamination of, surface and ground waters across the country14,15.Because of potato’s agronomic advantages (for example, drought resistance and geographic adaptability16) and nutritional benefits (for example, containing more potassium and vitamin C than other staple foods17), China implemented the ‘Potato-as-Staple-Food’ (PSF) policy in 2015 to increase food security. Although potato production had been steadily growing in China over the previous two decades (Supplementary Fig. 2)18, the PSF policy signals a potentially greater role for potato in helping ensure future food security for the country. However, the environmental implications of the PSF policy remain unclear and understudied19. The PSF policy will increase potato production and consumption, probably displacing other staple crops and causing land-use reallocation. As increasingly recognized, food security and environmental sustainability are intimately linked with hidden connections among water, land, energy and other agriculture resources20,21.In this article we determine the potential environmental consequences and trade-offs of promoting PSF policy. We first examine the carbon–land–water impacts of producing four staple crops in 2015 by compiling and analysing city-level crop life-cycle inventories. This level of resolution allows us to capture the spatial variability of agricultural systems influenced by localized factors such as geography, weather and soil properties22,23. We then forecast China’s staple food demand by 2030 and develop two scenarios to estimate the potential impacts of increasing consumption of potato as a staple food. The first scenario (S1) is designed around the PSF policy, in which (1) potatoes are successfully integrated into China’s staple diets to meet projected increase in food demand by 2030, and (2) potato yields are increased by adopting high-yield breeds—one of the main aims of the policy. The second scenario (S2) strategically sites the staple crops in low-impact regions to further reduce their total greenouse gas (GHG) emissions compared with S1 (Methods). Given the potential difficulty of dietary change, we also explore a scenario of global burden-shifting, in which the substitution of potato for rice domestically leads to greater rice imports from neighbouring countries such as Vietnam and Thailand. We find that successful implementation of the PSF policy could notably reduce the carbon–land–water impacts of staple crops in China by increasing potato production to meet future food demand so long as the large yield gaps with other countries could be closed.Environmental pressures differ across crops and regionsChina is one of the largest staple crop producers in the world, contributing ~28% of rice, ~18% of wheat, ~25% of maize and ~27% of potato in 2015. The four crops occupied a total area of 97,995 kha in 2015, of which ~31% was used for rice, ~25% for wheat, ~39% for maize and ~6% for potato. Rice is intensively planted in South China and on the Sanjiang Plain, a floodplain located in Heilongjiang Province in Northeast China. Maize and potato are intensively planted in the ‘Sickle Bend’ region (Supplementary Fig. 3c,d), which includes multiple provinces from Northeast to Northwest China, and wheat is mainly planted in the North China Plain. The geographic distribution of the four crops is presented in Fig. 1a.Fig. 1: Regional variation in cropland use, GHG emissions and water use at the prefecture–city level in 2015.a, Total land use. b, Land use per calorie. c, Total GHG emissions. d, GHG emissions per calorie. e, Total water use. f, Water use per calorie. The lines show the borders of China’s seven administrative regions (Northeast, North, Northwest, East, Central, Southwest and South China). The main agricultural inputs covered in the life-cycle inventory of the four staple crops include fertilizers, pesticides, electricity and diesel, compiled from literature, survey data and statistical yearbooks at city or province levels. All climatic information needed to quantify water use is from China’s Meteorological Administration. Details on calculation and data sources can be found in Methods and Supplementary Information. The base map is provided by the Resource and Environment Data Cloud Platform, freely available for academic use (https://www.resdc.cn/data.aspx?DATAID=201, accessed 12 June 2021), Institute of Geographic Sciences & Natural Resources Research, Chinese Academy of Sciences.Source dataFull size imageThe average land-use intensity differs among crops, ranging from 5.69 × 10–5 ha Mcal−1 for rice to 7.22 × 10−5, 7.26 × 10−5 and 8.42 × 10−5 ha Mcal−1 for maize, potato and wheat, respectively. Regional variation in land-use intensity was high for wheat and potato and relatively low for rice and maize (Fig. 1b). For wheat, land-use intensity ranged from 4.74 × 10−5 ha Mcal−1 in Henan Province to 1.73 × 10−4 ha Mcal−1 in Guangxi Province and was relatively lower in the North China Plain and west China. For potato, land-use intensity ranged from 3.11 × 10−5 ha Mcal−1 in Jilin Province to 1.46 × 10−4 ha Mcal−1 in Shanxi Province and was generally lower in northeast, southeast and west China.The total GHG emissions of the four staple crops were 551.38 ± 134.73 Mt CO2e (mean ± s.d.) in 2015, with ~43%, ~24%, ~29% and ~4% from rice, wheat, maize and potato, respectively. About 85% of the emissions were contributed by provinces to the east of the Hu Line—an imaginary line across China at an angle of ~45° that divides the country into two roughly equal areas24 (Supplementary Fig. 4c). The geographic distribution of GHG emissions is largely consistent with that of cropland use (contrast Fig. 1a with Fig. 1c), and these emissions come from three main sources (see Methods and Supplementary Fig. 5). The first source is crop planting, releasing a total of 156.37 ± 4.93 Mt CO2e, of which most was methane (CH4) emissions from rice paddies (nearly 99%). CH4 was mainly emitted from South and East China, regions that in total produce nearly 70% of China’s rice. The second source is fertilizer application, discharging 128.25 ± 131.94 Mt CO2e, of which maize N2O emissions accounted for nearly 47%. N2O emissions intensity was much higher in northern and western China, ranging from 0.04 g CO2e kcal−1 in Jiangxi Province to 0.14 gCO2e kcal−1 in Gansu Province. Due to low soil fertility but high production pressure, China’s fertilizer application rate is ~37% and ~8% higher than that of the United States and Western Europe, respectively25. The third source is production and transportation of agricultural inputs, which emitted a total of 266.77 ± 4.35 Mt CO2e. Potato inputs contributed 4.5%, relatively smaller than its share of cultivated land (6%), partly because potato production does not require intensive diesel and electricity consumption in farming operations19.The average GHG intensity differs among crops, rice being the highest (0.47 ± 0.11 g CO2e kcal−1) due mainly to its substantial CH4 emissions, followed by wheat (0.46 ± 0.21), maize (0.33 ± 0.20) and potato (0.25 ± 0.17). GHG intensity varied considerably across production regions (Fig. 1d and Fig. 2b), mainly because of disparities in energy and material inputs, geographic conditions and agricultural management practices. Generally, the intensity tended to be lower where the total emissions were higher (Supplementary Fig. 6). At provincial level, it ranged from 0.20 g CO2e kcal−1 in Jilin to 0.86 g CO2e kcal−1 in Hainan (median, 0.45 g CO2e kcal−1 in Shanghai) for rice; from 0.25 g CO2e kcal−1 in Henan to 0.95 g CO2e kcal−1 in Guangxi (median, 0.42 g CO2e kcal−1 in Shanxi) for wheat; from 0.16 g CO2e kcal−1 in Jilin to 0.92 g CO2e kcal−1 in Tibet (median, 0.30 g CO2e kcal−1 in Chongqing) for maize; and from 0.11 gCO2e kcal−1 in Jilin to 0.48 g CO2e kcal−1 in Ningxia (median, 0.22 g CO2e kcal−1 in Chongqing) for potato. These results indicate potato’s comparative advantage in GHG mitigation.Fig. 2: Distribution of the intensity of land use, GHG emissions and water use at the prefecture–city level in 2015.a, Land use per calorie. b, GHG emissions per calorie. c, Water use per calorie. The black line in the thick box denotes the median, the thick bar denotes the interquartile range and the thin line denotes the 95% confidence interval. Wider sections of a violin plot represent a higher probability. Asterisks indicate the significance level of a Wilcoxon signed rank test for each pair of crops: *significant at the 5% level; **significant at the 1% level; ***significant at the 0.1% level. NS, no significant difference between the two crops.Source dataFull size imageThe spatial distribution of water use (that is, the aggregation of green, blue and grey water use; Supplementary Fig. 7) was mostly consistent with that of land use (compare Fig. 1a and 1e). Total water required by the four staple crops ranged from 3.73 × 108 m3 in Tibet to 7.63 × 1010 m3 in Henan Province, with Northwest and Southwest China (for example, Tibet and Sinkiang Province) consuming much less water than other regions because of less intensive farming activity (Fig. 1a). The water-use intensity of rice was the highest (0.69 ± 0.02 m3 Mcal−1), followed by wheat (0.64 ± 0.03 m3 Mcal−1), maize (0.62 ± 0.03 m3 Mcal−1) and potato (0.59 ± 0.02 m3 Mcal−1). It also varied across regions, determined by crop-specific factors and air temperature, air pressure, relative humidity and other climate variables. Crops in South China (for example, Guangxi, Yunnan and Guangdong Provinces) required more water per calorie provided than that in Northeast China (Heilongjiang, Jilin and Liaoning Provinces) and western China (Sinkiang, Tibet and Qinghai Provinces). At provincial level, water-use intensity ranged from 0.38 m3 Mcal−1 in Heilongjiang to 1.13 m3 Mcal−1 in Hainan for rice; from 0.34 m3 Mcal−1 in Liaoning to 1.62 m3 Mcal−1 in Guangxi for wheat; from 0.32 m3 Mcal−1 in Jilin to 1.88 m3 Mcal−1 in Tibet for maize; and from 0.22 m3 Mcal−1 in Jilin Province to 1.12 m3 Mcal−1 in Shanxi for potato.Potential impacts of the PSF policyBy 2030, the total demand for staple crops in China (in calories) is forecast to increase by ~35%. In the baseline scenario (S0, without adopting the PSF policy), total crop production would increase to 905.18 Mt in 2030 (from 657.91 Mt in 2015) to meet the forecast demand. Of this, ~31% would come from rice, ~19% from wheat, ~34% from maize and ~15% from potato. The total cultivated area would expand by ~17% (Fig. 3a) after accounting for projected increases in yields following historic trends (Supplementary Fig. 8). As a result, GHG emissions and water use associated with the crop production would increase by ~20% and ~19%, respectively (Fig. 3b,c), contributing further to global climate change and domestic water scarcity.Fig. 3: Cropland use, GHG emissions and water use under various scenarios.a, Total land use in 2015 and land savings under various scenarios in 2020–2030. b, Total GHG emissions in 2015 and GHG reduction under various scenarios in 2020–2030. c, Total water use in 2015 and water savings under various scenarios in 2020–2030. Error bars denote base cases ± s.d. S0 denotes the baseline scenario, S1 the PSF-policy scenario and S2 the strategic potato-siting scenario. Note that each scenario is contingent upon the previous one. Total land area projected in 2030 is below China’s red-line capacity (that is, 1.24 × 105 kha “red line”, which is defined as the area of arable land needed to ensure China’s food security), and there is also enough capacity for cropland expansion at the provincial level (Supplementary Table 1).Source dataFull size imageDoubling potato yields and integrating potato into China’s diets as a staple food are the two main objectives of the PSF policy26,27. We examine the potential impact of these two policy objectives in scenario 1 (S1). As compared to other staple crops, China’s potato yield gaps with leading countries are much wider (Supplementary Tables 2 and 3). In 2015, average potato yield was 17 Mg ha−1, 15% lower than the world average (20 Mg ha−1) and 65% lower than that of high-yield countries such as the United States, Belgium and New Zealand (47–49 Mg ha−1). By analysing high-yield potato varieties selected based on a 3 yr trait evaluation initiated by the PSF project group28, we find that China’s potato yield has the potential to reach 38 Mg ha−1 (or 125% higher than the 2015 level). We assume this goal can be achieved gradually by 2030 through adopting those high-yield varieties. Further, we assume additional potatoes are produced to satisfy the projected increase in staple food demand (Methods and Supplementary Table 4). Integrating these two elements, S1 shows that the total GHG emissions of the four staple crops could be reduced by 13.7 ± 5.1% by 2030, from 661.71 ± 153.01 Mt CO2e under S0 to 571.41 ± 128.42 Mt CO2e (Fig. 3b).Based on S1, strategically siting crops, primarily potato, in low-impact regions (S2) could further reduce the total GHG emissions because of the regional variation in crop impacts. Through construction of a land-use reallocation model based on linear programming, crops are strategically sited to minimize total GHG emissions subject to a series of restrictions (for example, only slight adjustment of the planting areas of maize, wheat and rice; details in equations (37)–(51) in the Supplementary Information). S2 would result in an additional ~11% reduction in total GHG emissions by 2030. Therefore, the combined effect of the policy-oriented food substitution by potato (S1) and strategic siting (S2) would be a total GHG reduction of 24.6 ± 4.8% (Fig. 3b).Incorporating potato into Chinese staple diets and planting crops strategically can also help alleviate land and water scarcity, given the technical incentives to increase potato yields and its relatively low land- and water-use intensity. As people shift to eating more potato (S1), total cultivated area could decline by ~10% by 2030 owing to potato substitution and selection of high-yield potato varieties. With the aid of strategic siting (S2), total reduction in land use could reach ~17% (Fig. 3a). Mean caloric yield across the four staple crops (Mcal ha−1) could also increase by ~10% under S1 and ~19% under S2 in 2030 (Supplementary Table 5). Water consumed by the agricultural sector in China accounts for two-thirds of the national total water use29. We estimate that due to the growing crop demand, total water use by the four crops would increase at a rate of 1.3% per year (S0). It would be reduced by 11.0 ± 1.0% in 2030 under S1 and by 17.3 ± 1.1% (or 1.82 × 1011 m3) under S2, owing to changes in land use through both the demand-side and supply-side strategies (Fig. 3c). Changes in land use, water use and GHG emissions at the regional level are depicted in Supplementary Fig. 9.Global burden-shiftingThe mitigation potential of environmental pressures above assumes that Chinese people shift their dietary habits toward eating more potato and less of other staple foods, thus reducing the domestic production of the latter. This habitual change may be difficult to realize for rice, given its central role in China’s food culture and the dietary change needed to adapt from rice to potato and derived products that are promoted by the PSF policy. On the other hand, it would be relatively easier to substitute potato for wheat because they both can be processed into similar products such as buns and noodles. Although diverting some rice land to grow potato mitigates a number of environmental impacts, as shown above, and could be promoted by policies, sustained rice consumption would then lead to increased rice imports from other countries, hence global burden-shifting.Historically, China has imported rice from Vietnam (45.80%), Thailand (26.27%), Pakistan (19.91%), Cambodia (3.45%), Myanmar (2.50%), Laos (1.89%), Russia (0.15%) and Japan (0.01%)25. If the rice gap after the transition of the staple food structure in the above scenarios (that is, from ~23 Mt in 2020 to ~56 Mt in 2030) were to be filled by additional imports from these countries instead of potato, annual GHG leakage is predicted to be ~61 ± 7 MtCO2e in 2020 and ~152 ± 18 MtCO2e in 2030 (Fig. 4). The amounts are substantial, nearly offsetting those saved in S2 (~163 MtCO2e in 2030). The main reason is that rice GHG intensities in the eight importing countries all exceed that in China (0.49–1.20 versus 0.47 gCO2e kcal−1). In particular, Vietnam has the highest GHG intensity, partly because rice cultivation in Vietnam emits much more CH4 per area (nearly twice as much as China30). Similarly, the rice imports would also lead to transfer of virtual domestic land (1.50 × 107 ± 8.55 × 105 kha) and water use (1.76 × 1011 ± 1.13 × 1010 m3) to the other countries due to rice’s relatively low land- and water-use intensities in China (see Supplementary Figs. 10 and 11). These results suggest the importance of ensuring a successful dietary shift in China to avoid shifting GHG emissions and land-use and water-use pressures to other countries.Fig. 4: Potential global carbon leakage.a, GHG intensity of rice in China and importing countries. b, Main contributors to rice GHG emissions. c–e, Potential global carbon leakage in 2020 (c), 2025 (d) and 2030 (e). China’s rice imports come primarily from Vietnam, Thailand, Pakistan, Cambodia, Myanmar, Laos, Russia and Japan. The size of the arrow is only a schematic representation of the direction and magnitude of GHG leakage; actual values are in the bar charts. Error bars denote base cases ± s.d. See virtual land and water burden-shifting in Supplementary Figs. 10 and 11. The base map is provided by Natural Earth (https://www.naturalearthdata.com/downloads/10m-cultural-vectors/, accessed 12 June 2021), Natural Earth.Source dataFull size imageDiscussionOur results indicate that the PSF policy in China, although enacted to enhance food security, can also help relieve the long-term stress of agriculture in the carbon–land–water nexus by substituting potato for other staple crops and by closing the potato yield gap. In particular, current potato cultivation in China still has great potential for improvement. Our scenario analysis shows that by adopting high-yield varieties, China’s potato yield could more than double (from 17 to 38 Mg ha−1), but there may be room for even further growth considering the yield potentials (for example, to 45 Mg ha−1 according to a recent study31). If the PSF policy can substantially increase potato yield via technology advancement such as variety breeding and selection, it can contribute importantly to China’s food security and agricultural sustainability. Our study also offers insight into how the benefits of the policy can be amplified by strategically promoting crop production in low-impact regions. In addition, strategies such as integrated soil–crop system management proposed by Chen et al.1 can further reduce the environmental pressures caused by staple crops (Supplementary Fig. 12, Supplementary Tables 6–9 and Supplementary Information, section 4).Along with a growing body of regional life-cycle assessments32, our study also highlights the importance of understanding the characteristics of crop production and emissions at detailed spatial scales for identifying potential improvement strategies. Due to influences of local climate, soil, topography and management practices, the amounts of agrochemicals applied to a crop and corresponding environmental outputs could vary substantially across regions33,34. For example, our city-level life-cycle inventories show that the GHG intensity of a staple crop in China could differ several-fold between the lowest- and highest-impact regions (Fig. 2). These variations would be masked, and the improvement opportunity from strategic siting missed, if national-level life-cycle inventories were used.Our findings rest on the assumption of potato successfully displacing other staple crops, but potential resistance may be anticipated from rice eaters given the importance of ‘rice culture’ in China. As our global scenario has shown, this could shift the burden to countries exporting rice to China. However, the prospects for the PSF policy may be brighter than expected. Changes in crop structure and diets have occurred in recent times, as reflected in the wide adoption of new wheat varieties in India during the Green Revolution35 and the considerable increase in dairy consumption in China and other parts of East Asia in the last few decades36. Given adequate incentives and large-scale promotion, potato, too, could be more widely adopted by farmers and eaten by consumers in the near future. Nevertheless, to ensure the environmental benefits of the PSF policy, it is critical that additional policies are put in place to facilitate the process of making potato a staple food. Such policies can: (1) promote the nutritional value of potato among Chinese households, (2) encourage food industries to produce potato substitutes for wheat products (for example, potato noodles and flour) that are similar or even better in flavour, and (3) further enhance the competitiveness of potato against other staple foods by facilitating research and development to breed new high-yield varieties with optimized local performances, thereby reducing the transport and storage costs of potato16.Another important policy implication of our study is the need for joint consideration of food security and environmental sustainability in policy-making. Because agriculture is a major driver of various global and regional environmental impacts37, any food policy that will cause considerable changes to food systems is likely to have important environmental implications38,39. In other words, food security and environmental sustainability are closely linked40. In our case, synergies are created by promoting potato, but in other cases one target might be achieved at the cost of the other. As food security and environmental sustainability are grand challenges currently facing humanity, efforts will increase to tackle both of these issues, such as via the United Nations Sustainable Development Goals. Therefore, greater attention should be paid by policymakers to the links between food security and environmental sustainability41 so that the potential synergies can be strengthened and trade-offs avoided or minimized. In China, policy-making regarding food security and environmental sustainability is often undertaken by different governmental agencies; thus, greater coordination and consistency within the governance system is needed to better address this joint challenge40.Our study examines the consequences of potato integrated as a dietary staple in China based on city-level life-cycle data. We expect the work would have added granularity with more spatially explicit data (for example, county-level), although the uncertainty of such data should be better understood32. Furthermore, the exclusion of soil carbon storage in our analysis is a limitation, which can be addressed in future studies to present a complete GHG profile of staple crops. However, because soil carbon storage is relatively small and does not differ substantially between staple crops, we expect our broad conclusions on the potential benefits of potato from substituting other staple crops to hold robustly without considering it. Our estimates may, in fact, be conservative by basing the analysis on calories because potato contains in general fewer calories than other starchy foods on an equivalent serving basis42. Future research is required to better understand the equivalent serving size of potatoes in China versus other staple foods. Also, we focused on food availability (caloric provision) in this study, but potatoes are also rich in potassium, magnesium, vitamin C, vitamin B1, vitamin B2, etc., compared with other staple foods such as wheat (Supplementary Table 10). Given these benefits of potato, we suggest it be studied more broadly in the growing literature of the diet, health and environment trilemma43.MethodsGHG emissions, water use and land use in 2015We estimate GHG emissions, land use and water use of the four staple foods (rice, wheat, maize and potato) at the city and province levels based on various data sources (Supplementary Fig. 13). For GHG emissions, we include CO2, CH4 and N2O released from cradle to gate: that is, from the production and transportation of agricultural inputs, to crop production including sowing, application of chemical and organic fertilizer, etc., to crop harvest (see Supplementary Tables 11–19 and Supplementary Information, section 1). For water use, we consider blue water and green water footprints, calculated using the Penman–Monteith equation recommended by the Food and Agriculture Organization44, based on daily temperature, humidity, air pressure and radiation data at the meteorological-station level and crop evapotranspiration coefficients. Grey water footprints used to dilute pollutants due to fertilizer application are also accounted for (see Supplementary Table 20 and Supplementary Information, section 2). We do not consider water use outside the production phase of the crop life cycle because the amount is small45,46. Land use for each crop in each region is calculated based on crop yields. Finally, we exclude soil carbon storage because of its relatively small contribution to the total GHG emissions of crops. For example, a recent comprehensive study of crop carbon footprint in China indicated soil carbon storage is an order of magnitude lower than NO2, CH4 and upstream GHG emissions and does not differ substantially between staple crops47. These two factors suggest that soil carbon storage would have a marginal effect on the GHG emissions or savings resulting from staple crops substitution.Projection of food demand through 2030Per-capita crop demand of China is calculated based on the relationship between per-capita GDP and per-capita demand for crop calories proposed by Tilman et al.48, as follows:$$D_{{\mathrm{pc}}} = a_i\sqrt {{\mathrm{GDP}}_{{\mathrm{pc}}}} + b_i$$
+                    (1)
+                where ai and bi are coefficients to be fitted, Dpc means per-capita nutritional demand (in calories) for staple foods; and \(\sqrt {{\mathrm{GDP}}_{{\mathrm{pc}}}}\) means the square root of per-capita inflation-adjusted GDP, with data from China’s Statistical Yearbooks12. Dpc is converted from crop demand based on the Nutrient Database49 and the population from China’s Statistical Yearbooks12, and here ‘crop demand’ is equivalent to ‘annual domestic supply’ in FAOSTAT25, defined as production + imports − exports + changes in stocks (decrease or increase). Then, we plot Dpc against \(\sqrt {{\mathrm{GDP}}_{{\mathrm{pc}}}}\) for each crop based on data from 2005 to 2013. The resulting fitted function (equation (1)) is used to estimate per-capita crop demand for each staple crop from 2020 to 2030, also based on China’s GDP forecast50,51 and population growth estimated by the United Nations52. See Supplementary Fig. 14 for details.Scenario designWe develop three scenarios in this study, namely, the PSF-policy-oriented scenario (S1), a strategic siting scenario (S2), together with a business-as-usual or baseline scenario (S0) in which neither of the strategies are adopted and crop yields grow according to historic trends. Each scenario is contingent upon the previous scenario. In S0, estimates of yield growth for three original staple crops (that is, rice, wheat and maize) are mainly based on data in China Agriculture Outlook50. The projected yields for rice, wheat and maize in 2030 are 7.2, 5.8, 7.9 Mg ha−1, respectively, which are still much lower than their yield potentials (that is, 9.8, 7.5, 13.9 Mg ha−1)53,54,55. For potato as non-staple crop (before the implementation of the PSF policy), we use a linear regression based on 2005–2015 to project its growth trend (R2 = 0.82). Domestic food self-sufficiency rates50 (Supplementary Table 21) are considered when calculating the future production.In S1, the PSF-policy-oriented strategies are implemented, including potato substitution and yield improvement through adopting high-yield varieties in each region (Supplementary Tables 2 and 4 and Supplementary Fig. 8). We estimate gaps between production and demand for rice, wheat and maize in 2020–2030, with their planting areas based partly on the National Structural Adjustment Plan for Planting Industry (2016–2020)56 and China Agriculture Outlook57 and partly on historic crop production trends. Then, we assume the increase in food demand would be met, on a caloric basis, by additional potato production instead of other crops. This assumption is equivalent to a partial substitution of potato for other crops. In addition, we compile and analyse an inventory of 30 high-yield potato varieties and their suitable planting regions28 and assume these varieties can be gradually adopted by 2030. In S2, we develop a land-use reallocation model with linear programming to maximize additional GHG emission reductions while also relieving other environmental pressures such as land and water use. Our model strategically sites the four staple crops in regions where they have the largest reduction potentials compared to S1, with some restrictions applied to avoid substantial changes to the existing planting areas of maize, wheat and rice (equations (37)–(51) in the Supplementary Information). See Supplementary Fig. 15 and Supplementary Information, section 4 for details on scenario design.Global burden-shiftingIf potato failed to fill the rice gap between production and demand domestically, this could lead to greater rice imports from other countries, hence greater rice production and environmental pressures. Consistent with the domestic accounting framework, we estimate this GHG leakage and virtual land and water transfer based on rice production and imports in 2016. For GHG emissions, CH4 emissions are calculated through per-area rice CH4 following Carlson et al.30. N2O and input emissions are calculated by the same method as introduced before, with data on fertilization application rates of each country from an International Fertilizer Association report58. Other data of agricultural inputs such as pesticides and plastic films are unavailable, and we fill the gaps with China’s data. GHG emissions from these sources are relatively small compared with CH4 emissions from rice paddies and N2O emissions from nitrogen fertilizer; thus, their effects on the results are negligible. For land use, data on areas harvested and crop production of the importing countries come from FAOSTAT25. For water use (including blue water, green water and grey water), the potential evapotranspiration of rice is assumed to be equivalent to China, and precipitation data in each country is obtained from the World Bank59. Additional details can be found in Supplementary Tables 22 and 23. Note that we do not consider potato export in our scenario design, because potato can serve as domestic grain reserves to ensure food security.Uncertainty analysisSensitivity and Monte Carlo analyses with respect to land use, GHG emissions and water use are conducted to estimate the uncertainty of potential impacts of the PSF policy and potential global burden-shifting. Details about the assumptions used in the sensitivity analyses are given in Supplementary Tables 24 and 25. For the Monte Carlo analysis, random values are generated for all variables (except for CH4 emission rates for wheat, maize and potato, the logarithm of location-specific background emission α0, the logarithm of location-specific applied N effect α1, and the residual error term ε) with probabilities following a triangular distribution with the likeliest equal to the estimated value, minimum and maximum set as −10% and +10% varied from the baseline, respectively. Random values for CH4 emission rates for wheat, maize and potato and direct N2O emissions factors α0, α1, ε are generated from a normal distribution with mean and standard deviation obtained from references. The effect of covariance of the above factors is assessed using Monte Carlo analysis (n = 1,000).Reporting summaryFurther information on research design is available in the Nature Research Reporting Summary linked to this article.
+
+
+Data availability
+All the data that support the life-cycle inventory and scenario analyses of this study are from public sources clearly referenced in the manuscript and most of the data are provided in the Supplementary Information. Source data are provided with this paper.
+Code availability
+The codes used for data processing, analysis and visualization during the current study are available from the corresponding author on reasonable request.
+ReferencesChen, X. P. et al. Producing more grain with lower environmental costs. Nature 514, 486–489 (2014).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Ma, L. et al. Environmental assessment of management options for nutrient flows in the food chain in China. Environ. Sci. Technol. 47, 7260–7268 (2013).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Fan, M. S. et al. Improving crop productivity and resource use efficiency to ensure food security and environmental quality in China. J. Exp. Bot. 63, 13–24 (2012).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                You, L. Z., Rosegrant, M. W., Wood, S. & Sun, D. S. Impact of growing season temperature on wheat productivity in China. Agric. For. Meteorol. 149, 1009–1014 (2009).Article 
+    ADS 
+    
+                    Google Scholar 
+                Wang, H. L. et al. Phenological trends in winter wheat and spring cotton in response to climate changes in Northwest China. Agric. For. Meteorol. 148, 1242–1251 (2008).Article 
+    ADS 
+    
+                    Google Scholar 
+                Tao, F. L., Zhang, Z., Zhang, S., Zhu, Z. & Shi, W. J. Response of crop yields to climate trends since 1980 in China. Clim. Res. 54, 233–247 (2012).Article 
+    
+                    Google Scholar 
+                Tao, F. L., Yokozawa, M., Liu, J. Y. & Zhang, Z. Climate-crop yield relationships at provincial scales in China and the impacts of recent climate trends. Clim. Res. 38, 83–94 (2008).Article 
+    
+                    Google Scholar 
+                Tao, F. L., Yokozawa, M., Xu, Y. L., Hayashi, Y. & Zhang, Z. Climate changes and trends in phenology and yields of field crops in China, 1981–2000. Agric. For. Meteorol. 138, 82–92 (2006).Article 
+    ADS 
+    
+                    Google Scholar 
+                Chen, C., Wang, E. L., Yu, Q. & Zhang, Y. Q. Quantifying the effects of climate trends in the past 43 years (1961–2003) on crop growth and water demand in the North China Plain. Clim. Change 100, 559–578 (2010).Article 
+    ADS 
+    
+                    Google Scholar 
+                Zhang, P., Zhang, J. J. & Chen, M. P. Economic impacts of climate change on agriculture: the importance of additional climatic variables other than temperature and precipitation. J. Environ. Econ. Manage. 83, 8–31 (2017).Article 
+    
+                    Google Scholar 
+                Lobell, D. B., Schlenker, W. & Costa-Roberts, J. Climate trends and global crop production since 1980. Science 333, 616–620 (2011).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                National Bureau of Statistics of China. China Statistical Yearbook 1981–2018 (China Statistics Press, 1982–2019).Frank, S. et al. Agricultural non-CO2 emission reduction potential in the context of the 1.5°C target. Nat. Clim. Chang. 9, 66–72 (2019).Article 
+    ADS 
+    CAS 
+    
+                    Google Scholar 
+                Smith, L. E. D. & Siciliano, G. A comprehensive review of constraints to improved management of fertilizers in China and mitigation of diffuse water pollution from agriculture. Agric. Ecosyst. Environ. 209, 15–25 (2015).Article 
+    
+                    Google Scholar 
+                Huang, J., Xu, C. C., Ridoutt, B. G., Wang, X. C. & Ren, P. A. Nitrogen and phosphorus losses and eutrophication potential associated with fertilizer application to cropland in China. J. Clean. Prod. 159, 171–179 (2017).Article 
+    
+                    Google Scholar 
+                Su, W. & Wang, J. Potato and food security in China. Am. J. Potato Res. 96, 100–101 (2019).Article 
+    
+                    Google Scholar 
+                Singh, J., Kaur, L. & Moughan, P. J. Importance of chemistry, technology and nutrition in potato processing. Food Chem. 133, 1091–1091 (2012).Article 
+    CAS 
+    
+                    Google Scholar 
+                China Agricultural Yearbook Editorial Committee. China Agriculture Yearbook 1980–2017 (China Agriculture Press, 1981–2018).Gao, B. et al. Comprehensive environmental assessment of Potato as Staple Food policy in China. Int. J. Environ. Res. Public Health 16, 19 (2019).
+                    Google Scholar 
+                Bleischwitz, R. et al. Resource nexus perspectives towards the United Nations Sustainable Development Goals. Nat. Sustain. 1, 737–743 (2018).Article 
+    
+                    Google Scholar 
+                Deng, H. M., Wang, C., Cai, W. J., Liu, Y. & Zhang, L. X. Managing the water–energy–food nexus in China by adjusting critical final demands and supply chains: an input–output analysis. Sci. Total Environ. 720, 11 (2020).Article 
+    CAS 
+    
+                    Google Scholar 
+                Paustian, K. et al. Climate-smart soils. Nature 532, 49–57 (2016).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Bennetzen, E. H., Smith, P. & Porter, J. R. Agricultural production and greenhouse gas emissions from world regions—the major trends over 40 years. Glob. Environ. Change 37, 43–55 (2016).Article 
+    
+                    Google Scholar 
+                Hu, H. Y. Distribution of China’s population: accompanying charts and density map. Acta Geogr. Sin. 2, 33–74 (1935).
+                    Google Scholar 
+                FAOSTAT (Food and Agriculture Organization, 2020); http://faostat3.fao.org/faostat-gateway/go/to/home/EGuidelines of Ministry of Agriculture on Promoting the Development of Potato Industry (Plant Management Division Ministry of Agriculture. 2016).China’s Potato-as-Staple Food Policy Launched (People’s Political Consultative Conference, 2015); http://cppcc.people.com.cn/n/2015/0108/c34948-26348803.htmlChen, M., Sun, J., Guo, Y. & Wang, X. A Brief History of the Potato: China’s Staple Food, 156–195 (China Agriculture Press, 2020).Fan, X., Zhang, W., Chen, W. W. & Chen, B. Land–water–energy nexus in agricultural management for greenhouse gas mitigation. Appl. Energy 265, 11 (2020).Article 
+    
+                    Google Scholar 
+                Carlson, K. M. et al. Greenhouse gas emissions intensity of global croplands. Nat. Clim. Chang. 7, 63–68 (2017).Article 
+    ADS 
+    CAS 
+    
+                    Google Scholar 
+                Liu, X., Li, S., He, P., Zhang, P. & Duan, Y. Yield and nutrient gap analysis for potato in northwest China. J. Agric. Sci. 156, 971–979 (2018).Article 
+    CAS 
+    
+                    Google Scholar 
+                Yang, Y., Pelton, R. E. O., Kim, T. & Smith, T. M. Effects of spatial scale on life cycle inventory results. Environ. Sci. Technol. 54, 1293–1303 (2020).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Miller, S. A., Landis, A. E. & Theis, T. L. Use of Monte Carlo analysis to characterize nitrogen fluxes in agroecosystems. Environ. Sci. Technol. 40, 2324–2332 (2006).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Yang, Y., Bae, J., Kim, J. & Suh, S. Replacing gasoline with corn ethanol results in significant environmental problem-shifting. Environ. Sci. Technol. 46, 3671–3678 (2012).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Yadav, O. P., Singh, D. V., Dhillon, B. S. & Mohapatra, T. India’s evergreen revolution in cereals. Curr. Sci. India 116, 1805–1808 (2019).Article 
+    
+                    Google Scholar 
+                Wang, Q. B., Parsons, R. & Zhang, G. X. China’s dairy markets: trends, disparities, and implications for trade. China Agr. Econ. Rev. 2, 356–371 (2010).Article 
+    
+                    Google Scholar 
+                Campbell, B. M. et al. Agriculture production as a major driver of the Earth system exceeding planetary boundaries. Ecol. Soc. 22, 11 (2017).Article 
+    
+                    Google Scholar 
+                Shafiee-Jood, M. & Cai, X. M. Reducing food loss and waste to enhance food security and environmental sustainability. Environ. Sci. Technol. 50, 8432–8443 (2016).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Hasegawa, T., Havlik, P., Frank, S., Palazzo, A. & Valin, H. Tackling food consumption inequality to fight hunger without pressuring the environment. Nat. Sustain. 2, 826–833 (2019).Article 
+    
+                    Google Scholar 
+                Lu, Y. et al. Addressing China’s grand challenge of achieving food security while ensuring environmental sustainability. Sci. Adv. 1, e1400039 (2015).Article 
+    ADS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Kroll, C., Warchold, A. & Pradhan, P. Sustainable Development Goals (SDGs): are we successful in turning trade-offs into synergies? Palgrave Commun. 5, 11 (2019).Article 
+    
+                    Google Scholar 
+                Stewart, D. & McDougall, G. Potato: A Nutritious, Tasty but Often Maligned Staple Food (Food & Health Innovation Service, 2012).Tilman, D. & Clark, M. Global diets link environmental sustainability and human health. Nature 515, 518–522 (2014).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Allen, R. G., Pereira, L. S., Raes, D. & Smith, M. Crop Evapotranspiration: Guidelines for Computing Crop Requirements. Irrigation and Drainage Paper No. 56 (Food and Agriculture Organization, 1998).Chiu, Y. W., Walseth, B. & Suh, S. Water embodied in bioethanol in the United States. Environ. Sci. Technol. 43, 2688–2692 (2009).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Yang, Y. & Suh, S. Land cover change from cotton to corn in the USA relieves freshwater ecotoxicity impact but may aggravate other regional environmental impacts. Int. J. Life Cycle Assess. 20, 196–203 (2015).Article 
+    CAS 
+    
+                    Google Scholar 
+                Gao, B. et al. Chinese cropping systems are a net source of greenhouse gases despite soil carbon sequestration. Glob. Chang. Biol. 24, 5590–5606 (2018).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Tilman, D., Balzer, C., Hill, J. & Befort, B. L. Global food demand and the sustainable intensification of agriculture. Proc. Natl Acad. Sci. USA 108, 20260–20264 (2011).Article 
+    ADS 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                USDA National Nutrient Database for Standard Reference (United States Department of Agriculture, Agriculture Research Services & Nutrient Data Laboratory, 2016); https://ndb.nal.usda.gov/China Agriculture Outlook (2020–2029) (Institute of Agricultural Information and Chinese Academy of Agricultural Sciences, 2020).Wang, W., Bian, Y. & Liu, Y. China’s per capita GDP forecast and ranking change. Contemp. Finan. Stud. 9, 22–42 (2018).CAS 
+    
+                    Google Scholar 
+                World Population Prospects: The 2015 Revision (United Nations Department of Economic and Social Affairs, 2015).Deng, N. Y. et al. Closing yield gaps for rice self-sufficiency in China. Nat. Commun. 10, 1725 (2019).Article 
+    ADS 
+    PubMed 
+    PubMed Central 
+    CAS 
+    
+                    Google Scholar 
+                Hatfield, J. L. & Beres, B. L. Yield gaps in wheat: path to enhancing productivity. Front. Plant Sci. 10, 1603 (2019).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Meng, Q. F. et al. Understanding production potentials and yield gaps in intensive maize production in China. Field Crop Res. 143, 91–97 (2013).Article 
+    
+                    Google Scholar 
+                National Planting Structure Adjustment Plan (2016–2020) (Ministry of Agriculture, 2016).China Agriculture Outlook (2019–2028) (Institute of Agricultural Information and Chinese Academy of Agricultural Sciences, 2019).Heffer, P. Assessment of Fertilizer Use by Crop at the Global Level (International Fertilizer Association, 2013).Data Bank: World Development Indicators (World Bank, 2015); https://databank.shihang.org/source/world-development-indicatorsDownload referencesAcknowledgementsThe research was funded in part by the National Natural Science Foundation of China (71874078, B. Liu and 71921003, J.B.). We thank Dongyue Zhao for her effort into the early development of this study.Author informationAuthors and AffiliationsState Key Laboratory of Pollution Control & Resource Reuse School of Environment, Nanjing University, Nanjing, P. R. ChinaBeibei Liu, Weiyi Gu, Bufan Lu, Bing Zhang & Jun BiSchool of Government, Nanjing University, Nanjing, P. R. ChinaBeibei LiuThe Johns Hopkins University–Nanjing University Center for Chinese and American Studies, Nanjing, P. R. ChinaBeibei LiuKey Laboratory of the Three Gorges Reservoir Region’s Eco-Environment, Ministry of Education, Chongqing University, Chongqing, P. R. ChinaYi YangBusiness School, Nanjing University of Information Science & Technology, Nanjing, P. R. ChinaFeng WangDevelopment Institute of Jiangbei New Area, Nanjing University of Information Science & Technology, Nanjing, P. R. ChinaFeng WangAuthorsBeibei LiuView author publicationsYou can also search for this author in
+                        PubMed Google ScholarWeiyi GuView author publicationsYou can also search for this author in
+                        PubMed Google ScholarYi YangView author publicationsYou can also search for this author in
+                        PubMed Google ScholarBufan LuView author publicationsYou can also search for this author in
+                        PubMed Google ScholarFeng WangView author publicationsYou can also search for this author in
+                        PubMed Google ScholarBing ZhangView author publicationsYou can also search for this author in
+                        PubMed Google ScholarJun BiView author publicationsYou can also search for this author in
+                        PubMed Google ScholarContributionsB. Liu, W.G. and Y.Y. designed the research study. B. Liu, W.G. and F.W. developed early drafts. Y.Y., B. Liu and W.G. revised the paper. W.G. and B. Lu collected and analysed the data. B. Lu and W.G. produced the figures. B.Z. and J.B. contributed discussion points and reviewed the paper. All authors critically reviewed and approved the final manuscript and are accountable for all aspects of the work.Corresponding authorsCorrespondence to
+                Yi Yang, Bing Zhang or Jun Bi.Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional informationPeer review information Nature Food thanks Zhenling Cui and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Supplementary informationSupplementary InformationSupplementary Sections 1–4, Tables 1–25, Figs. 1–15 and References.Reporting SummarySource dataSource Data Fig. 1Statistical Source Data.Source Data Fig. 2Statistical Source Data.Source Data Fig. 3Statistical Source Data.Source Data Fig. 4Statistical Source Data.Rights and permissionsReprints and permissionsAbout this articleCite this articleLiu, B., Gu, W., Yang, Y. et al. Promoting potato as staple food can reduce the carbon–land–water impacts of crops in China.
+                    Nat Food 2, 570–577 (2021). https://doi.org/10.1038/s43016-021-00337-2Download citationReceived: 11 December 2020Accepted: 07 July 2021Published: 12 August 2021Issue Date: August 2021DOI: https://doi.org/10.1038/s43016-021-00337-2Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        
+
+
+
+This article is cited by
+
+
+
+
+
+                                        The asymmetric impacts of international agricultural trade on water use scarcity, inequality and inequity
+                                    
+
+
+Weiyi GuFang WangYue Qin
+
+Nature Water (2024)
+
+
+
+
+                                        Nitrogen Management for Optimum Potato Yields and Low Environmental Impact in Northwest China
+                                    
+
+
+Haibo YangYunfei DiFei Li
+
+Potato Research (2024)
+
+
+
+
+                                        Estimating the carbon footprint of Mexican food consumption based on a high-resolution environmentally extended input-output model
+                                    
+
+
+Yue ZhangYi Yang
+
+Environmental Science and Pollution Research (2024)
+
+
+
+
+                                        A microbiome survey of contrasting potato terroirs using 16S rRNA long-read sequencing
+                                    
+
+
+Anastasia BoutsikaAliki XanthopoulouIfigeneia Mellidou
+
+Plant and Soil (2024)
+
+
+
+
+                                        Soil Geobacteraceae are the key predictors of neurotoxic methylmercury bioaccumulation in rice
+                                    
+
+
+Huan ZhongWenli TangYu-Rong Liu
+
+Nature Food (2024)
+
+
+
+
+
+
+
+
+
+
+
+
+You have full access to this article via your institution.
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+Associated content
+
+
+
+
+
+Overlooked benefits of a staple food transition
+
+
+Laura SchererJing Huang
+
+
+Nature Food
+News & Views
+12 Aug 2021
+
+
+
+
+
+
+
+
+
+
+Can Chinese diners embrace potatoes? The answer could affect Earth’s climate
+
+
+Nature
+Research Highlight
+18 Aug 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+                                    Research articles
+                                
+
+
+
+                                    Reviews & Analysis
+                                
+
+
+
+                                    News & Comment
+                                
+
+
+
+                                    Current issue
+                                
+
+
+
+                                    Collections
+                                
+
+
+
+
+Follow us on Twitter
+                            
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+About the journal
+
+
+
+                                    Aims & Scope
+                                
+
+
+
+                                    Journal Information
+                                
+
+
+
+                                    Journal Metrics
+                                
+
+
+
+                                    About the Editors
+                                
+
+
+
+                                    Research Cross-Journal Editorial Team
+                                
+
+
+
+                                    Reviews Cross-Journal Editorial Team
+                                
+
+
+
+                                    Our publishing models
+                                
+
+
+
+                                    Editorial Values Statement
+                                
+
+
+
+                                    Editorial Policies
+                                
+
+
+
+                                    Advisory Panel
+                                
+
+
+
+                                    Content Types
+                                
+
+
+
+                                    Contact
+                                
+
+
+
+
+
+
+Publish with us
+
+
+
+                                    Submission Guidelines
+                                
+
+
+
+                                    For Reviewers
+                                
+
+
+
+                                    Language editing services
+                                
+
+
+Submit manuscript
+
+
+
+
+
+
+
+Search
+
+Search articles by subject, keyword or author
+
+
+
+
+
+
+Show results from
+
+All journals
+This journal
+
+
+
+Search
+
+
+
+
+
+
+                Advanced search
+            
+
+Quick links
+
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+
+
+
+
+
+
+
+
+
+
+                    Nature Food (Nat Food)
+                
+
+ISSN 2662-1355 (online)
+    
+
+
+
+
+
+
+nature.com sitemap
+
+
+
+About Nature Portfolio
+
+About us
+Press releases
+Press office
+Contact us
+
+
+
+Discover content
+
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+
+
+
+Publishing policies
+
+Nature portfolio policies
+Open access
+
+
+
+Author & Researcher services
+
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+
+
+
+Libraries & institutions
+
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+
+
+
+Advertising & partnerships
+
+Advertising
+Partnerships & Services
+Media kits
+
+Branded
+                        content
+
+
+
+Professional development
+
+Nature Careers
+Nature 
+                        Conferences
+
+
+
+Regional websites
+
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+
+
+
+
+
+
+Privacy
+                Policy
+Use
+                of cookies
+
+Your privacy choices/Manage cookies
+                
+
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+
+
+
+
+
+
+
+© 2024 Springer Nature Limited
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+Sign up for the Nature Briefing: Anthropocene newsletter — what matters in anthropocene research, free to your inbox weekly.
+
+
+
+
+
+
+
+
+
+Email address
+
+
+
+Sign up
+
+
+
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing: Anthropocene
+            
+
+
+
+
+
+
+
+
+

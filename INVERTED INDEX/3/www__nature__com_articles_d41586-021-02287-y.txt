@@ -1,0 +1,1056 @@
+
+
+
+
+
+
+
+
+
+
+Control methane to slow global warming — fast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all journals
+
+
+
+
+Search
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+
+About the journal
+
+
+
+
+Publish with us
+
+
+
+
+Subscribe
+
+
+
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+
+
+
+nature
+
+
+
+editorials
+
+
+
+
+article
+
+
+
+
+
+
+
+
+
+                            Control methane to slow global warming — fast
+                        
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+
+EDITORIAL
+25 August 2021
+
+Control methane to slow global warming — fast
+
+
+                    Carbon dioxide reductions are key, but the IPCC’s latest report highlights the benefits of making cuts to other greenhouse gases, too.
+                
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+Facebook
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+You have full access to this article via your institution.
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+
+Oil and gas operations — such as Inglewood Oil Field in Los Angeles, California — are a key source of methane.Credit: Citizens of the Planet/Education Images/Universal Images Group/Getty
+
+
+There’s no substitute for eliminating fossil fuels and halting the release of carbon dioxide into the atmosphere to avoid the painful and disruptive effects of global warming. The latest report from the Intergovernmental Panel on Climate Change (IPCC) leaves no doubt about this. But CO2 is not the only greenhouse gas. The climate panel also highlights the problem — and opportunity — posed by methane, which has contributed as much as 0.5 °C of warming since pre-industrial times, second only to CO2.Methane is the main component of natural gas, whose popularity as a relatively clean source of fossil energy has soared by more than 50% over the past two decades. In the United States, cheap and plentiful natural gas supplies — obtained from controversial hydraulic fracking — have helped to displace coal. But there has also been a cost to the climate: fossil fuels have helped to boost atmospheric methane concentrations,which have more than doubled since pre-industrial times, from around 700 parts per billion by volume to nearly 1,900 p.p.b. in 2020.Methane is of concern because it has an outsized impact on the climate. The gas makes up a tiny fraction of our atmosphere — CO2 levels are more than 200 times higher. But in the first 20 years after release, methane is around 80 times more powerful than CO2 at trapping heat in Earth’s atmosphere. It also breaks down much more quickly than CO2, with an average lifetime of around a decade, compared with centuries for CO2. This means that curbing methane emissions could provide short-term relief while governments and businesses negotiate the more difficult transition from fossil fuels to clean energy.
+
+IPCC climate report: Earth is warmer than it’s been in 125,000 years
+In an effort to reduce methane emissions, scientists have been investigating two linked questions. First, what are the major sources of methane? Second, where are the worst offenders? Livestock is the largest source, responsible for 31% of the global total, according to Ilissa Ocko at the non-profit Environmental Defense Fund (EDF) in New York City and her colleagues1. Oil and gas operations rank a close second, releasing 26%. Other sources include landfills, coal mines, rice paddies and water-treatment plants.Reducing methane from livestock represents a particular challenge. People could eat less meat, but persuading people to change their diet is rarely straightforward. Moreover, meat consumption is rising in low- and middle-income countries — in line with rising incomes. It should be easier to curb emissions from other sectors. In many cases, doing so wouldn’t cost anything — and it could even be profitable.Global methane emissions could be cut by 57% by 2030 using existing technologies, Ocko and her colleagues report. And almost one-quarter of the global methane total could be eliminated at no net cost. The oil and gas industry could make the biggest difference here, having both the infrastructure and the incentive to minimize methane losses: more methane in their pipelines means more revenue. In other sectors, the operators of landfills, coal mines and wastewater-treatment plants could capture the gas and use it to generate electricity. And rice producers could minimize emissions with better irrigation and soil-management practices. If these measures were implemented worldwide, projected increases in global warming could be reduced by 0.25 °C by 2050, and 0.5 °C by 2100, the study finds. Those are significant numbers considering that the world has already warmed by 1.1 °C, and global leaders have committed to limiting the total to 1.5–2 °C.
+
+The hard truths of climate change — by the numbers
+The main problem is pinpointing precisely where methane emissions are coming from. More than a decade ago, researchers monitored methane from aircraft surveys using infrared sensors that can detect gases in sunlight reflected back from Earth2. Today, satellites are part of this monitoring effort. Research shows that a relatively small number of ‘super-emitters’ are responsible for a significant share of methane emissions, particularly in the oil and gas industry3.The ability to identify major methane sources is poised to advance in the next two years. In 2022, the EDF will launch a satellite designed to identify emissions across large swathes of land. Carbon Mapper, a non-profit partnership that includes NASA’s Jet Propulsion Laboratory and the San Francisco-based company Planet, will follow up in 2023 with two prototype satellites designed to track methane and CO2 at the scale of individual facilities.In March, the United Nations Environment Programme and the European Commission launched the International Methane Emissions Observatory to help coordinate these efforts and help policymakers and companies take action. The observatory will also have access to estimated emissions inventories from governments and industry. Around 70 oil and gas producers, including giants such as Shell and BP, have committed to setting clear emissions-reductions targets and reporting emissions under an initiative led by the Climate & Clean Air Coalition, an international initiative involving governments, non-profit organizations, businesses and others. This work will also help to inform new methane-reduction commitments due to be made at the UN climate conference in Glasgow, UK, in November.The world will continue to warm as long as CO2 is being pumped into the atmosphere. But curbing emissions of methane and other powerful greenhouse gases might reduce the sting. That is why governments and businesses should seize the opportunity, buying humanity a bit more time to do what needs to be done.
+
+Nature 596, 461 (2021)
+doi: https://doi.org/10.1038/d41586-021-02287-y
+
+ReferencesOcko, I. B. et al. Environ. Res. Lett. 16, 054042 (2021).Article 
+    
+                    Google Scholar 
+                Pétron, G. et al. J. Geophys. Res. 117, D04304 (2012).Article 
+    
+                    Google Scholar 
+                Cusworth, D. H. et al. Environ. Sci. Technol. Lett. 8, 567–573 (2021).Article 
+    
+                    Google Scholar 
+                Download references
+
+
+Reprints and permissions
+
+Related Articles
+
+
+
+
+
+                        
+                        IPCC climate report: Earth is warmer than it’s been in 125,000 years
+                    
+
+
+
+
+
+
+                        
+                        Diagnosing Earth: the science behind the IPCC’s upcoming climate report
+                    
+
+
+
+
+
+
+                        
+                        The hard truths of climate change — by the numbers
+                    
+
+
+
+
+
+
+                        
+                        Where climate cash is flowing and why it’s not enough
+                    
+
+
+
+Subjects
+
+
+Climate change
+
+
+Climate sciences
+
+
+Developing world
+
+
+Policy
+
+
+
+Latest on:
+
+
+Climate change
+
+
+
+
+
+Forestry social science is failing the needs of the people who need it most
+Editorial 15 MAY 24
+
+
+
+
+2023 summer warmth unparalleled over the past 2,000 years
+Article 14 MAY 24
+
+
+
+
+Finding millennia-old ‘monumental’ corals could unlock secrets of climate resilience
+Correspondence 07 MAY 24
+
+
+
+
+
+
+Climate sciences
+
+
+
+
+
+Forestry social science is failing the needs of the people who need it most
+Editorial 15 MAY 24
+
+
+
+
+
+One-third of Southern Ocean productivity is supported by dust deposition
+Article 15 MAY 24
+
+
+
+
+2023 summer warmth unparalleled over the past 2,000 years
+Article 14 MAY 24
+
+
+
+
+
+
+Developing world
+
+
+
+
+
+How ignorance and gender inequality thwart treatment of a widespread illness
+Outlook 09 MAY 24
+
+
+
+
+
+How to meet Africa’s grand challenges with African know-how
+World View 01 MAY 24
+
+
+
+
+More work is needed to take on the rural wastewater challenge
+Correspondence 23 APR 24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jobs
+                
+
+
+
+
+
+Postdoc in CRISPR Meta-Analytics and AI for Therapeutic Target Discovery and Priotisation (OT Grant)
+
+APPLICATION CLOSING DATE: 14/06/2024 Human Technopole (HT) is a new interdisciplinary life science research institute created and supported by the...
+Milan (IT)
+Human Technopole
+
+
+
+
+
+
+
+
+Research Associate - Metabolism
+
+Houston, Texas (US)
+Baylor College of Medicine (BCM)
+
+
+
+
+
+
+
+
+Postdoc Fellowships
+
+Train with world-renowned cancer researchers at NIH? Consider joining the Center for Cancer Research (CCR) at the National Cancer Institute
+Bethesda, Maryland
+NIH National Cancer Institute (NCI)
+
+
+
+
+
+Faculty Recruitment, Westlake University School of Medicine
+
+Faculty positions are open at four distinct ranks: Assistant Professor, Associate Professor, Full Professor, and Chair Professor.
+Hangzhou, Zhejiang, China
+Westlake University
+
+
+
+
+
+
+
+
+PhD/master's Candidate
+
+PhD/master's Candidate    Graduate School of Frontier Science Initiative, Kanazawa University is seeking candidates for PhD and master's students i...
+Japan (JP)
+Kanazawa University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have full access to this article via your institution.
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+Related Articles
+
+
+
+
+
+                        
+                        IPCC climate report: Earth is warmer than it’s been in 125,000 years
+                    
+
+
+
+
+
+
+                        
+                        Diagnosing Earth: the science behind the IPCC’s upcoming climate report
+                    
+
+
+
+
+
+
+                        
+                        The hard truths of climate change — by the numbers
+                    
+
+
+
+
+
+
+                        
+                        Where climate cash is flowing and why it’s not enough
+                    
+
+
+
+Subjects
+
+
+Climate change
+
+
+Climate sciences
+
+
+Developing world
+
+
+Policy
+
+
+
+
+
+
+
+
+
+
+
+Sign up to Nature Briefing
+An essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
+
+
+
+
+
+
+
+
+Email address
+
+
+
+
+Yes! Sign me up to receive the daily Nature Briefing email. I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+
+
+
+
+
+
+
+
+
+Email address
+
+
+
+Sign up
+
+
+
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing
+            
+
+
+
+
+
+
+
+Explore content
+
+
+
+                                    Research articles
+                                
+
+
+
+                                    News
+                                
+
+
+
+                                    Opinion
+                                
+
+
+
+                                    Research Analysis
+                                
+
+
+
+                                    Careers
+                                
+
+
+
+                                    Books & Culture
+                                
+
+
+
+                                    Podcasts
+                                
+
+
+
+                                    Videos
+                                
+
+
+
+                                    Current issue
+                                
+
+
+
+                                    Browse issues
+                                
+
+
+
+                                    Collections
+                                
+
+
+
+                                    Subjects
+                                
+
+
+
+
+Follow us on Facebook
+                            
+
+
+Follow us on Twitter
+                            
+
+
+
+Subscribe
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+About the journal
+
+
+
+                                    Journal Staff
+                                
+
+
+
+                                    About the Editors
+                                
+
+
+
+                                    Journal Information
+                                
+
+
+
+                                    Our publishing models
+                                
+
+
+
+                                    Editorial Values Statement
+                                
+
+
+
+                                    Journal Metrics
+                                
+
+
+
+                                    Awards
+                                
+
+
+
+                                    Contact
+                                
+
+
+
+                                    Editorial policies
+                                
+
+
+
+                                    History of Nature
+                                
+
+
+
+                                    Send a news tip
+                                
+
+
+
+
+
+
+Publish with us
+
+
+
+                                    For Authors
+                                
+
+
+
+                                    For Referees
+                                
+
+
+
+                                    Language editing services
+                                
+
+
+Submit manuscript
+
+
+
+
+
+
+
+Search
+
+Search articles by subject, keyword or author
+
+
+
+
+
+
+Show results from
+
+All journals
+
+
+
+Search
+
+
+
+
+
+
+                Advanced search
+            
+
+Quick links
+
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+
+
+
+
+
+
+
+
+
+
+                    Nature (Nature)
+                
+
+ISSN 1476-4687 (online)
+    
+
+ISSN 0028-0836 (print)
+    
+
+
+
+
+
+
+nature.com sitemap
+
+
+
+About Nature Portfolio
+
+About us
+Press releases
+Press office
+Contact us
+
+
+
+Discover content
+
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+
+
+
+Publishing policies
+
+Nature portfolio policies
+Open access
+
+
+
+Author & Researcher services
+
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+
+
+
+Libraries & institutions
+
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+
+
+
+Advertising & partnerships
+
+Advertising
+Partnerships & Services
+Media kits
+
+Branded
+                        content
+
+
+
+Professional development
+
+Nature Careers
+Nature 
+                        Conferences
+
+
+
+Regional websites
+
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+
+
+
+
+
+
+Privacy
+                Policy
+Use
+                of cookies
+
+Your privacy choices/Manage cookies
+                
+
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+
+
+
+
+
+
+
+© 2024 Springer Nature Limited
+
+
+
+
+
+
+
+

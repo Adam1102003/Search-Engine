@@ -1,0 +1,389 @@
+
+
+
+
+Language statistics - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language statistics
+
+Help
+
+
+
+
+
+
+
+
+
+Translate
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language statisticsMessage group statisticsExport
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+Language statisticsMessage group statisticsExport
+
+
+
+
+
+		General
+	
+
+
+Upload fileSpecial pagesPrintable versionGet shortened URLDownload QR code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This page shows translation statistics for all message groups for a language.
+
+Display preferencesLanguage code:Suppress completely translated message groupsSuppress completely untranslated message groups
+
+Show statistics
+Translation statistics for English (recent translations).
+
+
+
+Message group
+Messages
+Untranslated
+Completion
+Reviewed
+Outdated
+
+
+
+
+Extension pages
+24,577
+7
+99%
+0%
+0%
+
+
+Extension:LinkTitles
+7
+7
+0%
+0%
+0%
+
+ 
+All message groups together
+7
+7
+0%
+0%
+0%
+
+
+Retrieved from "https://www.mediawiki.org/wiki/Special:LanguageStats"
+
+
+
+
+
+
+
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

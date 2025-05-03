@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ECE7E0; /* Light grayish-beige color */
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background: linear-gradient(135deg, #ECE7E0, #21314A); /* Gradient background */
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    width: 90%;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #21314A; /* Dark blue-gray color */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+h1 {
+    text-align: center;
+    color: #F1F1E7; /* Same color as input text */
+}
+
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    box-sizing: border-box;
+    outline: none;
+    color: #182538; /* Same color as input text */
+    background-color: #F1F1E7; /* White background */
+}
+
+input[type="submit"] {
+    background-color: #F1F1E7; /* Dark blue-gray color */
+    color: #182538;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #21314A; /* Darker shade of blue-gray */
+}
+
+#results {
+    margin-top: 30px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 15px;
+    background-color: #F1F1E7; /* Same color as input background */
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    color: #182538; /* Same color as input text */
+}
+
+li:hover {
+    transform: translateY(-5px);
+    background-color: #F1F1E7; /* Light gray background on hover */
+}

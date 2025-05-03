@@ -1,0 +1,391 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finto: YSA: historia
+
+
+
+Pahoittelut, mutta Skosmos ei toimi kunnolla ilman JavaScript-tukea. Ole hyvä ja ota se käyttöön.
+
+Hyppää sisältöön
+
+
+
+Finto
+
+
+|
+ på svenska
+ in English
+ sámegillii
+
+
+
+  Sanastot  
+
+  Tietoja  
+
+  Palaute  
+
+Ohje
+
+
+
+
+
+
+
+
+YSA - Yleinen suomalainen asiasanasto
+
+
+Hae sanastosta
+Sisällön kieli
+
+
+
+
+Sisällön ja haun kieli
+suomi
+
+suomi
+
+kaikilla kielillä
+
+
+
+
+Syötä haettava termi
+
+
+Suorita haku
+Hae
+
+
+
+
+ 
+
+
+
+Sivupalkin lista: listaa ja selaa käsitteitä eri kriteerien mukaan
+
+Listaa käsitteet aakkosittain
+A-Ö
+Listaa käsitteet hierarkian mukaan
+
+Hierarkia            
+
+Listaa käsitteet ja ryhmät hierarkian mukaan
+Ryhmät
+Listaa käsitteet uusimpien lisättyjen mukaan
+Uudet
+
+
+Listaa käsitteet aakkosittain
+
+
+
+
+
+
+
+
+Käsitteen tiedot
+
+
+
+
+
+                                      Käytettävä termi
+                      historia
+                         
+        
+
+
+
+                              Alakäsitteet
+                          
+
+
+
+
+ aatehistoria
+
+
+ asutushistoria
+
+
+ dogmihistoria
+
+
+ elokuvahistoria
+
+
+ elämänhistoria
+
+
+ etnohistoria
+
+
+ hallintohistoria
+
+
+ henkilöhistoria
+
+
+ historiallinen kriminologia
+
+
+ historianfilosofia
+
+
+ ilmastohistoria
+
+
+ kasvatushistoria
+
+
+ kaupunkihistoria
+
+
+ kielihistoria
+
+
+ kirjallisuudenhistoria
+
+
+ kirkkohistoria
+
+
+ kulttuurihistoria
+
+
+ käsitehistoria
+
+
+ luonnonhistoria
+
+
+ lähihistoria
+
+
+ maailmanhistoria
+
+
+ maisemahistoria
+
+
+ marginaalihistoria
+
+
+ mentaliteettihistoria
+
+
+ merihistoria
+
+
+ mikrohistoria
+
+
+ musiikinhistoria
+
+
+ naishistoria
+
+
+ oikeushistoria
+
+
+ oppihistoria
+
+
+ paikallishistoria (historia)
+
+
+ poliittinen historia
+
+
+ psykohistoria
+
+
+ pukuhistoria
+
+
+ radiohistoria
+
+
+ rakennushistoria
+
+
+ sosiaalihistoria
+
+
+ sotahistoria
+
+
+ syntyhistoria (teokset)
+
+
+ taidehistoria
+
+
+ taloushistoria
+
+
+ tanssihistoria
+
+
+ teatterihistoria
+
+
+ televisiohistoria
+
+
+ tieteenhistoria
+
+
+ tutkimushistoria
+
+
+ urheiluhistoria
+
+
+ vaihtoehtohistoria
+
+
+ vaikutushistoria
+
+
+ väestöhistoria
+
+
+ yleinen historia
+
+
+ ympäristöhistoria
+
+
+
+
+
+
+                              Assosiatiiviset käsitteet
+                          
+
+
+
+
+ esihistoria
+
+
+ historiallinen aika
+
+
+ historiikit
+
+
+ menneisyys
+
+
+ paikallishistoriat (historiikit)
+
+
+ seurakuntahistoriat
+
+
+
+
+
+
+                              Kuuluu ryhmään
+                          
+
+
+
+
+ 52 Historia
+
+
+
+
+URI
+
+
+http://www.yso.fi/onto/ysa/Y95390
+
+
+
+
+
+
+
+Lataa tämä käsite:
+
+RDF/XML
+
+            TURTLE
+JSON-LD
+Luotu 1.11.1986, viimeksi muokattu 8.4.2019 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

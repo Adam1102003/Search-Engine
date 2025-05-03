@@ -1,0 +1,602 @@
+
+
+
+
+Localisation - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+		In other languages
+	
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+Beginning
+
+
+
+
+
+1For translators and users
+
+
+
+
+
+
+
+2For developers
+
+
+
+
+
+
+
+3Help and contact info
+
+
+
+
+
+
+
+4See also
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Localisation
+
+shortcuts: I18N  I18n  L10n
+
+
+
+
+
+
+
+
+
+PageDiscussion
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From mediawiki.org
+
+
+Translate this pageLanguages:Bahasa Indonesia
+Bahasa Melayu
+Deutsch
+English
+Esperanto
+Nederlands
+Tiếng Việt
+Türkçe
+Yorùbá
+dansk
+español
+euskara
+français
+galego
+interlingua
+magyar
+polski
+português
+suomi
+svenska
+vèneto
+íslenska
+čeština
+беларуская (тарашкевіца)
+македонски
+русский
+українська
+қазақша
+עברית
+العربية
+تۆرکجه
+فارسی
+हिन्दी
+বাংলা
+ಕನ್ನಡ
+ไทย
+中文
+日本語
+閩南語 / Bân-lâm-gú
+한국어
+
+i18n docs
+
+
+Localisation 
+System message 
+Messages API 
+Language 
+translatewiki.net 
+Writing systems 
+Directionality 
+
+
+
+This landing page links to core technical documentation about MediaWiki internationalisation and localisation (i18n and L10n). 
+A core principle of MediaWiki is that i18n must not be an afterthought: i18n and l10n are an essential component even in the earliest phases of software development.
+
+
+For translators and users
+Translator hub 
+For translating pages on this wiki, see Project:Language policy .
+How to translate MediaWiki interface messages
+Language names reference 
+How to input text in different scripts  (IMEs)
+How to download and enable different webfonts 
+Universal Language Selector FAQ 
+For developers
+
+Write code that can be localised
+
+Overview of language in MediaWiki 
+i18n features:
+Namespaces 
+Time and date formats 
+Fallbacks 
+Directionality support 
+How to write system messages 
+How to write good i18n code 
+Adding and removing languages 
+
+
+Get your code translated
+
+Use translatewiki.net 
+What can be localised 
+How to find a MediaWiki string for translation 
+translatewiki.net FAQ for MediaWiki
+To localise external tools, like those in Toolforge, use the Banana library.
+
+
+Implement a multilingual wiki
+
+MediaWiki Language Extension Bundle 
+Writing systems support 
+Content translation (CX) extension 
+Customise messages in your local wiki 
+Multilingual Semantic MediaWiki 
+
+
+Add a wiki in a new language
+
+Language proposal policy
+Requests for new languages
+Wikimedia Incubator Help Manual
+
+
+Help and contact info
+mediawiki-i18n mailing list
+translatewiki.net Support page
+IRC: #translatewiki connect
+Telegram channel: translatewiki.net.
+File a bug:
+MediaWiki bug reports for internationalisation
+Tips for filing a bug
+Language Engineering team
+See also
+Resources
+API:Localisation 
+Language tools  - The work of the Wikimedia Foundation's i18n/l10n team
+How to internationalise your code presentation - PDF slides about i18n, l10n and m17n in general and about doing it in MediaWiki in particular. (2012)
+Statistics and issues
+Localisation statistics
+Localisation checks 
+MediaWiki bug reports for Internationalisation
+Other
+Manual:Wiki family  - installation and configuration of a small wiki-family (for administrators)
+Template:Languages 
+Debian's Introduction to i18n
+Unicode Technical Reports (also specifications by topic)
+vteDevelopment guidelines Policies
+Development policy 
+Architecture principles 
+Services policy 
+Support policy for PHP 
+Gerrit/Privilege policy 
+Stable interface policy 
+Frontend 
+MediaWiki database policy 
+General guidelines
+Security for developers 
+Performance guidelines
+Commit message guidelines 
+Security checklist for developers 
+Localisation 
+Design style guide 
+Documentation/Style guide 
+Accessibility guide for developers 
+Inclusive language 
+Guidelines for a healthy code review culture 
+Collaborative programming 
+Best practices for extensions 
+Pre-commit checklist 
+Code conventions
+All languages 
+PHP 
+PHPUnit 
+JavaScript 
+CSS 
+Selenium 
+Lua 
+Python 
+Java 
+SVG 
+Vue 
+Database schemas 
+Analytics (Python, R, SQL) 
+API client code
+Standards for API client libraries 
+Drafts
+Code documentation 
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Localisation&oldid=6074809"
+Categories: Development guidelinesLocalisationNew contributors
+
+
+
+
+
+
+ This page was last edited on 20 August 2023, at 02:40.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

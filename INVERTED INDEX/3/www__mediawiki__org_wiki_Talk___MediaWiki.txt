@@ -1,0 +1,2510 @@
+
+
+
+
+Project:Support desk - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+		In other languages
+	
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project:Support desk
+
+
+
+
+
+
+
+
+
+
+MediaWiki.orgDiscussion
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+View history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPage informationGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		About this board
+	
+
+
+Edit descriptionWelcome to the MediaWiki Support desk. This is a place where you can ask any questions you have about installing, using or administrating the MediaWiki software.
+(Read this message in a different language)
+See also
+Other places to ask for help 
+Before you post
+Check the FAQ  and Errors and symptoms .
+If your question is about a specific feature, check the relevant technical manual , end-user help  or extension  page and consider asking on its talk page .
+For issues about the mediawiki.org website, report to Village Pump instead.
+Ask technical questions about Wikimedia websites on meta:Tech instead.
+Post a new question
+To help us answer your questions, please indicate which version of MediaWiki you are using, as found on your wiki's Special:Version page:
+If possible, add $wgShowExceptionDetails = true;error_reporting( -1 );ini_set( 'display_errors', 1 ); to LocalSettings.php in order to make MediaWiki show more detailed error messages.
+Please include the web address (URL) to your wiki if possible. It's often easier for us to identify the source of the problem if we can see the error directly.
+To start a new thread, click the box with the text "Start a new topic".
+
+
+
+
+Support archives (2006-2015)
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start a new topic
+
+
+
+
+
+
+
+You are not logged in. To receive attribution with your name instead of your IP address, you can log in or create an account.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Force thumbnail generation with PdfHandler?
+
+	6 comments •
+	
+	        
+
+18:48, 16 May 2024
+7 hours ago
+
+
+
+6
+ 
+
+
+
+
+
+
+HistoryPermalinkSummarize
+
+
+
+
+
+
+
+
+
+
+
+Kjecl
+					(talkcontribs)
+				
+
+I recently performed an reinstall and database restore of a Wiki to fix a different problem.  An unexpected positive side effect was that thumbnails are now generated for new PDF files uploaded to the Wiki.  Cool!
+Is there a way to force the generation of thumbnails for previously uploaded PDFs?  I have tried:
+php refreshImageMetadata.php -f
+followed by:
+php rebuildImages.php
+without effect.
+Thanks for any suggestions.
+
+
+Reply
+
+
+
+
+17:38, 10 May 2024
+6 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bawolff
+					(talkcontribs)
+				
+
+What do the old images look like? Is there an error message instead of a thumbnail or is it just missing. Does mediawiki show the correct dimensions for the files in question (as in, does it say it is 0x0 pixels or does it give a real number)?
+
+
+Reply
+
+
+
+
+19:48, 10 May 2024
+6 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kjecl
+					(talkcontribs)
+				
+
+Thank you for your interest in my problem.
+The thumbnails for older files are a red stylized 'A' on a white background. Nope, no error message.
+If I go to the Special:ListFiles page, and click on a red A icon, it shows dimensions of 0 x 0.
+I wonder if I could use importImages.php to reload all of the older files.  An experiment is in order for one of those files, I think.
+
+
+Reply
+
+
+
+
+17:50, 13 May 2024
+3 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kjecl
+					(talkcontribs)
+				
+
+Yes, I can use importImages.php to reload an older file.  No, it does not help.
+
+
+Reply
+
+
+
+
+20:52, 13 May 2024
+3 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bawolff
+					(talkcontribs)
+				
+
+So the 0x0 usually means that Extension:PdfHandler had problems running the pdfinfo command, which would prevent the creating of thumbnails.
+However if new files are working, then that means that it should be able to run the pdfinfo command.
+In general, running refreshImageMetadata.php -f should fix that. Does the script actually say it refreshed the file in question? If it still isn't working, i could see two possible problems:
+some sort of cache issue. You could try adding ?action=purge (or &action=purge ) to the end of the File: page (the page in the wiki, not the actual file) to see if that does anything to help
+the older files aren't readable by the webserver. This could potentially happen if when you transfered webservers the image files had the wrong permissions or some other sandboxing system prevented access.
+Both of those feel kind of a long shot though.
+Of course its always possible the file being tested is just a broken pdf.
+
+
+Reply
+
+
+
+
+21:32, 14 May 2024
+2 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kjecl
+					(talkcontribs)
+				
+
+I used:
+ls -lR | grep -v -e <string>
+at the top level of the image upload folder, where string was either the owner or the permissions, to check that.  I did not find any files with the wrong permissions or ownership.
+refreshImageMetadata.php -f
+does not say that it refreshed the files (~80 of them) in question.  pdfinfo is able to run against all of the files in question sufficiently to report the PDF version.  PDF versions for these files range from 1.3 to 1.7.  
+FILES=$(find $PREFIX -name "*.pdf" -type f | grep -v "/temp" | grep -v "/deleted" | grep -v "/archive" )
+for F in $FILES; do
+   echo $(pdfinfo $F | grep "PDF version")    $F
+done
+So, there are about 80 of these files with the 'red A' thumbnails.  Apart from the likelihood of error, we could re-upload all of them to get the new thumbnails.  We would prefer not to need to take that approach.  Also, there is the concern that this symptom betides some problem that will bite us later.
+Thanks again for your help.
+
+
+Reply
+
+
+
+
+22:54, 14 May 2024
+2 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+ Reply to "Force thumbnail generation with PdfHandler?"
+
+
+
+
+
+			Images not shown - "you don't have permission to access this resource"
+
+	8 comments •
+	
+	        
+
+16:30, 16 May 2024
+9 hours ago
+
+
+
+8
+ 
+
+
+
+
+
+
+HistoryPermalinkSummarize
+
+
+
+
+
+
+
+
+
+
+
+FipsStel
+					(talkcontribs)
+				
+
+I am not seeing the images I am uploading into my wiki. 
+I am getting the following message when clicking on an image.
+"you don't have permission to access this resource.Server unable to read htaccess file, denying access to be safe"
+So, it's about permissions, but where can I change them?
+
+
+I am using MediaWiki 1.39.1.
+
+
+Reply
+
+
+
+
+15:24, 22 January 2023
+1 year ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bawolff
+					(talkcontribs)
+				
+
+So it sounds like the permissions of a .htaccess file. You should be able to change it from the command line with chmod (e.g. chmod a+r /var/www/html/w/images/.htaccess assuming your wiki is installed in /var/www/html/w/ ).
+
+
+Reply
+
+
+
+
+16:30, 22 January 2023
+1 year ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FipsStel
+					(talkcontribs)
+				
+
+This needs to be inputed into the .htacess?
+
+
+Reply
+
+
+
+
+18:10, 3 February 2023
+1 year ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bawolff
+					(talkcontribs)
+				
+
+No. The permissions on the .htaccess file need to be changed.
+
+
+Reply
+
+
+
+
+19:23, 3 February 2023
+1 year ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+77.0.27.3
+					(talkcontribs)
+				
+
+Dear Community, 
+I have exactly the same problem. I can upload images to wikimedia, but when I try to access them, it says "You don't have permission to access this resource.Server unable to read htaccess file, denying access to be safe"
+The permissions for htaccess are set correctly  though(either 664 or 775 doesn't work). Can anyone help me further with this`?
+
+
+kind regards,
+Stefan
+
+
+Reply
+
+
+
+
+10:29, 7 November 2023
+6 months ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DAChristiansen
+					(talkcontribs)
+				
+
+Has anyone figured this issue out? I am able to upload images - but get the same error above - Am also able to change permissions on the .htaccess file but no combination seems to work.
+Thanks in advance,
+Dean
+
+
+Reply
+
+
+
+
+18:08, 15 May 2024
+1 day ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bawolff
+					(talkcontribs)
+				
+
+If its not file permissions, it could be some other access control technique, like selinux or ACLs. Also be sure you are changing permissions on the correct .htaccess file as well as the .htaccess in all parent directories if they exist.
+
+
+Reply
+
+
+
+
+22:30, 15 May 2024
+1 day ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DAChristiansen
+					(talkcontribs)
+				
+
+I deleted the image directory .htaccess file; and my image directory permission is set to 755 - my images now seem to be showing normally.
+thanks,
+Dean
+
+
+Reply
+
+
+
+
+16:30, 16 May 2024
+9 hours ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+ Reply to "Images not shown - "you don't have permission to access this resource""
+
+
+
+
+
+			$wgHiddenPrefs[] = “skin”; error
+
+	2 comments •
+	
+	        
+
+04:11, 16 May 2024
+21 hours ago
+
+
+
+2
+ 
+
+
+
+
+
+
+HistoryPermalinkSummarize
+
+
+
+
+
+
+
+
+
+
+
+鈴音雨
+					(talkcontribs)
+				
+
+Hi, I have only loaded the Citizen skin on my wiki and I used $wgHiddenPrefs[] = “skin”; to hide the skin settings from Preferences, but I get an error on the preferences page.
+[7fc6880336eec79626218910] /wiki/Special:Preferences DomainException: HTMLForm::getField: no field named skin
+Backtrace:
+from /home/<username>/domains/<domain>/public_html/includes/htmlform/HTMLForm.php(458)
+#0 /home/<username>/domains/<domain>/public_html/includes/htmlform/HTMLFormField.php(153): HTMLForm->getField()
+#1 /home/<username>/domains/<domain>/public_html/includes/htmlform/HTMLFormField.php(168): HTMLFormField->getNearestField()
+#2 /home/<username>/domains/<domain>/public_html/includes/htmlform/HTMLFormField.php(284): HTMLFormField->getNearestFieldValue()
+#3 /home/<username>/domains/<domain>/public_html/includes/htmlform/HTMLFormField.php(272): HTMLFormField->checkStateRecurse()
+#4 /home/<username>/domains/<domain>/public_html/includes/htmlform/HTMLFormField.php(350): HTMLFormField->checkStateRecurse()
+#5 /home/<username>/domains/<domain>/public_html/includes/htmlform/HTMLFormField.php(396): HTMLFormField->isHidden()
+#6 /home/<username>/domains/<domain>/public_html/includes/preferences/DefaultPreferencesFactory.php(350): HTMLFormField->validate()
+#7 /home/<username>/domains/<domain>/public_html/includes/preferences/DefaultPreferencesFactory.php(265): MediaWiki\Preferences\DefaultPreferencesFactory->loadPreferenceValues()
+#8 /home/<username>/domains/<domain>/public_html/includes/preferences/DefaultPreferencesFactory.php(1895): MediaWiki\Preferences\DefaultPreferencesFactory->getFormDescriptor()
+#9 /home/<username>/domains/<domain>/public_html/includes/specials/SpecialPreferences.php(147): MediaWiki\Preferences\DefaultPreferencesFactory->getForm()
+#10 /home/<username>/domains/<domain>/public_html/includes/specials/SpecialPreferences.php(114): MediaWiki\Specials\SpecialPreferences->getFormObject()
+#11 /home/<username>/domains/<domain>/public_html/includes/specialpage/SpecialPage.php(727): MediaWiki\Specials\SpecialPreferences->execute()
+#12 /home/<username>/domains/<domain>/public_html/includes/specialpage/SpecialPageFactory.php(1621): MediaWiki\SpecialPage\SpecialPage->run()
+#13 /home/<username>/domains/<domain>/public_html/includes/MediaWiki.php(357): MediaWiki\SpecialPage\SpecialPageFactory->executePath()
+#14 /home/<username>/domains/<domain>/public_html/includes/MediaWiki.php(960): MediaWiki->performRequest()
+#15 /home/<username>/domains/<domain>/public_html/includes/MediaWiki.php(613): MediaWiki->main()
+#16 /home/<username>/domains/<domain>/public_html/index.php(50): MediaWiki->run()
+#17 /home/<username>/domains/<domain>/public_html/index.php(46): wfIndexMain()
+#18 {main}
+
+I originally posted this on Skin talk:Citizen, but I heard that the problem is not Citizen related, so I came here.
+Using: MediaWiki 1.41.1 Citizen: 2.13.1
+
+
+Reply
+
+
+
+						Edited
+				
+ 
+01:25, 16 May 2024
+1 day ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bawolff
+					(talkcontribs)
+				
+
+You could maybe file a bug at https://phabricator.wikimedia.org about this, but i would suggest just adding all other skins to $wgSkipSkins instead so there is only one choice.
+
+
+Reply
+
+
+
+
+04:11, 16 May 2024
+21 hours ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+ Reply to "$wgHiddenPrefs[] = “skin”; error"
+
+
+
+
+
+			Scripted initial population of MediaWiki database
+
+	5 comments •
+	
+	        
+
+04:10, 16 May 2024
+21 hours ago
+
+
+
+5
+ 
+
+
+
+
+
+
+HistoryPermalinkSummarize
+
+
+
+
+
+
+
+
+
+
+
+Dstahlberg
+					(talkcontribs)
+				
+
+As part of an Ansible-scripted setup of a MediaWiki site, I need to configure MediaWiki. The LoadSettings.php can be prepared in advance and copied to the site, but is there a scripted way to initially populate the database without manually accessing the Installation page?
+Thanks for any pointers and tips!
+
+
+Reply
+
+
+
+
+04:18, 14 May 2024
+2 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bawolff
+					(talkcontribs)
+				
+
+Use install.php script in the maintenance directory which can be run from commandline.
+Alternatively you could just take a database dump of a fresh install and import that.
+
+
+Reply
+
+
+
+
+21:03, 14 May 2024
+2 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+Dstahlberg
+					(talkcontribs)
+				
+
+Thank you for the reply! I will use Install.php. When I previously looked at the documentation it did not say that it populated the database so I skipped it, but now I've tried and it does. I will try to add this to the documentation.
+
+
+Reply
+
+
+
+
+04:07, 16 May 2024
+21 hours ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bawolff
+					(talkcontribs)
+				
+
+P.s. you might also be interested in the Meza project
+
+
+Reply
+
+
+
+
+21:05, 14 May 2024
+2 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dstahlberg
+					(talkcontribs)
+				
+
+Will Do !
+
+
+Reply
+
+
+
+
+04:10, 16 May 2024
+21 hours ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+ Reply to "Scripted initial population of MediaWiki database"
+
+
+
+
+
+			1.39 how to setup mobile skin?
+
+	5 comments •
+	
+	        
+
+19:32, 15 May 2024
+1 day ago
+
+
+
+5
+ 
+
+
+
+
+
+
+HistoryPermalinkSummarize
+
+
+
+
+
+
+
+
+
+
+
+2003:C2:3F21:FD00:9449:AC0F:F20E:94B7
+					(talkcontribs)
+				
+
+Mediawiki 1.39.6, PHP 7.4.3, MySQL 8.0.36wfLoadExtension( 'MobileDetect' );
+wfLoadExtension( 'MobileFrontend' );
+wfLoadSkin( 'MinervaNeue' );
+$wgMFDefaultSkinClass = 'SkinMinerva';
+$wgDefaultMobileSkin = 'MinervaNeue';
+$wgMinervaEnableSiteNotice = true;
+$wgMFAutodetectMobileView = true;
+$wgMFEditorOptions = array(
+        'anonymousEditing' => false,
+        'skipPreview' => false
+);
+
+
+Till 1.35 we used to have MinervaNeue as mobile skin. With 1.39, this doesn't work anymore. Mobile devices apparently use the vector skin. What will i have to do to make the mobile skin work?
+The mediawiki logfile is full of thousands of lines which don't say nothing to me, by filtering "mobile" i found one interesting line:
+[resourceloader] Module "ext.MobileDetect.mobileonly" not loadable on target "mobile".
+???
+
+
+Reply
+
+
+
+
+13:59, 4 May 2024
+12 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bawolff
+					(talkcontribs)
+				
+
+Do you have the correct versions of all your extensions? You need 1.39 version of Minerva and MobileFrontend etc.
+
+
+Reply
+
+
+
+
+22:19, 4 May 2024
+12 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2003:C2:3F21:FD00:E5D4:4DFC:FAFA:3692
+					(talkcontribs)
+				
+
+I am quite sure. MobileDetect 2.2 (fc3a66e) 18:49, 11. Feb. 2024, MobileFrontend 2.4.0 (7dc20b0) 07:36, 4. Mär 2024, MinervaNeue – (d515f6a) 08:24, 29. Apr. 2024
+These are the versions I get when using ExtensionDistributor and SkinDistributor using target "1.39"
+In the desktop browser, skin MinervaNeue has got the look. After login, of course. On my mobile, the skin is s.th. like vector, whether I am logged in or not. This means even when I select MinervaNeue in my user preferences!
+Certainly the problem is sitting here in front of my screen, but I've got no more ideas where to look.
+
+
+Reply
+
+
+
+
+12:14, 5 May 2024
+11 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pspviwki
+					(talkcontribs)
+				
+
+How about $wgDefaultMobileSkin = 'minerva';
+
+
+Reply
+
+
+
+
+17:46, 6 May 2024
+10 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2003:C2:3F3F:4A00:49D7:2504:A269:1D1
+					(talkcontribs)
+				
+
+This answer is not helpful. In fact, may you be volunteers or not, this is exactly the kind of answer that makes me angry. This is exactly the kind of support that is superfluous. "Why do you want to use x, use y" is intolerable.
+We used to have MinervaNeue as mobile skin for years and years. It used to work for years and years. Now with the upgrade it does not work anymore. You tell me I should use another skin. I am upset, i am outraged. If it does not work THEN DO NOT OFFER IT.
+
+
+Reply
+
+
+
+
+19:32, 15 May 2024
+1 day ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+ Reply to "1.39 how to setup mobile skin?"
+
+
+
+
+
+			css for Vector-2022
+
+	5 comments •
+	
+	        
+
+19:14, 15 May 2024
+1 day ago
+
+
+
+5
+ 
+
+
+
+
+
+
+HistoryPermalinkSummarize
+
+
+
+
+
+
+
+
+
+
+
+2003:C2:3F21:FD00:516D:5391:79D1:A338
+					(talkcontribs)
+				
+
+Where shall I place my css modifications for the new Vector (2022) skin? I've tried MediaWiki:Vector-2022.css
+but it has no effect.
+
+
+Reply
+
+
+
+
+19:42, 2 May 2024
+14 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ciencia Al Poder
+					(talkcontribs)
+				
+
+It may take some time to take effect, usually 20 minutes at most. Otherwise, a syntax error in that page may render the entire CSS or from one point to the end unusable. For example, if you forgot to open or close curly braces. You may want to check if the CSS of that page is valid running it through an online CSS validator.
+
+
+Reply
+
+
+
+
+15:27, 3 May 2024
+13 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2003:C2:3F21:FD00:48AC:4A02:818F:D381
+					(talkcontribs)
+				
+
+Sorry, no, there must be another reason. The same css code works fine as "User:MyUser/vector-2022.css" and does not work as "MediaWiki:Vector-2022.css"
+Any other ideas? It is Mediawiki 1.39.6
+
+
+Reply
+
+
+
+
+17:59, 4 May 2024
+12 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ciencia Al Poder
+					(talkcontribs)
+				
+
+$wgUseSiteCss may be false, it fails only on restricted pages and $wgAllowSiteCSSOnRestrictedPages is false, or MediaWiki:Vector-2022.css or MediaWiki:Common.css (!) contains other CSS with syntax errors that renders the entire CSS unparseable (since both stylesheets are concatenated together).
+Check also the browser's developer console
+
+
+Reply
+
+
+
+						Edited
+				
+ 
+08:30, 6 May 2024
+10 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2003:C2:3F3F:4A00:49D7:2504:A269:1D1
+					(talkcontribs)
+				
+
+We don't use $wgUseSiteCss, so it is true by default.
+
+It is the CSS code itself that does not work, but I am helpless why. CSS is nothing that I understand, the code came into being by copy&paste and a lot of try&error. It reads:.mw-body {
+    position: relative;
+    z-index: 0;
+}
+.mw-body-content {
+    position: static;
+}
+.perrypedia_translator {
+    display: inline-block;
+    position: absolute;
+    top: -3.8em;
+    right: 0;
+}
+We use it to position some icons right beside the article title (via top-notice-ns). This works with serveral skins, CologneBlue, DarkVector, Modern, Timeless, and the old vector skin. Of course the "top" value is different in each skin's css. Only with Vector-2022 it does not do anything, no matter which value.
+On the other hand, some other css that I inserted into MediaWiki:Vector-2022.css does work perfectly well.
+
+
+Reply
+
+
+
+
+19:14, 15 May 2024
+1 day ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+ Reply to "css for Vector-2022"
+
+
+
+
+
+			Username rules
+
+	4 comments •
+	
+	        
+
+16:06, 15 May 2024
+1 day ago
+
+
+
+4
+ 
+
+
+
+
+
+
+HistoryPermalinkSummarize
+
+
+
+
+
+
+
+
+
+
+
+213.112.235.32
+					(talkcontribs)
+				
+
+I have been searching the site for a definition of the username character rules without success. Need to know if the phpBB usernames in my forum is in accordance with the MediaWiki rules since I want to use the phpBB-extension to set up a document-wiki accessible for the forum users. Can someone point me to the rules?
+
+
+Reply
+
+
+
+
+14:15, 26 November 2011
+12 years ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+Reach Out to the Truth
+					(talkcontribs)
+				
+
+The first letter of a MediaWiki username is always capitalized (watch out for conflicts). They can be up to 255 characters long (Not sure what phpBB's limit is, but you probably don't have any user with names that long anyway). Underscores and spaces are considered the same thing (again, watch out for conflicts). And per Manual:$wgLegalTitleChars, "The list of illegal characters is as follows: #<>[]|{}, non-printable characters 0 through 31, and 'delete' character 127)."
+I think that's all.
+
+
+Reply
+
+
+
+
+17:04, 26 November 2011
+12 years ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+213.112.235.32
+					(talkcontribs)
+				
+
+Thanks!
+
+
+Reply
+
+
+
+
+19:24, 27 November 2011
+12 years ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wmyttmlimvty
+					(talkcontribs)
+				
+
+255 characters re u kidding?
+
+
+Reply
+
+
+
+
+12:54, 15 May 2024
+1 day ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+ Reply to "Username rules"
+
+
+
+
+
+			How to display only part of an image
+
+	5 comments •
+	
+	        
+
+13:23, 15 May 2024
+1 day ago
+
+
+
+5
+ 
+
+
+
+
+
+
+HistoryPermalinkSummarize
+
+
+
+
+
+
+
+
+
+
+
+Xelgen
+					(talkcontribs)
+				
+
+Hi folks,
+Is there a way to display just small, defined area of image using MediaWiki's [[Image:]]?
+Let's say you have a scan of book page, and you want to show only illustration on that page, without showing whole scanned page (with text, etc..).
+Speaking more techicaly let's say we have image of 1000x800px and you want to display only a small part of it starting from possition 200,50 and with height width, 100 and 300.
+Is it currently possible? Or planned in near future?
+I guess this will be very useful, especially for Wikisource.
+I've googled for a while, and looked thorugh MedaWiki manuals, but didn't find an answer.
+I understand that currently there's no way to make it using only HTML <img> tag, but this can be done, using block elements, or displaying image as background.
+Thanks beforehad,
+
+
+Reply
+
+
+
+
+14:21, 5 July 2013
+10 years ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+MarkAHershberger
+					(talkcontribs)
+				
+
+You could probably do something with jcrop.
+
+
+Reply
+
+
+
+
+02:41, 22 July 2013
+10 years ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+Xelgen
+					(talkcontribs)
+				
+
+Yes, that's what I'm using now. But JCrop is good for making a crop selection, and after that we have to crop it on 3rd party server, and upload a new cropped version of files back to wiki.
+What I meant, was to use something in native MediaWiki Syntax, e.g. [[Image:Book_page_scan1|crop=X1,Y1,X2,Y2|thumb|this image shows only portion of page with X1, Y1 topleft corner, and X2, Y2 bottom right corner]] without having to upload new file, and just using what we already have.
+You can probably do something like this with Divs and templates, but then image will be div's background, and won't behave the way regular images do.
+But in the end of the day, visitors will have to load full image, to see just small part of it, and as I wanted to use it for few thousands images, on hopefully popular pages, I guess cropping and uploading new cropped images, is the way to go.
+Thanks for your response.
+
+
+Reply
+
+
+
+						Edited
+				
+ 
+01:01, 16 November 2013
+10 years ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dabed
+					(talkcontribs)
+				
+
+I want the same but although this question is more than 11 years old I guess there is still no way to do it or did you learn how?
+
+
+Reply
+
+
+
+						Edited
+				
+ 
+01:01, 13 April 2024
+1 month ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wmyttmlimvty
+					(talkcontribs)
+				
+
+Same here!
+
+
+Reply
+
+
+
+
+13:23, 15 May 2024
+1 day ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+ Reply to "How to display only part of an image"
+
+
+
+
+
+			Name a page from form parameter
+
+	One comment •
+	
+	        
+
+09:28, 15 May 2024
+1 day ago
+
+
+
+1
+ 
+
+
+
+
+
+
+HistoryPermalinkSummarize
+
+
+
+
+
+
+
+
+
+
+
+BotBernard
+					(talkcontribs)
+				
+
+Hi, i'm using this to give the result page the name of NomDossier parameter :
+page name=<Nom du dossier[NomDossier]>
+I always en up with the following error message :
+Specified page <Nom_du_dossier[NomDossier]> is not valid.
+(The actual english error message may be a bit different as I translated it from French)
+Here is the parameter I want to use for my name's page :
+!Nom du dossier :
+|NomDossier
+Does anyone know why it doesn't work ?
+It's working on different pages and I have no idea why it doesn't with this form.
+
+
+Reply
+
+
+
+
+09:28, 15 May 2024
+1 day ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+ Reply to "Name a page from form parameter"
+
+
+
+
+
+			How do I change the colour?
+
+	4 comments •
+	
+	        
+
+08:32, 15 May 2024
+1 day ago
+
+
+
+4
+ 
+
+
+
+
+
+
+HistoryPermalinkSummarize
+
+
+
+
+
+
+
+
+
+
+
+MWQs
+					(talkcontribs)
+				
+
+Can I make just slight modifications to the existing skins? I like the layout and functionality of vector (or whichever one it is that matches most Wikipedias?) but I want to give it some themed colours to suit our own
+wikiCan I locate the file for that skin (where?) and just change a few he codes? Or is it more complicated than that?
+
+
+Reply
+
+
+
+						Edited
+				
+ 
+00:29, 29 April 2024
+18 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ciencia Al Poder
+					(talkcontribs)
+				
+
+Do not touch installation files for this. That would complicate your upgrades.
+Instead, generate override stylesheets on the wiki, as described in Manual:Interface/Stylesheets. You would create MediaWiki:vector.css or MediaWiki:vector-2022.css (depending on your vector skin) with the styles to override, usually just colors. You'd have to copy the entire selector to override and modify the colors as you wish, removing other rules that you don't want to modify.
+Note that changes may not be applied immediately due to caching. You better try it yourself live on the page by using the browser's development tools, or in your personal stylesheet and using the preview button.
+
+
+Reply
+
+
+
+
+09:11, 29 April 2024
+17 days ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MWQs
+					(talkcontribs)
+				
+
+@Ciencia Al Poder, thank you. 
+I think I understand you as far as I need to make my own copy of the skin before I customise it?  
+But I'm confused about step zero, which window do I open? 
+- do I find those paths the way I would find other pages on the wiki through the browser? 
+- or through the xamp etc. control panel? 
+- or through my computer's file system? 
+Sorry I'm such a novice. A friend did most of the installation, so I've mostly been just editing pages, the rest is a bit of a black box to me. 
+I have my wiki just running locally currently, no on line, in case that makes any difference. 
+MWQs (talk) 07:55, 15 May 2024 (UTC)
+
+
+Reply
+
+
+
+
+07:55, 15 May 2024
+1 day ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ciencia Al Poder
+					(talkcontribs)
+				
+
+No, there's no need to make a copy of the skin. You only need to introduce the desired rules you want to change, not everything.
+You can use developer tools of your browsers (hit F12) to inspect element and see the CSS it's using, and even change it to see how it would look. Then you can copy the rule to the CSS page. However, you need to understand the very basics of CSS (cascading stylesheets) to know what to do. I'd recommend you to look at any simple introduction tutorial to CSS.
+
+
+Reply
+
+
+
+
+08:32, 15 May 2024
+1 day ago
+
+
+
+
+
+
+
+Permalink
+
+
+
+
+
+
+
+ Reply to "How do I change the colour?"
+
+
+
+
+
+ Load more
+
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/wiki/Project:Support_desk"
+
+
+
+
+
+
+
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

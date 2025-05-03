@@ -1,0 +1,172 @@
+Guidance: Links and feeds - Editorial Guidelines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ HomepageAccessibility linksSkip to contentAccessibility HelpBBC AccountNotificationsHomeNewsSportWeatheriPlayerSoundsBitesizeCBeebiesCBBCFoodHomeNewsSportReelWorklifeTravelFutureCultureTVWeatherSoundsMore menu Search BBC Search BBC HomeNewsSportWeatheriPlayerSoundsBitesizeCBeebiesCBBCFoodHomeNewsSportReelWorklifeTravelFutureCultureTVWeatherSoundsClose menu 
+
+                                                                                                       Editorial GuidelinesMenuHomeGuidelinesGuidanceFormsCommercial ServicesContactOfcomSearchHomeGuidelinesGuidanceFormsCommercial ServicesContactOfcomSearchGuidance: Links and feedsContentsEditorial Guidelines issuesKey points Guidance in fullEditorial Guidelines issues
+This guidance note relates to the following Editorial Guidelines: 
+
+AccuracySee Editorial Guidelines Section 3: Accuracy
+
+
+Impartiality and Diversity of OpinionSee Editorial Guidelines Section 4: Impartiality and Diversity of Opinion
+
+
+Harm and OffenceSee Editorial Guidelines Section 5: Harm and Offence
+
+
+Re-use and ReversioningSee Editorial Guidelines Section 13: Re-use, Reversioning and Permanent Availability
+
+
+Independence from External InterestsSee Editorial Guidelines Section 14: Independence from External Interests: Third-Party Platforms 14.3.20 and Transactional Links from Public Service Platforms to Commercial Products
+
+
+External Relationships and FinancingSee Editorial Guidelines Section 16: External Relationships and Financing 
+
+Key points 
+
+All links on the BBC Public Service site or on the editorial pages of a BBC Commercial site must be editorially justifiable
+When audiences use BBC Online, they need to be confident that our decisions on links and feeds are influenced neither by political or commercial pressures, nor by any personal interests.
+A link must never be included on the Public Service site or within the editorial content of a commercial site in return for cash, services or any other consideration in kind.
+An external site which is a candidate for a link should, generally, be relevant to the BBC content from which a link is envisaged; meet the expectations of the likely audience.
+The producer must check the contents of the external site before adding a link to a BBC page.
+In order to maintain impartiality, BBC sites which cover matters of controversy or public policy may offer links to external sites which, taken together, represent a reasonable range of views about the subject.
+For programme support pages, an external link should be justified by the relevance and value of the material to the programmeâs viewers and listeners.
+When linking to any commercial site, great care must be taken to avoid giving the impression that the BBC is endorsing a commercial product or service.
+Links from individual pages on the Public Service site to the BBCâs Commercial sites are acceptable only when clearly editorially justified.
+It is likely to be editorially justifiable to link directly to the source of tickets if the event for which the tickets are being sold is a BBC Event. If not, a link to eg the bandâs own site would be editorially justifiable, from where a user can click to the ticket agencyâs site.
+Before offering automatically generated links to external sites from BBC content, a number of factors should be considered, including the genre of editorial content, the ability to select from appropriate recognised and reputable sources and how to remove links from specific stories quickly.
+Pulling third party feeds onto BBC Online pages is more editorially sensitive than linking externally, because users are more likely to expect the feeds to have been through a rigorous editorial examination and to comply with BBC editorial standards.
+The person responsible for the page on which a feed or embed appears will be responsible for the content from that feed or embed.
+When we take in content from an external supplier, we should be transparent about this with our users.
+We should be clear about what our users can do and where they should go if they see a mistake or find something offensive.
+It should be clear to a casual user that an inbound embed (for example, of video from a social networking site) is not under the editorial control of the BBC and is not primarily the responsibility of the BBC. But we are responsible for deciding what non-BBC content to embed on BBC pages and we should be alert to the possibility of the original content being changed or removed and to rights issues. 
+
+Guidance in full
+Part 1: Links 
+
+Scope
+Introduction
+Links to external sites
+Editorial checks
+Disclaimers
+Links to sites which do not share BBC editorial values
+Controversial content
+Charities
+Programme Support
+Undue prominence
+Links from BBC public service to the BBCâs commercial sites
+Links to buy tickets 
+
+Part 2: Inbound feeds and embeds 
+
+Editorial responsibility
+Transparency
+Embeds 
+
+Part 1: Links
+Scope
+This Guidance Note is designed to help you select and manage suitable external links to other sites from BBC Online. It is also designed to help you select and manage suitable inbound feeds and other online sources of third-party content for publication on BBC Online. 
+For advice on distribution, including syndication, see Editorial Guidelines Section 16 External Relationships and Financing: Distribution. 
+See Editorial Guidelines Section 16 External Relationships and Financing: Distribution  16.3.14 â 16.3.16
+Introduction
+The BBCâs global reputation is based on its editorial integrity and independence.  Our audiences need to be confident that our decisions are influenced neither by political or commercial pressures, nor by any personal interests. We must not undermine these values by any actions which could bring the BBC into disrepute. 
+The Editorial Guidelines state that:
+
+our impartiality, editorial integrity and independence must not be compromised by outside interests and arrangements we must maintain independent editorial control over our content
+we must not give undue prominence to products, services or trade marks, though we can refer to them and credit them where it is editorially justified
+The BBC will not accept product placement on its UK Public Services, and Public Services must not endorse or promote any other organisation, or its products, services, trade marks, activities or opinions. While our Commercial Services must not promote products, services and trade marks in their content, they can make reference to another organisation, its products, services, trade marks or activities as part of a commercial arrangement. If they do, they must follow the guidelines on product placement, and on advertising and sponsorship which explain that it is not appropriate to make deals with some types of organisation.
+on air and online credits must be clearly editorially justified
+(See also Editorial Guidelines Section 14: Independence from External Interests: Introduction 14.1 and Logos and Credits Online 14.3.21) 
+
+Links to external sites
+Whenever producers are creating content on a BBC site, they should actively consider which external websites it may be editorially justifiable to link to.
+Editorial justification for linking to external sites
+Producers may wish to offer links to external sites for a number of reasons, including:
+
+for further relevant information
+for further background information or other key source material
+for useful practical information
+for further informed comment            
+
+A link must never be included on the public service site or within the editorial content of a commercial site in return for cash, services or any other consideration in kind.
+All links on the BBC Public Service site or on the editorial pages of a BBC Commercial site must be editorially justifiable and suitable for the intended audience â particularly children.
+Links are not acceptable as a form of credit.
+Editorial checks
+Producers must check the contents of the site which is signposted before adding a link to a BBC page, although responsibility for including the link lies with the relevant editor. 
+Where this is practical, we should consider ways to make it easy for users who find broken, stale or inappropriate external BBC links to report these to us so that we can check, update, replace or remove them.  
+Disclaimers
+Where we publish a list of links we should add the standard disclaimer to the effect that "the BBC is not responsible for the contents of any other sites listed". If the links are to controversial or challenging material, it  may be appropriate to add a specific disclaimer and more information, closer to the links,  even when there are only one or two links on a page. For âin storyâ links to such material, for example to very sensitive content such as a gruelling account of torture, it may be helpful to alert the user to this, in context, as part of telling the story. 
+Links to sites which do not share BBC editorial values
+Context is important in deciding whether a link is appropriate and it is often useful to explain why we are offering the link. In some cases we may offer a link to a site which does not share our editorial values, but which offers a useful insight. For example we might link from a current affairs page to the site of a government-run national news agency so that the user can see the precise words used in a government statement.
+Controversial content
+We must be duly impartial.  BBC sites which cover a controversial or public policy matter may offer links to external sites which, taken together, represent a reasonable range of views about the subject. We should ensure that when we link to third party sites that we take into account any concerns about potential breaches of the law, for example, defamation or incitement to racial hatred.
+Where content is likely to cause serious offence to some users and yet there is a strong editorial justification for covering the story, it may be editorially justifiable for the BBC to link to the relevant site rather than to host the content ourselves.
+Charities
+Links to charity sites have to be based on sensible editorial criteria. If one charity is in the news, it may be appropriate to establish a link to the site of that charity. But we must take care not to promote one charity above another. If we are giving advice or general information about the subject and wish to refer to a charity and there is a range of charities working in the field, we should normally link to the other significant charities working in the field as well. This guidance applies to online links offered by BBC Action Lines.
+(See Editorial Guidelines Section 14 : Independence from External Interests: BBC Support Services 14.3.26)
+We should also consider where on the charity website we link to â for example it may be appropriate to link to useful sources of information, but not to campaigning or fundraising pages.
+Programme Support
+For programme support pages, an external link should be justified by the relevance and value of the material to the programme's viewers and listeners. If we give a link to an outside advice agency from a support page, we should give links to a reasonable range of other relevant agencies as well. 
+Where a consumer programme reviews a product or service, we should only offer links to the sites of the manufacturers, suppliers or retailers of any goods or services mentioned where strictly editorially justifiable. 
+Undue prominence
+There must be no undue prominence of products, services or trade marks in our content. 
+(See Editorial Guidelines Section 14 : Independence from External Interests: Product Prominence 14.3.1)
+Public Services must not endorse or promote any other organisation, or its products, services or trademarks, so great care must be taken when linking to any site in order not to give the impression that the BBC is doing so. 
+BBC Public Service sites should not normally link direct to pages whose main purpose is transactional e.g. selling merchandise, downloads or tickets.
+See exceptions below for links to buy BBC-related programme content and links to buy tickets for BBC Events. There are some occasions where we may also wish to link directly to a donations page for a BBC charitable appeal.
+(See Editorial Guidelines Section 16 External Relationships and Financing: Charities 16.3.43)
+If in any doubt, refer to Editorial Policy. 
+Links from BBC Public Services to the BBCâs Commercial sites
+General points:
+
+Links from individual pages on the Public Service site to the BBCâs Commercial sites (e.g. those operated by BBC Studios and BBC Global News Ltd) are acceptable only when editorially justified. We should not be seen to promote the BBCâs Commercial sites and we should not link to such sites in preference to other editorially relevant sites.See Editorial Guidelines Section 14 : Independence from External Interests: Public Service References to BBC Commercial sites 14.3.23
+For links from an individual Public Service page to a corresponding BBC Commercial page which features BBC branded products see Editorial Guidelines Section 14 Independence from External Interests: Trails for Commercial Products related to BBC Programmes.See Editorial Guidelines Section 14 : Independence from External Interests: Trails for Commercial Products related to BBC Programmes 14.3.24
+Where appropriate, an interstitial page may appear on the user's journey between the Public Service site and the BBCâs Commercial site. It will let users know that they are leaving the public service site and offer them a choice. 
+For transactional links from Public Service Platforms to Commercial Products Related to BBC Editorial Content see Editorial Guidelines Section 14 Independence from External Interests.See Editorial Guidelines Section 14 Independence from External Interests: Transactional links from Public Service Platforms to Commercial Products Related to BBC Editorial Content 14.3.25
+
+Links to buy tickets
+BBC programmes and sites regularly cover music concerts and tours. Linking policy to sites where users can buy tickets will depend on the nature of the event.
+If it is a BBC mounted or run event (on the Public Services to contribute to the BBCâs Mission and Public Purposes), then a direct link to the source of the tickets is likely to be editorially justifiable.
+(See Editorial Guidelines Section 16 External Relationships and Financing  Ticket Sales 16.3.34)
+If it is not a BBC mounted or run event (and where for example a BBC network is simply broadcasting a concert organised by someone else) then a direct link to the relevant bandâs site is likely to be editorially justifiable, with one more click from there to the ticket agencyâs site.
+Part 2: Inbound feeds and embeds
+Pulling third-party content on to BBC Online pages is more editorially sensitive than linking externally. Following an external link takes you away from the BBC site and users have a chance to adjust their expectations in the light of that journey. But as third party content sits with BBC content on BBC branded pages, users are more likely to expect it to have been through a rigorous editorial examination and to comply with BBC editorial standards before being published on our site.
+Editorial responsibility
+The person who is editorially responsible for the page on which the feed or embed appears will be responsible for the content from that feed or embed. This principle will apply whether it is a bespoke feed to a single page or a general feed to many pages.
+We would not normally embed a live feed of video or text unless we had a contractual relationship with the supplier that provides assurances about the content or we could be otherwise confident that the content is appropriate to be shared on our own platforms.
+Transparency
+Where we take in content from an external supplier, we should be transparent about it with our users. Attribution should be as close as possible to the content in question.
+We should provide a clear and easy route for our users to report a mistake or find offensive or inappropriate content on a feed.
+Embeds
+Embedded video, for example of a social networking site video player such as YouTube or Vimeo on a BBC page, may be a useful way to display editorially relevant non-BBC content.
+Even though the content is not under our control it appears to the audience that it is part of our online content. We should therefore make it clear that the embedded video is from a third party site and give the audience a direct route to report to the relevant editorial team any inappropriate content, such as advertising, that might appear on that video.Last updated July 2019
+Where next?All Editorial Policy Guidance 
+ Explore the BBCHomeNewsSportWeatheriPlayerSoundsBitesizeCBeebiesCBBCFoodHomeNewsSportReelWorklifeTravelFutureCultureTVWeatherSoundsTerms of UseAbout the BBCPrivacy PolicyCookiesAccessibility HelpParental GuidanceContact the BBCMake an editorial complaintBBC emails for youAdvertise with usAdChoices / Do Not Sell My InfoCopyright Â© 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.        

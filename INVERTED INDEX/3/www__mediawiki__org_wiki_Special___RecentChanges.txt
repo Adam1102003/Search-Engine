@@ -1,0 +1,548 @@
+
+
+
+
+Recent changes - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recent changes
+
+Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+
+
+
+
+
+		General
+	
+
+
+AtomUpload fileSpecial pagesPrintable versionGet shortened URLDownload QR code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Track the most recent changes to the wiki on this page.
+
+Other review toolsSee Help:Tracking changes  for help using this page.
+
+New pages
+Abuse filter log
+Speedy deletion (0)
+Nominated for deletion (1)
+Move proposals (0)
+
+
+
+Help & Support 
+Download MediaWiki 
+Support desk
+Contents 
+Extensions 
+Phabricator 
+
+
+Top Level 
+Download from Git 
+Installation 
+Upgrading 
+Configuration 
+Development 
+
+
+About mediawiki.org 
+FAQ 
+What is MediaWiki? 
+Hacking MediaWiki 
+User help 
+
+
+Recent changes options
+Show last 50 | 100 | 250 | 500 changes in last 1 | 3 | 7 | 14 | 30 daysHide registered users | Hide anonymous users | Hide my edits | Show bots | Hide minor edits | Show page categorization | Show WikidataShow new changes starting from 16:56, 17 May 2024
+
+Namespace:
+all
+(Main)
+Talk
+User
+User talk
+Project
+Project talk
+File
+File talk
+MediaWiki
+MediaWiki talk
+Template
+Template talk
+Help
+Help talk
+Category
+Category talk
+Thread
+Thread talk
+Summary
+Summary talk
+Manual
+Manual talk
+Extension
+Extension talk
+API
+API talk
+Skin
+Skin talk
+Data
+Data talk
+TimedText
+TimedText talk
+Module
+Module talk
+Translations
+Translations talk
+Topic
+Newsletter
+Newsletter talk
+  Invert selection  Associated namespaceTag filter:2017 source edit
+Added PHP closing tag
+Advanced mobile edit
+Android app edit
+Barnsworth [1.0]
+Blanking
+CD
+condition limit reached
+content model change
+deletion template removed
+Disambiguation links
+discussiontools (hidden tag)
+discussiontools-added-comment (hidden tag)
+discussiontools-source (hidden tag)
+discussiontools-source-enhanced (hidden tag)
+discussiontools-visual (hidden tag)
+Emoji
+IABotManagementConsole (Personal Debug Consumer) [1.0]
+iOS app edit
+Manual revert
+MassMessage delivery
+masto-collab [1.0]
+meta spam id
+Mobile app edit
+Mobile edit
+Mobile web edit
+Modified by FileImporter
+New redirect
+New topic
+New user conducting large scale reverts
+New user editing project page
+PAWS [1.2]
+PAWS [2.1]
+paws [2.2]
+possible link spam 2
+possible vandalism
+Potentially problematic translation
+Read/write testing client [1.0]
+Redirect target changed
+Removed redirect
+Repeating characters
+Replaced
+Reply
+Reverted
+Rollback
+Server-side upload
+SWViewer [1.0]
+SWViewer [1.2]
+SWViewer [1.3]
+SWViewer [1.4]
+SWViewer [1.6]
+test-app [0.0.1]
+translate-translation-pages (hidden tag)
+Undo
+Visual edit
+Visual edit: Check
+Visual edit: Switched
+wikieditor (hidden tag)
+WikiLove  Invert selection 
+
+List of abbreviations:
+D
+Wikidata edit
+N
+This edit created a new page (also see list of new pages)
+m
+This is a minor edit
+b
+This edit was performed by a bot
+(±123)
+The page size changed by this number of bytes
+Temporarily watched page
+17 May 2024
+User creation log 16:54  User account WilliamMontanez talk contribs was created ‎ 
+User creation log 16:53  User account Frensy26 talk contribs was created ‎ 
+User creation log 16:51  User account LaymGlitched talk contribs was created ‎ 
+User creation log 16:51  User account Q5rsm35p849 talk contribs was created ‎ 
+diffhist  m Talk:Talk pages project/New discussion‎ 16:50  −1‎   ‎Clump talk contribs‎ (Reverted edits by 109.248.83.239 (talk) to last version by Clump) Tags: Redirect target changed Rollback
+diffhist  Talk:Talk pages project/New discussion‎ 16:48  +1‎   ‎109.248.83.239 talk‎ (Special:Diff by Clump (talk)) Tags: Redirect target changed Reverted
+diffhist  VisualEditor/Hooks‎ 16:45  +25‎   ‎Pppery talk contribs‎ (→‎mw.hook:  Using this) 
+diffhist  Reading/Web/Accessibility for reading/Updates/2024-04/nl‎ 16:43  −56‎   ‎Balenda talk contribs‎ (Created page with "Lees dit in je eigen taal.") 
+diffhist  Reading/Web/Accessibility for reading/Updates/2024-04/nl‎ 16:43  −51‎   ‎Balenda talk contribs‎ (Created page with "Vroege toegang tot de donkere modus (mobiel web, ingelogd)") 
+diffhist  N Reading/Web/Accessibility for reading/Updates/2024-04/nl‎ 16:43  +6,073‎   ‎Balenda talk contribs‎ (Created page with "Lezen/Web/Toegankelijkheid voor lezen/Updates/2024-04") 
+User creation log 16:27  User account Evaristaa talk contribs was created ‎  Tags: Mobile edit Mobile web edit
+User creation log 16:21  User account TimeBabd talk contribs was created ‎  Tags: Mobile edit Mobile web edit
+diffhist  Talk:Reading/Web/Accessibility for reading‎ 16:18  +573‎   ‎Johannnes89 talk contribs‎ (→‎Global preferences for dark mode:  new section) Tag: New topic
+User creation log 16:18  User account Kyanya726 talk contribs was created ‎ 
+User creation log 16:15  User account Taylorfamily531 talk contribs was created ‎  Tags: Mobile edit Mobile web edit
+diffhist  Communication/pa‎ 16:05  −38‎   ‎Cabal11 talk contribs‎ 
+diffhist  N Download from Git/pa‎ 16:05  +16,622‎   ‎Cabal11 talk contribs‎ (Created page with "ਜਾਂ") 
+diffhist  How to report a bug/pa‎ 16:04  −10‎   ‎Cabal11 talk contribs‎ (Created page with "== ਇਹ ਵੀ ਦੇਖੋ ==") 
+diffhist  How to report a bug/pa‎ 16:03  −3‎   ‎Cabal11 talk contribs‎ 
+diffhist  How to report a bug/pa‎ 16:03  −3‎   ‎Cabal11 talk contribs‎ 
+diffhist  How to report a bug/pa‎ 16:03  −3‎   ‎Cabal11 talk contribs‎ 
+diffhist  How to report a bug/pa‎ 16:03  −3‎   ‎Cabal11 talk contribs‎ 
+diffhist  How to report a bug/pa‎ 16:02  −3‎   ‎Cabal11 talk contribs‎ 
+diffhist  How to report a bug/pa‎ 16:02  −3‎   ‎Cabal11 talk contribs‎ 
+User creation log 16:02  User account Spotec9 talk contribs was created ‎ 
+diffhist  How to report a bug/pa‎ 16:01  −23‎   ‎Cabal11 talk contribs‎ 
+User creation log 15:59  User account Pipipopopipi talk contribs was created ‎ 
+User creation log 15:58  User account Xxhou talk contribs was created ‎ 
+diffhist  How to report a bug/pa‎ 15:57  +31‎   ‎Cabal11 talk contribs‎ 
+User creation log 15:56  User account NicolCroft talk contribs was created ‎  Tags: Mobile edit Mobile web edit
+diffhist  How to report a bug/pa‎ 15:56  −1‎   ‎Cabal11 talk contribs‎ 
+diffhist  How to report a bug/pa‎ 15:56  −47‎   ‎Cabal11 talk contribs‎ (Created page with "* ਸਹੀ ਕਹੋ") 
+diffhist  How to report a bug/pa‎ 15:54  −17‎   ‎Cabal11 talk contribs‎ 
+diffhist  Communication/pa‎ 15:51  −26‎   ‎Cabal11 talk contribs‎ (Created page with "(ਇਸ ਵੇਲੇ ਰੋਕਿਆ ਹੋਇਆ)") 
+diffhist  Communication/pa‎ 15:50  +25‎   ‎Cabal11 talk contribs‎ (Created page with "== ਆਪਣੇ ਗਿਆਨ ਨੂੰ ਸਾਂਝਾ ਕਰੋ ==") 
+diffhist  Communication/pa‎ 15:49  −12‎   ‎Cabal11 talk contribs‎ 
+diffhist  Communication/pa‎ 15:45  −31‎   ‎Cabal11 talk contribs‎ (Created page with "ਕਹਾਣੀਆਂ ਪੜ੍ਹੋ:") 
+diffhist  Communication/pa‎ 15:44  −35‎   ‎Cabal11 talk contribs‎ (Created page with "(ਗ਼ੈਰ-ਸਰਕਾਰੀ)") 
+diffhist  Communication/pa‎ 15:43  −35‎   ‎Cabal11 talk contribs‎ (Created page with "(ਗ਼ੈਰ-ਸਰਕਾਰੀ)") 
+diffhist  Communication/pa‎ 15:43  −35‎   ‎Cabal11 talk contribs‎ (Created page with "(ਗ਼ੈਰ-ਸਰਕਾਰੀ)") 
+diffhist  Communication/pa‎ 15:42  +31‎   ‎Cabal11 talk contribs‎ (Created page with "== ਮਦਦ ਜਾਂ ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ ਕਰੋ ==") 
+diffhist  How to contribute/pa‎ 15:42  +32‎   ‎Cabal11 talk contribs‎ (Created page with "ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਮੀਡੀਆਵਿਕੀ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਹੈ:") 
+diffhist  How to contribute/pa‎ 15:41  +53‎   ‎Cabal11 talk contribs‎ (Created page with "=== ਮੀਡੀਆਵਿਕੀ ਵਿੱਚ ਸੰਪਾਦਨ ਅਤੇ ਗੱਲ-ਬਾਤ ===") 
+User creation log 15:37  User account AndrewMcCalahan talk contribs was created ‎ 
+diffhist  Communication/pa‎ 15:37  −4‎   ‎Cabal11 talk contribs‎ (Created page with "ਮੀਡੀਆਵਿਕੀ ਪ੍ਰੋਜੈਕਟ ਤੋਂ ਖ਼ਬਰਾਂ।") 
+diffhist  Extension:AutoModerator/Deploying‎ 15:36  +17‎   ‎Samwalton9 (WMF) talk contribs‎ Tag: Visual edit
+diffhist  Extension:AutoModerator/Deploying‎ 15:36  +32‎   ‎Samwalton9 (WMF) talk contribs‎ (+form) Tag: Visual edit
+diffhist  Communication/pa‎ 15:35  −5‎   ‎Cabal11 talk contribs‎ (Created page with "=== ਸਮਾਜਕ ਸੰਚਾਰ ===") 
+Page translation log 15:34  Justman10000 talk contribs marked Wikimedia Language engineering/Community meetings for translation ‎ 
+Page translation log 15:34  Justman10000 talk contribs removed priority languages from translatable page Wikimedia Language engineering/Community meetings ‎ 
+
+
+Retrieved from "https://www.mediawiki.org/wiki/Special:RecentChanges"
+
+
+
+
+
+
+
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

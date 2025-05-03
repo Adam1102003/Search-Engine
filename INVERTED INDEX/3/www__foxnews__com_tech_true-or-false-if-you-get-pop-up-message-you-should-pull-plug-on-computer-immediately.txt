@@ -1,0 +1,475 @@
+
+
+
+True or false: If you get a pop-up message, you should pull the plug on your computer immediately | Fox News
+
+
+  Fox News Media Fox News MediaFox BusinessFox NationFox News AudioFox WeatherOutkickBooks Fox News  
+                U.S.
+              
+                Politics
+              
+                World
+              
+                Opinion
+              
+                Media
+              
+                Entertainment
+              
+                Sports
+              
+                Lifestyle
+              
+                Video
+              
+                AI
+               More Expand / Collapse search Login Watch TV Menu    
+          U.S.
+         
+            Crime
+          
+            Military
+          
+            Education
+          
+            Terror
+          
+            Immigration
+          
+            Economy
+          
+            Personal Freedoms
+          
+            Fox News Investigates
+          
+            Digital Originals
+          
+          Politics
+         
+            Executive
+          
+            Senate
+          
+            House
+          
+            Judiciary
+          
+            Foreign Policy
+          
+            Polls
+          
+            Elections
+          
+          World
+         
+            U.N.
+          
+            Conflicts
+          
+            Terrorism
+          
+            Disasters
+          
+            Global Economy
+          
+            Environment
+          
+            Religion
+          
+            Scandals
+          
+          Opinion
+         
+          Media
+         
+            FOX Nation Coverage
+          
+          Entertainment
+         
+            Celebrity News
+          
+            Movies
+          
+            TV News
+          
+            Music News
+          
+            Style News
+          
+            Entertainment Video
+          
+          Sports
+         
+            NFL
+          
+            College Football
+          
+            MLB
+          
+            NBA
+          
+            NHL
+          
+            Golf
+          
+            Tennis
+          
+            Soccer
+          
+            UFC
+          
+            WWE
+          
+          Lifestyle
+         
+            Health
+          
+            Food & Drink
+          
+            Auto
+          
+            Travel & Outdoors
+          
+            Real Estate
+          
+            House & Home
+          
+            Style & Beauty
+          
+            Family
+          
+            Faith
+          
+          FOX Business
+         
+            Personal Finance
+          
+            Economy
+          
+            Markets
+          
+            Watchlist
+          
+            Lifestyle
+          
+            Real Estate
+          
+            Tech
+          
+          Science & Tech
+         
+            Air & Space
+          
+            Security
+          
+            Innovation
+          
+            Video Games
+          
+            Military Tech
+          
+            Planet Earth
+          
+            Wild Nature
+          
+          Watch Live 
+         
+            FOX News Shows
+          
+            Programming Schedule
+          
+            On Air Personalities
+          
+            Full Episodes
+          
+            Show Clips
+          
+            News Clips
+          
+          Apps & Products
+         
+            FOX News Go
+          
+            FOX Weather
+          
+            FOX Nation
+          
+            FOX News Shop
+          
+            FOX News Radio
+          
+            Outkick
+          
+            Newsletters
+          
+            Podcasts
+          
+          Games
+         
+            Daily Crossword Puzzle
+          
+            Crazy Crystals Match 3 Game
+          
+            Word Scramble
+          
+            Mini Crossword Puzzle
+          
+            Stack and Match Block Puzzle
+          
+            5 Across the Letter Word Game
+           Fox News Updated Terms of UseNew Privacy PolicyYour Privacy ChoicesClosed Caption PolicyHelpContact UsAccessibility Statement 
+      This material may not be published, broadcast, rewritten,
+      or redistributed. ©2024 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by
+      Factset. Powered and implemented by
+      FactSet Digital Solutions.
+      Legal Statement. Mutual Fund and ETF data provided by
+      Refinitiv Lipper.
+     Facebook Twitter Instagram RSS Email        TECH True or false: If you get a pop-up message, you should pull the plug on your computer immediately Here's how to prevent pop-ups from causing harm to your system   
+      By
+      Kurt Knutsson, CyberGuy Report  Fox News  
+      Published
+       May 15, 2024 10:00am EDT  Facebook Twitter Flipboard Comments Print Email  close      Video ‘CyberGuy’ shows you how to declutter your computer Kurt Knutsson explains how to reduce browser clutter and save your computer's memory. In today’s digital age, it’s not uncommon to be on the receiving end of some unsolicited and potentially malicious online advice. Take, for instance, the concern raised by "Barbara," who reached out with a question that might have crossed many minds:    "Hi, Kurt. I can't remember if I read this online or someone told me about it, but when you receive a pop-up message, you should pull the plug on your computer immediately; this prevents the scammer from having any further access to your work. Is this the right thing to do?"Pop-ups used to be one of the most common ways that scammers would penetrate a person’s computer. It's less common nowadays, which may be one of the reasons the unplugging method came to be. Well, the quick answer is "no." Instead of just debunking this myth once and for all, let's talk a bit more about why it's not recommended and what to do instead.  CLICK TO GET KURT’S FREE CYBERGUY NEWSLETTER WITH SECURITY ALERTS, QUICK VIDEO TIPS, TECH REVIEWS AND EASY HOW-TO’S TO MAKE YOU SMARTER  A person unplugging a laptop (Kurt "CyberGuy" Knutsson)What never to do when you see a pop-up message  It’s important to be cautious when dealing with pop-up messages, as they can be used by scammers to trick you into downloading malware or giving away your personal information. So, you're right in taking a second to figure out your next move.  But pulling the plug on your computer immediately when you receive a pop-up message is not the right thing to do. This could potentially cause data loss or damage to your computer, which can wreak havoc in other ways. It could also potentially let in more scammers in the future due to vulnerabilities in your system.It's also worth mentioning that if the pop-up message is a malicious link or file, scammers these days have a lot more sophisticated strategies, and merely unplugging your computer wouldn't necessarily stop them. Don't worry, though. There are ways to protect yourself.  GET FOX BUSINESS ON THE GO BY CLICKING HERE  A man working on his PC (Kurt "CyberGuy" Knutsson)MORE: BEST PRIVATE AND SAFE ALTERNATIVES TO GOOGLEWhat you should do when you see a pop-up message  So, if unplugging your computer isn't the answer, what can you do instead if you see a pop-up message, especially one that looks suspicious? Follow the steps below.    Don’t click on the pop-up message: If you receive a pop-up message, don’t click on it or enter any personal information. Instead, close the window by clicking on the "X" button in the top right corner of the window. Be on the lookout for fake pop-ups that appear in your browser window that are trying to trick you into clicking on them. These pop-ups are not coming from your computer but from a malicious file that has integrated itself into your browser and is displaying images that look like pop-ups. If you click on them, you might end up downloading more malware, giving away your personal information or paying money for a fake service.MORE: BEWARE OF THIS MCAFEE GOOGLE CHROME AD SCAMWatch out for download pop-ups: If you're receiving a pop-up because you clicked a link to download, be sure that the file can be trusted. Did you download it directly from the company's website? Or was it from a message that someone sent you via email, SMS or Facebook? Or was it from a third-party app store? If it's the latter, be extremely cautious.    Don’t call any phone numbers: If you receive a pop-up message that tells you to call a phone number, don’t do it. This is a common scam used by scammers to trick you into giving away your personal information or downloading malware.  Woman on the phone (Kurt "CyberGuy" Knutsson)MORE: DON'T CLICK THAT LINK! HOW TO SPOT AND PREVENT PHISHING ATTACKS IN YOUR INBOXHow to prevent pop-ups (and other scams)While there's no way to prevent scams 100%, aside from practicing online privacy and security recommendations (and staying up to date with security news), there are ways to prevent pop-ups that may contain threats.  WHAT IS ARTIFICIAL INTELLIGENCE (AI)?    Download a pop-up blocker: Many browsers have pop-up blocker extensions to keep pop-ups at bay. However, you may need to disable these to let certain pop-ups come through; for instance, when doing your online banking or booking a flight. Many premium popup blockers come included with security software used to protect your devices.Be wary of suspicious links/files: Whether these suspicious links are through a pop-up ad or somewhere else, always exercise caution.  Use strong antivirus software: Make sure you have antivirus software installed on your computer and keep it up-to-date. The best way to help protect yourself from clicking malicious links that install malware that may get access to your private information is to have antivirus protection installed on all your devices. This can also alert you of any phishing emails or ransomware scams. Get my picks for the best 2024 antivirus protection winners for your Windows, Mac, Android & iOS devices.Update your browser: Make sure your browser is up to date with the latest security patches and updates. This can help prevent security vulnerabilities that might be exploited by scammers.  MORE: EXPOSING TOP SCAMS TARGETING COSTCO SHOPPERSKurt's key takeaways  Pop-ups are still a way for hackers to infiltrate your system with a malware threat. Like with any cybersecurity scams and the pace at which information travels these days, you may hear of ways to protect yourself, like unplugging your computer. But always double-check solutions before taking matters into your own hands. Also, remember the next time a pop-up springs into view, pause and proceed with caution – your cybersafety depends on it.CLICK HERE TO GET THE FOX NEWS APP  Can you share a time when you successfully identified and avoided an online scam? Let us know by writing us at Cyberguy.com/Contact.    For more of my tech tips and security alerts, subscribe to my free CyberGuy Report Newsletter by heading to Cyberguy.com/Newsletter.Ask Kurt a question or let us know what stories you'd like us to cover.Answers to the most asked CyberGuy questions:What is the best way to protect your Mac, Windows, iPhone and Android devices from getting hacked?What is the best way to stay private, secure and anonymous while browsing the web?  Copyright 2024 CyberGuy.com. All rights reserved.  Kurt "CyberGuy" Knutsson is an award-winning tech journalist who has a deep love of technology, gear and gadgets that make life better with his contributions for Fox News & FOX Business beginning mornings on "FOX & Friends." Got a tech question? Get Kurt’s free CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com.                  
+
+
+
+
+Get a daily look at what’s developing in science and technology throughout the world.
+Arrives Weekly
+
+Subscribe
+
+Subscribed
+
+
+
+
+
+
+Subscribe
+
+You've successfully subscribed to this newsletter!
+
+     
+          U.S.
+         
+            Crime
+          
+            Military
+          
+            Education
+          
+            Terror
+          
+            Immigration
+          
+            Economy
+          
+            Personal Freedoms
+          
+            Fox News Investigates
+          
+            Digital Originals
+          
+          Politics
+         
+            Executive
+          
+            Senate
+          
+            House
+          
+            Judiciary
+          
+            Foreign Policy
+          
+            Polls
+          
+            Elections
+          
+          World
+         
+            U.N.
+          
+            Conflicts
+          
+            Terrorism
+          
+            Disasters
+          
+            Global Economy
+          
+            Environment
+          
+            Religion
+          
+            Scandals
+          
+          Opinion
+         
+          Media
+         
+            FOX Nation Coverage
+          
+          Entertainment
+         
+            Celebrity News
+          
+            Movies
+          
+            TV News
+          
+            Music News
+          
+            Style News
+          
+            Entertainment Video
+          
+          Sports
+         
+            NFL
+          
+            College Football
+          
+            MLB
+          
+            NBA
+          
+            NHL
+          
+            Golf
+          
+            Tennis
+          
+            Soccer
+          
+            UFC
+          
+            WWE
+          
+          Lifestyle
+         
+            Health
+          
+            Food & Drink
+          
+            Auto
+          
+            Travel & Outdoors
+          
+            Real Estate
+          
+            House & Home
+          
+            Fitness & Well-being
+          
+            Style & Beauty
+          
+            Family
+          
+            Faith
+          
+          FOX Business
+         
+            Personal Finance
+          
+            Economy
+          
+            Markets
+          
+            Watchlist
+          
+            Lifestyle
+          
+            Real Estate
+          
+            Tech
+          
+          Science & Tech
+         
+            Air & Space
+          
+            Security
+          
+            Innovation
+          
+            Video Games
+          
+            Military Tech
+          
+            Planet Earth
+          
+            Wild Nature
+          
+          Watch Live
+         
+            FOX News Shows
+          
+            Programming Schedule
+          
+            On Air Personalities
+          
+            Full Episodes
+          
+            Show Clips
+          
+            News Clips
+          
+          About
+         
+            Contact Us
+          
+            Careers
+          
+            Fox Around the World
+          
+            Advertise With Us
+          
+            Media Relations
+          
+            Corporate Information
+          
+            Compliance
+          
+          Apps & Products
+         
+            FOX News Go
+          
+            FOX Weather
+          
+            FOX Nation
+          
+            FOX News Shop
+          
+            FOX News Radio
+          
+            Outkick
+          
+            Newsletters
+          
+            Podcasts
+          
+          Games
+         
+            Daily Crossword Puzzle
+          
+            Crazy Crystals Match 3 Game
+          
+            Word Scramble
+          
+            Mini Crossword Puzzle
+          
+            Stack and Match Block Puzzle
+          
+            5 Across the Letter Word Game
+           Facebook Twitter Instagram Youtube Flipboard LinkedIn Slack RSS Newsletters Spotify iHeartRadio Fox News Updated Terms of UseNew Privacy PolicyYour Privacy ChoicesClosed Caption PolicyHelpContact UsAccessibility Statement 
+        This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by
+        Factset. Powered and implemented by
+        FactSet Digital Solutions.
+        Legal Statement. Mutual Fund and ETF data provided by
+        Refinitiv Lipper.
+      
+
+
+

@@ -1,0 +1,766 @@
+
+
+
+Simple molecule prevents mole rats from getting cancer | Nature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all journals
+
+
+
+
+Search
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+
+About the journal
+
+
+
+
+Publish with us
+
+
+
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+
+
+
+nature
+
+
+
+news
+
+
+
+
+article
+
+
+
+
+
+
+
+
+
+                        Simple molecule prevents mole rats from getting cancer
+                    
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+News
+Published: 19 June 2013
+
+Simple molecule prevents mole rats from getting cancer
+Ewen Callaway 
+
+Nature
+
+                         (2013)Cite this article
+
+
+
+
+304 Altmetric
+
+
+Metrics details
+
+
+
+
+
+Subjects
+
+CancerCell biologyDiseases
+
+
+
+
+Sugar matrix surrounding cells traps would-be tumours in long-lived mammal.
+
+
+You have full access to this article via your institution.
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+A hardy intercellular matrix may be the key to the naked mole rat's ability to skirt cancer.
+            Credit: Brandon Vick/University of RochesterThe same molecules that endow naked mole rats with springy, wrinkled skin also seem to prevent the homely rodents from contracting cancer. Research published on Nature's website today identifies a sugary cellular secretion that stops the spread of would-be tumours1.Naked mole rats (Heterocephalus glaber), which are more closely related to porcupines than rats, are freaks of nature. The short-sighted creatures spend their lives in subterranean colonies in the service of a single breeding queen — H. glaber is one of only two 'eusocial' mammals ever discovered. The rodent doesn’t feel the sting of acids or the burn of chilli peppers, and seems to be the only mammal that is unable to regulate its body temperature.However, the animal's longevity and impunity to cancer are the reason why biologist Andrei Seluanov keeps around 80 naked mole rats in a special facility near his lab at the University of Rochester in New York state. The rodents have been known to live for up to 32 years, and scientists have never seen one with cancer. Mice, by comparison, rarely live past the age of four and do often die of cancer.
+Nature Podcast
+            Your browser does not support the audio element.
+        Ewen Callaway spoke to Andrei Seluanov about his work on naked mole rats' resistance to cancer.
+In 2009, Seluanov’s team reported that the naked mole rat's fibroblasts (a cell type found in connective tissue) are sensitive to the presence of other cells, and in Petri dishes they grow less crowded than mouse fibroblasts do2. To the annoyance of his lab workers, the broth they used to nurture the cells often turned so viscous that it clogged the drains.“Our lab technician was unhappy because she needed to disassemble the system and clean all this gooey stuff,” Seluanov recalls. “I told my graduate student that we have to find out what the gooey substance is — it should be related to their cancer resistance. Of course, at that time it was just a wild guess.”
+Sticky situation
+The team soon discovered that the plumbing problem was the result of a sugar called hyaluronic acid (HA). Fibroblasts ooze HA and, along with collagen and other chemicals, it forms the extracellular matrix that gives tissues their shape and makes skin elastic. Naked mole rats, Seluanov’s team discovered, produce large amounts of long chains of HA.The researchers suspected that the long HA molecules formed a tight cage around cells, preventing tumour cells from replicating unchecked and essentially nipping 'pre-cancers' in the bud. In tissue-culture experiments, the cells of naked mole rats could be made cancerous by blocking the gene that encodes HA or by increasing levels of a protein that recycles the sugar. Those cells, when implanted under the skin of mice, formed tumours easily.Vadim Gladyshev, a molecular biologist at Harvard Medical School in Boston, Massachusetts, says that the paper makes a strong case that HA protects naked mole rats against cancer, but adds that other mechanisms are likely to play a part. For instance, when he and his colleagues sequenced the animal’s genome, they identified numerous genes linked to cancer that differ between naked mole rats and other vertebrates3.Rochelle Buffenstein, a gerontologist at the University of Texas Health Science Center in San Antonio who, with 2,500 animals, is keeper of the world’s largest naked-mole-rat colony, says that it's not clear how HA protects against cancer, but that working out naked mole rat anti-cancer mechanisms will provide insight that could be used against human cancers.But first, Seluanov’s team plans to translate its work into preventing cancer in lab mice. The researchers hope to use genetic engineering to endow mice with HA molecules like those of naked mole rats. Drugs that lead to the production of long HA molecules may one day prove beneficial in preventing human cancers, he says.
+
+
+ReferencesTian, X. et al. Nature http://dx.doi.org/10.1038/nature12234 (2013).Seluanov, A. et al. Proc. Natl Acad. Sci. USA 106, 19352-19357 (2009).Article 
+    CAS 
+    ADS 
+    
+                    Google Scholar 
+                Kim, E. B. et al. Nature 479, 223-227 (2011).Article 
+    CAS 
+    ADS 
+    
+                    Google Scholar 
+                Download referencesAuthorsEwen CallawayView author publicationsYou can also search for this author in
+                        PubMed Google ScholarRelated linksRelated linksRelated links in Nature Research
+Blind mole rats may hold key to cancer 2012-Nov-05
+
+Naked mole-rats don't feel the burn 2008-Jan-28
+
+Old mole-rat boosts ageing research 2002-Nov-18
+Related external linksRights and permissionsReprints and permissionsAbout this articleCite this articleCallaway, E. Simple molecule prevents mole rats from getting cancer.
+                    Nature  (2013). https://doi.org/10.1038/nature.2013.13236Download citationPublished: 19 June 2013DOI: https://doi.org/10.1038/nature.2013.13236Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        
+
+
+
+
+
+
+
+
+You have full access to this article via your institution.
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+                                    Research articles
+                                
+
+
+
+                                    News
+                                
+
+
+
+                                    Opinion
+                                
+
+
+
+                                    Research Analysis
+                                
+
+
+
+                                    Careers
+                                
+
+
+
+                                    Books & Culture
+                                
+
+
+
+                                    Podcasts
+                                
+
+
+
+                                    Videos
+                                
+
+
+
+                                    Current issue
+                                
+
+
+
+                                    Browse issues
+                                
+
+
+
+                                    Collections
+                                
+
+
+
+                                    Subjects
+                                
+
+
+
+
+Follow us on Facebook
+                            
+
+
+Follow us on Twitter
+                            
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+About the journal
+
+
+
+                                    Journal Staff
+                                
+
+
+
+                                    About the Editors
+                                
+
+
+
+                                    Journal Information
+                                
+
+
+
+                                    Our publishing models
+                                
+
+
+
+                                    Editorial Values Statement
+                                
+
+
+
+                                    Journal Metrics
+                                
+
+
+
+                                    Awards
+                                
+
+
+
+                                    Contact
+                                
+
+
+
+                                    Editorial policies
+                                
+
+
+
+                                    History of Nature
+                                
+
+
+
+                                    Send a news tip
+                                
+
+
+
+
+
+
+Publish with us
+
+
+
+                                    For Authors
+                                
+
+
+
+                                    For Referees
+                                
+
+
+
+                                    Language editing services
+                                
+
+
+Submit manuscript
+
+
+
+
+
+
+
+Search
+
+Search articles by subject, keyword or author
+
+
+
+
+
+
+Show results from
+
+All journals
+This journal
+
+
+
+Search
+
+
+
+
+
+
+                Advanced search
+            
+
+Quick links
+
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+
+
+
+
+
+
+
+
+
+
+                    Nature (Nature)
+                
+
+ISSN 1476-4687 (online)
+    
+
+ISSN 0028-0836 (print)
+    
+
+
+
+
+
+
+nature.com sitemap
+
+
+
+About Nature Portfolio
+
+About us
+Press releases
+Press office
+Contact us
+
+
+
+Discover content
+
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+
+
+
+Publishing policies
+
+Nature portfolio policies
+Open access
+
+
+
+Author & Researcher services
+
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+
+
+
+Libraries & institutions
+
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+
+
+
+Advertising & partnerships
+
+Advertising
+Partnerships & Services
+Media kits
+
+Branded
+                        content
+
+
+
+Professional development
+
+Nature Careers
+Nature 
+                        Conferences
+
+
+
+Regional websites
+
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+
+
+
+
+
+
+Privacy
+                Policy
+Use
+                of cookies
+
+Your privacy choices/Manage cookies
+                
+
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+
+
+
+
+
+
+
+© 2024 Springer Nature Limited
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+Sign up for the Nature Briefing: Cancer newsletter — what matters in cancer research, free to your inbox weekly.
+
+
+
+
+
+
+
+
+
+Email address
+
+
+
+Sign up
+
+
+
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+Get what matters in cancer research, free to your inbox weekly.
+Sign up for Nature Briefing: Cancer
+            
+
+
+
+
+
+
+
+
+

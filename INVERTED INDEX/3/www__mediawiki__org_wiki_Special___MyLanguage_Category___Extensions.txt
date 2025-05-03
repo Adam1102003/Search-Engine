@@ -1,0 +1,689 @@
+
+
+
+
+Category:Extensions - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+		In other languages
+	
+
+
+العربيةবাংলাČeštinaEnglishPortuguêsRomânăTiếng Việt
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+Beginning
+
+
+
+
+
+1Finding extensions
+
+
+
+
+
+
+
+2Getting help with an extension
+
+
+
+
+
+
+
+3Improving existing extensions
+
+
+
+
+
+
+
+4Creating new extensions
+
+
+
+
+
+
+
+5See also
+
+
+
+
+
+
+
+6Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Category:Extensions
+
+Help
+
+
+
+
+
+
+
+
+
+CategoryDiscussion
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsMeta-WikiWikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From mediawiki.org
+
+
+Translate this pageLanguages:Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+Cymraeg
+Deutsch
+Deutsch (Sie-Form)
+English
+Esperanto
+Gĩkũyũ
+Hawaiʻi
+Kiswahili
+Lëtzebuergesch
+Nederlands
+Ripoarisch
+Scots
+Tagalog
+Tiếng Việt
+Türkçe
+Zazaki
+asturianu
+azərbaycanca
+bosanski
+català
+dansk
+español
+euskara
+français
+føroyskt
+galego
+hrvatski
+interlingua
+italiano
+latviešu
+lietuvių
+magyar
+norsk bokmål
+norsk nynorsk
+occitan
+polski
+português
+português do Brasil
+română
+shqip
+sicilianu
+slovenčina
+suomi
+svenska
+tarandíne
+íslenska
+čeština
+Ελληνικά
+беларуская (тарашкевіца)
+български
+кыргызча
+македонски
+олык марий
+русский
+српски / srpski
+татарча / tatarça
+удмурт
+українська
+հայերեն
+ייִדיש
+עברית
+اردو
+العربية
+جازايرية
+سنڌي
+فارسی
+مصرى
+پښتو
+کوردی
+ߒߞߏ
+अवधी
+नेपाली
+मराठी
+मैथिली
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+ગુજરાતી
+ଓଡ଼ିଆ
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+മലയാളം
+සිංහල
+ไทย
+မြန်မာဘာသာ
+ᱥᱟᱱᱛᱟᱲᱤ
+中文
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+조선말
+한국어
+
+This category lists information and pages relating to MediaWiki extensions.
+
+Finding extensions
+The subcategories listed below provide many ways to browse through the set of extensions.
+To see the list of all extensions that have a page on mediawiki.org, go to the subcategory all extensions.
+Other lists of extensions include:
+
+Stable extensions  - a list of stable extensions.
+Software bundles and MediaWiki distributions 
+Extensions in the MediaWiki Git repository
+"Extension" category on WikiApiary - holds a list of websites that use any extension.
+Please note that most extensions listed here are not maintained by people affiliated with the MediaWiki software development team.
+For most extensions, there is no guarantee of the quality of the software, its security, or how well it will work with recent versions of MediaWiki.
+
+Getting help with an extension
+The documentation page for an extension should hopefully give you all the information you need in order to install/use the extension.
+If you have any further questions you can raise them on the associated talk page, or contact the extension author(s) if there is contact information listed, or use an existing support channel like the mediawiki-l mailing list or the #mediawiki IRC channel.
+Please do not contact the MediaWiki developers with questions about third-party extensions!
+
+Improving existing extensions
+Translating extensions 
+Category:Unmaintained extensions  - There are always some extensions in need of a new maintainer. Perhaps taking over maintenance of one is a good starting point, too.
+Creating new extensions
+The page Manual:Extensions  has a good overview of how extensions are structured.
+See also the following pages:
+
+Manual:Developing extensions 
+Manual:Tag extensions 
+Manual:Parser functions 
+Manual:Special pages 
+Template:Extension 
+If you have an extension that you want to add to this site, create a new page and add the extension template to the top of it (or create a new extension page).
+This will create a useful infobox and add the page to this category.
+See Template:Extension  for details.
+You should also add as much detail as possible to the body of the page, and it is wise to check back fairly regularly to respond to user questions.
+Please follow MediaWiki versioning and use branch names REL1_35, REL1_36, REL1_37, etc.
+When a bug fix needs to be backported, then it can be easily fixed in current branches.
+It also allows Git users to work directly from MediaWiki sources instead of tarballs and zip files with non-relevant and unpredictable names.
+Also see Extension lifecycle management.
+Extensions that define new hooks within the extension code should register them at the page extension hook registry.
+Extensions that define new namespaces should register them at the page Extension default namespaces.
+
+See also
+Special:ExtensionDistributor
+Extensions FAQ 
+Disclaimer
+The MediaWiki developers provide no support for third-party add-ons and neither the MediaWiki developers nor the maintainers of this site give any guarantee about the suitability, functionality, security or indeed any other property of any extension described on this site.
+Inclusion of an extension on this site is not an endorsement by the MediaWiki developers or the Wikimedia Foundation.
+If it is felt that a particular extension published on this web site is being distributed containing vulnerabilities which expose users to cross-site scripting or other vulnerabilities, or which are otherwise insecure, these can and will be deleted with no prior notice.
+The provisions of the general disclaimer are maintained.
+
+
+Extensions :
+
+
+Category 
+All 
+Requests 
+Tag extensions 
+Extensions FAQ 
+Installation and upgrade 
+Registration 
+List of extension hooks 
+Extension default namespaces 
+
+
+
+
+
+
+Subcategories
+This category has the following 42 subcategories, out of 42 total.The number of included categories (C), pages (P) and files (F) is stated in brackets.
+ 
+ Extension registration‎ (2 P)*
+ Extensions requiring Composer with git‎ (61 P)
+ Extensions supporting Composer‎ (384 P)
+  Extensions supporting fundraising and donations‎ (1 C, 6 P)
+ All extensions‎ (1545 P)
+  Extensions by audio element‎ (1 C)
+  Extensions by category‎ (61 C)
+  Extensions by compatibility policy‎ (4 C)
+  Extensions by content source‎ (7 C)
+  Extensions by developer‎ (17 C)
+  Extensions by hook usage‎ (964 C)
+  Extensions by implementation type‎ (28 C)
+  Extensions by integration target‎ (43 C, 4 P)
+  Extensions by license‎ (15 C)
+  Extensions by page action‎ (8 C)
+  Extensions by requirement‎ (1 C)
+  Extensions by security risk‎ (5 C)
+  Extensions by source location‎ (3 C)
+  Extensions by status‎ (11 C)
+  Extensions by visual element‎ (28 C)B
+ BlueSpice‎ (102 P)D
+ Data management extensions‎ (5 P)E
+ Extension examples‎ (9 P)
+ Extension bundles‎ (2 P)
+ Extension comparisons‎ (5 P)
+  Extensions bundled with MediaWiki‎ (8 C, 1 P)
+  Extensions by usage‎ (16 C)
+ Extensions defining a service‎ (9 P)
+ Extensions not using extension registration‎ (353 P)
+ Extensions still supporting pre-registration versions‎ (45 P)H
+  Extension help‎ (8 C, 54 P)M
+ Media Viewer‎ (4 P)P
+ Powerpedia related extensions‎ (2 P)S
+ Simple extensions‎ (9 P)
+ Spell extensions‎ (4 P)
+ Spreadsheets extensions‎ (3 P)T
+ Extension templates‎ (36 P)V
+  Extension variables‎ (1 C, 28 P)W
+ Wiki-specific extensions‎ (22 P)
+ Wikidata extensions‎ (6 P)
+  WikiProject Extensions‎ (1 C, 17 P)
+ Wikispeech‎ (6 P)
+
+Pages in category "Extensions"
+The following 18 pages are in this category, out of 18 total.
+ 
+AutoExtensionList
+Extensions FAQ!
+User:Duesentrieb/MatrixC
+Manual:ConvertExtensionToRegistration.phpD
+Development statistics/ExtensionsE
+Manual:Extensions/Installation and upgrade
+Manual:Extensions/Installation and upgrade/en
+Manual:Extensions/Installation and upgrade/fr
+Manual:Extensions/Installation and upgrade/ja
+Manual:Extensions/Installation and upgrade/ruH
+How to become a MediaWiki hacker/2011 Workshop
+How to become a MediaWiki hacker/Extension Writing TutorialL
+Localisation/TutorialR
+Extension requests
+Extension requests/archive 1
+Extension requests/Before 2007
+Extension requests/ResolvedT
+Manual:Translating extensions
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Category:Extensions&oldid=6283101"
+Categories: Top levelMediaWiki developmentManual
+
+
+
+
+
+
+ This page was last edited on 26 December 2023, at 21:06.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

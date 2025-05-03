@@ -1,0 +1,4691 @@
+
+
+
+
+Wikimedia main page - Wikidata
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikimedia main page
+(Q5296)
+
+
+From Wikidata
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Wikimedia project pageHome PageMain PageFront PageStart PageTop PageHomePageProject:Main Page
+
+
+
+
+Language
+Label
+Description
+Also known as
+
+
+
+English
+Wikimedia main page
+Wikimedia project page
+
+Home PageMain PageFront PageStart PageTop PageHomePageProject:Main Page
+
+
+
+Statements
+
+instance of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikimedia internal item
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikimedia project page
+
+
+
+
+
+
+
+nature of statement
+
+
+
+
+sometimes
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MediaWiki main namespace page
+
+
+
+
+
+
+
+nature of statement
+
+
+
+
+sometimes
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikimedia portal
+
+
+
+
+
+
+
+nature of statement
+
+
+
+
+sometimes
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+subclass of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikimedia page outside the main knowledge tree
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home page
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikipedia Main Page.png1,922 × 3,310; 1.55 MB
+
+
+
+
+
+
+
+depicts
+
+
+
+
+English Wikipedia
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+video
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikimedia Italia - WikiGuida 3 - Wikisource.ogv6 min 44 s, 800 × 450; 40.48 MB
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+has edition or translation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first Wikipedia edit
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+FAQ URL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Wikipedia:FAQ/Main_Page
+
+
+
+
+
+
+
+applies to part
+
+
+
+
+English Wikipedia
+
+
+
+
+
+
+
+language of work or name
+
+
+
+
+English
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+said to be the same as
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main Page Alternate
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main page alternate
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main page/de
+
+
+
+
+
+
+
+language of work or name
+
+
+
+
+German
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main page/cs
+
+
+
+
+
+
+
+language of work or name
+
+
+
+
+Czech
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main Page/ru
+
+
+
+
+
+
+
+language of work or name
+
+
+
+
+Russian
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main page/bg
+
+
+
+
+
+
+
+language of work or name
+
+
+
+
+Bulgarian
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q25639764
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calixatl
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main Page/my
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Il-Paġna prinċipali
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+permanent duplicated item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Russian
+
+
+
+
+
+
+
+1 reference
+
+
+
+
+
+inferred from
+
+
+
+
+Russian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+old Main Page
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main Page Alternate
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q65442933
+
+
+
+
+
+
+
+1 reference
+
+
+
+
+
+inferred from
+
+
+
+
+Q65442933
+
+
+
+
+
+
+
+
+
+
+
+
+topic's main category
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category:Main Page
+
+
+
+
+
+
+
+1 reference
+
+
+
+
+
+inferred from
+
+
+
+
+Category:Main Page
+
+
+
+
+
+
+
+
+
+
+Identifiers
+
+BBC Things ID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ae2e95e-a61d-4551-bb17-2989404da73b
+
+
+
+
+
+
+
+1 reference
+
+
+
+
+
+stated in
+
+
+
+
+BBC Things
+
+
+
+
+
+
+
+
+
+
+
+
+Quora topic ID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikipedia-Landing-Page
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+WikiProjectMed ID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main Page
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+ 
+
+Sitelinks
+
+
+
+Wikipedia(339 entries)
+
+
+
+
+
+
+aawiki
+Main Page
+
+
+abwiki
+Ихадоу адаҟьа
+
+
+acewiki
+Ôn Keue
+
+
+adywiki
+НэкӀубгъо шъхьаӀ
+
+
+afwiki
+Tuisblad
+
+
+alswiki
+Wikipedia:Houptsyte
+
+
+altwiki
+Тӧс бӱк
+
+
+amiwiki
+Sa’ayayaw pising no tyin-naw
+
+
+amwiki
+ዋናው ገጽ
+
+
+angwiki
+Heafodtramet
+
+
+anpwiki
+मुख्य पृष्ठ
+
+
+anwiki
+Portalada
+
+
+arcwiki
+ܦܐܬܐ ܪܝܫܝܬܐ
+
+
+arwiki
+الصفحة الرئيسة
+
+
+arywiki
+الصفحة اللولا
+
+
+arzwiki
+الصفحه الرئيسيه
+
+
+astwiki
+Portada
+
+
+aswiki
+বেটুপাত
+
+
+atjwiki
+Otitikowin
+
+
+avkwiki
+Xadola
+
+
+avwiki
+БетӀераб гьумер
+
+
+awawiki
+प्रधान पन्ना
+
+
+aywiki
+Nayriri uñstawi
+
+
+azbwiki
+آنا صفحه
+
+
+azwiki
+Ana səhifə
+
+
+banwiki
+Kaca Utama
+
+
+barwiki
+Wikipedia:Hoamseitn
+
+
+bat_smgwiki
+Pėrms poslapis
+
+
+bawiki
+Баш бит
+
+
+bbcwiki
+Pogu ni Alaman
+
+
+bclwiki
+Panginot na Pahina
+
+
+be_x_oldwiki
+Галоўная старонка
+
+
+bewiki
+Галоўная старонка
+
+
+bewwiki
+Balé-balé
+
+
+bgwiki
+Начална страница
+
+
+bhwiki
+मुख्य पन्ना
+
+
+biwiki
+Nambawan Pej
+
+
+bjnwiki
+Laman Tatambaian
+
+
+blkwiki
+အဓိကလိတ်မဲ့ငါ
+
+
+bmwiki
+Nyɛ fɔlɔ
+
+
+bnwiki
+প্রধান পাতা
+
+
+bowiki
+གཙོ་ངོས།
+
+
+bpywiki
+পয়লা পাতা
+
+
+brwiki
+Degemer
+
+
+bswiki
+Početna strana
+
+
+bugwiki
+Watangpola
+
+
+bxrwiki
+Нюур хуудаһан
+
+
+cawiki
+Portada
+
+
+cbk_zamwiki
+El Primero Pagina
+
+
+cdowiki
+Tàu Hiĕk
+
+
+cebwiki
+Unang Panid
+
+
+cewiki
+Коьрта агӀо
+
+
+chowiki
+Main Page
+
+
+chrwiki
+ᎤᎵᎮᎵᏍᏗ
+
+
+chwiki
+Fanhaluman
+
+
+chywiki
+Va'ohtama
+
+
+ckbwiki
+دەستپێک
+
+
+cowiki
+Pagina maestra
+
+
+crhwiki
+Baş Saife
+
+
+crwiki
+ᓃᔥᑕᒻᐹᔅᑌᒋᓂᑲᓐ
+
+
+csbwiki
+Przédnô starna
+
+
+cswiki
+Hlavní strana
+
+
+cuwiki
+Главьна страница
+
+
+cvwiki
+Тĕп страница
+
+
+cywiki
+Hafan
+
+
+dagwiki
+Solɔɣu
+
+
+dawiki
+Forside
+
+
+dewiki
+Wikipedia:Hauptseite
+
+
+dgawiki
+A Gampɛlɛ zu
+
+
+dinwiki
+Apam këdït
+
+
+diqwiki
+Pela Seri
+
+
+dsbwiki
+Głowny bok
+
+
+dtywiki
+मुख्य पन्ना
+
+
+dvwiki
+މައި ޞަފްޙާ
+
+
+dzwiki
+མ་ཤོག།
+
+
+eewiki
+Axa do Ŋgɔ
+
+
+elwiki
+Πύλη:Κύρια
+
+
+emlwiki
+PP
+
+
+enwiki
+Main Page
+
+
+eowiki
+Vikipedio:Ĉefpaĝo
+
+
+eswiki
+Wikipedia:Portada
+
+
+etwiki
+Vikipeedia:Esileht
+
+
+euwiki
+Azala
+
+
+extwiki
+Portá antigua
+
+
+fatwiki
+Kratafa Tsitsir
+
+
+fawiki
+صفحهٔ اصلی
+
+
+ffwiki
+Hello jaɓɓorgo
+
+
+fiu_vrowiki
+Wikipedia:Pääleht
+
+
+fiwiki
+Wikipedia:Etusivu
+
+
+fjwiki
+Tabana levu
+
+
+fonwiki
+Wémá Nukɔntɔn
+
+
+fowiki
+Forsíða
+
+
+frpwiki
+Vouiquipèdia:Reçua principâla
+
+
+frrwiki
+Wikipedia:Hoodsid
+
+
+frwiki
+Wikipédia:Accueil principal
+
+
+furwiki
+Pagjine principâl
+
+
+fywiki
+Haadside
+
+
+gagwiki
+Baş yaprak
+
+
+ganwiki
+封面
+
+
+gawiki
+Príomhleathanach
+
+
+gcrwiki
+Paj Prensipal
+
+
+gdwiki
+Prìomh-Dhuilleag
+
+
+glkwiki
+گتˇ ولگ
+
+
+glwiki
+Portada
+
+
+gnwiki
+Kuatia Ñepyrũha
+
+
+gomwiki
+मुखेल पान
+
+
+gorwiki
+Halaman Bungaliyo
+
+
+gotwiki
+𐌰𐌽𐌰𐍃𐍄𐍉𐌳𐌴𐌹𐌽𐌹𐌻𐌰𐌿𐍆𐍃
+
+
+gpewiki
+Main Page
+
+
+gucwiki
+Ee'iyalaaya a'laülaasü
+
+
+gurwiki
+Pɛgezure
+
+
+guwiki
+મુખપૃષ્ઠ
+
+
+guwwiki
+Weda Tangan
+
+
+gvwiki
+Ard-ghuillag
+
+
+hakwiki
+Thèu-Ya̍p
+
+
+hawiki
+Babban shafi
+
+
+hawwiki
+Ka papa kinohi
+
+
+hewiki
+עמוד ראשי
+
+
+hifwiki
+Pahila Panna
+
+
+hiwiki
+मुखपृष्ठ
+
+
+howiki
+Main Page
+
+
+hrwiki
+Glavna stranica
+
+
+hsbwiki
+Hłowna strona
+
+
+htwiki
+Paj Prensipal
+
+
+huwiki
+Kezdőlap
+
+
+hywiki
+Գլխավոր էջ
+
+
+hywwiki
+Գլխաւոր Էջ
+
+
+hzwiki
+Main Page
+
+
+iawiki
+Pagina principal
+
+
+idwiki
+Halaman Utama
+
+
+iewiki
+Principal págine
+
+
+iglwiki
+Ogbá ogbolo
+
+
+igwiki
+Ihu mbụ
+
+
+ikwiki
+Aullaġniisaaġvik
+
+
+ilowiki
+Umuna a Panid
+
+
+inhwiki
+Керттера оагӀув
+
+
+iowiki
+Frontispico
+
+
+iswiki
+Forsíða
+
+
+itwiki
+Pagina principale
+
+
+iuwiki
+ᐊᒥᖅ
+
+
+jamwiki
+Mien Piej
+
+
+jawiki
+メインページ
+
+
+jbowiki
+uikipedi'as:ralju
+
+
+jvwiki
+Wikipédia:Pendhapa
+
+
+kaawiki
+Bas bet
+
+
+kabwiki
+Asebter agejdan
+
+
+kawiki
+მთავარი გვერდი
+
+
+kbdwiki
+НапэкӀуэцӀ нэхъыщхьэ
+
+
+kbpwiki
+Talɩ ɖeu
+
+
+kcgwiki
+A̱tsak Wat Wu
+
+
+kgwiki
+Mukânda ya ngudi
+
+
+kiwiki
+Main Page
+
+
+kjwiki
+Main Page
+
+
+kkwiki
+Басты бет
+
+
+klwiki
+Saqqaa
+
+
+kmwiki
+ទំព័រដើម
+
+
+knwiki
+ಮುಖ್ಯ ಪುಟ
+
+
+koiwiki
+Пондӧтчан листбок
+
+
+kowiki
+위키백과:대문
+
+
+krcwiki
+Баш бет
+
+
+krwiki
+Main Page
+
+
+kshwiki
+Wikipedia:Houpsigk
+
+
+kswiki
+اَہَم صَفہٕ
+
+
+kuswiki
+Zug lakir
+
+
+kuwiki
+Destpêk
+
+
+kvwiki
+Медшӧр лист бок
+
+
+kwwiki
+Folen dre
+
+
+kywiki
+Башкы барак
+
+
+ladwiki
+La Primera Hoja
+
+
+lawiki
+Vicipaedia:Pagina prima
+
+
+lbewiki
+Агьаммур лажин
+
+
+lbwiki
+Haaptsäit
+
+
+lezwiki
+Кьилин ччин
+
+
+lfnwiki
+Paje xef
+
+
+lgwiki
+Olupapula Olusooka
+
+
+lijwiki
+Pagina prinçipâ
+
+
+liwiki
+Veurblaad
+
+
+lldwiki
+Plata prinzipala
+
+
+lmowiki
+Pagina principala
+
+
+lnwiki
+Lokásá ya libosó
+
+
+lowiki
+ໜ້າຫຼັກ
+
+
+lrcwiki
+سرآسونٱ
+
+
+ltgwiki
+Suoku puslopa
+
+
+ltwiki
+Pagrindinis puslapis
+
+
+lvwiki
+Sākumlapa
+
+
+madwiki
+Tanèyan
+
+
+maiwiki
+सम्मुख पन्ना
+
+
+map_bmswiki
+Kaca Utama
+
+
+mdfwiki
+Пря лопа
+
+
+mgwiki
+Wikipedia:Fandraisana
+
+
+mhrwiki
+Тӱҥ лаштык
+
+
+mhwiki
+Main Page
+
+
+minwiki
+Laman Utamo
+
+
+miwiki
+Hau Kāinga
+
+
+mkwiki
+Главна страница
+
+
+mlwiki
+പ്രധാന താൾ
+
+
+mniwiki
+ꯃꯔꯨꯑꯣꯏꯕ ꯂꯃꯥꯏ
+
+
+mnwiki
+Нүүр хуудас
+
+
+mnwwiki
+မုက်လိက်တမ်
+
+
+mrjwiki
+Тӹнг ӹлӹштӓш
+
+
+mrwiki
+मुखपृष्ठ
+
+
+mswiki
+Laman Utama
+
+
+mtwiki
+Il-Paġna prinċipali
+
+
+muswiki
+Main Page
+
+
+mwlwiki
+Biquipédia:Páigina percipal
+
+
+myvwiki
+Прявтлопа
+
+
+mywiki
+ဗဟိုစာမျက်နှာ
+
+
+mznwiki
+گت صفحه
+
+
+nahwiki
+Calīxatl
+
+
+napwiki
+Paggena prencepale
+
+
+nds_nlwiki
+Vöärblad
+
+
+ndswiki
+Wikipedia:Hööftsiet
+
+
+newiki
+मुख्य पृष्ठ
+
+
+newwiki
+मू पौ
+
+
+ngwiki
+Hambili Tarkerazu
+
+
+niawiki
+Wikipedia:Olayama
+
+
+nlwiki
+Hoofdpagina
+
+
+nnwiki
+Hovudside
+
+
+novwiki
+Chefi pagine
+
+
+nowiki
+Portal:Forside
+
+
+nqowiki
+ߓߏ߬ߟߏ߲߬ߘߊ
+
+
+nrmwiki
+Page dé garde
+
+
+nsowiki
+Letlakala la pele
+
+
+nvwiki
+Íiyisíí Naaltsoos
+
+
+nywiki
+Tsamba Lalikulu
+
+
+ocwiki
+Acuèlh
+
+
+olowiki
+Piäsivu
+
+
+omwiki
+Fuula Dura
+
+
+orwiki
+ପ୍ରଧାନ ପୃଷ୍ଠା
+
+
+oswiki
+Сæйраг фарс
+
+
+pagwiki
+Arapan ya Bolong
+
+
+pamwiki
+Pun Bulung
+
+
+papwiki
+Página Prinsipal
+
+
+pawiki
+ਮੁੱਖ ਸਫ਼ਾ
+
+
+pcdwiki
+Accueul
+
+
+pcmwiki
+Main Pej
+
+
+pdcwiki
+Haaptblatt
+
+
+pflwiki
+Wikipedia:Haubdsaid
+
+
+pihwiki
+Mien Paij
+
+
+piwiki
+पमुख पत्त Pamukha patta
+
+
+plwiki
+Wikipedia:Strona główna
+
+
+pmswiki
+Intrada
+
+
+pnbwiki
+پہلا صفہ
+
+
+pntwiki
+Αρχικόν σελίδα
+
+
+pswiki
+لومړی مخ
+
+
+ptwiki
+Wikipédia:Página principal
+
+
+pwnwiki
+sitjumaq na sapitj
+
+
+quwiki
+Qhapaq p'anqa
+
+
+rmwiki
+Wikipedia:Pagina principala
+
+
+rmywiki
+Sherutni patrin
+
+
+rnwiki
+Urupapuro nyamukuru
+
+
+roa_rupwiki
+Prota frãndzã
+
+
+roa_tarawiki
+Pagene Prengepále
+
+
+rowiki
+Pagina principală
+
+
+ruewiki
+Головна сторінка
+
+
+ruwiki
+Заглавная страница
+
+
+rwwiki
+Intangiriro
+
+
+sahwiki
+Сүрүн сирэй
+
+
+satwiki
+ᱢᱩᱬᱩᱛ ᱥᱟᱦᱴᱟ
+
+
+sawiki
+मुख्यपृष्ठम्
+
+
+scnwiki
+Pàggina principali
+
+
+scowiki
+Main Page
+
+
+scwiki
+Pàgina printzipale
+
+
+sdwiki
+مُک صفحو
+
+
+sewiki
+Portála:Ovdasiidu
+
+
+sgwiki
+Gä nzönî
+
+
+shiwiki
+Tasna Tamzwarut
+
+
+shnwiki
+ၼႃႈႁူဝ်ႁႅၵ်ႈ
+
+
+shwiki
+Glavna stranica
+
+
+simplewiki
+Main Page
+
+
+siwiki
+මුල් පිටුව
+
+
+skrwiki
+پہلا پرت
+
+
+skwiki
+Hlavná stránka
+
+
+slwiki
+Glavna stran
+
+
+smnwiki
+Ovdâsijđo
+
+
+smwiki
+Itūlau Muamua
+
+
+snwiki
+Peji Rekutanga
+
+
+sowiki
+Bogga Hore
+
+
+sqwiki
+Faqja kryesore
+
+
+srnwiki
+Fesipapira
+
+
+srwiki
+Главна страна
+
+
+sswiki
+Likhasi Lelikhulu
+
+
+stqwiki
+Haudsiede
+
+
+stwiki
+Leqephe la pele
+
+
+suwiki
+Tepas
+
+
+svwiki
+Portal:Huvudsida
+
+
+swwiki
+Mwanzo
+
+
+szlwiki
+Przodniŏ zajta
+
+
+szywiki
+saayaway a belih
+
+
+tawiki
+முதற் பக்கம்
+
+
+taywiki
+T’ringan na zzngayan
+
+
+tcywiki
+ಮುಖ್ಯ ಪುಟ
+
+
+tetwiki
+Pájina Mahuluk
+
+
+tewiki
+మొదటి పేజీ
+
+
+tgwiki
+Саҳифаи аслӣ
+
+
+thwiki
+หน้าหลัก
+
+
+tiwiki
+መበገሲ ገጽ
+
+
+tkwiki
+Baş Sahypa
+
+
+tlwiki
+Unang Pahina
+
+
+tlywiki
+Sərlovhə
+
+
+tnwiki
+Main Page
+
+
+towiki
+Peesi tali fiefia
+
+
+tpiwiki
+Fran pes
+
+
+trvwiki
+Ruwahan patas
+
+
+trwiki
+Anasayfa
+
+
+tswiki
+Tlukankulu
+
+
+ttwiki
+Баш бит
+
+
+tumwiki
+Jani likulu
+
+
+twwiki
+Kratafa Titiriw
+
+
+tyvwiki
+Кол арын
+
+
+tywiki
+Fa’ari’ira’a
+
+
+udmwiki
+Кутскон бам
+
+
+ugwiki
+باش بەت
+
+
+ukwiki
+Головна сторінка
+
+
+urwiki
+صفحۂ اول
+
+
+uzwiki
+Bosh Sahifa
+
+
+vecwiki
+Wikipedia:Prinsipio
+
+
+vepwiki
+Pälehtpol’
+
+
+vewiki
+Hayani
+
+
+viwiki
+Trang Chính
+
+
+vlswiki
+Voorblad
+
+
+vowiki
+Cifapad
+
+
+warwiki
+Syahan nga Pakli
+
+
+wawiki
+Mwaisse pådje
+
+
+wowiki
+Xët wu njëkk
+
+
+wuuwiki
+封面
+
+
+xalwiki
+Нүр халх
+
+
+xhwiki
+Iphepha Elingundoqo
+
+
+xmfwiki
+დუდხასჷლა
+
+
+yiwiki
+הויפט זייט
+
+
+yowiki
+Ojúewé Àkọ́kọ́
+
+
+zawiki
+Yiebdaeuz
+
+
+zeawiki
+Vòblad
+
+
+zghwiki
+ⵜⴰⵙⵏⴰ ⵏ ⵓⵙⵏⵓⴱⴳ
+
+
+zh_classicalwiki
+維基大典:卷首
+
+
+zh_min_nanwiki
+Thâu-ia̍h
+
+
+zh_yuewiki
+頭版
+
+
+zhwiki
+Wikipedia:首页
+
+
+zuwiki
+Ikhasi Elikhulu
+
+
+
+
+
+
+
+Wikibooks(84 entries)
+
+
+
+
+
+
+aawikibooks
+Main Page
+
+
+afwikibooks
+Tuisblad
+
+
+angwikibooks
+Hēafodsīde
+
+
+arwikibooks
+الصفحة الرئيسية
+
+
+astwikibooks
+Portada
+
+
+azwikibooks
+Ana səhifə
+
+
+bawikibooks
+Викидәреслек:Баш бит
+
+
+bewikibooks
+Галоўная старонка
+
+
+bgwikibooks
+Начална страница
+
+
+bnwikibooks
+প্রধান পাতা
+
+
+bswikibooks
+Početna strana
+
+
+cawikibooks
+Portada
+
+
+cswikibooks
+Wikiknihy:Hlavní strana
+
+
+cvwikibooks
+Тĕп страница
+
+
+cywikibooks
+Hafan
+
+
+dawikibooks
+Forside
+
+
+dewikibooks
+Hauptseite
+
+
+elwikibooks
+Κύρια Σελίδα
+
+
+enwikibooks
+Main Page
+
+
+eowikibooks
+Ĉefpaĝo
+
+
+eswikibooks
+Portada
+
+
+etwikibooks
+Esileht
+
+
+euwikibooks
+Azala
+
+
+fawikibooks
+صفحهٔ اصلی
+
+
+fiwikibooks
+Wikikirjasto:Etusivu
+
+
+frwikibooks
+Accueil
+
+
+fywikibooks
+Haadside
+
+
+glwikibooks
+Portada
+
+
+hewikibooks
+עמוד ראשי
+
+
+hiwikibooks
+मुखपृष्ठ
+
+
+hrwikibooks
+Glavna stranica
+
+
+huwikibooks
+Kezdőlap
+
+
+hywikibooks
+Գլխավոր էջ
+
+
+iawikibooks
+Pagina principal
+
+
+idwikibooks
+Halaman Utama
+
+
+iewikibooks
+Principal págine
+
+
+iswikibooks
+Forsíða
+
+
+itwikibooks
+Pagina principale
+
+
+jawikibooks
+メインページ
+
+
+kawikibooks
+მთავარი გვერდი
+
+
+kkwikibooks
+Басты бет
+
+
+kmwikibooks
+ទំព័រដើម
+
+
+kowikibooks
+위키책:대문
+
+
+kuwikibooks
+Destpêk
+
+
+kywikibooks
+Башкы барак
+
+
+lawikibooks
+Pagina prima
+
+
+liwikibooks
+Veurblaad
+
+
+ltwikibooks
+Pagrindinis puslapis
+
+
+lvwikibooks
+Sākumlapa
+
+
+mgwikibooks
+Fandraisana
+
+
+mkwikibooks
+Главна страница
+
+
+mlwikibooks
+പ്രധാന താൾ
+
+
+mrwikibooks
+मुखपृष्ठ
+
+
+mswikibooks
+Laman Utama
+
+
+newikibooks
+मुख्य पृष्ठ
+
+
+nlwikibooks
+Hoofdpagina
+
+
+nowikibooks
+Hovedside
+
+
+ocwikibooks
+Acuèlh
+
+
+pawikibooks
+ਮੁੱਖ ਪੰਨਾ
+
+
+plwikibooks
+Wikibooks:Strona główna
+
+
+ptwikibooks
+Wikilivros:Página principal
+
+
+rowikibooks
+Pagina principală
+
+
+ruwikibooks
+Заглавная страница
+
+
+sawikibooks
+मुख्यपृष्ठम्
+
+
+sewikibooks
+Váldosiidu
+
+
+shnwikibooks
+ၼႃႈႁူဝ်ႁႅၵ်ႈ
+
+
+siwikibooks
+මුල් පිටුව
+
+
+skwikibooks
+Wikiknihy:Hlavná stránka
+
+
+slwikibooks
+Glavna stran
+
+
+sqwikibooks
+Faqja Kryesore
+
+
+srwikibooks
+Главна страна
+
+
+suwikibooks
+Tepas
+
+
+svwikibooks
+Wikibooks:Huvudsida
+
+
+tawikibooks
+முதற் பக்கம்
+
+
+tewikibooks
+మొదటి పేజీ
+
+
+tgwikibooks
+Саҳифаи аслӣ
+
+
+thwikibooks
+หน้าหลัก
+
+
+tlwikibooks
+Unang Pahina
+
+
+trwikibooks
+Anasayfa
+
+
+ttwikibooks
+Баш бит
+
+
+ukwikibooks
+Головна сторінка
+
+
+urwikibooks
+صفحۂ اول
+
+
+viwikibooks
+Trang Chính
+
+
+zhwikibooks
+Wikibooks:首页
+
+
+
+
+
+
+
+Wikinews(35 entries)
+
+
+
+
+
+
+arwikinews
+الصفحة الرئيسية
+
+
+bgwikinews
+Начална страница
+
+
+bswikinews
+Početna strana
+
+
+cawikinews
+Portada
+
+
+cswikinews
+Wikizprávy:Hlavní strana
+
+
+dewikinews
+Hauptseite
+
+
+elwikinews
+Κύρια Σελίδα
+
+
+enwikinews
+Main Page
+
+
+eowikinews
+Ĉefpaĝo
+
+
+eswikinews
+Portada
+
+
+fawikinews
+صفحهٔ اصلی
+
+
+fiwikinews
+Wikiuutiset:Etusivu
+
+
+frwikinews
+Accueil
+
+
+guwwikinews
+Weda Tangan
+
+
+hewikinews
+עמוד ראשי
+
+
+huwikinews
+Kezdőlap
+
+
+itwikinews
+Pagina principale
+
+
+jawikinews
+メインページ
+
+
+kowikinews
+위키뉴스:대문
+
+
+liwikinews
+Veurblaad
+
+
+nlwikinews
+Wikinieuws:Hoofdpagina
+
+
+nowikinews
+Wikinytt:Forside
+
+
+plwikinews
+Strona główna
+
+
+ptwikinews
+Página principal
+
+
+rowikinews
+Pagina principală
+
+
+ruwikinews
+Заглавная страница
+
+
+sdwikinews
+پهريون صفحو
+
+
+sqwikinews
+Faqja kryesore
+
+
+srwikinews
+Главна страна
+
+
+svwikinews
+Huvudsida
+
+
+tawikinews
+முதற் பக்கம்
+
+
+thwikinews
+หน้าหลัก
+
+
+trwikinews
+Anasayfa
+
+
+ukwikinews
+Головна
+
+
+zhwikinews
+Wikinews:首页
+
+
+
+
+
+
+
+Wikiquote(90 entries)
+
+
+
+
+
+
+afwikiquote
+Tuisblad
+
+
+amwikiquote
+ዋና ገጽ
+
+
+angwikiquote
+Hēafodsīde
+
+
+arwikiquote
+الصفحة الرئيسية
+
+
+astwikiquote
+Portada
+
+
+aswikiquote
+বেটুপাত
+
+
+azwikiquote
+Ana səhifə
+
+
+bclwikiquote
+Panginot na Pahina
+
+
+bewikiquote
+Галоўная старонка
+
+
+bgwikiquote
+Начална страница
+
+
+bjnwikiquote
+Laman Tatambaian
+
+
+bmwikiquote
+Nyɛ fɔlɔ
+
+
+bnwikiquote
+প্রধান পাতা
+
+
+brwikiquote
+Degemer
+
+
+bswikiquote
+Početna strana
+
+
+cawikiquote
+Portada
+
+
+cowikiquote
+Pagina maestra
+
+
+cswikiquote
+Wikicitáty:Hlavní strana
+
+
+cywikiquote
+Hafan
+
+
+dawikiquote
+Forside
+
+
+dewikiquote
+Hauptseite
+
+
+elwikiquote
+Κύρια Σελίδα
+
+
+enwikiquote
+Main Page
+
+
+eowikiquote
+Ĉefpaĝo
+
+
+eswikiquote
+Portada
+
+
+etwikiquote
+Esileht
+
+
+euwikiquote
+Azala
+
+
+fawikiquote
+صفحهٔ اصلی
+
+
+fiwikiquote
+Etusivu
+
+
+frwikiquote
+Wikiquote:Accueil
+
+
+gawikiquote
+Príomh­leathanach
+
+
+glwikiquote
+Portada
+
+
+guwikiquote
+મુખપૃષ્ઠ
+
+
+guwwikiquote
+Weda Tangan
+
+
+hewikiquote
+עמוד ראשי
+
+
+hiwikiquote
+मुखपृष्ठ
+
+
+hrwikiquote
+Glavna stranica
+
+
+huwikiquote
+Kezdőlap
+
+
+hywikiquote
+Գլխավոր էջ
+
+
+idwikiquote
+Halaman Utama
+
+
+igwikiquote
+Ihu mbụ
+
+
+iswikiquote
+Wikivitnun:Forsíða
+
+
+itwikiquote
+Pagina principale
+
+
+jawikiquote
+メインページ
+
+
+kawikiquote
+მთავარი გვერდი
+
+
+kkwikiquote
+Басты бет
+
+
+knwikiquote
+ಮುಖ್ಯ ಪುಟ
+
+
+kowikiquote
+위키인용집:들머리
+
+
+krwikiquote
+Main Page
+
+
+kuwikiquote
+Destpêk
+
+
+kwwikiquote
+Folen dre
+
+
+kywikiquote
+Башкы бет
+
+
+lawikiquote
+Pagina prima
+
+
+lbwikiquote
+Haaptsäit
+
+
+liwikiquote
+Veurblaad
+
+
+ltwikiquote
+Pagrindinis puslapis
+
+
+mlwikiquote
+പ്രധാന താൾ
+
+
+mrwikiquote
+मुखपृष्ठ
+
+
+ndswikiquote
+Hööftsiet
+
+
+nlwikiquote
+Hoofdpagina
+
+
+nnwikiquote
+Hovudside
+
+
+nowikiquote
+Hovedside
+
+
+plwikiquote
+Strona główna
+
+
+ptwikiquote
+Página principal
+
+
+quwikiquote
+Qhapaq p'anqa
+
+
+rowikiquote
+Pagina principală
+
+
+ruwikiquote
+Заглавная страница
+
+
+sahwikiquote
+Сүрүн сирэй
+
+
+sawikiquote
+मुखपुटम्
+
+
+skwikiquote
+Wikicitáty:Hlavná stránka
+
+
+slwikiquote
+Glavna stran
+
+
+sqwikiquote
+Faqja kryesore
+
+
+srwikiquote
+Главна страна
+
+
+suwikiquote
+Tepas
+
+
+svwikiquote
+Huvudsida
+
+
+tawikiquote
+முதற் பக்கம்
+
+
+tewikiquote
+మొదటి పేజీ
+
+
+thwikiquote
+หน้าหลัก
+
+
+tkwikiquote
+Baş Sahypa
+
+
+tlwikiquote
+Unang Pahina
+
+
+trwikiquote
+Anasayfa
+
+
+ttwikiquote
+Баш бит
+
+
+ugwikiquote
+باش بەت
+
+
+ukwikiquote
+Головна сторінка
+
+
+urwikiquote
+صفحہ اول
+
+
+uzwikiquote
+Bosh Sahifa
+
+
+viwikiquote
+Trang Chính
+
+
+vowikiquote
+Cifapad
+
+
+zh_min_nanwikiquote
+Thâu-ia̍h
+
+
+zhwikiquote
+Wikiquote:首页
+
+
+
+
+
+
+
+Wikisource(76 entries)
+
+
+
+
+
+
+arwikisource
+الصفحة الرئيسية
+
+
+aswikisource
+বেটুপাত
+
+
+azwikisource
+Ana səhifə
+
+
+banwikisource
+Kaca Utama
+
+
+bewikisource
+Галоўная старонка
+
+
+bgwikisource
+Начална страница
+
+
+bnwikisource
+উইকিসংকলন:প্রধান পাতা
+
+
+brwikisource
+Wikimammenn:Degemer
+
+
+bswikisource
+Početna strana
+
+
+cawikisource
+Pàgina principal
+
+
+cswikisource
+Wikizdroje:Hlavní strana
+
+
+cywikisource
+Hafan
+
+
+dawikisource
+Forside
+
+
+dewikisource
+Hauptseite
+
+
+elwikisource
+Κύρια Σελίδα
+
+
+enwikisource
+Main Page
+
+
+eowikisource
+Vikifontaro:Ĉefpaĝo
+
+
+eswikisource
+Portada
+
+
+etwikisource
+Esileht
+
+
+euwikisource
+Azala
+
+
+fawikisource
+صفحهٔ اصلی
+
+
+fiwikisource
+Etusivu
+
+
+fowikisource
+Forsíða
+
+
+frwikisource
+Wikisource:Accueil
+
+
+glwikisource
+Portada
+
+
+guwikisource
+મુખપૃષ્ઠ
+
+
+hewikisource
+עמוד ראשי
+
+
+hiwikisource
+विकिस्रोत:मुखपृष्ठ
+
+
+hrwikisource
+Glavna stranica
+
+
+huwikisource
+Kezdőlap
+
+
+hywikisource
+Գլխավոր էջ
+
+
+idwikisource
+Halaman Utama
+
+
+iswikisource
+Forsíða
+
+
+itwikisource
+Pagina principale
+
+
+jawikisource
+メインページ
+
+
+jvwikisource
+Wikisumber:Pendhapa
+
+
+kawikisource
+მთავარი გვერდი
+
+
+knwikisource
+ಮುಖ್ಯ ಪುಟ
+
+
+kowikisource
+위키문헌:대문
+
+
+lawikisource
+Pagina prima
+
+
+lijwikisource
+Pàgina prinçipâ
+
+
+liwikisource
+Veurblaad
+
+
+ltwikisource
+Pagrindinis puslapis
+
+
+mkwikisource
+Главна страница
+
+
+mlwikisource
+പ്രധാന താൾ
+
+
+mrwikisource
+मुखपृष्ठ
+
+
+mswikisource
+Laman Utama
+
+
+mywikisource
+ဗဟိုစာမျက်နှာ
+
+
+napwikisource
+Paggena prencepale
+
+
+nlwikisource
+Hoofdpagina
+
+
+nowikisource
+Wikikilden:Forside
+
+
+orwikisource
+ପ୍ରଧାନ ପୃଷ୍ଠା
+
+
+pawikisource
+ਮੁੱਖ ਸਫ਼ਾ
+
+
+plwikisource
+Wikiźródła:Strona główna
+
+
+pmswikisource
+Intrada
+
+
+ptwikisource
+Wikisource:Página principal
+
+
+rowikisource
+Pagina principală
+
+
+ruwikisource
+Заглавная страница
+
+
+sahwikisource
+Сүрүн сирэй
+
+
+sawikisource
+मुख्यपृष्ठम्
+
+
+skwikisource
+Wikizdroje:Hlavná stránka
+
+
+slwikisource
+Glavna stran
+
+
+srwikisource
+Главна страна
+
+
+suwikisource
+Tepas
+
+
+svwikisource
+Wikisource:Huvudsida
+
+
+tawikisource
+முதற் பக்கம்
+
+
+tewikisource
+మొదటి పేజీ
+
+
+thwikisource
+หน้าหลัก
+
+
+trwikisource
+Anasayfa
+
+
+ukwikisource
+Головна сторінка
+
+
+vecwikisource
+Pagina prinsipale
+
+
+viwikisource
+Trang Chính
+
+
+wawikisource
+Wikisourd:Mwaisse pådje
+
+
+yiwikisource
+הויפט זייט
+
+
+zh_min_nanwikisource
+Thâu-ia̍h
+
+
+zhwikisource
+Wikisource:首页
+
+
+
+
+
+
+
+Wikiversity(17 entries)
+
+
+
+
+
+
+arwikiversity
+الصفحة الرئيسية
+
+
+cswikiversity
+Wikiverzita:Hlavní strana
+
+
+dewikiversity
+Hauptseite
+
+
+elwikiversity
+Κύρια Σελίδα
+
+
+enwikiversity
+Wikiversity:Main Page
+
+
+eswikiversity
+Portada
+
+
+fiwikiversity
+Etusivu
+
+
+frwikiversity
+Wikiversité:Accueil
+
+
+hiwikiversity
+विकिविश्वविद्यालय:मुखपृष्ठ
+
+
+itwikiversity
+Pagina principale
+
+
+jawikiversity
+メインページ
+
+
+kowikiversity
+위키배움터:대문
+
+
+ptwikiversity
+Página principal
+
+
+ruwikiversity
+Заглавная страница
+
+
+slwikiversity
+Glavna stran
+
+
+svwikiversity
+Portal:Huvudsida
+
+
+zhwikiversity
+Wikiversity:首页
+
+
+
+
+
+
+
+Wikivoyage(25 entries)
+
+
+
+
+
+
+bnwikivoyage
+প্রধান পাতা
+
+
+dewikivoyage
+Hauptseite
+
+
+elwikivoyage
+Κύρια Σελίδα
+
+
+enwikivoyage
+Main Page
+
+
+eowikivoyage
+Vikivojaĝo:Ĉefpaĝo
+
+
+eswikivoyage
+Página principal
+
+
+fawikivoyage
+صفحهٔ اصلی
+
+
+fiwikivoyage
+Etusivu
+
+
+frwikivoyage
+Accueil
+
+
+hewikivoyage
+עמוד ראשי
+
+
+hiwikivoyage
+मुखपृष्ठ
+
+
+itwikivoyage
+Pagina principale
+
+
+jawikivoyage
+メインページ
+
+
+nlwikivoyage
+Hoofdpagina
+
+
+plwikivoyage
+Strona główna
+
+
+pswikivoyage
+لومړی مخ
+
+
+ptwikivoyage
+Página principal
+
+
+rowikivoyage
+Pagina principală
+
+
+ruwikivoyage
+Заглавная страница
+
+
+shnwikivoyage
+ၼႃႈႁူဝ်ႁႅၵ်ႈ
+
+
+svwikivoyage
+Huvudsida
+
+
+trwikivoyage
+Anasayfa
+
+
+ukwikivoyage
+Головна сторінка
+
+
+viwikivoyage
+Trang Chính
+
+
+zhwikivoyage
+首页
+
+
+
+
+
+
+
+Wiktionary(173 entries)
+
+
+
+
+
+
+afwiktionary
+Tuisblad
+
+
+amwiktionary
+ዋና ገጽ
+
+
+angwiktionary
+Hēafodtramet
+
+
+anwiktionary
+Portalada
+
+
+arwiktionary
+ويكاموس:الصفحة الرئيسية
+
+
+astwiktionary
+Portada
+
+
+aswiktionary
+বেটুপাত
+
+
+aywiktionary
+Portada
+
+
+azwiktionary
+Ana səhifə
+
+
+bclwiktionary
+Panginot na Pahina
+
+
+bewiktionary
+Галоўная старонка
+
+
+bgwiktionary
+Уикиречник:Начална страница
+
+
+bjnwiktionary
+Laman Tatambaian
+
+
+blkwiktionary
+ဝိစ်သိဉ်နရီ:အဓိကလိတ်မဲ့ငါ
+
+
+bnwiktionary
+প্রধান পাতা
+
+
+brwiktionary
+Wikeriadur:Degemer
+
+
+bswiktionary
+Početna strana
+
+
+btmwiktionary
+Wikikamus:Alaman Utamo
+
+
+cawiktionary
+Viccionari:Portada
+
+
+chrwiktionary
+Wiktionary:ᎤᎵᎮᎵᏍᏗ
+
+
+ckbwiktionary
+ویکیفەرھەنگ:دەستپێک
+
+
+cowiktionary
+Pagina maestra
+
+
+csbwiktionary
+Przédnô starna
+
+
+cswiktionary
+Wikislovník:Hlavní strana
+
+
+cywiktionary
+Hafan
+
+
+dawiktionary
+Forside
+
+
+dewiktionary
+Wiktionary:Hauptseite
+
+
+dvwiktionary
+މައި ޞަފްޙާ
+
+
+elwiktionary
+Βικιλεξικό:Κύρια Σελίδα
+
+
+enwiktionary
+Wiktionary:Main Page
+
+
+eowiktionary
+Vikivortaro:Ĉefpaĝo
+
+
+eswiktionary
+Wikcionario:Portada
+
+
+etwiktionary
+Vikisõnastik:Esileht
+
+
+euwiktionary
+Azala
+
+
+fawiktionary
+ویکی‌واژه:صفحهٔ اصلی
+
+
+fiwiktionary
+Wikisanakirja:Etusivu
+
+
+fjwiktionary
+Tabana levu
+
+
+fowiktionary
+Wiktionary:Forsíða
+
+
+frwiktionary
+Wiktionnaire:Page d’accueil
+
+
+fywiktionary
+Wikiwurdboek:Haadside
+
+
+gawiktionary
+Príomhleathanach
+
+
+gdwiktionary
+Prìomh-Dhuilleag
+
+
+glwiktionary
+Wiktionary:Páxina principal
+
+
+gnwiktionary
+Ape
+
+
+gomwiktionary
+विक्शनरी:मुखेल पान
+
+
+gorwiktionary
+Palepelo
+
+
+guwiktionary
+મુખપૃષ્ઠ
+
+
+guwwiktionary
+Wikiwezẹhomẹ:Weda Tangan
+
+
+gvwiktionary
+Ard-ghuillag
+
+
+hawiktionary
+Marhabin
+
+
+hewiktionary
+ויקימילון:עמוד ראשי
+
+
+hifwiktionary
+Pahila Panna
+
+
+hiwiktionary
+मुखपृष्ठ
+
+
+hrwiktionary
+Glavna stranica
+
+
+hsbwiktionary
+Hłowna strona
+
+
+huwiktionary
+Wikiszótár:Kezdőlap
+
+
+hywiktionary
+Գլխավոր էջ
+
+
+iawiktionary
+Pagina principal
+
+
+idwiktionary
+Wikikamus:Halaman Utama
+
+
+iewiktionary
+Págine principal
+
+
+igwiktionary
+Ihu mbụ
+
+
+ikwiktionary
+Makpiġaaq Kanna
+
+
+iowiktionary
+Frontispico
+
+
+iswiktionary
+Wikiorðabók:Forsíða
+
+
+itwiktionary
+Pagina principale
+
+
+iuwiktionary
+ᐊᒥᖅ
+
+
+jawiktionary
+Wiktionary:メインページ
+
+
+jbowiktionary
+ralju ckupau
+
+
+jvwiktionary
+Wikisastra:Pendhapa
+
+
+kaawiktionary
+Wiktionary:Bas bet
+
+
+kawiktionary
+მთავარი გვერდი
+
+
+kbdwiktionary
+НапэкӀуэцӀ нэхъыщхьэ
+
+
+kcgwiktionary
+A̱tsak wat wu
+
+
+kkwiktionary
+Басты бет
+
+
+klwiktionary
+Saqqaa
+
+
+kmwiktionary
+ទំព័រដើម
+
+
+knwiktionary
+ಮುಖ್ಯ ಪುಟ
+
+
+kowiktionary
+위키낱말사전:대문
+
+
+kswiktionary
+اَہَم صَفہٕ
+
+
+kuwiktionary
+Destpêk
+
+
+kwwiktionary
+Folen dre
+
+
+kywiktionary
+Башкы барак
+
+
+lawiktionary
+Victionarium:Pagina prima
+
+
+lbwiktionary
+Wiktionnaire:Haaptsäit
+
+
+liwiktionary
+Wiktionary:Veurblaad
+
+
+lmowiktionary
+Pagina principala
+
+
+lnwiktionary
+Lokásá ya libosó
+
+
+lowiktionary
+Wiktionary:ໜ້າຫຼັກ
+
+
+ltwiktionary
+Vikižodynas:Pagrindinis puslapis
+
+
+lvwiktionary
+Sākumlapa
+
+
+mgwiktionary
+Wiktionary:Fandraisana
+
+
+mhwiktionary
+Main Page
+
+
+minwiktionary
+Laman Utamo
+
+
+miwiktionary
+Hau Kāinga
+
+
+mkwiktionary
+Главна страница
+
+
+mlwiktionary
+പ്രധാന താൾ
+
+
+mniwiktionary
+ꯃꯔꯨꯑꯣꯏꯕ ꯂꯃꯥꯏ
+
+
+mnwiktionary
+Нүүр хуудас
+
+
+mnwwiktionary
+ဝိက်ရှေန်နရဳ:မုက်လိက်တမ်
+
+
+mrwiktionary
+मुखपृष्ठ
+
+
+mswiktionary
+Laman Utama
+
+
+mtwiktionary
+Il-Paġna prinċipali
+
+
+mywiktionary
+ဝစ်ရှင်နရီ:ဗဟိုစာမျက်နှာ
+
+
+nahwiktionary
+Pewalistli
+
+
+nawiktionary
+Bwiema peij
+
+
+ndswiktionary
+Wiktionary:Hööftsiet
+
+
+newiktionary
+विक्सनरी:मुख्य पृष्ठ
+
+
+niawiktionary
+Wiktionary:Olayama
+
+
+nlwiktionary
+WikiWoordenboek:Hoofdpagina
+
+
+nnwiktionary
+Hovudside
+
+
+nowiktionary
+Wiktionary:Forside
+
+
+ocwiktionary
+Wikiccionari:Pagina d'acuèlh
+
+
+omwiktionary
+Fuula Dura
+
+
+orwiktionary
+ଉଇକିଅଭିଧାନ:ପୁରୁଣା ପ୍ରଧାନ ପୃଷ୍ଠା (୨୦୨୦)
+
+
+pawiktionary
+ਮੁੱਖ ਪੰਨਾ
+
+
+plwiktionary
+Wikisłownik:Strona główna
+
+
+pnbwiktionary
+مکھ صفحہ
+
+
+pswiktionary
+لومړی مخ
+
+
+ptwiktionary
+Wikcionário:Página principal
+
+
+quwiktionary
+Qhapaq p'anqa
+
+
+roa_rupwiktionary
+Prota frãndzã
+
+
+rowiktionary
+Pagina principală
+
+
+ruwiktionary
+Викисловарь:Заглавная страница
+
+
+rwwiktionary
+Main Page
+
+
+sawiktionary
+मुख्यपृष्ठम्
+
+
+scnwiktionary
+Pàggina principali
+
+
+sdwiktionary
+مُک صفحو
+
+
+sgwiktionary
+Gä nzönî
+
+
+shnwiktionary
+ဝိၵ်ႇသျိၼ်ႇၼရီႇ:ၼႃႈႁူဝ်ႁႅၵ်ႈ
+
+
+shwiktionary
+Glavna stranica
+
+
+shywiktionary
+Asebtar amenzu
+
+
+simplewiktionary
+Main Page
+
+
+siwiktionary
+වික්ෂනරි:මුල් පිටුව
+
+
+skrwiktionary
+پہلا پرت
+
+
+skwiktionary
+Wikislovník:Hlavná stránka
+
+
+slwiktionary
+Glavna stran
+
+
+smwiktionary
+Itulau Muamua
+
+
+snwiktionary
+Peji Rekutanga
+
+
+sowiktionary
+Bogga Hore
+
+
+sqwiktionary
+Faqja kryesore
+
+
+srwiktionary
+Главна страна
+
+
+sswiktionary
+Likhasi Lelikhulu
+
+
+stwiktionary
+Main Page
+
+
+suwiktionary
+Tepas
+
+
+svwiktionary
+Wiktionary:Huvudsida
+
+
+swwiktionary
+Mwanzo
+
+
+tawiktionary
+முதற் பக்கம்
+
+
+tewiktionary
+మొదటి పేజీ
+
+
+tgwiktionary
+Саҳифаи Аслӣ
+
+
+thwiktionary
+วิกิพจนานุกรม:หน้าหลัก
+
+
+tiwiktionary
+መበገሲ ገጽ
+
+
+tkwiktionary
+Baş Sahypa
+
+
+tlwiktionary
+Unang Pahina
+
+
+tnwiktionary
+Tsebe ya konokono
+
+
+tpiwiktionary
+Fran Pes
+
+
+trwiktionary
+Vikisözlük:Anasayfa
+
+
+tswiktionary
+Tlukankulu
+
+
+ttwiktionary
+Баш бит
+
+
+ugwiktionary
+باش بەت
+
+
+ukwiktionary
+Головна сторінка
+
+
+urwiktionary
+صفحۂ اول
+
+
+uzwiktionary
+Bosh sahifa
+
+
+vecwiktionary
+Wikisionario:Prinsipio
+
+
+viwiktionary
+Wiktionary:Trang Chính
+
+
+vowiktionary
+Vükivödabuk:Cifapad
+
+
+wawiktionary
+Wiccionaire:Mwaisse pådje
+
+
+wowiktionary
+Xëtu Njëlbéen
+
+
+yiwiktionary
+הויפט זייט
+
+
+yuewiktionary
+維基辭典:頭版
+
+
+zawiktionary
+Yiebdaeuz
+
+
+zh_min_nanwiktionary
+Thâu-ia̍h
+
+
+zhwiktionary
+Wiktionary:首页
+
+
+zuwiktionary
+Ikhasi Elikhulu
+
+
+
+
+
+
+
+Multilingual sites(10 entries)
+
+
+
+
+
+
+commonswiki
+Main Page
+
+
+foundationwiki
+Home
+
+
+mediawikiwiki
+MediaWiki
+
+
+metawiki
+Main Page
+
+
+outreachwiki
+Main Page
+
+
+sourceswiki
+Main Page
+
+
+specieswiki
+Main Page
+
+
+wikidatawiki
+Wikidata:Main Page
+
+
+wikifunctionswiki
+Wikifunctions:Main Page
+
+
+wikimaniawiki
+Wikimania
+
+
+
+
+
+
+
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q5296&oldid=2156031185"
+
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+EnglishNot logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+ItemDiscussion
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+ReadView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+
+
+
+
+
+Lexicographical data
+
+
+
+Create a new LexemeRecent changesRandom Lexeme
+
+
+
+
+
+Tools
+
+
+
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this pageGet shortened URLDownload QR code
+
+
+
+
+
+Print/export
+
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+
+
+ This page was last edited on 16 May 2024, at 14:32.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+
+
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Data access
+
+
+
+
+
+
+
+

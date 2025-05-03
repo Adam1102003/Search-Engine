@@ -1,0 +1,528 @@
+
+
+
+
+Help:Extension:WikibaseCirrusSearch - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+		In other languages
+	
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+Beginning
+
+
+
+
+
+1Keywords
+
+
+
+Toggle Keywords subsection
+
+
+
+
+
+1.1haswbstatement
+
+
+
+
+
+
+
+1.2inlabel/incaption
+
+
+
+
+
+
+
+1.3wbstatementquantity
+
+
+
+
+
+
+
+1.4hasdescription
+
+
+
+
+
+
+
+1.5haslabel/hascaption
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Help:Extension:WikibaseCirrusSearch
+
+
+
+
+
+
+
+
+
+
+HelpDiscussion
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From mediawiki.org
+
+
+Translate this pageLanguages:Deutsch
+English
+Yorùbá
+français
+slovenčina
+ไทย
+日本語
+
+
+Note: When you edit this page, you agree to release your contribution under the CC0. See Public Domain Help Pages for more info. 
+
+
+
+WikibaseCirrusSearch is an extension  on top of CirrusSearch , which enables some capabilities that are relevant for Wikibase.
+Below are described keywords and capabilities unique to this extension.
+Please see Help:CirrusSearch  for the rest of the syntax.
+
+
+Keywords
+haswbstatement
+Returns the items that have specific value in statement with specific property.
+The search is case-insensitive.
+For example, for item with value of human (Q5) in property instance of (P31) use: haswbstatement:P31=Q5 and for item with value "113230702" in property VIAF ID (P214) use haswbstatement:P214=113230702.
+You can also make queries without a specified value, e.g. for all items with property VIAF ID (P214) (in main value) use haswbstatement:P214.
+You can even leave out the property as well, and use haswbstatement:* to search for pages with any statement at all.
+To search for items that do not have a certain statement, add an “exclude” modifier, for example:
+
+-haswbstatement:P31=Q13442814
+The string -haswbstatement:P31 will find items with no instance of (P31) statement.
+Statements with qualifiers can also be searched for by adding a qualifier statement in square brackets.
+For example, to search for items that depict (P180) a cat (Q146) you can use haswbstatement:P180=Q146 - and to further specify that the cat must have the color (P462) black (Q23445) you can use haswbstatement:P180=Q146[P462=Q23445].
+A wildcard can also be used when specifying qualifiers - to find all items that depict a cat of any color use haswbstatement:P180=Q146|P462=*.
+Statement searches can be combined using logical OR by using a pipe character e.g. haswbstatement:P180=Q146|P180=Q144 will find all items that depict a cat OR a dog.
+Statements can be combined using logical AND by using two separate haswbstatement queries, e.g. haswbstatement:P180=Q146 haswbstatement:P180=Q144 will find all items that depict both a cat AND a dog.
+If values need to be quoted (e.g. when searching for strings), the quotation marks need to begin right after the colon, not after the equals sign; for example, use haswbstatement:"P225=Prionace glauca", not haswbstatement:P225="Prionace glauca".
+On Wikidata this currently works for all properties with "external identifier", "string", "item", "property", "lexeme", "form" and "sense" datatypes, except published in (P1433) and cites (P2860), which are currently omitted for performance reasons.
+
+inlabel/incaption
+ Warning: Currently, aliases are treated as labels in WikibaseCirrusSearch.
+Allows the user to search for pages that have wikibase labels, optionally in user specified languages.
+Example: inlabel:duck@en looks for items that have the word "duck" in their English labels.
+More than one language can be specified, separated by commas: inlabel:duck@en,fr,de.
+If you append * to the language name, fallbacks to this language will also be searched.
+If you append +, then 'en' (English) will be excluded from fallbacks: inlabel:gift@de-at+ searches for word "gift" in language "de-at" and its fallback chain, not including English.
+Language of "*" searches all labels using language-insensitive match (labels_all field) - it can only be specified on its own, not in combination with other languages.
+Not specifying the language - inlabel:gift@ or inlabel:gift - will also search all labels.
+If you need to search string with spaces, use quotes: inlabel:"manifesto futurista@pt-br,pt".
+incaption is the alias for inlabel and they work identically.
+
+wbstatementquantity
+Allows the user to search for pages/items that have wikibase statements associated with them, and specify quantities of those statements.
+If an item has the statement P180=Q5 with the qualifier P1114=5 (meaning "depicts human, quantity 5" in Wikidata), then it can be found using any of the following search queries:
+
+wbstatementquantity:P180=Q5<6
+wbstatementquantity:P180=Q5<=5
+wbstatementquantity:P180=Q5>=5
+wbstatementquantity:P180=Q5>4
+wbstatementquantity:P180=Q5=5
+
+Statements can be combined using logical OR by separating them using a pipe, e.g. wbstatementquantity:P999=Q888>5|P999=Q888<8.
+Statements can be combined using logical AND by using two separate wbstatementquantity queries, e.g. wbstatementquantity:P999=Q888>5 wbstatementquantity:P999=Q888<8 (a range search) or wbstatementquantity:P999=Q888>5 wbstatementquantity:P999=Q777<8
+Note that not all statements are indexed.
+Searching for a statement about a property that has not been indexed will give an empty result.
+This feature isn't enabled on any wiki at the moment.
+
+hasdescription
+Returns Wikibase items which have a description populated in the specified language.
+For example, to search for items with a description in Japanese, use hasdescription:ja.
+Supports providing multiple language codes to support a search for items with a description in language X OR Y.
+For example, hasdescription:it,hu will return items with a description in Italian OR Hungarian.
+It can also be used multiple times to impose multiple requirements on returned results.
+For example, hasdescription:en hasdescription:de will return items with descriptions in English AND German, and hasdescription:es -hasdescription:fr will return items with a description in Spanish and without a description in French.
+
+haslabel/hascaption
+Same as hasdescription, but for labels (also known informally as captions).
+hascaption is provided as an alias, as with inlabel/incaption above.
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Help:Extension:WikibaseCirrusSearch&oldid=6468579"
+Categories: SearchHelpWikibase
+
+
+
+
+
+
+ This page was last edited on 14 April 2024, at 04:46.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

@@ -1,0 +1,536 @@
+
+
+
+
+
+Teads Advertising Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy â General notice
+Teads.com
+At Teads, we believe in everyoneâs right to have a safer digital environment and to have its fundamental rights respected.
+
+In order to do so, we provide you with :
+
+A clear information about the ad you have just seen.
+An easy way to report this ad.
+A full privacy policy and a way to exercise your rights on your data.
+
+
+
+
+
+
+About this ad
+
+
+Advertiser
+Company name
+
+
+Paid by
+Buyer name
+
+
+
+Report Ad
+
+
+Why are you seeing this ad ?
+
+Basic advertising: the ad is displayed based on the content of the website you are visiting, the type of content, the type of device your are using, the IP address of your device or general location such as country or city.
+Profiling: the ad is displayed based on your similarity to groups of people that the advertiser is trying to reach, based on your online activity, based on, for example: your age group, your gender, your level of education, or your interests.
+
+To learn more about other actors that may use tracking technologies on your terminal you can go to Your online choices.
+
+
+
+Version franÃ§aise
+æ¥æ¬èªç
+Brazilian version
+
+
+Version released on February 15, 2024, effective as of February 15, 2024
+
+
+
+
+Privacy Policy â General notice
+Deactivate Teads Personalized ads
+Access your data
+UK Privacy Notice
+User rights
+European Privacy Notice
+User rights
+US Privacy Notice
+User rights
+Japanese Privacy Notice
+User rights
+Brazilian Privacy Notice
+User rights
+Business Partners
+Self-regulation commitments
+
+
+
+
+
+We have updated our Privacy Policy to provide you with greater transparency and clarity about how we collect and process your personal data.
+In particular, we have changed the structure by creating local or regional sections, to make it easier for you to read and understand what applies to you.
+Finally, we have also changed the access to your rights so that you can exercise them more easily and in accordance with your local legislation when applicable.
+
+
+
+Our identity and group contact details
+Information about our activity 
+Scope of the Privacy Policy 
+What type of information we collect, from which sources, and retention period
+What are the categories of recipients
+How we store your information
+How to exercise your rights
+Changes to this General notice
+
+
+
+
+1. Our identity and group contact details
+
+For a general overview, Teads is a group of companies disclosed in this page, held by Teads SA based in Luxembourg and providing the Services described in section 2 below, across the globe.Â 
+For any general questions about this privacy policy, our data practices or to exercise your rights, you can contact the global Data Protection Officer (DPO):Â 
+
+By email: dpo@teads.com
+
+By mail:
+Teads SA
+5 rue de la Boucherie
+L-1247 Luxembourg
+
+For any information related to a specific region or a country, please select the appropriate section on the left side of this page.Â 
+
+
+
+2. Information about our activity 
+
+Teads is an intermediary in the online advertising industry, connecting publishers and advertisers all over Europe, the United States, Latin America, the Middle East, North-Africa and Asia.Â 
+We provide services (âServicesâ) to both publishers and advertisers.Â Â 
+Publishers use Teadsâ technology to monetize their ad spaces. They can operate either themselves directly with the Advertisers or with the support of Teadsâ Affiliates sales services. We might therefore access your data when you visit a website where a publisher uses our technology for online ads on its publications.
+Advertisers or their intermediaries (e.g., media agencies) display their advertising campaigns through Teads technology on the websites or apps of our publisher partners. They can operate either themselves directly with the Publishers or through Teadsâ Affiliates sales services. This means we might access your data when you visit an advertiser website using our tracking technologies.Â 
+
+
+
+3. Scope of the Privacy Policy 
+
+This privacy policy details Teadsâ privacy practices on how we collect, use, process and share information we may collect through our advertising services (collectively, the âServicesâ) as well as the ways in which individuals may exercise control over the use of information collected by us.
+The section âGeneral noticeâ provides you with the information that is general to Teads group.Â 
+The local sections provide you with the information specific to your region or country and explain the rights which apply under the local privacy laws applicable to you, and how you can exercise these rights.Â 
+Please note that this privacy policy does not describe Teadsâ data practices relating to information Teads collects through its own website www.teads.com, which is accessible on this link Teads Website Privacy Policy.Â 
+
+
+
+4. What type of information we collect, from which sources, and retention period
+
+This section explains the type of information we collect and process to perform our Services, by what means and from which sources. We also tell you how long we keep such information. Please note that the local sections provide you with more details according to the applicable local regulation. You should be aware that different local laws have different rules as to what data is considered personal information.Â 
+4.1 Information we collect
+Teads collects information from three different sources: from the publisherâs website and mobile applications, from the advertiserâs website and from its data partners as detailed below.Â 
+Please note that we donât process information like your name, email address or any ID card number.
+
+
+From publisher websites and mobile applications:
+
+
+In the web environment, Teads collects this information through our web tags which are small pieces of code inserted into the publisherâs web pages.Â 
+In the mobile application environment, we collect data through our Software Development Kit (SDK) on publisher mobile applications. An SDK is a collection of software used for developing applications for a specific device or operating system.Â 
+
+
+
+Type of Information we collect
+Retention period
+
+
+
+
+
+Cookie ID: Teads may store a cookie on your web and/or mobile browser. The cookie ID is a piece of text that allows Teads to recognize your browser and assign it to the data that we collect.
+
+
+
+
+The cookie ID is stored in the browser for 365 days after its creation. Records of activities linked to the cookie ID are stored in our database for 4 months.Â 
+
+
+
+
+
+
+Mobile Advertising ID: They are generated by the iOS. On mobile applications, Teads may access the Advertising ID of your mobile device (called “Google Advertising ID” or GAID on Android and “ID For Advertisers” or IDFA on Apple iOS. It allows Teads to recognize your device and assign it to data we collect.Â 
+
+
+
+4 months
+
+
+
+
+
+IP Address: For browsers set up to not allow cookies to be placed on them, Teads uses an identification methodology based on IP address (which is securely encrypted so that the process cannot be reversed), browser, and device characteristics. This method enables Teads to support functionalities such as fraud detection, campaign planning and ad effectiveness measurement.
+
+
+
+4 months
+
+
+
+
+
+Approximate postcode derived from IP Address (also named Non-precise Geolocation in our industry)
+
+
+
+4 months
+
+
+
+
+
+Page URL, Mobile application information (e.g. Website name or Application name)
+
+
+
+4 months
+
+
+
+
+
+Your interactions with Teads ads (e.g if you click on an ad, how long you spend looking at it, etc)
+
+
+
+4 months
+
+
+
+
+
+Date and time (e.g the ad is displayed, you interact with the ad)
+
+
+
+4 months
+
+
+
+
+
+Browser Information (e.g. Browser name and version)
+
+
+
+4 months
+
+
+
+
+
+Device Information (e.g. Device type, operating system)
+
+
+
+4 months
+
+
+
+
+
+Network type or mobile carrier information (e.g. Wifi, 4G)
+
+
+
+4 months
+
+
+
+ 
+
+
+From advertiser websites:Â 
+
+
+In the web environment, when you click on a Teads ad, this action redirects you to the Advertiserâs website. The Advertiser placed a script on its webpages so as to collect the information set out in the table below. This information enables Teads to compute statistics on the amount of time spent on the site, the number of pages viewed or particular actions carried out on the site after clicking on a Teads ad.Â 
+
+
+
+Type of InformationÂ 
+Retention period
+
+
+
+
+Cookie ID
+
+
+
+The cookie ID is stored in the browser for 365 days after its creation. Records of activities linked to the cookie ID are stored in our database for 4 months.Â 
+
+
+
+
+
+IP addressÂ 
+
+
+4 months
+
+
+
+
+Page URL
+
+
+4 months
+
+
+
+
+
+Date and time (e.g the ad is displayed, you interact with the ad)
+
+
+
+4 months
+
+
+
+
+Browser Information (e.g. Browser name and version)
+
+
+4 months
+
+
+
+
+Device Information (e.g. Device type, operating system)
+
+
+4 months
+
+
+
+
+Click ID, which is generated when there is a connection from the publisher’s website to the advertiser’s website.Â 
+
+
+4 months
+
+
+
+ 
+
+
+From our data partners:Â Â 
+
+
+We collect information through data exchange platforms which are online platforms where advertising data is shared. They provide Teads with audience segments, which are groups of user IDs that share common characteristics such as age, gender, interest, purchase intent, etc.Â 
+We use different means to collect this information:Â 
+
+
+Cookie synchronization which is a process that allows Teads and its data partners to synchronize their respective identifiers (such as cookies) for a given user browser and share the information across different web environments.
+
+
+Server to server exchange, where data exchange platforms send to Teads servers the usersâ segments (attributes) related to the users previously matched with Teads during the cookie-sync process.
+
+
+
+
+
+Type of Information we collect
+Retention period
+
+
+
+
+Cookie ID (see above for more details)
+
+
+The cookie ID is stored in the browser for 365 days after its creation. Records of activities linked to the cookie ID are stored in our database for 4 months.Â 
+
+
+
+
+Mobile Advertising ID (see above for more details)
+
+
+30 days
+
+
+
+
+Data segment (Your cookie/mobile advertising ID may be assigned to a category with other users who have a similar profile, called a segment)
+
+
+30 daysÂ 
+
+
+
+ 
+4.2 Information we donât collect
+No data about children. We do not collect data that allows us to detect that an individual is a minor in any deterministic way. Therefore, we do not process this type of data or target this audience. Nor do we allow our clients or partners to do so through our Services.
+No data relating to criminal convictions and offences. Teads does not knowingly collect nor process any data relating to criminal offences or accusations.
+Please see the relevant sections in each of our regional policies for information about how we use special categories of personal data.
+
+
+
+5. What are the categories of recipients
+
+In order to provide the services described in section 2 above (‘Services’), we share data (including personal information) with third party vendors, service providers, contractors and agents who perform functions on our behalf, including the ones listed below. Our service providers are authorized to use the information we provide only where such disclosure is necessary to provide these services to us. These third parties have agreed to minimization and proportionality restrictions and use any personal information we share with them either solely for the purpose of providing the contracted service to us or, when they act as independent controller, in compliance with the laws applicable to them.
+Business Partners. Please see the section âBusiness Partnersâ which provides you with the relevant information.Â 
+Teadsâs affiliates. As part of the operations of the Teads group, Teads companies may disclose the information collected through the Services to other affiliates or subsidiaries for the purposes described in this privacy policy. Teads affiliatesâ use and disclosure of your personal information will be subject to this privacy policy. The list of Teadsâs affiliates is accessible on this page.Â 
+Other Disclosures. We also may disclose information in the following circumstances.
+
+
+Business Transfers. If we are or may be acquired by or merged with another company, if any of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer your personal information to the other company.
+
+
+In Response to Legal Process. We also may disclose your personal information in order to comply with the law, a judicial proceeding, court order, or other legal processes, such as in response to a court order or a subpoena.
+
+
+To Protect Us and Others. We also may disclose your personal information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy, or as evidence in litigation in which Teads is involved.
+
+
+Aggregate and De-Identified Information. We may share aggregate or de-identified information about users with third parties for marketing, advertising, research or similar purposes.
+
+
+
+
+
+6. How we store your information
+
+We will store your personal information for as long as is reasonably necessary for the purposes for which it was collected, as explained in this privacy policy. Where your information is no longer needed, we will ensure that it is disposed of in a secure manner.Â 
+Your personal information will be retained in accordance with our data retention policy which is designed to retain data for as long as needed for us to comply with our contractual obligations, employment obligations, and other business purposes, including global legal obligations to retain data. We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our Terms of Use, or take other actions permitted by law.Â 
+Security. Teads uses generally accepted industry security standards to protect data.
+We have implemented and we maintain appropriate technical and organizational security measures, policies and procedures to protect the information we collect from unauthorized access, exfiltration, theft, loss, misuse, disclosure, alteration, or destruction. Please be aware that despite our best efforts, no data security measures can guarantee security. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity. Measures we take include:
+
+Placing confidentiality requirements on our staff members and service providers;
+Destroying or permanently anonymizing personal information if it is no longer needed for the purpose for which it was collected;
+Following strict security procedures in the storage and disclosure of your personal information to prevent unauthorized access to it.Â 
+
+How we intend to securely destroy or dispose of your informationÂ 
+The retention periods are disclosed for each type of information in section 4 of the General notice.Â 
+Data within Teads is set with an expiry date and is automatically destroyed in accordance with our Data Deletion Policy when the expiry date is reached.
+
+
+
+7. How to exercise your rights
+
+This section is intended to allow you to request that we cease using your personal information to personalize ads (âDeactivate Teads personalized adsâ, also known as opt-out) or to access your data.Â 
+In this section, we explain to you what is the process to follow in a web environment and in a mobile application environnement, and the consequences of such action.Â 
+Please note that specific or additional rights may be granted to you depending on your local legislation. We recommend that you visit the applicable local privacy notice to have the exhaustive list of your rights on your data.
+Deactivate Teads personalized ads
+On Internet browsers
+To withdraw your consent to all Teads personalized ads, exercise your right to erase your data, or your right to object to the processing that Teads may make of your personal data, please click on the button below:
+Exercise your right
+What are the consequences of Teads personalized ads deactivation ?
+After the deactivation of Teads personalized ads:
+
+The Teads cookies that allow us to recognize this browser and link it to the data we have will be deleted from your browser,
+Teads will stop collecting personal data about you,
+Teads will stop displaying personalized ads on this browser. You will still see ads from Teads based on contextual information such as the page you are visiting and the country you are in.
+
+Please note that disabling Teads personalized ads does not prevent personalized ads from being displayed by other industry players. If you want to quickly and easily withdraw your consent to interest-based advertising from a range of industry players, including Teads, we invite you to click on the following YourOnlineChoices link.
+If you wish to extend your choice to other browsers or to other devices, we invite you to repeat the operation from each of them.Â 
+Teads Partners
+To withdraw your consent to personalized ads from other partners, exercise your right to erase your data, or your right to object to the processing that other partners may make of your personal data, please click on the button below:
+Exercise your rights with Teads Partners
+If you wish to have more information about Teads business partners, please click here.
+On mobile applications
+To withdraw your consent to all Teads personalized ads, exercise your right to erase your data, or your right to object to the processing that Teads may make of your personal data on mobile applications, please follow the instructions below:
+
+
+If you have an Apple (iOS) smartphone or tablet: go to âSettingsâ > âPrivacyâ > âTrackingâ, then turn off permission to track on the apps (see Apple support)
+
+
+If necessary, you can also consult the instructions provided by Apple here
+
+
+If you have an Android smartphone or tablet: go to âSettingsâ > âGoogleâ > âAdsâ, then âReset Advertising IDâ or âOpt out of Ads Personalizationâ.
+
+
+If necessary, you can also consult the instructions provided by Google here
+What are the consequences of Teads personalized ads deactivation ?
+Such a configuration of your device will result in:
+
+The termination of the collection of your personal data by Teads
+The termination of the display of personalized ads by Teads when you are using apps installed on this device.
+
+Please note that you will continue to see ads, but they will not be personalized.
+If you wish to extend your choice to other devices, we invite you to repeat the operation from each of them.
+Access your data
+To exercise your right of access to your personal data, please send us an email at dpo@teads.com, specifying your Teads cookie ID below.
+Show me my Teads ID
+Following the exercise of your right of access, we will provide you with an excel file containing your personal data related to the device and the browser used for your request.
+
+
+
+8. Changes to this General notice
+
+This General notice is effective as of the date indicated at the top of this page. Please note that the effective date of local notices may differ.Â 
+Minor changes. We may make minor changes from time to time that do not materially affect the way we process your information or the way you can exercise your rights. These minor changes are mainly cosmetic, such as changing the font, correcting typos, etc.Â 
+Significant changes. When significant changes are to be made, we will endeavour to notify you 5 days prior to the publication of these changes, by highlighting them on our website. Significant changes are:Â 
+
+Changes in laws and regulations,Â 
+Introduction of new products or services,Â 
+Changes in the way we process personal information
+Changes in the ways you can exercise your rightsÂ 
+Changes in our corporate structure.Â 
+
+Notwithstanding the changes described above, weâll review this General notice every 12 months to ensure the accuracy of the information.Â 
+ 
+If any further action is required to be taken under a local law, the information will be disclosed to you in the section dedicated to the relevant location.
+
+
+
+
+
+
+
+
+Copyright 2024  - Made with â¥ in Montpellier
+
+
+
+
+
+
+

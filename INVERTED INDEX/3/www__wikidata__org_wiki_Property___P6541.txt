@@ -1,0 +1,670 @@
+
+
+
+
+Stack Exchange site URL - Wikidata
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stack Exchange site URL
+(P6541)
+
+
+From Wikidata
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+link to a Stack Exchange network website for the conceptStack Exchange link
+
+
+
+
+Language
+Label
+Description
+Also known as
+
+
+
+English
+Stack Exchange site URL
+link to a Stack Exchange network website for the concept
+
+Stack Exchange link
+
+
+
+Data type
+URL
+Statements
+
+instance of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikidata property
+
+
+
+
+
+
+
+1 reference
+
+
+
+
+
+Wikimedia import URL
+
+
+
+
+https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Stack_Exchange_site&oldid=867036358
+
+
+
+
+
+
+
+
+
+
+
+
+Wikidata item of this property
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stack Exchange
+
+
+
+
+
+
+
+1 reference
+
+
+
+
+
+Wikimedia import URL
+
+
+
+
+https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Stack_Exchange_site&oldid=867036358
+
+
+
+
+
+
+
+
+
+
+
+
+Wikidata property example
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mathematics
+
+
+
+
+
+
+
+Stack Exchange site URL
+
+
+
+
+https://math.stackexchange.com
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Esperanto
+
+
+
+
+
+
+
+Stack Exchange site URL
+
+
+
+
+https://esperanto.stackexchange.com
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+URL match pattern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(^https?:\/\/[A-Za-z0-9](?:[A-Za-z0-9\-]{0,61}[A-Za-z0-9])?\.stackexchange\.com)
+
+
+
+
+
+
+
+website title extract pattern
+
+
+
+
+^(.*\bStack Exchange)$
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+related property
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stack Exchange tag
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+property proposal discussion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.wikidata.org/wiki/Wikidata:Property_proposal/Stack_Exchange_site
+
+
+
+
+
+
+
+1 reference
+
+
+
+
+
+Wikimedia import URL
+
+
+
+
+https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Stack_Exchange_site&oldid=867036358
+
+
+
+
+
+
+
+
+
+
+
+
+Mix'n'match catalog ID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3941
+
+
+
+
+
+
+
+latest start date
+
+
+
+
+8 November 2020
+
+
+
+
+
+
+
+subject named as
+
+
+
+
+Stack Exchange site
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+Constraints
+
+property constraint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+allowed-entity-types constraint
+
+
+
+
+
+
+
+item of property constraint
+
+
+
+
+Wikibase item
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+property scope constraint
+
+
+
+
+
+
+
+property scope
+
+
+
+
+as main value
+
+
+
+
+
+
+
+0 references
+
+
+
+
+
+
+
+
+
+
+Retrieved from "https://www.wikidata.org/w/index.php?title=Property:P6541&oldid=2132613436"
+
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+EnglishNot logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+PropertyDiscussion
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+ReadView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+
+
+
+
+
+Lexicographical data
+
+
+
+Create a new LexemeRecent changesRandom Lexeme
+
+
+
+
+
+Tools
+
+
+
+What links hereRelated changesSpecial pagesPermanent linkPage informationConcept URICite this pageGet shortened URLDownload QR code
+
+
+
+
+
+Print/export
+
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+ This page was last edited on 19 April 2024, at 08:31.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+
+
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Data access
+
+
+
+
+
+
+
+

@@ -1,0 +1,394 @@
+
+
+
+
+Project:Sandbox - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+		In other languages
+	
+
+
+Qafár afAcèhАдыгабзэAfrikaansAlemannischAragonésÆngliscअंगिकाالعربيةالدارجةمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBasa BaliBoarischБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीBanjarပအိုဝ်ႏဘာႏသာႏBamanankanবাংলাབོད་ཡིགBrezhonegBosanskiBasa UgiБуряадCatalà閩東語 / Mìng-dĕ̤ng-ngṳ̄CebuanoᏣᎳᎩکوردیCorsuČeštinaСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟCymraegDanskDeutschThuɔŋjäŋZazakiDolnoserbskiडोटेलीދިވެހިބަސްEʋegbeΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanFryskGaeilge贛語GàidhligGalegoBahasa Hulontaloગુજરાતી客家語/Hak-kâ-ngîHawaiʻiעבריתहिन्दीFiji HindiHrvatskiHornjoserbsceKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIlokanoГӀалгӀайÍslenskaItaliano日本語La .lojban.JawaქართულიҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرRipoarischKurdîKernowekLatinaLadinoLëtzebuergeschLimburgsLigureLombardLingálaລາວLietuviųLatviešuमैथिलीBasa BanyumasanОлык марийMāoriМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာمازِرونیDorerin NaoeroNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाLi NihaNederlandsNorsk nynorskNorsk bokmålSesotho sa LeboaOccitanOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPapiamentuPälzischपालिPolskiPiemontèisپنجابیپښتوPortuguêsRomânăArmãneashtiTarandíneРусскийРусиньскыйसंस्कृतम्Саха тылаᱥᱟᱱᱛᱟᱲᱤSarduSicilianuScotsسنڌيDavvisámegiellaSrpskohrvatski / српскохрватскиTaclḥitၽႃႇသႃႇတႆး සිංහලSimple EnglishSlovenčinaSlovenščinaAnarâškielâSoomaaligaShqipСрпски / srpskiSesothoSeelterskSundaSvenskaKiswahiliSakizayaதமிழ்తెలుగుTetunТоҷикӣไทยትግርኛTürkmençeTagalogSetswanaTürkçeXitsongaТатарча / tatarçaУдмуртئۇيغۇرچە / UyghurcheУкраїнськаاردوVepsän kel’Tiếng ViệtWest-VlamsWinaray吴语ייִדישYorùbáVahcuenghZeêuwsⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ中文文言閩南語 / Bân-lâm-gú粵語IsiZulu
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project:Sandbox
+
+
+
+
+
+
+
+
+
+
+MediaWiki.orgDiscussion
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikimedia FoundationMeta-WikiWikimedia OutreachMultilingual WikisourceWikispeciesWikibooksWikidataWikifunctionsWikimaniaWikinewsWikipediaWikisourceWikiversityWikivoyageWiktionary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From mediawiki.org
+
+
+
+Edit this page
+This "sandbox" page is to allow you to carry out experiments.
+Please feel free to try your skills at formatting here.
+If you want to learn more about how to edit a wiki, please read this introduction or the tutorial at Wikipedia.
+This Sandbox is for the classic editing interface.
+You can also perform test edits to Structured Discussions/Sandbox.
+There's also a Sandbox for the VisualEditor.
+To edit, click here or "Edit" at the top of the page, make your changes in the dialog box, and click the "Publish changes…" button when you are finished. Please do not add material that is any way offensive, that is copyrighted, or that is at all libelous.
+Content added here will not stay permanently; this page is cleared regularly.
+
+
+ Edit  Reset
+
+Testing Area
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Project:Sandbox&oldid=6526313"
+
+
+
+
+
+
+
+ This page was last edited on 17 May 2024, at 01:45.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

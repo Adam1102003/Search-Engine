@@ -1,0 +1,965 @@
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+The fundamentals of open access and open research  | Open research | Springer Nature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+EN
+
+
+
+
+CN (Chinese)
+
+
+
+DE (German)
+
+
+
+ES (Spanish)
+
+
+
+FR (Français)
+
+
+
+JP (Japanese) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open research
+
+
+
+
+
+Home
+
+
+
+Products
+
+
+
+Open Research
+
+
+
+Authors
+
+
+
+Booksellers
+
+
+
+Editors
+
+
+
+Peer Reviewers
+
+
+
+Librarians
+
+
+
+Societies
+
+
+
+Partners
+
+
+
+Policies
+
+
+
+Shop
+
+
+
+What we do
+
+
+
+Contact
+
+
+
+Careers ↗
+
+
+
+Springer Nature Group ↗
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Fundamentals of open research
+
+
+
+Gold or Green routes to open research
+
+
+
+
+
+
+
+Benefits of open research
+
+
+
+Open research timeline
+
+
+
+
+
+
+
+Whitepapers
+
+
+
+Contact us
+
+
+
+About overview
+
+
+
+
+
+
+
+
+Journals & books
+
+
+
+
+
+Journals
+
+
+
+Journal pricing FAQs
+
+
+
+
+
+
+
+Books
+
+
+
+Publishing an OA book
+
+
+
+Journals & books overview
+
+
+
+
+
+
+
+
+Funding & support
+
+
+
+
+
+OA article funding
+
+
+
+Article OA funding and policy guidance
+
+
+
+
+
+
+
+OA book funding
+
+
+
+Book OA funding and policy guidance
+
+
+
+Funding & support overview
+
+
+
+
+
+
+
+
+Open access agreements
+
+
+
+Data
+
+
+
+Open science policies
+
+
+
+
+
+Springer Nature journal policies
+
+
+
+APC waivers and discounts
+
+
+
+
+
+
+
+Springer Nature book policies
+
+
+
+Publication policies overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+The fundamentals of open access and open research 
+
+
+
+
+
+
+
+
+
+
+
+
+What is open access and open research?Open access (OA) refers to the free, immediate, online availability of research outputs such as journal articles or books, combined with the rights to use these outputs fully in the digital environment. OA content is open to all, with no access fees.Open research goes beyond the boundaries of publications to consider all research outputs – from data to code and even open peer review. Making all outputs of research as open and accessible as possible means research can have a greater impact, and help to solve some of the world’s greatest challenges.
+
+
+
+
+
+
+
+Learn more about gold open access
+
+
+
+
+
+
+
+How can I publish my work open access?As the author of a research article or book, you have the ability to ensure that your research can be accessed and used by the widest possible audience. Springer Nature supports immediate Gold OA as the most open, least restrictive form of OA: authors can choose to publish their research article in a fully OA journal, a hybrid or transformative journal, or as an OA book or OA chapter.Alternatively, where articles, books or chapters are published via the subscription route, Springer Nature allows authors to archive the accepted version of their manuscript on their own personal website or their funder’s or institution’s repository, for public release after an embargo period (Green OA). Find out more.Why should I publish OA?Increased citation and usage: Studies have shown that open access articles are viewed and cited more often than articles behind a paywall.Wider collaboration: Open access publications and data enable researchers to carry out collaborative research on a global scale.Greater public engagement: Content is available to those who can't access subscription content.Faster impact: With permissive licences like CC BY, researchers are empowered to build on existing research quickly.Increased interdisciplinary conversation: Open access journals that cross multiple disciplines help researchers connect more easily and provide greater visibility of their research.Compliance with open access mandates: Open access journals and books comply with major funding policies internationally.
+
+
+
+
+
+What is CC BY?The CC BY licence is the most open licence available and considered the industry 'gold standard' for OA; it is also preferred by many funders. It lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. It offers maximum dissemination and use of licenced materials. All Springer Nature journals with OA options offer the CC BY licence, and this is now the default licence for the majority of Springer Nature fully OA journals. It is also the default license for OA books and chapters. Other Creative Commons licenses are available on request.How do I pay for open access?As costs are involved in every stage of the publication process, authors are asked to pay an open access fee  in order for their article to be published open access under a creative commons license. Springer Nature offers a free open access support service to make it easier for our authors to discover and apply for funding to cover article processing charges (APCs) and/or book processing charges (BPCs). Find out more.What is open data?We believe that all research data, including research files and code, should be as open as possible and want to make it easier for researchers to share the data that support their publications, making them accessible and reusable. Find out more about our research data services and policies.What is a preprint?A preprint is a version of a scientific manuscript posted on a public server prior to formal peer review. Once posted, the preprint becomes a permanent part of the scientific record, citable with its own unique DOI. Early sharing is recommended as it offers an opportunity to receive feedback on your work, claim priority for a discovery, and help research move faster. In Review is one of the most innovative preprint services available, offering real time updates on your manuscript’s progress through peer review. Discover In Review and its benefits.What is open peer review?Open peer review refers to the process of making peer reviewer reports openly available. Many publishers and journals offer some form of open peer review, including BMC who were one of the first publishers to open up peer review in 1999. Find out more.
+
+
+
+
+
+
+Blog posts on open access from "The Source"
+
+
+
+
+
+
+Open Research
+
+How to publish open access with fees covered
+
+Could you publish open access with fees covered under a Springer Nature open access agreement? 
+
+
+
+T
+
+The Source
+ 12 Apr 2023
+
+
+
+
+
+
+
+
+
+
+Open Research
+
+Celebrating our 2000th open access book
+
+We are proud to celebrate the publication of our 2000th open access book. Take a look at how we achieved this milestone.
+
+
+
+T
+
+The Source
+ 02 Nov 2022
+
+
+
+
+
+
+
+
+
+
+open access
+
+Why is Gold OA best for researchers?
+
+Explore the advantages of Gold OA, by reading some of the highlights from our white paper "Going for Gold".
+
+
+
+T
+
+The Source
+ 03 Dec 2021
+
+
+
+
+
+
+
+
+
+
+Open Research
+
+How researchers are using open data in 2022
+
+How are researchers using open data in 2022? Read this year’s State of Open Data Report,  providing insights into the attitudes, motivations and challenges of researchers towards open data.
+
+
+
+T
+
+The Source
+ 02 Nov 2022
+
+
+
+
+
+
+
+
+
+
+Ready to publish?
+
+
+
+
+
+A pioneer of open access publishing, BMC is committed to innovation and offers an evolving portfolio of some 300 journals.
+
+
+
+
+
+
+
+
+
+Open research is at the heart of Nature Research. Our portfolio includes Nature Communications, Scientific Reports and many more.
+
+
+
+
+
+
+
+
+
+Springer offers a variety of open access options for journal articles and books across a number of disciplines. 
+
+
+
+
+
+
+
+
+
+Palgrave Macmillan is committed to developing sustainable models of open access for the HSS disciplines.
+
+
+
+
+
+
+
+
+
+Apress is dedicated to meeting the information needs of developers, IT professionals, and tech communities worldwide.
+
+
+
+
+
+
+
+
+Products
+
+Journals
+
+Books
+
+Data
+
+
+
+
+
+
+Discover more tools and resources along with our author services
+
+
+
+
+
+Author services
+
+
+
+
+
+
+
+
+
+Early Career Resource Center 
+
+
+
+
+
+
+
+
+
+Journal Suggester
+
+
+
+
+
+
+
+
+
+Using Your ORCID ID
+
+
+
+
+
+
+
+
+
+The Transfer Desk
+
+
+
+
+
+
+
+
+Tutorials and educational resources
+
+
+
+
+
+How to Write a Manuscript
+
+
+
+
+
+
+
+
+
+How to submit a journal article manuscript
+
+
+
+
+
+
+
+
+
+Nature Masterclasses
+
+
+
+
+
+
+
+
+Stay up to date
+
+
+
+
+_
+
+
+
+
+Follow us on Twitter
+Here to foster information exchange with the library community
+
+
+
+
+
+
+
+
+_
+
+
+
+
+Follow us on Facebook
+
+
+
+
+
+
+
+
+_
+
+
+
+
+Connect on LinkedIn
+Connect with us on LinkedIn and stay up to date with news and development.
+
+
+
+
+
+
+
+
+small_youtube
+
+
+
+Watch us on YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us on Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+Journals
+
+
+
+Books
+
+
+
+Platforms
+
+
+
+Databases
+
+
+
+
+
+
+
+Researchers & Partners
+
+
+
+
+Authors
+
+
+
+Editors
+
+
+
+Open Research
+
+
+
+Societies
+
+
+
+Partners
+
+
+
+Policies
+
+
+
+
+
+
+
+Librarians
+
+
+
+
+Overview
+
+
+
+Products
+
+
+
+Licensing
+
+
+
+Tools & Services
+
+
+
+Account Development
+
+
+
+Blog
+
+
+
+Sales and account contacts
+
+
+
+
+
+
+
+Our company
+
+
+
+
+Overview
+
+
+
+About us
+
+
+
+Careers
+
+
+
+Education
+
+
+
+Professional
+
+
+
+Press office
+
+
+
+Locations & Contact
+
+
+
+
+
+
+
+
+Contact
+
+
+
+Shop
+
+
+
+About us 
+We are a world leading research, educational and professional publisher. Visit our main website for more information.
+Springer Nature Group  ↗
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_
+
+
+_
+
+
+_
+
+
+
+
+
+
+
+
+
+
+
+
+© 2024 Springer Nature
+
+
+
+General terms and conditions
+
+
+
+Privacy
+
+
+
+Your US State Privacy Rights
+
+
+
+Your Privacy Choices / Manage Cookies
+
+
+
+Accessibility
+
+
+
+Legal notice
+
+
+
+Help us to improve this site, send feedback.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

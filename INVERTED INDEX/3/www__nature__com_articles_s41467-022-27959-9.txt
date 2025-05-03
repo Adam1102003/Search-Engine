@@ -1,0 +1,1179 @@
+
+
+
+Epigenetic aging of the demographically non-aging naked mole-rat | Nature Communications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all journals
+
+
+
+
+Search
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+
+About the journal
+
+
+
+
+Publish with us
+
+
+
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+
+
+
+nature
+
+
+
+nature communications
+
+
+
+articles
+
+
+
+
+article
+
+
+
+
+
+
+
+
+
+                        Epigenetic aging of the demographically non-aging naked mole-rat
+                    
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+Article
+
+Open access
+
+Published: 17 January 2022
+
+Epigenetic aging of the demographically non-aging naked mole-rat
+Csaba Kerepesi 
+            ORCID: orcid.org/0000-0001-9541-246X1 na1, Margarita V. Meer1,2 na1, Julia Ablaeva 
+            ORCID: orcid.org/0000-0002-0938-26293, Vince G. Amoroso4, Sang-Goo Lee1, Bohan Zhang1, Maxim V. Gerashchenko1, Alexandre Trapp 
+            ORCID: orcid.org/0000-0001-7938-04101, Sun Hee Yim 
+            ORCID: orcid.org/0000-0002-8050-57751, Ake T. Lu5, Morgan E. Levine 
+            ORCID: orcid.org/0000-0001-9890-93242, Andrei Seluanov 
+            ORCID: orcid.org/0000-0003-3400-538X3, Steve Horvath 
+            ORCID: orcid.org/0000-0002-4110-35895,6, Thomas J. Park 
+            ORCID: orcid.org/0000-0002-2447-29484, Vera Gorbunova 
+            ORCID: orcid.org/0000-0001-8979-03333 & …Vadim N. Gladyshev 
+            ORCID: orcid.org/0000-0002-0372-70161 Show authors
+
+Nature Communications
+volume 13, Article number: 355 (2022)
+            Cite this article
+
+
+
+
+15k Accesses
+
+
+17 Citations
+
+
+104 Altmetric
+
+
+Metrics details
+
+
+
+
+
+Subjects
+
+AgeingEpigeneticsGenome informatics
+
+
+
+
+AbstractThe naked mole-rat (NMR) is an exceptionally long-lived rodent that shows no increase of mortality with age, defining it as a demographically non-aging mammal. Here, we perform bisulfite sequencing of the blood of > 100 NMRs, assessing > 3 million common CpG sites. Unsupervised clustering based on sites whose methylation correlates with age reveals an age-related methylome remodeling, and we also observe a methylome information loss, suggesting that NMRs age. We develop an epigenetic aging clock that accurately predicts the NMR age. We show that these animals age much slower than mice and much faster than humans, consistent with their known maximum lifespans. Interestingly, patterns of age-related changes of clock sites in Tert and Prpf19 differ between NMRs and mice, but there are also sites conserved between the two species. Together, the data indicate that NMRs, like other mammals, epigenetically age even in the absence of demographic aging of this species.
+
+
+
+Similar content being viewed by others
+
+
+
+
+
+
+Mapping genotypes to chromatin accessibility profiles in single cells
+                                        
+
+
+Article
+08 May 2024
+
+
+
+
+
+
+
+
+
+Aging clocks based on accumulating stochastic variation
+                                        
+
+
+Article
+Open access
+09 May 2024
+
+
+
+
+
+
+
+
+
+Genome-wide association studies
+                                        
+
+
+Article
+26 August 2021
+
+
+
+
+
+
+
+
+IntroductionThe naked mole-rat (Heterocephalus glaber, NMR) is the longest-lived rodent with a maximum lifespan of more than 30 years in captivity1,2,3. In contrast, the maximum lifespan of a similarly sized rodent, the house mouse (Mus musculus), is 4 years in the laboratory4,5. The NMR lifespan is five-fold greater than that predicted allometrically based on its body size2. This extreme longevity of NMRs is accompanied by a non-increasing mortality rate that led to the conclusion that the NMR is a non-aging mammal6,7,8. Although the lack of demographic aging is most confidently revealed up to the age of 12 years (because the vast majority of examined animals were within this age range)6,9, this age span is two times longer than the lifespan expected based on body size and 20-fold longer than the possible onset of reproduction7. The NMR was shown to resist age-related diseases such as cancer and cardiovascular disease10,11,12, shows no change in body composition and metabolic profiles with age13, and in general, its observed health deterioration (e.g., cataracts and osteoarthritis) do not appear to change in severity or frequency as age increases8. However, NMRs do exhibit age-related changes, such as decreased activity and altered (lighter and parchment-like) skin1,2,5. Furthermore, proteomic and transcriptomic analyses of NMR livers revealed progressive age-dependent changes at the molecular level14. How these physiological age-related changes relate to the absence of demographic aging (i.e., non-increasing mortality rate with age) is unclear, but it was discussed that the mortality rate is not always the best representation of aging15.Epigenetic changes, which lead to dysregulation of transcriptional and chromatin networks, may be crucial components of the aging process16. Human age can be accurately predicted using the methylation levels of a few hundred CpG sites in the blood, and age quantification is possible even across tissues17,18. Epigenetic clocks may measure various aspects of human aging as they show age acceleration linked to age-related conditions such as mortality, impaired cognitive performance, frailty, Parkinson’s disease and Werner syndrome19. Similarly, several mouse clocks have been developed, including our blood and multi-tissue clocks covering the entire mouse lifespan and showing a reduced biological age in response to longevity interventions (e.g. calorie restriction and growth hormone receptor knockout)20,21,22,23,24,25. Both mouse and human clocks also showed a dramatic decrease in epigenetic age during reprogramming of adult fibroblasts to induced pluripotent stem cells18,20,21,25,26. The epigenome of other mammals also steadily changes with age allowing to build species-specific and even pan-species clocks27,28,29.In the current work, we developed an NMR epigenetic aging clock using a high-resolution methylome approach and examined age-related DNA methylation (DNAm) changes in this species against those in other mammals. Additionally, a recent study reported an NMR clock in the skin and liver using a targeted analysis of 51 pre-defined CpGs30. Also, array-based epigenetic aging clocks were developed, trained on 27,917 pre-defined CpG sites31. To thoroughly investigate the possibility of NMR aging, we subjected 107 NMR blood samples to bisulfite sequencing, which allowed the analysis of over 3 million common CpG sites. Using this resource, we were able to identify patterns of age-related DNA methylation changes in the NMR, demonstrating that these animals age epigenetically (i.e., exhibit age-associated epigenetic changes), although in a unique way compared to other mammals.ResultsGlobal changes in the NMR methylome with ageTo determine whether the DNA methylome of the NMR changes with age and characterize patterns of these changes, we obtained high-resolution DNA methylomes of 107 blood samples derived from both breeding and non-breeding NMRs ranging in age from 0.01 to 11.63 years (Fig. 1a, b, Supplementary Data 1). We adapted a blood collection procedure for NMRs to accommodate a naturally low blood pressure of the animals. The blood was collected from either the tail vein or ventral artery of animals using a procedure that did not require animal sacrifice (see Methods). The resulting samples were sequenced by reduced representation bisulfite sequencing (RRBS) at high coverage, such that we achieved over 3 million CpG sites common to all samples.Fig. 1: Global changes in the NMR methylome during aging.a Schematic of the study design suggesting changes of the NMR blood methylome during aging b Sample distribution of 107 NMR blood samples used in this study (one sample per animal). c Global DNAm level of all 3,089,098 CpG sites as a function of age. d Mean Shannon entropy of CpG levels (Mean entropy) for all NMRs (left panel) and NMRs older than 1 month (right panel). e Density plot of methylation levels for a representative NMR methylome in each year. f Proportion of methylation levels 0, 1 and ~0.5 for NMRs older than 1 month (Met 0 prop, Met 1 prop, Met 0.45-0.55 prop, respectively). g Histogram of Pearson correlation coefficients of methylation levels and ages for each CpG site in the NMR. h PCA of 758 CpG sites that are significant after Bonferroni correction i Mean methylation level of negatively correlated CpG sites (Mean DNAm BonfN) and positively correlated CpG sites (Mean DNAm BonfP). Number of samples (n), Pearson correlation coefficient (r), its two-sided p-value (p) are indicated for the specific panels. Source data are provided as a Source Data file.Full size imageGlobal mean DNA methylation (i.e. average methylation level of 3,089,098 common CpGs) remained relatively stable with age in NMRs (mean: 0.4597, std: 0.014) and remained slightly demethylated (i.e. less than 0.5 for all samples) (Fig. 1c). In contrast, the methylome entropy (mean Shannon entropy of CpG methylation levels) showed a distinct U-shaped pattern: a sharp decrease at the youngest ages (< 1 month) followed by a gradual age-related increase during the whole lifespan (Fig. 1d, p = 0.00019). A density plot of methylation levels suggested that the age-related entropy change may be driven by the decrease in extreme values (i.e., methylation levels 0 or 1) and the slight increase of the values close to 0.5 (Fig. 1e). Indeed, the proportion of sites with methylation levels 0 and 1 significantly decreased with age and the methylation levels close to 0.5 (i.e., between 0.45 and 0.55) significantly increased for NMRs older than 1 month (Fig. 1f). Altogether, except for the youngest ages that correspond to development, we observed an information loss of the NMR methylome during aging (as measured by Shannon entropy), suggesting a possibility that NMRs age.We also examined mean methylation levels of NMR gene promoters. Mean promoter methylation across all 17,823 NMR genes covered by our data significantly increased with age (Supplementary Fig. 1a). The correlation of mean promoter methylation and age ranged from −0.5518 to 0.7821 for the 320 genes that remained significant after Bonferroni correction (Supplementary Fig. 1b, Supplementary Data 2). Tert (telomerase reverse transcriptase) promoter showed the strongest correlation with age (r = 0.7821, p = 2.67e-23), and 8 other gene promoters showed correlation coefficients greater than 0.7 (Supplementary Fig. 1c).To further investigate global changes in NMR methylation, we calculated Pearson correlation coefficients of methylation level and age for each CpG site. Approximately 9% (279,990 CpGs) of 3,089,098 CpG sites showed significant correlation with age (Fig. 1g). 758 CpG sites remained significant after Bonferroni correction (two-sided p-value below 1.62e-08). Principal component analysis (PCA) of 758 CpG sites suggested an age-related remodeling of the NMR methylome (Fig. 1h). The mean methylation level of both negatively correlated (N = 95) and positively correlated (N = 663) CpG sites highly correlated with age and showed a distinct pattern of decelerated aging (Fig. 1i). These results, together with previous findings30,31, suggest that an accurate epigenetic clock may be developed for the NMR by using RRBS.NMR blood aging clock based on high-resolution methylomesTo develop an NMR epigenetic clock, we used the 107 blood samples, selecting the CpG sites that were sufficiently covered (by at least 5 reads) in 100% of the samples generating a methylation profile data table containing 430,080 high-quality CpG sites. We trained an ElasticNet regression model using the random 80% of samples (n = 85) and tested on the remaining samples (n = 22) (Fig. 2a). The lambda parameter was optimized on the training set by 10-fold cross-validation. To achieve reliable (e.g., test) age predictions for all study samples, we performed a 5-fold cross-validation repeating the same procedure (Supplementary Fig. 2). The unified test predictions of cross validation showed high correlation with chronological age (r = 0.85, p = 6.4e-31), suggesting that the NMR blood displays epigenetic aging (Fig. 2b, Supplementary Data 3), similarly to what has been shown recently by using other methods30,31. While age acceleration did not deviate from zero when we considered all (young and old) queens, (n = 6, p = 0.9896), age acceleration of the two oldest queens (age >10 years) was lower compared to younger queens (p = 0.043). This finding is consistent with a recent report of slightly slower progression of aging in naked mole-rat queens, which was observed more prominently when older animals, that were in the queen status for a long time, were considered31. In contrast, age acceleration of breeding males did not deviate significantly from zero (p = 0.6) and the oldest animals (age >10 years) showed no significant age acceleration compared to the younger ones (p = 0.632). Non-breeding females and non-breeding males showed neither age acceleration nor deceleration (p = 0.276, p = 0.311).Fig. 2: NMR blood aging clock based on high-resolution DNA methylomes.a Training (upper panel) and testing (lower panel) of the NMR blood clock. b Predicted age (DNAm age) of NMR samples by using ElasticNet regression via 5-fold cross-validation. Linear regression line of the predicted ages is also shown. c Pearson correlation coefficients among the age and the 26 CpG sites of the NMR blood clock. Names of clock sites include accession number of the genomic contig and the genomic position in the contig separated by ‘_’. d Age-related changes in methylation levels of clock CpG sites with the lowest and the highest correlations with age. Number of samples (n), Pearson correlation coefficient (r), its two-sided p-value (p) and the median absolute error (MedAE) are indicated for the specific panels. Source data are provided as a Source Data file.Full size imageThe NMR blood clock is based on a linear model of 26 CpG sites (Supplementary Data 4). The predicted age is calculated as the weighted average of methylation levels of the 26 CpG sites (‘clock sites’) plus 3.133 years (the intercept). All clock sites correlated with age and one another, most prominently the neighboring CpGs (Fig. 2c). The most negatively correlated and positively correlated clock sites showed r = −0.7 (p = 4.4e-17) and r = 0.73 (p = 2e-19), respectively (Fig. 2d). All 26 clock sites showed significant changes in DNAm levels with age, with different patterns of age-related changes (Supplementary Fig. 3).Patterns of age-related DNA methylation changes of NMR clock-associated genesTo elucidate genetic associations of the NMR blood clock, we investigated the methylation dynamics of clock CpG sites during aging. Twenty of the 26 clock sites were in the NMR gene bodies (exons or introns) or promoter regions (Supplementary Fig. 3). Interestingly, methylation levels of all gene-associated clock CpG sites increased with age, while the remaining non-gene-associated clock CpG sites showed either decreasing or increasing DNAm levels with age.The RRBS dataset allowed us to investigate genes associated with clock sites at the base-pair level. We calculated correlation coefficients for all covered CpG sites within each gene along with 1,500 bp long upstream and downstream flanking regions including promoters (upstream). This procedure revealed 12 clock site-associated genes in the NMR: Tert, Neurl1b, Mab21l2, LOC110349245, Lrba, Cacna1e, Shank1, Bahd1, Prpf19, Pcdh7, Naa30 and LOC110346999 (Fig. 3a). We omitted Cartpt as a clock site-associated gene, as it had a low weight (0.02) in the NMR blood clock model and hence negligible influence on the predictions. In all cases, clock CpG sites showed one of the highest correlations with age compared to the other CpG sites in the gene. However, in most cases other highly correlated sites were in the neighborhood of NMR blood clock sites, suggesting that changes in methylation with age are not site-specific but rather region-specific.Fig. 3: Patterns of age-related DNA methylation changes of NMR clock-associated genes.a Correlation coefficient with age (y-axis) for all covered CpG sites within an NMR clock-associated gene along its 1,500 bp long upstream or downstream flanking region including the promoter region (upstream). Gene name, strand and the length of the transcript are shown on the top. The start and end positions of genes are indicated on the x-axis. Transcription start site (TSS) shown in the right for the negative strand (-) genes and in the left for the positive strand (+) genes. Arrows point to the highest age-correlated clock CpG site for each gene. b Age-associated methylation patterns of mouse homologs of the NMR clock-associated genes for comparison. Significant correlations (p < 0.05) were colored blue. We calculated two-sided p-values without an adjustment for multiple comparison.Full size imageWe further found that methylation at most CpG sites within genes did not change significantly with age suggesting that only a distinct part of a gene is exposed to epigenetic aging. A notable exception was Mab21l2, for which all CpG sites showed a significant positive correlation with age.NMR clock-associated genes show similar aging patterns in the mouse except for Tert and Prpf19
+We next tested whether the aging patterns of NMR clock-associated genes are similar to the aging patterns of their mouse orthologs. For this purpose, we utilized our previous mouse RRBS dataset (GSE80672). We used the methylation levels of whole blood samples from wild-type C57BL/6 mice (n = 153, age range: 0.67 m – 35 m) and analyzed 1,894,100 CpG sites that had sufficient read coverage (at least 5 reads) in at least 90% of the samples. Orthologs of 10 out of the 12 NMR clock-associated genes in the mouse genome could be identified (Fig. 3b).We found that the age-related methylation pattern of Tert in the mouse was remarkably different from that of the NMR ortholog. In the NMR, the promoter region of Tert contained a large number of CpG sites with increasing methylation levels with age; instead, mouse Tert lacked significantly increasing CpG sites, including a cluster near the transcription start site (TSS). A similar behavior was observed for Prpf19, where CpG sites near the TSS were highly correlated with age in the NMR, but not in the mouse. Among other genes, Neurl1b contained multiple strongly age-correlated CpG sites in the gene body at approximately the same relative location as in the NMR homolog, and the same was observed for Lrba. Mab21l2 in the mouse recapitulated a remarkable pattern observed in the NMR, wherein almost all its CpG sites significantly increased methylation levels with age (except several non-significant but still increasing cases). Cacna1e in both species contained one narrow cluster with highly age-correlated CpG sites but in a different relative location (near the TSS in the mouse while in the middle of the gene body in the NMR). Shank1 showed multiple clusters of age-associated CpG sites, but the highest association was in the middle of the gene body in both species. Bahd1 and Pcdh7 contained a highly age-correlated cluster near the TSS in both species. Naa30 showed significant correlation only in the promoter region in both species. This gene in the NMR contained a single outlier CpG site with high correlation, but it was missing in the mouse. Overall, the most striking differences between the mouse and NMR were seen in the case of Tert and Prpf19, while the remaining genes showed rather similar patterns. As Tert is an important aging-related gene and Prpf19 is involved in DNA repair, it would be interesting to test whether these differences are linked to the extreme longevity and/or cancer resistance of the NMR.To validate the results, we assessed another mouse blood RRBS dataset (GSE120132). We used the methylation levels of blood samples from female and male C57BL/6 (n = 50) and BALB/cByJ (n = 22) mice (age range: 1.65 – 21.28 months) and examined 1,074,105 CpG sites that had sufficient read coverage (at least 5 reads) in at least 90% of the samples. The methylation patterns of NMR clock-associated orthologs in the mouse genome were remarkably similar in this dataset compared to the first examined mouse dataset, further supporting our findings (Supplementary Fig. 4).Rates of age-related changes of NMR, mouse and human blood clock CpG sitesCpG sites of the NMR blood clock can be divided into two groups: sites whose methylation levels negatively correlate with age (decreasing sites hereafter) and sites whose methylation levels positively correlate with age (increasing sites hereafter). The decreasing sites tend to have a high methylation level at the age zero, while the increasing sites exhibit a low methylation level at that age. The same phenomenon was previously observed in mice and humans17,20. We assessed age-related changes in the average methylation level of the NMR clock CpG sites as it may be viewed as a proxy for the rate of aging (Fig. 4a). We calculated the same for the mouse by using the whole blood RRBS dataset (n = 153) and the corresponding blood clock20 (Fig. 4b). This clock contained 37 increasing and 53 decreasing CpG sites. Interestingly, decreasing mouse clock CpG sites started to decrease from a lower methylation level at the youngest age compared to the NMR sites, whereas the increasing mouse clock sites started to increase from a higher methylation level compared to the NMR sites. We also analyzed age-related changes of human blood clock CpG sites (Hannum clock) based on Illumina 450k methylation profiles of 656 blood samples from individuals with the age range from 19 to 101 years (GSE40279)17. This clock had 32 decreasing and 40 increasing sites. As in the NMR, we observed a linear trend of age-related changes in the human clock CpG sites for both decreasing and increasing CpG sites (Fig. 4c).Fig. 4: Comparing the rate of age-related changes in DNA methylation levels of NMR-, mouse- and human blood clock CpG sites.a Mean methylation level of CpG sites that decrease and increase methylation with age in the NMR blood clock. Linear regression and standard deviation are indicated by dashed lines and pale coloring around it. b Mean methylation level of CpG sites that decrease and increase methylation with age in the Petkovich et al. mouse blood clock20. Quadratic regression and standard deviation are indicated by dashed curves and pale coloring around it. c Mean methylation level of CpG sites that decrease and increase methylation with age in the Hannum human blood clock17. Linear regression and standard deviation are indicated by dashed lines and pale coloring around it. d Mean methylation level of decreasing CpG sites of the three clocks shown on the same age scale (left panel). The same is shown for increasing CpG sites (right panel). Standard deviation is indicated by pale coloring around the mean. e Mean methylation level of decreasing CpG sites of the three clocks shown on a relative age scale (age divided by the maximum lifespan of species) (left panel). The same is shown for increasing CpG sites (right panel). Standard deviation is indicated by pale coloring around the mean. Source data are provided as a Source Data file.Full size imageWe then examined the three species on the same time scale, separately for decreasing and increasing sites (Fig. 4d). The exact difference in the aging rates between these species could not be calculated, as it changed differently with age in NMRs and humans on one side, and mice on the other. Moreover, our data covered mostly adult ages of the three species, and thus how these species aged during development could not be compared. It was clear, however, that NMRs epigenetically aged much slower than mice and much faster than humans (Fig. 4d), consistent with known maximum lifespans of the three species. The trend lines of the NMR exhibited a higher fluctuation compared to the other two species due to the lower number of clock CpG sites (especially in the case of decreasing sites, with n = 4). We also examined the NMR, mouse and human on the scale of relative age (age divided by the maximum lifespan; 31, 4, and 122.5 years, respectively, using the AnAge database32) (Fig. 4e). After this procedure, epigenetic changes during the whole lifespan showed similar relative age dynamics in the three species. We observed that the trend lines of decreasing and increasing sites crossed each other at 11.87, 1.66, and 70.69 years, respectively, for the NMR, mouse and human (Fig. 4a–c). It may indicate that a 11.87 year old NMR roughly correspondent to a 1.66 year old mouse or a 70.69-year-old human in terms of age-related epigenetic changes. The relative age of the cross-over was 0.383, 0.414, and 0.577, respectively, and it occurred at the methylation levels of 0.508, 0.447, and 0.352. Entropy is often linked to the aging process, and the methylation entropy is highest at 0.5 methylation. In line with this, the trend lines of decreasing and increasing sites converged around the 0.5 methylation level. Overall, multiple lines of evidence revealed clear epigenetic aging patterns in NMRs, which generally recapitulated the well-characterized aging patterns observed in mice and humans.DiscussionConsidering that the NMR mortality rate does not change with age (most confidently, during the first 12 years of life), an important question is whether these animals age at all. We consider aging as an accumulation of deleterious age-related changes, which include molecular damage and other age-related negative consequences of metabolism and interaction with environment33. It is possible that an organism may age even in the period of life, when its mortality rate is constant or even when it decreases, as is the case of humans under the age of nine15,34; hence mortality rate does not always represent aging. Very recently, age-associated DNA methylation changes in the NMR skin and liver have been shown by a targeted analysis of 51 CpGs, with the top hit CpG showing a strong correlation (r = 0.88) with age30. In our study, we uncovered global changes in the NMR methylome during aging and developed an epigenetic aging clock for the NMR blood, demonstrating that NMRs do exhibit many age-related molecular alterations over their lifespan. Taken together with other recent studies examining other tissues30,31, these findings show that NMRs epigenetically age (exhibit age-related epigenetic changes) even if this process is not demographically observable (i.e., NMRs do not exhibit an increase in mortality rate with age). One may argue that the existence of epigenetic aging clocks for a species already means that these animals steadily change their epigenome with age, i.e., they age. In line with this argument, it was shown previously that mouse and human epigenetic aging clocks track the aging process and can estimate biological age19,20. This argument is based on the observed age acceleration in the case of age-related conditions in humans and evaluation of longevity interventions in mice. However, the NMR clock has not been evaluated in these settings, hence, in theory, it is possible, although unlikely, that age-related epigenetic changes in the NMR are not governed by damage accumulation but by some other processes, e.g., continued development. Application of human multi-tissue epigenetic clocks suggested that aging may be an unintended consequence of processes that are necessary for the development of the organism and tissue homeostasis thereafter; however the pace of aging may be affected by external factors35. Consistent with these ideas, we observed a steady increase in entropy during adult life of NMRs, again pointing to the possibility of NMR aging.Several NMR genes that we found to contain epigenetic aging clock sites are linked to the hallmarks of aging36. One is telomerase, which protects chromosomes from telomere attrition36 and consists of two components: a reverse transcriptase catalytic subunit (Tert) and telomerase RNA (Ter), a template for telomere37. Tert shows a similar activity in NMRs and mice; however, NMRs have short telomeres, whereas in mice telomeres are extremely long38. We observed increased methylation of Tert promoter with age. Interestingly, Tert expression showed a stable level with age (e.g., when comparing newborn, 4-year-old and 20-year-old NMRs)39, and telomere length did not shorten, rather showed a mild elongation in the first 20 years of NMR life based on a qPCR approach40 and increased followed by a decrease based on another approach (qFISH)41.Another gene, Prpf19, is involved in double-strand break (DSB) repair, which also offers a link to aging42. We recently reported that DSB repair is more efficient in long-lived rodents, including the NMR, compared to short-lived species such as mice43. An additional NMR blood clock site gene, Bahd1, supports heterochromatic gene silencing44, whereas Naa30 maintains mitochondrial integrity45; both of these processes have been implicated in the aging process. Furthermore, Neurl1B, Cana11e, and Pcdh7 are metal ion binding proteins that may be linked to aging, as metal ion dysregulation is a known component of aging46. While it is possible that increased methylation of Tert and Prpf19 promoters contributes to NMR aging, we also found that the patterns of age-related changes of clock sites in these two genes differ between NMRs and mice. Whether this is related to drastically different lifespans of these two species or some other differences is unclear. Age-related human Tert promoter dynamics appears to be different from mice and NMRs as aging of oral epithelial cells was associated with hypomethylation of the human Tert promoter47. Furthermore, the local genome structure around the Tert gene in rodents is different from humans, implying they may have developed different strategies to regulate telomerase expression48.An NMR clock site-associated gene, Mab21l2, showed a unique and remarkable pattern in both NMRs and mice: almost all covered CpG sites of this gene significantly increased with age. Mab21l2 plays crucial roles in the retina and in ventral body wall formation in the mouse49. Interestingly, one of 29 clock sites of the recently developed epigenetic clock in the zebrafish is also located in the Mab21l2 gene29. This clock site is in the promoter region and positively correlates with age, similarly to what we observed in both mouse and NMR (r = 0.463, p = 2.67E-06). In addition, a CpG site in the promoter region of human Mab21l2 (cg05878390 in the 450k array) was among the top 20 significant differentially methylated CpGs associated with age in a fetal lung dataset of in-utero-smoke and control samples at 57–122 days of gestation50. This gene was also differentially methylated in the dorsolateral prefrontal cortex of opioid users in humans, and there was a significant association between opioid use and the Levine phenotypic age51. Thus, Mab21l2 emerges as a conserved gene involved in the epigenetic aging process. In addition, Mab21l2 showed higher expression in mesenchymal stem cells of elderly subjects (79–94 years old) suffering from osteoporosis, which is an age-related disease characterized by an imbalance in bone homeostasis, compared to age-matched controls52.Spontaneous tumors are rare in NMRs, although most rodents, including mice, die from cancer3. Several genes that include NMR clock sites are associated with cancer in humans. Thus, we observed increased methylation in Tert promoter that may contribute to the cancer resistance of NMRs. While cancer cells maintain telomere length for unlimited growth53, interestingly the prolonged maintenance of the telomere length40 does not appear to be beneficial in tumor growth in NMR. A gene expression analysis showed that Lrba facilitates cancer cell growth in humans54, and methylation alteration of Shank1 is predictive of chronic lymphocytic leukemia55. A recent study also suggested that Neurl1b participates in colon cancer as a tumor suppressor gene56. Finally, Protocadherin-7 (the gene product of Pcdh7) induced metastases in the bone following breast cancer57.Another study revealed, based on analyses using array-based DNA methylation clocks, slower aging of NMR queens compared to other animals in the colony31. The study analyzed the blood samples of 18 queens with ages up to 26 years. While the association was strong (p = 0.00013 based on the NMR pan-tissue clock), it was less prominent (p = 0.031) when the two oldest queens were omitted from the analysis and considered only animals with age <15 years. Our current study examined RRBS data of 6 queens with ages up to ~12 years and observed that age acceleration of the oldest queens (>10 years old) was slightly lower compared to the younger queens (p = 0.043). Together, the data are consistent with the idea that NMR queens age slightly slower, and a that this effect is observed more prominently when older animals were considered. It was previously reported that breeders exhibit higher survival than non-breeders; however, there was no difference between male and female breeders6. Breeding males did not show difference (relative to non-breeders) in the aging rate in the cohort examined in the present study or in the cohort in another report31.Overall, several lines of evidence demonstrate epigenetic aging of the NMR blood. Considering the importance of age-related epigenome remodeling and its role in the aging process itself, the data strongly suggest that these animals indeed age, even if they do not show signs of demographic aging.MethodsEthical statementOur research complies with all relevant ethical regulations. Animal experiments were conducted in accordance with animal protocols approved by the University of Illinois Institutional Animal Care and Use Committees and the University of Rochester Committee on Animal Resources with the protocol number 2009-054.Animals and blood collectionTwenty of the NMRs examined in this study were maintained at the University of Illinois at Chicago, and eighty-seven NMRs were housed at the University of Rochester. NMRs were kept at a controlled temperature (30 °C) and humidity (50–60%) with access to food ad libitum. All animals in the Rochester colonies were microchipped. To collect blood, animals were placed headfirst into a plastic restraining cone (decapicone, Braintree Scientific) such that the tail remained accessible outside of the cone. The tail was then positioned on a benchtop, ventral side up. A sterile razor blade was used to make a superficial incision across the ventral surface of the tail about halfway between the body and end of the tail. The incision induced bleeding from the tail vein. The animal was then positioned above a blood collection tube (BD Microtainer, tubes with K2EDTA, Becton, Dickinson and Company) so that blood drops from the incision were collected into the collection tube. The collected blood was immediately snap-frozen. After the blood collection, gentle pressure was applied to the tail incision site for one to two minutes to stop further bleeding. Animals were monitored for a few days after the procedure.RRBSThe blood DNA was extracted by DNeasy Blood & Tissue Kit (Qiagen 69506) and cleaned up using RNase treatment followed by concentration. The DNA was eluted from Qiagen columns in 100 µl of 10 mM Tris-HCl buffer, pH 8.0. RNA removal was performed with 2 µl of RNase A (Life Technologies) at room temperature for 2 min and isolated genomic DNA was purified using Genomic DNA Clean & Concentrator™-10 (Zymo D4011), eluted in 25 µl of 10 mM Tris-HCl buffer, pH 8.0, and quantified using a Qubit 2.0 (Life Technologies AM2271). RRBS libraries were prepared from 100 ng of purified DNA per sample following a protocol described elsewhere20. The libraries were sequenced with Illumina HiSeq2500, PE150. In total, 20% of PhiX genomic DNA was spiked to compensate for the low complexity of the libraries.Analysis of sequence readsReads were trimmed and quality filtered by TrimGalore! v0.4.1 using the–rrbs option for RRBS. Methylation levels were extracted using Bismark v0.15.058 with Bowtie 259 mapping to the NMR genome (HetGla_female_1.0). As the number of contigs exceeded the maximum allowed to be used in mapping, we concatenated short contigs (<1,000,000 bp) into a pseudocontig separated by 1000 ‘N’. For further analysis, we used only the CpG sites that are covered by at least 5 reads in at least 90% of the samples.Shannon entropyFirst, we calculated the Shannon entropy of each individual CpG site of a sample as follows: $${{{\mbox{Entropy}}}}\left({{{{C}}{{p}}{{G}}}}_{i}\right)=-{{m}}_{i}{* {{\log }}}_{2}{m}_{i}-({1-m}_{i})* {{{\log }}}_{2}({1-m}_{i}),$$where \({{m}}_{i}\) is the methylation level of the ith CpG site. Then, the average entropy of all 3,089,098 CpG sites provided the methylome entropy of the sample (mean entropy). The same entropy calculation was used for human and mouse.Density plotThe density plot (Fig. 1d) was calculated by kernel density estimation (KDE) for 11 representative samples, each being randomly selected from each year group (P9m6, 0.75y; G58, 1.82y; G54, 2.85y; G50, 3.29y; G15, 4.37y; G81, 5.29y; G69, 6.85y; G23, 7.83y; G47, 8.07y; G12, 10.05y; and G45, 11.63y).Promoter methylationPromoter region of each gene was determined as [−1500, +500] bp from transcription start site following the direction of transcription by using the Ensembl annotation file hetGla2.ncbiRefSeq.gtf. Then, mean methylation level of CpG sites in the promoter regions were calculated for each gene and sample.Development of the NMR blood clockUsing the CpG methylation levels based on RRBS profiling, we generated a methylation profile table (feature table) that contains 430,080 CpG sites that were sufficiently covered (by at least 5 reads) in all 107 samples of our study. We trained an ElasticNet regression model using the random 80% of the samples (n = 85) and tested on the remaining samples (n = 22). The lambda parameter was optimized on the training set by the built-in 10-fold cross-validation of the Python package Glmnet (https://github.com/civisanalytics/python-glmnet, v2.2.1; alpha=0.5, n_splits=10). The final model referred to as the ‘NMR blood clock’ in the study. We provided the intercept and the non-zero weights (Supplementary Data 4). The clock requires the input methylation levels to be between 0 and 1 inclusive and provides predictions in years. To achieve reliable age predictions for all of the study sample, we performed a 5-fold cross-validation repeating the same procedure as above. The 5-fold cross validation resulted in 5 clocks tested in 5 independent sets covering all of the samples (Fig. 2b, Supplementary Fig. 2, Supplementary Data 3). Clock 1 (referred to as ‘NMR blood clock’) was used for further analysis.Gene analysisFor gene analyses, we used the HetGla_female_1.0/hetGla2 naked mole-rat genome annotation (hetGla2.ncbiRefSeq.gtf) downloaded from the UCSC Genome Browser. For each of the 26 CpG sites of the NMR blood clock, we examined gene(s) that overlap with it, including 1500 bp flanking regions upstream and downstream. If there existed such a gene (referred to as ‘NMR blood clock site gene’), we determined the genomic feature covered by the clock CpG site (e.g. exon, intron, promoter). We defined promoter regions as the regions spanning 1500 bases upstream and 500 bases downstream of the transcription start site of the corresponding gene. We calculated Pearson correlation coefficient with age for each CpG site covered by at least 5 reads in at least 90% of the study samples.For comparison, we searched for gene_id-s of the NMR blood clock site genes in the mm10 mouse genome annotation data (mm10.ncbiRefSeq.gtf) downloaded from the UCSC Genome Browser. For a hit, we analyzed 1,500 bp flanking regions of the gene upstream and downstream. We calculated Pearson correlation coefficient with age for each CpG site covered by at least 5 reads in at least 90% of the Petkovich et al. mouse blood dataset (GSE80672). We also performed the same procedure for the Thompson et al. mouse blood dataset (GSE120132).Age accelerationAge acceleration was calculated as the deviation of the predicted age of test samples from the regression line of the predicted ages of all samples. We assessed if the mean age acceleration of test samples is different from zero by applying one sample t-test.StatisticsCorrelations were evaluated by Pearson correlation coefficient (‘r’) and the corresponding two-sided p-values using the stats.pearsonr function of the python package scipy v1.3.1 (stats module). P-values of below 0.05 were interpreted as significant. We always use two-sided p-value in the study. Bonferroni correction was applied whenever it is mentioned in the text (in this case p-value below 0.05/N was considered as significant, where N is the number of CpG sites). Data analysis was done by using Python 3.7.4, Pandas 0.25.1, and Numpy 1.17.2.Reporting summaryFurther information on research design is available in the Nature Research Reporting Summary linked to this article.
+
+
+Data availability
+Bisulfite sequence data generated in this study were deposited in the SRA database under accession code “PRJNA742002”. Processed data (i.e. methylation levels) generated in this study were deposited in the GEO database under the accession code “GSE179039”. Other data generated in this study are provided in supplementary tables. We also used publicly available datasets for cross-species comparison (Petkovich et al. “GSE80672”; Thompson et al. “GSE120132” and Hannum et al. “GSE40279”), a publicly available genome (“HetGla_female_1.0, [https://hgdownload.soe.ucsc.edu/goldenPath/hetGla2/bigZips/hetGla2.fa.gz]”) and genome annotations for the NMR and mouse downloaded from the UCSC Genome Browser portal (“hetGla2.ncbiRefSeq.gtf [http://hgdownload.soe.ucsc.edu/goldenPath/hetGla2/bigZips/genes/hetGla2.ncbiRefSeq.gtf.gz]”, “mm10.ncbiRefSeq.gtf [https://hgdownload.soe.ucsc.edu/goldenPath/mm10/bigZips/genes/mm10.refGene.gtf.gz]”). Source data of Figs. 1, 2, and 4 is provided as a Source Data file. Source data are provided with this paper. All figures and data tables can be reproduced from the processed methylation data generated by this study (along sample metadata) and public datasets. Source data are provided with this paper.
+ReferencesBuffenstein, R. The Naked Mole Rat–A New Record for the Oldest Living Rodent. Sci. Aging Knowl. Environ. 2002, pe7 (2002).Article 
+    
+                    Google Scholar 
+                Edrey, Y. H., Hanes, M., Pinto, M., Mele, J. & Buffenstein, R. Successful aging and sustained good health in the naked mole rat: A long-lived mammalian model for biogerontology and biomedical research. ILAR J 52, 41–53 (2011).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Lewis, K. N. & Buffenstein, R. Chapter 6 - The Naked Mole-Rat: A Resilient Rodent Model of Aging, Longevity, and Healthspan. in Handbook of the Biology of Aging: Eighth Edition 179–204 (Elsevier, 2016).Miller, R. A., Harper, J. M., Dysko, R. C., Durkee, S. J. & Austad, S. N. Longer Life Spans and Delayed Maturation in Wild-Derived Mice. Exp. Biol. Med. 227, 500–508 (2002).Article 
+    CAS 
+    
+                    Google Scholar 
+                Buffenstein, R. The naked mole-rat: A new long-living model for human aging research. Journals Gerontol. - Ser. A Biol. Sci. Med. Sci 60, 1369–1377 (2005).Article 
+    
+                    Google Scholar 
+                Ruby, J. G., Smith, M. & Buffenstein, R. Naked mole-rat mortality rates defy gompertzian laws by not increasing with age. Elife 7, e31157 (2018).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Ruby, J. G., Smith, M. & Buffenstein, R. Response to comment on’Naked mole-rat mortality rates defy gompertzian laws by not increasing with age’. Elife 8, e47047 (2019).Buffenstein, R., et al. The naked truth: a comprehensive clarification and classification of current ‘myths’ in naked mole-rat biology. Biol. Rev. brv.12791 (2021) https://doi.org/10.1111/BRV.12791.Dammann, P. et al. Comment on’Naked mole-rat mortality rates defy gompertzian laws by not increasing with age’. Elife 8, e45415 (2019).Delaney, M. A., Nagy, L., Kinsel, M. J. & Treuting, P. M. Spontaneous Histologic Lesions of the Adult Naked Mole Rat (Heterocephalus glaber): A Retrospective Survey of Lesions in a Zoo Population. Vet. Pathol. 50, 607–621 (2013).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Tian, X. et al. High-molecular-mass hyaluronan mediates the cancer resistance of the naked mole rat. Nature 499, 346–349 (2013).Article 
+    ADS 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Grimes, K. M., Reddy, A. K., Lindsey, M. L. & Buffenstein, R. And the beat goes on: maintained cardiovascular function during aging in the longest-lived rodent, the naked mole-rat. Am. J. Physiol. Circ. Physiol. 307, H284–H291 (2014).Article 
+    CAS 
+    
+                    Google Scholar 
+                O’Connor, T. P., Lee, A., Jarvis, J. U. M. & Buffenstein, R. Prolonged longevity in naked mole-rats: age-related changes in metabolism, body composition and gastrointestinal function. Comp. Biochem. Physiol. Part A Mol. Integr. Physiol 133, 835–842 (2002).Article 
+    
+                    Google Scholar 
+                Heinze, I. et al. Species comparison of liver proteomes reveals links to naked mole-rat longevity and human aging. BMC Biol. 16, 1–18 (2018).Article 
+    
+                    Google Scholar 
+                Kinzina, E. D., Podolskiy, D. I., Dmitriev, S. E. & Gladyshev, V. N. Patterns of Aging Biomarkers, Mortality, and Damaging Mutations Illuminate the Beginning of Aging and Causes of Early-Life Mortality. Cell Rep. 29, 4276–4284 (2019). e3.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Booth, L. N. & Brunet, A. The Aging Epigenome. Molecular Cell 62, 728–744 (2016). vol.Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Hannum, G. et al. Genome-wide Methylation Profiles Reveal Quantitative Views of Human Aging Rates. Mol. Cell 49, 359–367 (2013).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Horvath, S. DNA methylation age of human tissues and cell types. Genome Biol 14, 3156 (2013).Article 
+    
+                    Google Scholar 
+                Horvath, S. & Raj, K. DNA methylation-based biomarkers and the epigenetic clock theory of ageing. Nat. Rev. Genet. 19, 371 (2018).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Petkovich, D. A. et al. Using DNA methylation profiling to evaluate biological age and longevity interventions. Cell Metab 25, 954–960 (2017).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Meer, M. V., Podolskiy, D. I., Tyshkovskiy, A. & Gladyshev, V. N. A whole lifespan mouse multi-tissue DNA methylation clock. Elife 7, e40675 (2018).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Stubbs, T. M. et al. Multi-tissue DNA methylation age predictor in mouse. Genome Biol 18, 1–14 (2017).Article 
+    
+                    Google Scholar 
+                Thompson, M. J. et al. A multi-tissue full lifespan epigenetic clock for mice. Aging (Albany NY) 10, 2832 (2018).Article 
+    CAS 
+    
+                    Google Scholar 
+                Wang, T. et al. Epigenetic aging signatures in mice livers are slowed by dwarfism, calorie restriction and rapamycin treatment. Genome Biol. 18, 57 (2017).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Wang, M. & Lemos, B. Ribosomal DNA harbors an evolutionarily conserved clock of biological aging. Genome Res. 29, 325–333 (2019).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Olova, N., Simpson, D. J., Marioni, R. E. & Chandra, T. Partial reprogramming induces a steady decline in epigenetic age before loss of somatic identity. Aging Cell 18, e12877 (2019).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Lu, A. T., et al. Universal DNA methylation age across mammalian tissues. bioRxiv 2021.01.18.426733 (2021) https://doi.org/10.1101/2021.01.18.426733.Levine, M. et al. A rat epigenetic clock recapitulates phenotypic aging and co-localizes with heterochromatin. Elife 9, 1–19 (2020).Article 
+    
+                    Google Scholar 
+                Mayne, B. et al. A DNA methylation age predictor for zebrafish. Aging (Albany. NY) 12, 24817–24835 (2020).Article 
+    CAS 
+    
+                    Google Scholar 
+                Lowe, R. et al. DNA methylation clocks as a predictor for ageing and age estimation in naked mole-rats, Heterocephalus glaber. Aging (Albany NY) 12, 4394–4406 (2020).Article 
+    CAS 
+    
+                    Google Scholar 
+                Horvath, S., et al. DNA methylation clocks show slower progression of aging in naked mole-rat queens. bioRxiv (2021) https://doi.org/10.1101/2021.03.15.435536.Tacutu, R. et al. Human Ageing Genomic Resources: New and updated databases. Nucleic Acids Res. 46, D1083–D1090 (2018).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Gladyshev, V. N. Aging: progressive decline in fitness due to the rising deleteriome adjusted by genetic, environmental, and stochastic processes. Aging Cell 15, 594–602 (2016).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Kerepesi, C., Zhang, B., Lee, S.-G., Trapp, A. & Gladyshev, V. N. Epigenetic clocks reveal a rejuvenation event during embryogenesis followed by aging. Sci. Adv. 7, 6082–6107 (2021).Article 
+    ADS 
+    
+                    Google Scholar 
+                Raj, K. & Horvath, S. Current perspectives on the cellular and molecular features of epigenetic ageing: https://doi.org/10.1177/1535370220918329245, 1532–1542 (2020).López-Otín, C., Blasco, M. A., Partridge, L., Serrano, M. & Kroemer, G. The hallmarks of aging. Cell 153, 1194 (2013).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Evfratov, S. A. et al. Structural Features of the Telomerase RNA Gene in the Naked Mole Rat Heterocephalus glaber. Acta Naturae 6, 41 (2014).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Tian, X., et al. Evolution of telomere maintenance and tumour suppressor mechanisms across mammals. Philos. Trans. R. Soc. B Biol. Sci. 373, (2018).Kim, E. B. et al. Genome sequencing reveals insights into physiology and longevity of the naked mole rat. Nat. 2011 4797372 479, 223–227 (2011).CAS 
+    
+                    Google Scholar 
+                Shekhidem, H. A., et al. Telomeres and Longevity: A Cause or an Effect? Int. J. Mol. Sci. 20, (2019).Leonida, S. R. L., Bennett, N. C., Leitch, A. R. & Faulkes, C. G. Patterns of telomere length with age in African mole-rats: New insights from quantitative fluorescence in situ hybridisation (qFISH). PeerJ 8, e10498 (2020).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Bateman, A. UniProt: A worldwide hub of protein knowledge. Nucleic Acids Res. 47, D506–D515 (2019).Article 
+    
+                    Google Scholar 
+                Tian, X. et al. SIRT6 Is Responsible for More Efficient DNA Double-Strand Break Repair in Long-Lived Species. Cell 177, 622–638 (2019).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Bierne, H. et al. Human BAHD1 promotes heterochromatic gene silencing. Proc. Natl. Acad. Sci. U. S. A. 106, 13826–13831 (2009).Article 
+    ADS 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Van Damme, P. et al. A role for human N-alpha acetyltransferase 30 (Naa30) in maintaining mitochondrial integrity. Mol. Cell. Proteomics 15, 3361–3372 (2016).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Kawanishi, S., Hiraku, Y. & Oikawa, S. Mechanism of guanine-specific DNA damage by oxidative stress and its role in carcinogenesis and aging. Mutation Research - Reviews in Mutation Research 488, 65–76 (2001).Article 
+    CAS 
+    
+                    Google Scholar 
+                de Oliveira Bezerra, S. F., de Araújo Costa, L., de Freitas, P. A. N. & de Oliveira, N. F. P. Age-related changes in DNA methylation status of hTERT gene promoter of oral epithelial cells. Brazilian Arch. Biol. Technol. 58, 82–89 (2015).Article 
+    
+                    Google Scholar 
+                Kim, W. et al. Regulation of the Human Telomerase Gene TERT by Telomere Position Effect—Over Long Distances (TPE-OLD): Implications for Aging and Cancer. PLOS Biol. 14, e2000016 (2016).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Yamada, R., Mizutani-Koseki, Y., Koseki, H. & Takahashi, N. Requirement for Mab21l2 during development of murine retina and ventral body wall. Dev. Biol. 274, 295–307 (2004).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Kachroo, P. et al. DNA methylation perturbations may link altered development and aging in the lung. Aging (Albany. NY) 13, 1742–1764 (2021).Article 
+    CAS 
+    
+                    Google Scholar 
+                Shu, C., et al. Epigenome-wide study of brain DNA methylation among opioid users and controls. bioRxiv 2020.11.10.377069 (2020) https://doi.org/10.1101/2020.11.10.377069.Benisch, P. et al. The Transcriptional Profile of Mesenchymal Stem Cell Populations in Primary Osteoporosis Is Distinct and Shows Overexpression of Osteogenic Inhibitors. PLoS One 7, 45142 (2012).Article 
+    ADS 
+    
+                    Google Scholar 
+                Okamoto, K. & Seimiya, H. Revisiting Telomere Shortening in Cancer. Cells 2019, Vol. 8, Page 107 8, 107 (2019).CAS 
+    
+                    Google Scholar 
+                Wang, J. W. et al. Deregulated expression of LRBA facilitates cancer cell growth. Oncogene 23, 4089–4097 (2004).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Loi, E. et al. Methylation alteration of SHANK1 as a predictive, diagnostic and prognostic biomarker for chronic lymphocytic leukemia. Oncotarget 10, 4987–5002 (2019).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Liu, J., et al. Aberrant methylation and microRNA-target regulation are associated with downregulated NEURL1B: A diagnostic and prognostic target in colon cancer. Cancer Cell Int. 20, (2020).Li, A. M. et al. Protocadherin-7 induces bone metastasis of breast cancer. Biochem. Biophys. Res. Commun. 436, 486–490 (2013).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Krueger, F. & Andrews, S. R. Bismark: a flexible aligner and methylation caller for Bisulfite-Seq applications. Bioinformatics 27, 1571–1572 (2011).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Langmead, B. & Salzberg, S. L. Fast gapped-read alignment with Bowtie 2. Nat. Methods 9, 357–359 (2012).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Download referencesAcknowledgementsThe authors thank Anastasia Shindyapina and Marco Mariotti for useful discussion. Supported by NIH grants AG047200 (VG, AS and VNG), AG065403 (MEL and VNG), AG064223 (VNG) and AG064706, AG064704 (VG). Figure 1a was generated by using BioRender.Author informationAuthor notesThese authors contributed equally: Csaba Kerepesi, Margarita V. Meer.Authors and AffiliationsDivision of Genetics, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, MA, 02115, USACsaba Kerepesi, Margarita V. Meer, Sang-Goo Lee, Bohan Zhang, Maxim V. Gerashchenko, Alexandre Trapp, Sun Hee Yim & Vadim N. GladyshevDepartment of Pathology, Yale School of Medicine, New Haven, CT, 06510, USAMargarita V. Meer & Morgan E. LevineDepartments of Biology and Medicine, University of Rochester, Rochester, NY, 14627, USAJulia Ablaeva, Andrei Seluanov & Vera GorbunovaLaboratory of Integrative Neuroscience, Department of Biological Sciences, University of Illinois at Chicago, Chicago, IL, 60607, USAVince G. Amoroso & Thomas J. ParkDepartment of Human Genetics, David Geffen School of Medicine, University of California, Los Angeles, CA, 90095, USAAke T. Lu & Steve HorvathDepartment of Biostatistics, Fielding School of Public Health, University of California, Los Angeles, CA, 90095, USASteve HorvathAuthorsCsaba KerepesiView author publicationsYou can also search for this author in
+                        PubMed Google ScholarMargarita V. MeerView author publicationsYou can also search for this author in
+                        PubMed Google ScholarJulia AblaevaView author publicationsYou can also search for this author in
+                        PubMed Google ScholarVince G. AmorosoView author publicationsYou can also search for this author in
+                        PubMed Google ScholarSang-Goo LeeView author publicationsYou can also search for this author in
+                        PubMed Google ScholarBohan ZhangView author publicationsYou can also search for this author in
+                        PubMed Google ScholarMaxim V. GerashchenkoView author publicationsYou can also search for this author in
+                        PubMed Google ScholarAlexandre TrappView author publicationsYou can also search for this author in
+                        PubMed Google ScholarSun Hee YimView author publicationsYou can also search for this author in
+                        PubMed Google ScholarAke T. LuView author publicationsYou can also search for this author in
+                        PubMed Google ScholarMorgan E. LevineView author publicationsYou can also search for this author in
+                        PubMed Google ScholarAndrei SeluanovView author publicationsYou can also search for this author in
+                        PubMed Google ScholarSteve HorvathView author publicationsYou can also search for this author in
+                        PubMed Google ScholarThomas J. ParkView author publicationsYou can also search for this author in
+                        PubMed Google ScholarVera GorbunovaView author publicationsYou can also search for this author in
+                        PubMed Google ScholarVadim N. GladyshevView author publicationsYou can also search for this author in
+                        PubMed Google ScholarContributionsC.K. performed all data analyses and wrote the manuscript. M.V.M. performed reduced representation bisulfide sequencing and preliminary data analyses. J.A., V.G.A., A.S., T.J.P., and V.G. performed animal experiments and provided samples. S.G.L., B.Z., M.V.G., A.T., and S.H.Y. contributed to experiments and data analyses. A.T.L., M.E.L., and S.H. contributed to data analyses. All authors discussed the data and edited the manuscript. V.N.G. conceived and supervised the study and wrote the manuscript.Corresponding authorCorrespondence to
+                Vadim N. Gladyshev.Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Communications thanks Suzanne Holtze and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional informationPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Supplementary informationSupplementary InformationDescription of Additional Supplementary FilesSupplementary Dataset 1Supplementary Dataset 2Supplementary Dataset 3Supplementary Dataset 4Reporting SummarySource dataSource DataRights and permissions
+Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+Reprints and permissionsAbout this articleCite this articleKerepesi, C., Meer, M.V., Ablaeva, J. et al. Epigenetic aging of the demographically non-aging naked mole-rat.
+                    Nat Commun 13, 355 (2022). https://doi.org/10.1038/s41467-022-27959-9Download citationReceived: 03 July 2021Accepted: 23 December 2021Published: 17 January 2022DOI: https://doi.org/10.1038/s41467-022-27959-9Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        
+
+
+
+This article is cited by
+
+
+
+
+
+                                        Nature of epigenetic aging from a single-cell perspective
+                                    
+
+
+Andrei E. TarkhovThomas Lindstrom-VautrinVadim N. Gladyshev
+
+Nature Aging (2024)
+
+
+
+
+                                        Phenome-wide analyses identify an association between the parent-of-origin effects dependent methylome and the rate of aging in humans
+                                    
+
+
+Chenhao GaoCarmen AmadorYanni Zeng
+
+Genome Biology (2023)
+
+
+
+
+                                        Universal DNA methylation age across mammalian tissues
+                                    
+
+
+A. T. LuZ. FeiS. Horvath
+
+Nature Aging (2023)
+
+
+
+
+
+CommentsBy submitting a comment you agree to abide by our Terms and Community Guidelines. If you find something abusive or that does not comply with our terms or guidelines please flag it as inappropriate.
+
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+                                    Research articles
+                                
+
+
+
+                                    Reviews & Analysis
+                                
+
+
+
+                                    News & Comment
+                                
+
+
+
+                                    Videos
+                                
+
+
+
+                                    Collections
+                                
+
+
+
+                                    Subjects
+                                
+
+
+
+
+Follow us on Facebook
+                            
+
+
+Follow us on Twitter
+                            
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+About the journal
+
+
+
+                                    Aims & Scope
+                                
+
+
+
+                                    Editors
+                                
+
+
+
+                                    Journal Information
+                                
+
+
+
+                                    Open Access Fees and Funding
+                                
+
+
+
+                                    Calls for Papers
+                                
+
+
+
+                                    Editorial Values Statement
+                                
+
+
+
+                                    Journal Metrics
+                                
+
+
+
+                                    Editors' Highlights
+                                
+
+
+
+                                    Contact
+                                
+
+
+
+                                    Editorial policies
+                                
+
+
+
+                                    Top Articles
+                                
+
+
+
+
+
+
+Publish with us
+
+
+
+                                    For authors
+                                
+
+
+
+                                    For Reviewers
+                                
+
+
+
+                                    Language editing services
+                                
+
+
+Submit manuscript
+
+
+
+
+
+
+
+Search
+
+Search articles by subject, keyword or author
+
+
+
+
+
+
+Show results from
+
+All journals
+This journal
+
+
+
+Search
+
+
+
+
+
+
+                Advanced search
+            
+
+Quick links
+
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+
+
+
+
+
+
+
+
+
+
+                    Nature Communications (Nat Commun)
+                
+
+ISSN 2041-1723 (online)
+    
+
+
+
+
+
+
+nature.com sitemap
+
+
+
+About Nature Portfolio
+
+About us
+Press releases
+Press office
+Contact us
+
+
+
+Discover content
+
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+
+
+
+Publishing policies
+
+Nature portfolio policies
+Open access
+
+
+
+Author & Researcher services
+
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+
+
+
+Libraries & institutions
+
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+
+
+
+Advertising & partnerships
+
+Advertising
+Partnerships & Services
+Media kits
+
+Branded
+                        content
+
+
+
+Professional development
+
+Nature Careers
+Nature 
+                        Conferences
+
+
+
+Regional websites
+
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+
+
+
+
+
+
+Privacy
+                Policy
+Use
+                of cookies
+
+Your privacy choices/Manage cookies
+                
+
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+
+
+
+
+
+
+
+© 2024 Springer Nature Limited
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+
+
+
+
+
+
+
+
+
+Email address
+
+
+
+Sign up
+
+
+
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing
+            
+
+
+
+
+
+
+
+
+

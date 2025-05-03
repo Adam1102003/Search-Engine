@@ -1,0 +1,554 @@
+
+
+
+
+Manual:Contents - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+		In other languages
+	
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+Beginning
+
+
+
+
+
+1Main sections
+
+
+
+Toggle Main sections subsection
+
+
+
+
+
+1.1For system administrators
+
+
+
+
+
+
+
+1.2For developers
+
+
+
+
+
+
+
+1.3Others
+
+
+
+
+
+
+
+
+
+2Browsing the manual
+
+
+
+
+
+
+
+3Improving the manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Manual:Contents
+
+
+
+
+
+
+
+
+
+
+ManualDiscussion
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From mediawiki.org
+
+
+Translate this pageLanguages:Bahasa Indonesia
+Bahasa Melayu
+Deutsch
+Dusun Bundu-liwan
+English
+Hausa
+Hawaiʻi
+Nederlands
+Tiếng Việt
+Türkçe
+català
+dansk
+español
+français
+interlingua
+italiano
+magyar
+polski
+português
+português do Brasil
+română
+suomi
+svenska
+čeština
+Ελληνικά
+български
+русский
+српски / srpski
+українська
+اردو
+العربية
+سنڌي
+فارسی
+مصرى
+پښتو
+अंगिका
+বাংলা
+ไทย
+ქართული
+中文
+日本語
+粵語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+
+
+ Users 
+ System Administrators 
+ Developers 
+ Translators 
+
+This is a technical manual for the MediaWiki software.
+It contains information for developers and system administrators on installing, managing and developing for the MediaWiki software.
+This manual is not for end users of MediaWiki.
+If you are looking for documentation to help you use MediaWiki, read the MediaWiki Handbook.
+
+
+Main sections
+
+
+
+For system administrators
+
+Installation 
+Guide to setting up a new MediaWiki installation.
+Download  | Installing  | Initial configuration 
+Alphabetical list of settings  | Settings listed by function 
+System administration 
+Guide to do administrative tasks on your wiki.
+Backing up  | Maintenance scripts 
+Upgrading 
+Guide to upgrade your MediaWiki installation.
+More on Sysadmin hub .
+
+
+For developers
+
+Architecture 
+An overview of the key parts of MediaWiki's source code.
+Code  | Global object variables  | Doxygen-generated documentation
+Database layout 
+Details about the database architecture used by MediaWiki.
+MariaDB  | MySQL  | PostgreSQL  | SQLite 
+Developing extensions 
+An overview of the ways to create a new MediaWiki extension.
+Hooks  | Parser functions  | Tag  | Special page  | Skins 
+Web access
+Details about query string parameters that can be passed to MediaWiki access scripts.
+index.php  | api.php 
+More on Developer hub .
+Others
+MediaWiki FAQ 
+Frequently asked questions about MediaWiki.
+Browsing the manual
+There are multiple ways to browse through the documentation.
+Readers having trouble finding a particular topic in the section above may find the following ways of browsing to be helpful.
+
+Special:Allpages/Manual: — An automatically generated list of all pages in the Manual: namespace.
+Category:Manual  — the top-level Manual category.
+Improving the manual
+There are still a lot of holes in this manual! See the Wikimedia technical documentation: friends of the docs  for details (page in English).
+There is still content on Meta-wiki which may need to be migrated. If you can't find information on a particular issue in this documentation, please visit Help:Contents.
+Project:Manual  — A place to discuss and co-ordinate the development of the Manual: namespace.
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Manual:Contents&oldid=6519974"
+Categories: MediaWiki technical documentationManual
+
+
+
+
+
+
+ This page was last edited on 12 May 2024, at 23:01.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

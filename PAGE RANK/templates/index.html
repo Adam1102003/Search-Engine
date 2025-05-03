@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inverted Index Search</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div class="background">
+        <div class="container">
+            <h1>Big-Data Engine</h1>
+            <form id="searchForm" method="POST" action="/">
+                <div class="search-bar">
+                    <input type="text" name="query" id="searchInput" placeholder="Enter your query" required>
+                    <button type="submit"><i class="fas fa-search"></i></button>
+                    <button type="button" id="clearButton"><i class="fas fa-times"></i></button>
+                    <script>
+                        document.getElementById("clearButton").addEventListener("click", function() {
+                            document.getElementById("searchInput").value = "";
+                        });
+                    </script>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

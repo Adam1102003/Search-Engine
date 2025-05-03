@@ -1,0 +1,4349 @@
+
+
+
+
+
+
+
+
+Sustainability | Free Full-Text | Carbon Footprint of Tree Nuts Based Consumer Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next Article in Journal
+A Computational Method based on Radio Frequency Technologies for the Analysis of Accessibility of Disabled People in Sustainable Cities
+Next Article in Special Issue
+A Method to Evaluate the Stimulation of a Real World Field of View by Means of a Spectroradiometric Analysis
+
+
+
+
+
+
+
+Previous Article in Journal
+Are Australian Universities Making Good Use of ICT for CSR Reporting?
+Previous Article in Special Issue
+Urban Lighting Project for a Small Town: Comparing Citizens and Authority Benefits
+
+
+
+
+
+
+
+
+Journals
+
+
+
+
+Active Journals
+Find a Journal
+Proceedings Series
+
+
+
+
+
+Topics
+
+
+
+Information
+
+
+
+
+For Authors
+For Reviewers
+For Editors
+For Librarians
+For Publishers
+For Societies
+For Conference Organizers
+
+
+Open Access Policy
+Institutional Open Access Program
+Special Issues Guidelines
+Editorial Process
+Research and Publication Ethics
+Article Processing Charges
+Awards
+Testimonials
+
+
+
+
+
+Author Services
+
+
+
+Initiatives
+
+
+
+
+Sciforum
+MDPI Books
+Preprints.org
+Scilit
+SciProfiles
+Encyclopedia
+JAMS
+Proceedings Series
+
+
+
+
+
+
+About
+
+
+
+
+Overview
+Contact
+Careers
+News
+Press
+Blog
+
+
+
+
+
+
+Sign In / Sign Up
+
+
+
+
+
+Notice
+
+
+
+
+
+You can make submissions to other journals
+here.
+
+
+
+
+clear
+
+
+
+
+
+Notice
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+
+
+
+Continue
+Cancel
+
+
+
+clear
+
+
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+
+
+
+Original Submission Date Received: .
+
+
+
+
+
+                        You seem to have javascript disabled. Please note that many of the page functionalities won't work as expected without javascript enabled.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+clear
+
+
+zoom_out_map
+
+
+search
+
+
+menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journals
+
+
+
+
+
+
+
+Active Journals
+
+
+
+
+Find a Journal
+
+
+
+
+Proceedings Series
+
+
+
+
+
+
+
+
+
+Topics
+
+
+Information
+
+
+
+
+
+
+For Authors
+
+
+For Reviewers
+
+
+For Editors
+
+
+For Librarians
+
+
+For Publishers
+
+
+For Societies
+
+
+For Conference Organizers
+
+
+
+
+
+
+Open Access Policy
+
+
+Institutional Open Access Program
+
+
+Special Issues Guidelines
+
+
+Editorial Process
+
+
+Research and Publication Ethics
+
+
+Article Processing Charges
+
+
+Awards
+
+
+Testimonials
+
+
+
+
+
+
+
+
+Author Services
+
+
+Initiatives
+
+
+
+
+
+
+
+Sciforum
+
+
+
+
+MDPI Books
+
+
+
+
+Preprints.org
+
+
+
+
+Scilit
+
+
+
+
+SciProfiles
+
+
+
+
+Encyclopedia
+
+
+
+
+JAMS
+
+
+
+
+Proceedings Series
+
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+
+
+Overview
+
+
+
+
+Contact
+
+
+
+
+Careers
+
+
+
+
+News
+
+
+
+
+Press
+
+
+
+
+Blog
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In / Sign Up
+Submit
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+Search for Articles:
+
+
+
+
+Title / Keyword
+
+
+
+
+
+Author / Affiliation / Email
+
+
+
+
+
+Journal
+
+
+All Journals
+
+Acoustics
+
+
+Acta Microbiologica Hellenica (AMH)
+
+
+Actuators
+
+
+Administrative Sciences
+
+
+Adolescents
+
+
+Advances in Respiratory Medicine (ARM)
+
+
+Aerobiology
+
+
+Aerospace
+
+
+Agriculture
+
+
+AgriEngineering
+
+
+Agrochemicals
+
+
+Agronomy
+
+
+AI
+
+
+Air
+
+
+Algorithms
+
+
+Allergies
+
+
+Alloys
+
+
+Analytica
+
+
+Analytics
+
+
+Anatomia
+
+
+Anesthesia Research
+
+
+Animals
+
+
+Antibiotics
+
+
+Antibodies
+
+
+Antioxidants
+
+
+Applied Biosciences
+
+
+Applied Mechanics
+
+
+Applied Microbiology
+
+
+Applied Nano
+
+
+Applied Sciences
+
+
+Applied System Innovation (ASI)
+
+
+AppliedChem
+
+
+AppliedMath
+
+
+Aquaculture Journal
+
+
+Architecture
+
+
+Arthropoda
+
+
+Arts
+
+
+Astronomy
+
+
+Atmosphere
+
+
+Atoms
+
+
+Audiology Research
+
+
+Automation
+
+
+Axioms
+
+
+Bacteria
+
+
+Batteries
+
+
+Behavioral Sciences
+
+
+Beverages
+
+
+Big Data and Cognitive Computing (BDCC)
+
+
+BioChem
+
+
+Bioengineering
+
+
+Biologics
+
+
+Biology
+
+
+Biology and Life Sciences Forum
+
+
+Biomass
+
+
+Biomechanics
+
+
+BioMed
+
+
+Biomedicines
+
+
+BioMedInformatics
+
+
+Biomimetics
+
+
+Biomolecules
+
+
+Biophysica
+
+
+Biosensors
+
+
+BioTech
+
+
+Birds
+
+
+Blockchains
+
+
+Brain Sciences
+
+
+Buildings
+
+
+Businesses
+
+
+C
+
+
+Cancers
+
+
+Cardiogenetics
+
+
+Catalysts
+
+
+Cells
+
+
+Ceramics
+
+
+Challenges
+
+
+ChemEngineering
+
+
+Chemistry
+
+
+Chemistry Proceedings
+
+
+Chemosensors
+
+
+Children
+
+
+Chips
+
+
+CivilEng
+
+
+Clean Technologies (Clean Technol.)
+
+
+Climate
+
+
+Clinical and Translational Neuroscience (CTN)
+
+
+Clinics and Practice
+
+
+Clocks & Sleep
+
+
+Coasts
+
+
+Coatings
+
+
+Colloids and Interfaces
+
+
+Colorants
+
+
+Commodities
+
+
+Complications
+
+
+Compounds
+
+
+Computation
+
+
+Computer Sciences & Mathematics Forum
+
+
+Computers
+
+
+Condensed Matter
+
+
+Conservation
+
+
+Construction Materials
+
+
+Corrosion and Materials Degradation (CMD)
+
+
+Cosmetics
+
+
+COVID
+
+
+Crops
+
+
+Cryptography
+
+
+Crystals
+
+
+Current Issues in Molecular Biology (CIMB)
+
+
+Current Oncology
+
+
+Dairy
+
+
+Data
+
+
+Dentistry Journal
+
+
+Dermato
+
+
+Dermatopathology
+
+
+Designs
+
+
+Diabetology
+
+
+Diagnostics
+
+
+Dietetics
+
+
+Digital
+
+
+Disabilities
+
+
+Diseases
+
+
+Diversity
+
+
+DNA
+
+
+Drones
+
+
+Drugs and Drug Candidates (DDC)
+
+
+Dynamics
+
+
+Earth
+
+
+Ecologies
+
+
+Econometrics
+
+
+Economies
+
+
+Education Sciences
+
+
+Electricity
+
+
+Electrochem
+
+
+Electronic Materials
+
+
+Electronics
+
+
+Emergency Care and Medicine
+
+
+Encyclopedia
+
+
+Endocrines
+
+
+Energies
+
+
+Eng
+
+
+Engineering Proceedings
+
+
+Entropy
+
+
+Environmental Sciences Proceedings
+
+
+Environments
+
+
+Epidemiologia
+
+
+Epigenomes
+
+
+European Burn Journal (EBJ)
+
+
+European Journal of Investigation in Health, Psychology and Education (EJIHPE)
+
+
+Fermentation
+
+
+Fibers
+
+
+FinTech
+
+
+Fire
+
+
+Fishes
+
+
+Fluids
+
+
+Foods
+
+
+Forecasting
+
+
+Forensic Sciences
+
+
+Forests
+
+
+Fossil Studies
+
+
+Foundations
+
+
+Fractal and Fractional (Fractal Fract)
+
+
+Fuels
+
+
+Future
+
+
+Future Internet
+
+
+Future Pharmacology
+
+
+Future Transportation
+
+
+Galaxies
+
+
+Games
+
+
+Gases
+
+
+Gastroenterology Insights
+
+
+Gastrointestinal Disorders
+
+
+Gastronomy
+
+
+Gels
+
+
+Genealogy
+
+
+Genes
+
+
+Geographies
+
+
+GeoHazards
+
+
+Geomatics
+
+
+Geosciences
+
+
+Geotechnics
+
+
+Geriatrics
+
+
+Glacies
+
+
+Gout, Urate, and Crystal Deposition Disease (GUCDD)
+
+
+Grasses
+
+
+Hardware
+
+
+Healthcare
+
+
+Hearts
+
+
+Hemato
+
+
+Hematology Reports
+
+
+Heritage
+
+
+Histories
+
+
+Horticulturae
+
+
+Hospitals
+
+
+Humanities
+
+
+Humans
+
+
+Hydrobiology
+
+
+Hydrogen
+
+
+Hydrology
+
+
+Hygiene
+
+
+Immuno
+
+
+Infectious Disease Reports
+
+
+Informatics
+
+
+Information
+
+
+Infrastructures
+
+
+Inorganics
+
+
+Insects
+
+
+Instruments
+
+
+International Journal of Environmental Research and Public Health (IJERPH)
+
+
+International Journal of Financial Studies (IJFS)
+
+
+International Journal of Molecular Sciences (IJMS)
+
+
+International Journal of Neonatal Screening (IJNS)
+
+
+International Journal of Plant Biology (IJPB)
+
+
+International Journal of Topology
+
+
+International Journal of Translational Medicine (IJTM)
+
+
+International Journal of Turbomachinery, Propulsion and Power (IJTPP)
+
+
+International Medical Education (IME)
+
+
+Inventions
+
+
+IoT
+
+
+ISPRS International Journal of Geo-Information (IJGI)
+
+
+J
+
+
+Journal of Ageing and Longevity (JAL)
+
+
+Journal of Cardiovascular Development and Disease (JCDD)
+
+
+Journal of Clinical & Translational Ophthalmology (JCTO)
+
+
+Journal of Clinical Medicine (JCM)
+
+
+Journal of Composites Science (J. Compos. Sci.)
+
+
+Journal of Cybersecurity and Privacy (JCP)
+
+
+Journal of Developmental Biology (JDB)
+
+
+Journal of Experimental and Theoretical Analyses (JETA)
+
+
+Journal of Functional Biomaterials (JFB)
+
+
+Journal of Functional Morphology and Kinesiology (JFMK)
+
+
+Journal of Fungi (JoF)
+
+
+Journal of Imaging (J. Imaging)
+
+
+Journal of Intelligence (J. Intell.)
+
+
+Journal of Low Power Electronics and Applications (JLPEA)
+
+
+Journal of Manufacturing and Materials Processing (JMMP)
+
+
+Journal of Marine Science and Engineering (JMSE)
+
+
+Journal of Market Access & Health Policy (JMAHP)
+
+
+Journal of Molecular Pathology (JMP)
+
+
+Journal of Nanotheranostics (JNT)
+
+
+Journal of Nuclear Engineering (JNE)
+
+
+Journal of Otorhinolaryngology, Hearing and Balance Medicine (JOHBM)
+
+
+Journal of Personalized Medicine (JPM)
+
+
+Journal of Pharmaceutical and BioTech Industry (JPBI)
+
+
+Journal of Respiration (JoR)
+
+
+Journal of Risk and Financial Management (JRFM)
+
+
+Journal of Sensor and Actuator Networks (JSAN)
+
+
+Journal of Theoretical and Applied Electronic Commerce Research (JTAER)
+
+
+Journal of Vascular Diseases (JVD)
+
+
+Journal of Xenobiotics (JoX)
+
+
+Journal of Zoological and Botanical Gardens (JZBG)
+
+
+Journalism and Media
+
+
+Kidney and Dialysis
+
+
+Kinases and Phosphatases
+
+
+Knowledge
+
+
+Laboratories
+
+
+Land
+
+
+Languages
+
+
+Laws
+
+
+Life
+
+
+Limnological Review
+
+
+Lipidology
+
+
+Liquids
+
+
+Literature
+
+
+Livers
+
+
+Logics
+
+
+Logistics
+
+
+Lubricants
+
+
+Lymphatics
+
+
+Machine Learning and Knowledge Extraction (MAKE)
+
+
+Machines
+
+
+Macromol
+
+
+Magnetism
+
+
+Magnetochemistry
+
+
+Marine Drugs
+
+
+Materials
+
+
+Materials Proceedings
+
+
+Mathematical and Computational Applications (MCA)
+
+
+Mathematics
+
+
+Medical Sciences
+
+
+Medical Sciences Forum
+
+
+Medicina
+
+
+Medicines
+
+
+Membranes
+
+
+Merits
+
+
+Metabolites
+
+
+Metals
+
+
+Meteorology
+
+
+Methane
+
+
+Methods and Protocols (MPs)
+
+
+Metrology
+
+
+Micro
+
+
+Microbiology Research
+
+
+Micromachines
+
+
+Microorganisms
+
+
+Microplastics
+
+
+Minerals
+
+
+Mining
+
+
+Modelling
+
+
+Molbank
+
+
+Molecules
+
+
+Multimodal Technologies and Interaction (MTI)
+
+
+Muscles
+
+
+Nanoenergy Advances
+
+
+Nanomanufacturing
+
+
+Nanomaterials
+
+
+NDT
+
+
+Network
+
+
+Neuroglia
+
+
+Neurology International
+
+
+NeuroSci
+
+
+Nitrogen
+
+
+Non-Coding RNA (ncRNA)
+
+
+Nursing Reports
+
+
+Nutraceuticals
+
+
+Nutrients
+
+
+Obesities
+
+
+Oceans
+
+
+Onco
+
+
+Optics
+
+
+Oral
+
+
+Organics
+
+
+Organoids
+
+
+Osteology
+
+
+Oxygen
+
+
+Parasitologia
+
+
+Particles
+
+
+Pathogens
+
+
+Pathophysiology
+
+
+Pediatric Reports
+
+
+Pets
+
+
+Pharmaceuticals
+
+
+Pharmaceutics
+
+
+Pharmacoepidemiology
+
+
+Pharmacy
+
+
+Philosophies
+
+
+Photochem
+
+
+Photonics
+
+
+Phycology
+
+
+Physchem
+
+
+Physical Sciences Forum
+
+
+Physics
+
+
+Physiologia
+
+
+Plants
+
+
+Plasma
+
+
+Platforms
+
+
+Pollutants
+
+
+Polymers
+
+
+Polysaccharides
+
+
+Poultry
+
+
+Powders
+
+
+Proceedings
+
+
+Processes
+
+
+Prosthesis
+
+
+Proteomes
+
+
+Psychiatry International
+
+
+Psychoactives
+
+
+Psychology International
+
+
+Publications
+
+
+Quantum Beam Science (QuBS)
+
+
+Quantum Reports
+
+
+Quaternary
+
+
+Radiation
+
+
+Reactions
+
+
+Real Estate
+
+
+Receptors
+
+
+Recycling
+
+
+Religions
+
+
+Remote Sensing
+
+
+Reports
+
+
+Reproductive Medicine (Reprod. Med.)
+
+
+Resources
+
+
+Rheumato
+
+
+Risks
+
+
+Robotics
+
+
+Ruminants
+
+
+Safety
+
+
+Sci
+
+
+Scientia Pharmaceutica (Sci. Pharm.)
+
+
+Sclerosis
+
+
+Seeds
+
+
+Sensors
+
+
+Separations
+
+
+Sexes
+
+
+Signals
+
+
+Sinusitis
+
+
+Smart Cities
+
+
+Social Sciences
+
+
+Société Internationale d’Urologie Journal (SIUJ)
+
+
+Societies
+
+
+Software
+
+
+Soil Systems
+
+
+Solar
+
+
+Solids
+
+
+Spectroscopy Journal
+
+
+Sports
+
+
+Standards
+
+
+Stats
+
+
+Stresses
+
+
+Surfaces
+
+
+Surgeries
+
+
+Surgical Techniques Development
+
+
+Sustainability
+
+
+Sustainable Chemistry
+
+
+Symmetry
+
+
+SynBio
+
+
+Systems
+
+
+Targets
+
+
+Taxonomy
+
+
+Technologies
+
+
+Telecom
+
+
+Textiles
+
+
+Thalassemia Reports
+
+
+Therapeutics
+
+
+Thermo
+
+
+Time and Space
+
+
+Tomography
+
+
+Tourism and Hospitality
+
+
+Toxics
+
+
+Toxins
+
+
+Transplantology
+
+
+Trauma Care
+
+
+Trends in Higher Education
+
+
+Tropical Medicine and Infectious Disease (TropicalMed)
+
+
+Universe
+
+
+Urban Science
+
+
+Uro
+
+
+Vaccines
+
+
+Vehicles
+
+
+Venereology
+
+
+Veterinary Sciences
+
+
+Vibration
+
+
+Virtual Worlds
+
+
+Viruses
+
+
+Vision
+
+
+Waste
+
+
+Water
+
+
+Wind
+
+
+Women
+
+
+World
+
+
+World Electric Vehicle Journal (WEVJ)
+
+
+Youth
+
+
+Zoonotic Diseases
+
+
+
+
+
+Article Type
+
+
+All Article Types
+Article
+Review
+Communication
+Editorial
+Abstract
+Book Review
+Brief Report
+Case Report
+Comment
+Commentary
+Concept Paper
+Conference Report
+Correction
+Creative
+Data Descriptor
+Discussion
+Entry
+Essay
+Expression of Concern
+Extended Abstract
+Guidelines
+Hypothesis
+Interesting Images
+Letter
+New Book Received
+Obituary
+Opinion
+Perspective
+Proceeding Paper
+Project Report
+Protocol
+Registered Report
+Reply
+Retraction
+Short Note
+Study Protocol
+Systematic Review
+Technical Note
+Tutorial
+Viewpoint
+
+
+
+ 
+
+
+
+ 
+Advanced Search
+
+
+
+
+
+ 
+
+
+Section
+
+
+
+
+
+
+
+Special Issue
+
+
+
+
+
+
+Volume
+
+
+
+Issue
+
+
+
+Number
+
+
+
+Page
+
+
+
+
+
+
+
+
+
+
+ 
+
+Logical OperatorOperator
+
+AND
+OR
+
+
+
+Search Text
+
+
+
+Search Type
+
+All fields
+Title
+Abstract
+Keywords
+Authors
+Affiliations
+Doi
+Full Text
+References
+
+
+
+ 
+
+
+add_circle_outline
+
+
+
+
+remove_circle_outline
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+Journals
+
+
+Sustainability
+
+
+Volume 7
+
+
+Issue 11
+
+
+10.3390/su71114917
+
+
+
+
+
+
+
+
+
+
+
+
+Submit to this Journal
+
+
+Review for this Journal
+
+
+Propose a Special Issue
+
+
+
+
+►
+▼
+Article Menu
+
+
+
+
+Article Menu
+
+
+
+Academic Editors
+
+
+
+
+
+Francesco Asdrubali
+
+
+
+
+
+
+
+Pietro Buzzini
+
+
+
+
+
+
+Subscribe SciFeed
+
+
+Recommended Articles
+
+
+Related Info Link
+
+
+
+Google Scholar
+
+
+
+
+
+More by Authors Links
+
+
+
+on DOAJ
+
+
+
+
+Volpe, R.
+
+
+
+Messineo, S.
+
+
+
+Volpe, M.
+
+
+
+Messineo, A.
+
+
+
+
+
+on Google Scholar
+
+
+
+
+Volpe, R.
+
+
+
+Messineo, S.
+
+
+
+Volpe, M.
+
+
+
+Messineo, A.
+
+
+
+
+
+on PubMed
+
+
+
+
+Volpe, R.
+
+
+
+Messineo, S.
+
+
+
+Volpe, M.
+
+
+
+Messineo, A.
+
+
+
+
+
+
+
+
+
+/ajax/scifeed/subscribe
+
+
+
+
+
+
+
+Article Views
+
+
+
+
+
+
+
+Citations
+-
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Altmetric
+
+
+share
+Share
+
+
+announcement
+Help
+
+
+format_quote
+Cite
+
+
+question_answer
+Discuss in SciProfiles
+
+
+thumb_up
+
+...
+
+Endorse
+
+
+textsms
+
+...
+
+Comment
+
+
+
+
+
+Need Help?
+
+
+Support
+
+Find support for a specific problem in the support section of our website.
+
+
+Get Support
+
+
+
+Feedback
+
+Please let us know what you think of our products and services.
+
+
+Give Feedback
+
+
+
+Information
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+Get Information
+
+
+
+
+clear
+
+
+
+
+
+
+
+JSmol Viewer
+
+
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+first_page
+
+
+
+Download PDF
+
+
+settings
+
+
+Order Article Reprints
+
+
+
+
+
+
+
+Font Type:
+
+
+Arial
+Georgia
+Verdana
+
+
+
+
+
+Font Size:
+
+Aa
+Aa
+Aa
+
+
+
+
+
+
+
+Line Spacing:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Column Width:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open AccessArticle
+
+Carbon Footprint of Tree Nuts Based Consumer Products 
+
+by
+
+Roberto VolpeRoberto Volpe
+SciProfiles
+
+Scilit
+
+Preprints.org
+
+Google Scholar
+ 1, 
+Simona MessineoSimona Messineo
+SciProfiles
+
+Scilit
+
+Preprints.org
+
+Google Scholar
+ 2, 
+Maurizio VolpeMaurizio Volpe
+SciProfiles
+
+Scilit
+
+Preprints.org
+
+Google Scholar
+ 1 and 
+Antonio MessineoAntonio Messineo
+SciProfiles
+
+Scilit
+
+Preprints.org
+
+Google Scholar
+ 1,* 
+
+
+
+
+
+
+1
+Facoltà di Ingegneria e Architettura, Università degli Studi di Enna “Kore”, Cittadella Universitaria, Enna 94100, Italy
+
+
+2
+Siciliacque S.p.A., Via Gioacchino di Marzo, Palermo 90144, Italy
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+
+Sustainability 2015, 7(11), 14917-14934; https://doi.org/10.3390/su71114917
+
+
+Submission received: 23 July 2015
+/
+Revised: 2 November 2015
+/
+Accepted: 3 November 2015
+/
+Published: 6 November 2015
+
+
+(This article belongs to the Special Issue 15th CIRIAF National Congress – Environmental Footprint and Sustainable Development)
+
+
+
+
+Download keyboard_arrow_down
+
+
+Download PDF
+
+Download PDF with Cover
+
+Download XML
+
+Download Epub
+
+Download Supplementary Material
+
+
+
+Browse Figures
+
+
+
+
+
+
+
+
+
+
+
+Versions Notes
+
+
+
+
+
+
+
+
+Abstract:
+This case study shows results of a calculation of carbon footprint (CFP) resulting from the production of nuts added value products for a large consumer market. Nuts consumption is increasing in the world and so is the consumer awareness of the environmental impact of goods, hence the calculation of greenhouse gas (GHG) emissions of food production is of growing importance for producers. Calculation of CO2eq emissions was performed for all stages of the production chain to the final retail point for flour, grains, paste, chocolate covered nuts and spreadable cream produced from almonds, pistachios and hazelnuts grown and transformed in Italy and for peanuts grown in Argentina and transformed in Italy. Data from literature was used to evaluate CFP of raw materials, emissions from transport and packing were calculated using existing models, while emissions deriving from transformation were calculated empirically by multiplying the power of production lines (electrical and/or thermal) by its productivity. All values were reported in kg of CO2 equivalent for each kg of packed product (net weight). Resulting values ranged between 1.2 g of CO2/kg for a 100 g bag of almond to 4.8 g of CO2/kg for the 100 g bag of chocolate covered almond. The calculation procedure can be well used for similar cases of large consumer food productions.
+
+
+Keywords: transformed food; almond; hazelnut; pistachio; peanut
+
+
+
+
+
+
+
+
+
+
+ 1. IntroductionGreenhouse effects are resulting in the gradual increase of the temperature of our planet, and greenhouse gasses (GHGs) are believed to be primarily responsible for the phenomenon.The proliferation of countless number of products and transport activities related to trade between countries, the consumer goods market growth fostered by free trade on one side and an ever increasing consumer awareness on the other, promote the necessity to assess the impact that production of goods and services have on the environment.Food production invariably has a significant impact on the environment and numerous studies have been completed to assess its entity. A recent review published by Schau and Fet [1] on life cycle assessment (LCA) methods highlights the importance of food production with respect to potential harm to the environment together with sources and methods of calculating this impact. Nonetheless, whilst LCA is a comprehensive way to calculate a product environmental impact, it is sometimes complex to communicate it to non-technical users and often LCA methodologies used on novel food productions pose several questions [2]. On the other hand, CFP is an “easy to read”, largely recognized climate indicator to provide in-depth knowledge of the environmental impact of a good or service [3,4,5,6,7]. CFP calculation allows the evaluation of emissions of carbon dioxide equivalent in the atmosphere caused by productions. Although CFP it is not as comprehensive as LCA, it provides companies with a means to show the environmental performance of their products in a way that final consumer can easily read.This work is aimed at calculating the CFP of value added nut products such as creams and powders prepared from raw materials sourced in Italy at a manufacture company based in northwest Sicily.Whilst nuts and nuts based products consumption is significantly increasing in Italy and all around the world [8,9], very little or virtually no scientific literature exist with regards to calculation of their CFP. Italian consumption of nuts is 115,000 tons for almonds, pistachios and hazelnuts and 60,000 tons for peanuts (shell free) and has increased by 15% in the past six years [8]. World peanut production totals approximately 31 to 36 million metric tons of which about 46% is produced in China, followed by India and USA at 5%. [9]. The growing interest in nuts based products increases the need for awareness of their impact on the environment. Companies dealing with value added dried nuts cannot afford to ignore the issue, since the final consumer attention on the environment is significantly increasing and the competitive global market obliges operators to align to this [10]. On the other hand, GHG emissions of productions are directly related to energy and materials consumptions, hence to direct costs. Therefore, actions towards the calculation and reduction of GHG emissions of consumer goods productions induces beneficial effects not only to the environment, but also firms, which can significantly increase their competitive advantage and reduce production costs. The aim of this study is to calculate the total CFP of the following types of value added nut products: (1)Bags of dried transformed hazelnut, pistachio and almond sourced in Italy;(2)Bags of dried peanuts sourced in Argentina;(3)Jars of pastes and spreadable creams of hazelnut pistachio and almond sourced in Italy.All production takes places at a company based in Messina province, Sicily. 2. Methodological ApproachMethodology adopted for calculating the CFP is based on UNI ISO/TS 14067. kg CO2 per kg of finished product was used as a functional throughout the calculation. For the purposes of the analysis, the calculation was performed by dividing the production process according to the logical schematics: raw material → transport inbound → transformation → packing → transport to destination.Lacking specific data for CFP of raw material cultivated in Italy, the data was derived from the literature regarding fruit cultivation in USA [11,12]. In those works a life cycle assessment (LCA) model was constructed for almond, pistachio, and walnut production in California and for peanuts in the US. Agro-chemical inputs, mechanized operations, soil processes, geospatial variation, and biomass accumulation are explicitly modelled based on technical reports, economic cost-and-return studies, field data collection, and grower interviews. The annual GHG foot-prints for orchards from nursery to hulling/shelling facility gate, were calculated.Due to the similarity of cultivation technique, these data were applicable to the fruit dealt with in the present work. The cultivation of nuts in temperate and subtropical environments presents significant similarities [13]. The small differences which are envisaged to be influencing the final GHG, were estimated to be either not directly comparable (e.g., Differences in land orography) or not relevant for the present work (e.g., differences in the average power of machines used for mechanized part of the cultivation).CFP of transformation phase was calculated empirically from firm information, that means that each of the specific transformations that the products underwent in the factory, was analyzed in terms of employed power and material throughput, that allowed to calculate the energy (electric and thermal) employed by each kg of finished product as the product of the power employed in W by the material throughput in kg/h. The energy spent was then converted to CO2 equivalent according to the rules for national energy mix and rules for calculation of GHG emission for different primary sources [14,15].CFP related to transport (inbound and outbound) and packaging was calculated using existing models respectively: Ecological Transport Information Tool for Worldwide Transports [16] and Compass Design [17]. The year 2013 was taken as a reference year and CFP contributions below 3% of total value were ignored (cut-off value). The analysis was carried out for 84 references among bags and jars of almonds, hazelnut peanuts and pistachios and classified into two main different groups for type of packaging and type of raw material, as reported in Table 1.
+
+
+
+
+
+
+
+Table 1.
+Types and packaging of raw material.
+
+
+
+
+Table 1.
+Types and packaging of raw material. 
+Type of PackagingRaw MaterialProducts in bag (dry fruit, flour, grains)Peanut, Almond, Hazelnut and PistachioProduct in jar (spreadable cream, paste)Peanut, Almond, Hazelnut and Pistachio
+
+All productions use fruits sourced in Italy with exception of productions based on peanuts, which are sourced in Argentina. Italy is still a lead producer of pistachios and hazelnut, whereas almond production is shrinking in favor of USA and Turkey producers [18]. Italian pistachio production is concentrated almost exclusively in Sicily and the total production is not sufficient to satisfy the internal demand, hence most of the pistachio consumed in Italy is imported from Iran [19], nonetheless, the company sources all the pistachio from local Sicilian producers, the same goes with almonds that are all sourced by small local producers. Thus, the calculation will refer and is applicable to products sourced entirely in Italy.With respect to composition, final products are made of a single or multiple ingredients. Fruit in bags are normally composed of a single ingredient, which underwent some sort of mechanical and/or thermal transformation, jars may be made of a single or multiple ingredient and coated fruits are always made of multiple ingredients.Salted peanuts include salt as a secondary ingredient, nonetheless, the salt accounts for some 1% in weight of the product and therefore it was ignored in the calculation.Pastes in jars are simple or composed, simple pastes are made of a single ingredient, while mixes of pastes and grain in jars are made of 90% paste and 10% grain of the same main ingredient. This of course is taken into account when calculating the energy consumption associated to production.Praline (coated) almond and hazelnut include a quantity of milk or dark chocolate approximately 2.57 kg per each kg of raw material.Spreadable creams are made up of hazelnut as the primary ingredient and other secondary ingredients mixed in different proportions depending on the recipe requested by the customer. The recipes vary only very slightly between one customer and the other. Table 2 shows the recipes for multiple ingredient products including the recipe of hazelnut spreadable cream used for the present calculation.
+
+
+
+
+
+
+
+Table 2.
+Multiple ingredients products, percentage weight of secondary ingredients.
+
+
+
+
+Table 2.
+Multiple ingredients products, percentage weight of secondary ingredients. 
+ReferenceSecondary IngredientPercentage Weight in RecipeSalted peanutsalt0.50%Fried peanutvegetable oil1.75%Praline almond and hazelnutmilk chocolate72.00%Praline almond and hazelnutdark chocolate72.00%Tamari coated toasted almondsoy oil10.00%Hazelnut spreadable creamhazelnut paste14%cocoa11%powder milk11%sugar45%sunflower oil6%palm oil12%flavors1%
+
+The vast majority (97.46%) of the products is sold by the company is sent to Europe (mainly Italy, France and Germany), the remaining part is sold to Great Britain, Sweden, the USA and Hong Kong (this latter is negligible in quantity).Products are packed in controlled nitrogen atmosphere to prevent oxidation, low density polyethylene (LDPE) is used for the bags which are then labelled in a special dedicated department. Jars are packed in a semi-automatic dedicated apparatus.All packed items are stored in boxes, in different number of bags or jars per box depending on the product, and then stored in a warehouse (refrigerated if necessary), prior to be sent to the final destination.With respect to the present analysis, the production chain may be divided into 4 macro chapters: (1) raw materials (primary and secondary ingredient); (2) transport (inbound and outbound) (3) production and (4) packaging. Removal of production waste is dealt with within the raw materials chapter. 2.1. Raw MaterialEmissions caused by almond, hazelnut and pistachio production were defined as described in [11], calculation accounts for all emissions related to growth of the plant to maturity. Cultivation and production related emissions are averaged among 60 years plant life. The calculated value considers a credit obtained from the energy conversion of part of the shells. No credit is calculated for energy conversion of the tree trimmings and prunings during plants life.We assumed that thermal energy was recovered from the 50% of the shells (in weight). This assumption is justified by the fact that almond, hazelnut and pistachio are all supplied in Italy where energy recovery of trimmings and prunings is negligible, while recovery of thermal energy from the shells is common practice [19]. Sequestration of carbon dioxide during plant lifetime is also accounted for.The credit due to the recovery of thermal energy from the shells is calculated considering the mass of shell per kg of fruit (oven dry basis) as follows [14]: ▪Almond: 0.45;▪Hazelnut: 0.77;▪Pistachio: 1.01.The energy content of the shell is equal to 4.6 kWhth/kg [14] and therefore the recovery of thermal energy per kg of fruit: ▪Almond: 1.04 kWhth/kg;▪Hazelnut: 1.77 kWhth/kg;▪Pistachio: 2.32 kWhth/kg.GHG emissions credit due to shell recovery is then calculated according to the following sequence. Total energy recovered is calculated based on Low Heating Value (LHV) of materials as per the following equation: 
+
+
+
+
+Energy recovered
+=
+Recovered shells
+
+[
+
+
+
+
+
+kg
+
+
+shell
+
+
+
+
+
+
+kg
+
+
+fruit
+
+
+
+
+
+]
+
+×
+
+
+ LHV
+
+
+shell
+
+
+
+[
+
+
+
+
+
+kWh
+
+
+th
+−
+shell
+
+
+
+
+
+
+kg
+
+
+shell
+
+
+
+
+
+]
+
+
+
+
+
+
+(1)
+
+The amount of saved GHG emissions is calculated considering the avoided Liquefied Petroleum Gas (LPG) consumption at firm level, due to production of heat via shell combustion, as shown on equation: 
+
+
+
+
+G
+H
+G
+ 
+s
+a
+v
+e
+d
+ 
+
+[
+
+
+
+C
+
+O
+
+2
+e
+q
+
+
+
+
+k
+
+g
+
+f
+r
+u
+i
+t
+
+
+
+
+
+]
+
+ 
+=
+
+
+e
+n
+e
+r
+g
+y
+ 
+r
+e
+c
+o
+v
+e
+r
+e
+d
+ 
+
+[
+
+
+
+k
+W
+
+h
+
+t
+h
+−
+s
+h
+e
+l
+l
+
+
+
+
+k
+
+g
+
+f
+r
+u
+i
+t
+
+
+
+
+
+]
+
+
+
+L
+H
+
+V
+
+L
+P
+G
+
+
+
+[
+
+
+
+k
+W
+
+h
+
+t
+h
+
+
+
+
+k
+
+g
+
+L
+P
+G
+
+
+
+
+
+]
+
+
+
+ 
+×
+L
+P
+G
+ 
+G
+H
+G
+ 
+e
+m
+i
+s
+s
+i
+o
+n
+s
+ 
+
+[
+
+
+
+C
+
+O
+
+2
+e
+q
+
+
+
+
+k
+
+g
+
+L
+P
+G
+
+
+
+
+
+]
+
+
+
+
+
+
+(2)
+
+Thus, assuming a value of avoided emissions of 0.227 kg CO2eq/kWh of energy produced with LPG or Natural Gas [15], the following are the net emission for the fruit.▪Almond: 0.23 kg CO2eq/kg;▪Hazelnuts: 0.40 kg CO2eq/kg;▪Pistachio: 0.53 kg CO2eq/kg.Emissions from peanuts are assumed to be 0.621 kg CO2eq/kg as reported in [12]. The datum considers all emissions during plants life, fruits cultivation and all transformations up to shell removal. No reliable data was found to account for amount of shell recovered and therefore to evaluate the corresponding credits related to energy recovery.In an influential study, Houghton et al [20] stated that the rate at which carbon is accumulating in terrestrial ecosystems is uncertain, as are the mechanisms responsible for sink. They state that estimates based on measured changes in wood volumes range between 0.079 and 0.280 petagrams of carbon per year in United States.The variability of the datum is high and so are the uncertainties. Similarly, no sufficiently reliable data was found on the current trend in land use change linked to nuts cultivation in Sicily, for this reason, the related emissions have been neglected in the calculation. 2.2. Secondary Raw MaterialFor the purpose of the present work, raw materials, which contribute to the final product recipe as additional ingredients are called “secondary raw materials”.The references that are made of more than one ingredient are: salted peanuts, toasted almonds, tamari covered fruits, almond and hazelnut praline and spreadable creams. In addition to the main raw material, and salt as a secondary raw material, salted peanuts are responsible for consumption of a quantity of oil used for frying. Tamari toasted almonds also consume some 10% in weight of tamari as a secondary raw material.Emissions caused by secondary raw materials are calculated from data found in the literature [21,22,23]. The values are shown in Table 3 and expressed as kg CO2eq/kg together with the amount calculated in the recipe in terms of percentage weight.As shown on the table, hazelnut paste is a semi-finished product which was considered a secondary material for spreadable cream preparation.
+
+
+
+
+
+
+
+Table 3.
+CFP emissions related to secondary raw materials.
+
+
+
+
+Table 3.
+CFP emissions related to secondary raw materials. 
+ReferenceSecondary Ingredient% Weight in RecipeCFP (g CO2eq/kg)Salted peanutSalt0.50%NegligibleFried peanutVegetable oil1.75%1.65Praline almond and hazelnutMilk chocolate72%3.6Praline almond and hazelnutDark chocolate72%2.1Tamari toasted almondSoy oil10%2.95Hazelnut spreadHazelnut paste14%0.76Cocoa11%3.6Powder milk11%2.4Sugar45%0.96Sunflower oil6%1.65Palm oil12%1.65Flavors1%Negligible
+
+ 2.3. Transport (Inbound and Outbound)Emissions related to transportation are calculated using Tool for Ecological Transport Information Worldwide Transports. Details are available in [16].Transportation of incoming raw material takes place mainly via road from Italy for all the raw materials with the exception of peanuts, which travel from Argentina by sea.Transport emissions are calculated according to the Life Cycle Assessment (LCA) approach considering fuel consumed by vehicles and fuel production. Emissions of CO2eq are calculated according to the following Equation (3) used in the model:
+
+
+CO2eq = CO2 + 25 × CH4 + 298 × N2O
+
+
+(3)
+
+The calculation excludes: ▪the construction and maintenance of vehicles;▪the construction and maintenance of infrastructures;▪other sources of energy consumption such as administrative premises, airports, stations, etc.Calculation of CO2eq footprint consists of two elements: (1)the footprint due to direct energy consumption (electricity, fuel);(2)the emissions related to fuel production and energy, based on the means of transport.Table 4 describes the assumptions made based on mode of transport.
+
+
+
+
+
+
+
+Table 4.
+Assumptions based on the means of transport.
+
+
+
+
+Table 4.
+Assumptions based on the means of transport. 
+Transport WayTransport ModePropelling Energyroadsingle or double truckdieseltrain linedifferent weight trains depending on total transported weightelectricity and diesel (depending on area of travel)internal watersvessels for internal watersdieselseacontainer ships of different sizes depending on the total amount of transported weightheavy oils, marine diesel oils, marine gas oilsaircargo planes of different sizes depending on the total transported weightkerosene
+
+Emission factors are derived from [24]. The influence of load factor are calculated in accordance to the model, an empty vehicle accounts for 1/3 below the consumption of a fully loaded vehicle, depending on the road gradient.Additional to the emissions caused directly by operating the vehicles, all emissions and the energy consumption of the generation of final energy (fuels, electricity) are taken into account. The impacts of building the infrastructure for extraction and generation of the different energy carrier are also included.The main energy carriers used in freight transport processes are liquid fossil fuels such as diesel fuel, kerosene and heavy oil and electricity.To compare the environmental impacts of transport processes with different energy carriers, the total energy chain is considered in the model as follows:Energy chain of electricity production: ▪Exploration and extraction of the primary energy carrier (coal, oil, gas, nuclear, etc.) and transport to the entrance of the power plant;▪Conversion within the power plant (including construction and deposal of power stations);▪Energy distribution (transforming and catenary losses).Energy chain of fuel production: ▪Exploration and extraction of primary energy (crude oil) and transport to the entrance of the refinery;▪Conversion within the refinery;▪Energy distribution (transport to service station, filling losses).The emission factors and energy demand for the construction and disposal of refineries, exploration and preparation of different input fuels; the transport to the refineries; the conversion in the refinery and transport to the filling station are taken from Ecoinvent™ 2009 [25].The relation between product category and destination country is reported in Supplementary Materials. 2.4. TransformationThe calculation of energy consumption related to product transformation is carried out, for each product, by summing up all the electricity and heat energy consumptions caused by each stage of the process to the final product stored and ready for shipment. Each production process requires electric and/or thermal energy which allows calculation of electricity and heat per kg of finished product according to the following equation:
+
+
+
+
+
+
+∑
+
+i
+
+EN
+ 
+e
+l
+/
+t
+h
+=
+
+
+
+
+∑
+
+i
+
+P
+e
+l
+/
+t
+h
+
+p
+
+
+
+
+
+
+(4)
+
+ where:
+▪ENel/th is electricity or heat expressed in kWhel/th used during i-th stage of the transformation process;▪Pel/th is the electric and thermal power expressed in kWel/th consumed during the i-th stage of the transformation process, (the value is derived by the technical manuals of the machine used);▪p is the hourly productivity expressed in kg/h output from the entire converting line.Therefore, electricity and/or heat consumption in the process, are calculated as the sum of all electrical and thermal energies caused by all stages of production to the final product.Electrical and thermal energy are then converted into equivalent CO2 emissions according to what reported on [15]. The equivalence for electrical energy considers the actual national energy mix, while the heat was converted considering it produced with GPL, as that is the fuel used by the company to produce thermal energy. Table 5 and Table 6 show as an example of the method of calculation, the specific energy consumed for the peeling process that some of the products undergo as the first transformation before moving on to the following phases.
+
+
+
+
+
+
+
+Table 5.
+Example of energy calculation (peeling). Base data.
+
+
+
+
+Table 5.
+Example of energy calculation (peeling). Base data. 
+Base for CalculationDataHourly production (kg/h)800Electrical energy per kg of product (Whel/kg)5.6Thermal energy per kg of product (Whth/kg)72.5
+
+
+
+
+
+
+
+
+
+Table 6.
+Example of energy calculation (peeling). Values.
+
+
+
+
+Table 6.
+Example of energy calculation (peeling). Values. 
+ElementHot BathBrushing Conveyor BeltDryingSelection BeltPowers    Electric (W) 2500 2000Thermal (W)40,000 18,000 Energies    Electrical energy per kg of product (Whel/kg)03.102.5Thermal energy per kg of product (Whth/kg)50.0022.50
+
+Each of the products under analysis is therefore dealt with as a raw product that undergoes a series of transformations that lead to the final transformed product. The total thermal and electric energy used is therefore the sum of the single energies consumed for each transformation processes that products undergo. As specified above, removing fruits shell is already accounted for in the calculation of the CFP of the raw material, therefore, the processes that have been closely analyzed are:Cleaning and calibration: this is performed internally via a laser calibration machine.Peeling. This stage takes place outside the company through a series of machines that use both thermal and electrical power supply.Soft skins removal. This process takes place outside the company by rotary mechanical system that uses electricity to remove the soft skin of fruits.Toasting. This is a particularly energy-intensive process, which consumes mainly heat by a LPG fueled oven. The raw material is loaded into the oven and moved through to gradually warmer sections. The nominal power of the oven is 350 kW. LPG calorific value is assumed to be 113 MJ/Nmc. At regime the system operates using 30% of its nominal power, to dry approximately 7% moisture of the product.Deep frying. This process is used exclusively for peanuts. Palm oil and peanut oil in the desired quantity are stored in special boilers heated by LPG. The boilers power is 93.04 kW and at regime works at 57% of its nominal power.Grinding. A mechanical process driven by electrical energy to reduce size of product.Fine grinding. A mechanical process, which reduces materials to 1.3 mm particle size. The line comprises a vibrating sieve and a hammer fine grinder.Almond paste making. The raw material is passed through a series of vibrating sieves and then through ball mill. The friction created between the balls and the crushed material raises the heat to keep the paste to a liquid state so that it can be pumped to a silos that is equipped with a stirring systems and kept at room temperature using water heated through a recovery system which uses heat generated by friction in the ball mill. The productivity per hour is approximately 350 kg/h, with an electric power of 18,600 W and a specific energy consumption of 53 Wh/kg.Toasted almond paste. The process uses the same line discussed in the preceding paragraph but guarantees a higher productivity of about 600 kg/h and an energy consumption of 31 Wh/kg.Hazelnut paste. Similar to the previous lines, only, in addition, the raw material also passes through a vibrating sieve and a vibrating filter. The line uses a power of 23,800 W and its productivity is 90 kg/h, energy consumption is therefore 264 Wh/kg.Almond and hazelnut chocolate coating. The process takes place in temperature-controlled environment. Milk chocolate or dark chocolate are melted in a special container heated by an electrical resistance, then poured on almonds or hazelnuts and then cooled by a stream of cold air so that the coating solidifies on the dried fruits. The calculation includes electricity consumption for air conditioning and line cooling, as well as for melting the coating chocolate. Both energy consumption during the heat transient and for keeping the regime temperature are considered. Air conditioning is active 8 months over 12 and is assumed to work at around 30% of its peak power. It employs some 18,700 W electric power, productivity is 66 kg/h, and then the energy consumed is 284 Wh/kg.Spreadable hazelnut cream. The process takes place downstream of the hazelnut paste line, ingredients are added via a separate line in which they are prepared and then mixed in cylindrical silos. The cream is kept warm before being purred into the jars, this warming session takes place through an electrical resistance placed in the silos. The calculation of powers and energies in in the process takes into account the hazelnut paste making, related to the percentage weight of paste in cream (14% of the weight of the finished product). Mixing and pumping the ingredients to the packaging station is also accounted for. This line is particularly energy-intensive with an electric power of about 56,000 W and an hourly productivity of 41.7 kg/h hence a specific energy consumption of 1270 Wh/kg.Cutting. The cutter is used for peanut and paste making. The cutter is a large stainless steel heated blender that delivers a 120 kg/h product employing some 35,000 W electric power for an energy consumption of 294 Wh/kg, significantly less than the cream production line.Tamari coating. The line consists of a screw conveyor and a dispensing pump. It uses approximately 3000 W power and consumes approximately 6 Wh/kg of electrical energy.The relation between product category and different process in transformation phase is reported in Supplementary Materials. 2.5. PackagingCalculation was performed following the Compass™ Design methodology which fully explains procedure for calculation and also provides a relevant database. Reference and full details of the method can be found in [17].Emissions are assumed to be related to the following steps: (1) packing products and co-products; (2) recycling off-site and (3) material sent to landfill.Lacking of more accurate information, the calculation followed a conservative approach and the amount of material recycled off site was considered to be nil, while 12% in weight was assumed as the quantity of materials recycled on site (based on an analysis of the internal procedures).Data concerning emissions from transport of material to landfills was calculated considering: (1) the type of product, the quantity; (2) modes of transport according to the Ecoinvent™ 2009 database for Europe.Finished products are put in bags or jars at the company premises. The calculation of emissions related to these mechanical operations was performed as described above for the transformations phases, hence an allocation for energy consumption was allocated per kg of product packed. 2.6. Identification of System BoundariesFigure 1 shows the boundaries of the analysis between the primary product and the final product processed and delivered to final retail point. Anything that affects less than 3% to the final value was excluded from the calculation. For this reason, packing and transport of secondary raw material to the company was ignored. Internal transports within the company premises was also ignored. Year 2013 was chosen as the reference period as full information was available for calculation.
+
+
+
+
+
+
+
+Figure 1.
+Map of process.
+
+
+
+
+ Figure 1.
+Map of process.
+
+ 3. Results and Discussion 3.1. Carbon Dioxide Equivalent Emissions for Each Life Cycle PhaseFootprints due to the cultivation of almond, hazelnut and pistachio are respectively 2.30, 1.29 and 2.53 kg CO2eq/kg of fruit, from which we can respectively deduct 0.23, 0.40 and 0.53 kg CO2eq/kg of raw products due to the recovery of thermal energy from the shells and 0.14, 0.26 and 0.37 kg CO2eq/kg of fruit for temporary carbon dioxide sequestration by the plants during their life.Thus, net emissions per kg of raw product considered in this study are: ▪Almond: 1.92 kg CO2eq/kg;▪Hazelnut: 0.52 kg CO2eq/kg;▪Pistachio: 1.74 kg CO2eq/kg.Emissions caused by peanuts are assumed equal to 0.621 kg CO2eq/kg of raw material. Table 6 shows, for each of the raw materials, the geographic origin and the relative emissions related to transport.The value is calculated as the weighted average between the transportation of fruits in shell and the ones not in shell.Table 7 shows the CFP expressed in kg CO2eq per kg of finished product, aggregated by product category, for raw material, secondary raw material, transportation, packaging and outbound transport. The CFP of “reference” is also reported to indicate the total CFP of the single bag or jar of product. Incidence in terms of percentage over total value are also shown on Table 8.
+
+
+
+
+
+
+
+Table 7.
+Calculation of emission for transportation of primary ingredients.
+
+
+
+
+Table 7.
+Calculation of emission for transportation of primary ingredients. 
+Primary IngredientsTotal Weight (kg)Country of OriginType of TransportPrimary Energy (MJ)Emissions (t CO2 eq)Emissions (kg CO2eq/kg)Average Emission Type of Raw Material (kg CO2eq/kg)Almond in shell11.830Italytruck5.8920.420.0360.04almond2483.969Italytruck1219.644880.035-Chestnut in shell76.257Italytruck37.4142.700.0350.04chestnut361.091Italytruck177.251130.036-Pistacho in shell2.380Italytruck1.1780.080.0340.03pistacho10.517Italytruck5.1650.370.035-Peanut45.292Argentinaship53.2004.090.0900.09
+
+
+
+
+
+
+
+
+
+Table 8.
+CPF aggregated by product category.
+
+
+
+
+Table 8.
+CPF aggregated by product category. 
+Product CFPBag/Jar Volume (g)CFP Reference (kg CO2eq)Total CFP (kg CO2eq/kg)Raw Material (kg CO2eq/kg)Sec. Raw Material (kg CO2eq/kg)Inb. Transport (kg CO2eq/kg)Processing (kg CO2eq/kg)Packaging (kg CO2eq/kg)Out Transport (kg CO2eq/kg)Hazelnut in bag100–1250.141.200.52-0.030.090.360.20Peanut in bag1250.171.350.62-0.090.110.330.20Hazelnut paste US market4540.721.590.52-0.040.190.780.07Peanut paste US market4540.791.750.62-0.090.190.780.07Hazelnut paste EU market200–4000.501.780.52-0.040.190.830.20Peanut paste EU market200–4000.581.930.62-0.090.190.820.20Pistacho in bag100–1250.272.331.74-0.040.060.300.20Almond in bag100–1250.322.611.930.020.030.100.340.20Hazelnut spread cream in jar US4541.192.610.071.060.040.600.780.07Hazelnut spread cream in jar EU200–4000.832.810.071.070.040.600.820.20Almond paste US market4541.312.891.93-0.040.090.780.07Almond paste EU market180–4000.903.071.93-0.040.090.830.20Chocolate covered hazelnut1000.343.430.521.890.040.160.610.20Chocolate covered almond1000.484.801.932.230.040.110.290.20
+
+Among the different products analyzed, hazelnut shows the lowest emissions due to the high amount of recovered waste by weight. The coated fruit shows significantly higher emissions than the non-coated, this is due to the secondary raw material production that contributes to about 50% to the total product emission. The packaging emissions are considerably higher for jars than for bags, this is due to the assumption that the glass is not recycled at final destination.Transformation shows relatively lower emissions, thus efforts to reduce environmental impact should be more efficiently focused on the supply of raw materials and packaging. Nonetheless, efforts related to reduction of GHG emissions related to transformation phase, may be possible with relatively small effort. This is particularly true for creams in jars for which significant efficiencies could be attained by a better heat exchanger at the ball mill.A higher efficiency exchanger will allow a significant reduction in consumption of LPG. Similar consideration goes for the oven used to toast hazelnuts. At the present time, the oven is turned on and off daily and this causes an estimate 5% extra consumption of LPG due to transient heating times. The company does that for safety reasons (there is no night shift in place), though a more modern oven would allow for a more efficient procedure within health and safety constraints.CFP of raw materials is significantly affected by the credit assumed for energy recovery, which could double in value if all shells were used for energy purposes.Figure 2 and Figure 3 represent the absolute values and percentage contribution to total CFP per each of the product analyzed.The graphs show the influence of raw material on the total emissions of pistachios and almonds. Those fruits are the ones that could benefit more from an increase of shell portion used for energy purposes. This is particularly true for chocolate covered almonds which show a CFP significantly higher than other products, since raw materials account for 40% of total value.
+
+
+
+
+
+
+
+Figure 2.
+Diagrams breakdown of CFP of products, absolute values.
+
+
+
+
+ Figure 2.
+Diagrams breakdown of CFP of products, absolute values.
+
+
+
+
+
+
+
+
+
+Figure 3.
+Diagrams breakdown of CFP of products, percentage values.
+
+
+
+
+ Figure 3.
+Diagrams breakdown of CFP of products, percentage values.
+
+Should all the shells be recovered for energy purposes, the total CFP of product would be reduced by as much as 1 kg CO2eq/kg or 20% of total CFP. Similar considerations apply to hazelnut and peanut pastes, for which packaging is particularly heavy in terms of CFP, accounting for respectively 49.2% and 44.7% of total value, considerably higher compared to the raw material. For those products, efforts should be directed towards increasing the amount of glass recycled or reused at end of life. Using a jar which could be used as a glass for instance after product is finished could potentially reduce the total product CFP to very values as low as 1 kg CO2eq/kg.Supplementary Material is provided to show the sources and sinks of GHG emissions per each of the phases and each of the product categories. 3.2. Uncertainty and Sensitivity AnalysisThe main uncertainty in data is related to CFP of raw materials and to final destination of glass for what concerns jars.Data on raw material is affected by the unknown credit related to the exact amount of shells (as well as tree trimmings and prunings) destined to energy production. In recent works, the authors highlighted the potential energy recovery from trimmings and prunings [26,27,28,29].A sensitivity analysis was conducted mainly with regards to raw materials and the number of shells that can finally be destined to energy production. This is in fact the figure on which the company has the highest potential influence, in fact suppliers of almonds, hazelnuts and pistachios are largely small producers who have the company as the main client.Data on packaging is affected by the unknown final destination of glass that jars are made of. On this issue the company has relatively little influence since final products are destined to consumer markets abroad and little control there could be on the destination of glass jars.Figure 4 shows calculation of CFP related to raw materials in absolute values, assuming null to 100% the relative credit to the use of shells for the production of energy.
+
+
+
+
+
+
+
+Figure 4.
+CFP sensitivity raw material.
+
+
+
+
+ Figure 4.
+CFP sensitivity raw material.
+
+Table 9 shows the sensitivity in absolute values and percentages of them over total value for the product.Hazelnut shows the greatest sensitivity, almond the lowest. This suggests that in order to reduce GHG, the most effective initiatives are those focused first on the hazelnut rather than almond or pistachio.
+
+
+
+
+
+
+
+Table 9.
+Percentage Sensitivity compared to the total value.
+
+
+
+
+Table 9.
+Percentage Sensitivity compared to the total value. 
+ProductVolume of Bag/Jar (g)Total CFP (kgCO2eq/kg)Sensitivity (kgCO2eq/kg)Incidence of Sensitivity (%)hazelnut in bag100–1251.200.4033.33%hazelnut paste US4541.590.4025.16%hazelnut paste EU200–4001.780.4022.47%pistachio in bag100–1252.330.5322.75%almond in bag100–1252.610.238.81%hazelnut spreadable cream US 4542.610.4015.33%hazelnut spreadable cream EU200–4002.810.4014.23%almond paste US4542.890.237.96%almond paste EU180–4003.070.237.49%chocolate coatted hazelnut1003.430.4011.66%chocolate covered almond1004.800.234.79%
+
+The uncertainty in the calculated value for the transformation phase is significantly lower than that of the raw material; moreover, lower sensitivity is also due to the significantly less influence of transformation emissions over total CFP. 4. ConclusionsTotal CFP of dry nuts based products shows a significant dependence on raw material with influences of a total higher than 50%. The calculation showed that a potentially significant emission reduction could be obtained by the energy recovery of fruits shells. The adopted methodology allowed for an accurate calculation of energy consumption for the transformation phase, this showed a significant advantage in providing an analytical basis to increase efficiency of production lines.Furthermore, due to the influence of the raw material over total CFP, particular care should be taken in improving the cultivation technique and integration to energy recovery. This mainly refers to the use of trimmings and prunings of tree nuts as a solid biofuel. Significant amount of energy is consumed in disposing of trimmings and prunings of trees, this is valuable material which could be in part trimmed and mixed with the soil in order to increase the soil organic content and in part used as a renewable fuel. Both options would contribute to a reduction of total CFP of fruits. A similar discussion applies to nuts, whose shells could be used as soil amendment [30]. This all would provide an important basis for total emission reduction.
+
+
+ Supplementary FilesSupplementary File 1AcknowledgmentsThis work was conducted under the coordination of InnovengynTM Palermo, Italy. The authors wish to thank the company F.lli Damiano & c. srl of Torrenova (ME) for the assistance and valuable support.Author ContributionsAll authors contributed equally to this work.Conflicts of InterestThe authors declare no conflict of interest.ReferencesSchau, E.M.; Fet, A.M. LCA Studies of Food Products as Background for Environmental Product Declarations. Int. J. Life Cycle Assess. 2008, 13, 255–264. [Google Scholar] [CrossRef]Hospido, A.; Davis, J.; Berlin, J.; Sonesson, U. A review of methodological issues affecting LCA of novel food products. Int. J. Life Cycle Assess. 2010, 15, 44–52. [Google Scholar] [CrossRef]Asdrubali, F.; Baldinelli, G.; D’Alessandro, F.; Scrucca, F. Life cycle assessment of electricity production from renewable energies: Review and results harmonization. Renew. Sustain. Energy Rev. 2015, 42, 1113–1122. [Google Scholar] [CrossRef]Marvuglia, A.; Messineo, A. Using recurrent artificial neural networks to forecast household electricity consumption. Energy Procedia 2012, 14, 45–55. [Google Scholar] [CrossRef]Wright, L.A.; Kemp, S. Carbon footprinting: Towards a universally accepted definition. Carbon Manag. 2011, 2, 61–72. [Google Scholar] [CrossRef]De Marchis, M.; Freni, G. Pump as turbine implementation in a dynamic numerical model: Cost analysis for energy recovery in water distribution network. J. Hydroinform. 2015, 17, 347–360. [Google Scholar] [CrossRef]Asdrubali, F.; Presciutti, A.; Scrucca, F. Development of a greenhouse gas accounting GIS-based tool to support local policy making—Application to an Italian municipality. Energy Policy 2013, 61, 587–594. [Google Scholar] [CrossRef]Nutfruit. Available online: https://www.nutfruit.org/en (accessed on 19 May 2015).Italianfruit. Available online: http://www.italiafruit.net/DettaglioNews/28957/la-categoria-del-mese/frutta-secca-ed-essiccata-un-crescendo-impetuoso (accessed on 25 May 2015).Chartrand, T.L. The role of conscious awareness in consumer behavior. J. Consum. Psychol. 2005, 15, 203–210. [Google Scholar] [CrossRef]Marvinney, E.; Kendall, A.; Brodt, S. A comparative assessment of greenhouse gas emissions in California almond, pistachio, walnut and production. In Proceedings of the 9th International Conference LCA of Food San Francisco, San Francisco, CA, USA, 8–10 October 2014.University of Arkansas; American Peanut Council. National Level Scan-Life Cycle Assessment for Production of US Peanut Butter-Agricultural and Rural Sustainability. Available online: http://cars.uark.edu/resources-reports/Peanut_Report.pdf (accessed on 5 November 2015).Jackson, D.I.; Loooney, N.E.; Morley Bunker, M. Temperate and Subtropical Fruit Production; CAB International North America: Oxfordshire, UK, 2011. [Google Scholar]Technical Specification: UNI/TS 11435:2012 Sostenibilità Delle Biomasse Solide e Gassose ad uso Energetico in Termini di Risparmio di Emissioni di gas Serra. Available online: http://www.cti2000.it/index.php?controller=documenti&action=showDocuments&argid=72 (accessed on 25 October 2015).Directive 2003/87/EC (emissions trading of greenhouse gases)-14/2009 decision of the Ministry of the environment. Available online: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:275:0032:0046:en:PDF (accessed on 5 November 2015).Ecological Transport Information Tool for Worldwide Transports–Environmental Methodology and Data IFEU Heidelberg-Öko-Institut/IVE RMCON. Available online: http://www.ecotransit.org/download/EcoTransIT_World_Methodology_Report_2014-12-04.pdf (accessed on 5 November 2015).Guidance Document for LCI Data Collection Templates v 1.0-© GreenBlue 2007. Available online: http://www.design-compass.org (accessed on 26 September 2014).Global Agricultural Information Network, Gain Report NO. IT1367. Available online: http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Tree%20Nuts%20Annual%202013_Rome_Italy_10-23-2013.pdf (accessed on 25 October 2015).Italian Statistics. Available online: http://www.istat.it/it/agricoltura-e-zootecnia and http://www.istat.it/it/ambiente-ed-energia (accessed on 20 January 2015).Houghton, R.A.; Hackler, J.L.; Lawrence, K.T. The U.S. Carbon Budget: Contributions from Land-Use Change. Science 1999, 285, 574–578. [Google Scholar] [CrossRef] [PubMed]Baldwin, C.J. Sustainability in the Food Industry; John Wiley & Sons: Hoboken, NJ, USA, 2009. [Google Scholar]Büsser, S.; Jungbluth, B. LCA of Chocolate Packed in Aluminum Foil Based Packaging. ESU-services Ltd.: Uster, Switzerland. Available online: http://www.alufoil.org/tl_files/sustainability/ESU_-_Chocolate_2009_-_Exec_Sum.pdf (accessed on 25 May 2015).Greenhouse Gas Emissions from the Dairy Sector: A Life Cycle Assessment. Food and Agriculture organization of the United Nations. Animal Production and Health Division. Available online: http://www.fao.org/docrep/012/k7930e/k7930e00.pdf (accessed on 25 May 2015).Handbook emission factors for road transport (HBEFA) 2010/INFRAS/MOVES model for EPA/EPA 2009 standard. Available online: http://www.hbefa.net/e/help/HBEFA32_help_en.pdf (accessed on 5 November 2015).Database Ecoinvent™ 2009. Available online: http://www.ecoinvent.org/database/database.html (accessed on 25 October 2015).Volpe, M.; D’Anna, C.; Messineo, S.; Volpe, R.; Messineo, A. Sustainable Production of Bio-Combustibles from Pyrolysis of Agro-Industrial Wastes. Sustainability 2014, 6, 7866–7882. [Google Scholar] [CrossRef]Messineo, A.; Volpe, R.; Asdrubali, F. Evaluation of net energy obtainable from combustion of stabilised olive mill by-products. Energies 2012, 5, 1384–1397. [Google Scholar] [CrossRef]Messineo, A.; Volpe, R.; Marvuglia, A. Ligno-cellulosic biomass exploitation for power generation: A case study in Sicily. Energy 2012, 45, 613–625. [Google Scholar] [CrossRef]Volpe, R.; Messineo, A.; Millan, M.; Volpe, M.; Kandiyoti, R. Assessment of olive wastes as energy source: Pyrolysis, torrefaction and the key role of H loss in thermal breakdown. Energy 2015, 82, 119–127. [Google Scholar] [CrossRef]Filiberto, D.; Gaunt, J. Practicality of biochar additions to enhance soil and crop productivity. Agriculture 2013, 3, 715–725. [Google Scholar] [CrossRef]
+© 2015 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+Share and Cite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MDPI and ACS Style
+
+Volpe, R.; Messineo, S.; Volpe, M.; Messineo, A.
+Carbon Footprint of Tree Nuts Based Consumer Products. Sustainability 2015, 7, 14917-14934.
+https://doi.org/10.3390/su71114917
+
+
+AMA Style
+
+Volpe R, Messineo S, Volpe M, Messineo A.
+Carbon Footprint of Tree Nuts Based Consumer Products. Sustainability. 2015; 7(11):14917-14934.
+https://doi.org/10.3390/su71114917
+
+Chicago/Turabian Style
+
+Volpe, Roberto, Simona Messineo, Maurizio Volpe, and Antonio Messineo.
+2015. "Carbon Footprint of Tree Nuts Based Consumer Products" Sustainability 7, no. 11: 14917-14934.
+https://doi.org/10.3390/su71114917
+
+
+
+Article Metrics
+
+
+No
+
+No
+
+
+
+
+Article Access Statistics
+
+For more information on the journal statistics, click here.
+
+Multiple requests from the same IP address are counted as one view.
+
+
+
+
+
+
+
+
+
+Supplementary Material
+
+
+
+
+
+Supplementary File 1:
+
+
+Supplementary
+
+(ZIP, 652 KiB)
+
+
+
+
+
+
+
+
+clear
+
+
+
+
+Zoom
+|
+ Orient 
+|
+ As Lines 
+|
+ As Sticks 
+|
+ As Cartoon 
+|
+ As Surface 
+|
+Previous Scene
+|
+Next Scene
+
+
+
+
+
+
+
+
+
+
+Cite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Export citation file:
+BibTeX |
+EndNote |
+RIS
+
+
+
+
+MDPI and ACS Style
+
+Volpe, R.; Messineo, S.; Volpe, M.; Messineo, A.
+Carbon Footprint of Tree Nuts Based Consumer Products. Sustainability 2015, 7, 14917-14934.
+https://doi.org/10.3390/su71114917
+
+
+AMA Style
+
+Volpe R, Messineo S, Volpe M, Messineo A.
+Carbon Footprint of Tree Nuts Based Consumer Products. Sustainability. 2015; 7(11):14917-14934.
+https://doi.org/10.3390/su71114917
+
+Chicago/Turabian Style
+
+Volpe, Roberto, Simona Messineo, Maurizio Volpe, and Antonio Messineo.
+2015. "Carbon Footprint of Tree Nuts Based Consumer Products" Sustainability 7, no. 11: 14917-14934.
+https://doi.org/10.3390/su71114917
+
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+Sustainability,
+EISSN 2071-1050,
+Published by MDPI
+
+
+
+RSS
+
+
+Content Alert
+
+
+
+
+
+
+Further Information
+
+
+Article Processing Charges
+
+
+Pay an Invoice
+
+
+Open Access Policy
+
+
+Contact MDPI
+
+
+Jobs at MDPI
+
+
+
+
+Guidelines
+
+
+For Authors
+
+
+For Reviewers
+
+
+For Editors
+
+
+For Librarians
+
+
+For Publishers
+
+
+For Societies
+
+
+For Conference Organizers
+
+
+
+
+MDPI Initiatives
+
+
+Sciforum
+
+
+MDPI Books
+
+
+Preprints.org
+
+
+Scilit
+
+
+SciProfiles
+
+
+Encyclopedia
+
+
+JAMS
+
+
+Proceedings Series
+
+
+
+
+Follow MDPI
+
+
+LinkedIn
+
+
+Facebook
+
+
+Twitter
+
+
+
+
+
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+Acoustics
+Acta Microbiologica Hellenica
+Actuators
+Administrative Sciences
+Adolescents
+Advances in Respiratory Medicine
+Aerobiology
+Aerospace
+Agriculture
+AgriEngineering
+Agrochemicals
+Agronomy
+AI
+Air
+Algorithms
+Allergies
+Alloys
+Analytica
+Analytics
+Anatomia
+Anesthesia Research
+Animals
+Antibiotics
+Antibodies
+Antioxidants
+Applied Biosciences
+Applied Mechanics
+Applied Microbiology
+Applied Nano
+Applied Sciences
+Applied System Innovation
+AppliedChem
+AppliedMath
+Aquaculture Journal
+Architecture
+Arthropoda
+Arts
+Astronomy
+Atmosphere
+Atoms
+Audiology Research
+Automation
+Axioms
+Bacteria
+Batteries
+Behavioral Sciences
+Beverages
+Big Data and Cognitive Computing
+BioChem
+Bioengineering
+Biologics
+Biology
+Biology and Life Sciences Forum
+Biomass
+Biomechanics
+BioMed
+Biomedicines
+BioMedInformatics
+Biomimetics
+Biomolecules
+Biophysica
+Biosensors
+BioTech
+Birds
+Blockchains
+Brain Sciences
+Buildings
+Businesses
+C
+Cancers
+Cardiogenetics
+Catalysts
+Cells
+Ceramics
+Challenges
+ChemEngineering
+Chemistry
+Chemistry Proceedings
+Chemosensors
+Children
+Chips
+CivilEng
+Clean Technologies
+Climate
+Clinical and Translational Neuroscience
+Clinics and Practice
+Clocks & Sleep
+Coasts
+Coatings
+Colloids and Interfaces
+Colorants
+Commodities
+Complications
+Compounds
+Computation
+Computer Sciences & Mathematics Forum
+Computers
+Condensed Matter
+Conservation
+Construction Materials
+Corrosion and Materials Degradation
+Cosmetics
+COVID
+Crops
+Cryptography
+Crystals
+Current Issues in Molecular Biology
+Current Oncology
+Dairy
+Data
+Dentistry Journal
+Dermato
+Dermatopathology
+Designs
+Diabetology
+Diagnostics
+Dietetics
+Digital
+Disabilities
+Diseases
+Diversity
+DNA
+Drones
+Drugs and Drug Candidates
+Dynamics
+Earth
+Ecologies
+Econometrics
+Economies
+Education Sciences
+Electricity
+Electrochem
+Electronic Materials
+Electronics
+Emergency Care and Medicine
+Encyclopedia
+Endocrines
+Energies
+Eng
+Engineering Proceedings
+Entropy
+Environmental Sciences Proceedings
+Environments
+Epidemiologia
+Epigenomes
+European Burn Journal
+European Journal of Investigation in Health, Psychology and Education
+Fermentation
+Fibers
+FinTech
+Fire
+Fishes
+Fluids
+Foods
+Forecasting
+Forensic Sciences
+Forests
+Fossil Studies
+Foundations
+Fractal and Fractional
+Fuels
+Future
+Future Internet
+Future Pharmacology
+Future Transportation
+Galaxies
+Games
+Gases
+Gastroenterology Insights
+Gastrointestinal Disorders
+Gastronomy
+Gels
+Genealogy
+Genes
+Geographies
+GeoHazards
+Geomatics
+Geosciences
+Geotechnics
+Geriatrics
+Glacies
+Gout, Urate, and Crystal Deposition Disease
+Grasses
+Hardware
+Healthcare
+Hearts
+Hemato
+Hematology Reports
+Heritage
+Histories
+Horticulturae
+Hospitals
+Humanities
+Humans
+Hydrobiology
+Hydrogen
+Hydrology
+Hygiene
+Immuno
+Infectious Disease Reports
+Informatics
+Information
+Infrastructures
+Inorganics
+Insects
+Instruments
+International Journal of Environmental Research and Public Health
+International Journal of Financial Studies
+International Journal of Molecular Sciences
+International Journal of Neonatal Screening
+International Journal of Plant Biology
+International Journal of Topology
+International Journal of Translational Medicine
+International Journal of Turbomachinery, Propulsion and Power
+International Medical Education
+Inventions
+IoT
+ISPRS International Journal of Geo-Information
+J
+Journal of Ageing and Longevity
+Journal of Cardiovascular Development and Disease
+Journal of Clinical & Translational Ophthalmology
+Journal of Clinical Medicine
+Journal of Composites Science
+Journal of Cybersecurity and Privacy
+Journal of Developmental Biology
+Journal of Experimental and Theoretical Analyses
+Journal of Functional Biomaterials
+Journal of Functional Morphology and Kinesiology
+Journal of Fungi
+Journal of Imaging
+Journal of Intelligence
+Journal of Low Power Electronics and Applications
+Journal of Manufacturing and Materials Processing
+Journal of Marine Science and Engineering
+Journal of Market Access & Health Policy
+Journal of Molecular Pathology
+Journal of Nanotheranostics
+Journal of Nuclear Engineering
+Journal of Otorhinolaryngology, Hearing and Balance Medicine
+Journal of Personalized Medicine
+Journal of Pharmaceutical and BioTech Industry
+Journal of Respiration
+Journal of Risk and Financial Management
+Journal of Sensor and Actuator Networks
+Journal of Theoretical and Applied Electronic Commerce Research
+Journal of Vascular Diseases
+Journal of Xenobiotics
+Journal of Zoological and Botanical Gardens
+Journalism and Media
+Kidney and Dialysis
+Kinases and Phosphatases
+Knowledge
+Laboratories
+Land
+Languages
+Laws
+Life
+Limnological Review
+Lipidology
+Liquids
+Literature
+Livers
+Logics
+Logistics
+Lubricants
+Lymphatics
+Machine Learning and Knowledge Extraction
+Machines
+Macromol
+Magnetism
+Magnetochemistry
+Marine Drugs
+Materials
+Materials Proceedings
+Mathematical and Computational Applications
+Mathematics
+Medical Sciences
+Medical Sciences Forum
+Medicina
+Medicines
+Membranes
+Merits
+Metabolites
+Metals
+Meteorology
+Methane
+Methods and Protocols
+Metrology
+Micro
+Microbiology Research
+Micromachines
+Microorganisms
+Microplastics
+Minerals
+Mining
+Modelling
+Molbank
+Molecules
+Multimodal Technologies and Interaction
+Muscles
+Nanoenergy Advances
+Nanomanufacturing
+Nanomaterials
+NDT
+Network
+Neuroglia
+Neurology International
+NeuroSci
+Nitrogen
+Non-Coding RNA
+Nursing Reports
+Nutraceuticals
+Nutrients
+Obesities
+Oceans
+Onco
+Optics
+Oral
+Organics
+Organoids
+Osteology
+Oxygen
+Parasitologia
+Particles
+Pathogens
+Pathophysiology
+Pediatric Reports
+Pets
+Pharmaceuticals
+Pharmaceutics
+Pharmacoepidemiology
+Pharmacy
+Philosophies
+Photochem
+Photonics
+Phycology
+Physchem
+Physical Sciences Forum
+Physics
+Physiologia
+Plants
+Plasma
+Platforms
+Pollutants
+Polymers
+Polysaccharides
+Poultry
+Powders
+Proceedings
+Processes
+Prosthesis
+Proteomes
+Psychiatry International
+Psychoactives
+Psychology International
+Publications
+Quantum Beam Science
+Quantum Reports
+Quaternary
+Radiation
+Reactions
+Real Estate
+Receptors
+Recycling
+Religions
+Remote Sensing
+Reports
+Reproductive Medicine
+Resources
+Rheumato
+Risks
+Robotics
+Ruminants
+Safety
+Sci
+Scientia Pharmaceutica
+Sclerosis
+Seeds
+Sensors
+Separations
+Sexes
+Signals
+Sinusitis
+Smart Cities
+Social Sciences
+Société Internationale d’Urologie Journal
+Societies
+Software
+Soil Systems
+Solar
+Solids
+Spectroscopy Journal
+Sports
+Standards
+Stats
+Stresses
+Surfaces
+Surgeries
+Surgical Techniques Development
+Sustainability
+Sustainable Chemistry
+Symmetry
+SynBio
+Systems
+Targets
+Taxonomy
+Technologies
+Telecom
+Textiles
+Thalassemia Reports
+Therapeutics
+Thermo
+Time and Space
+Tomography
+Tourism and Hospitality
+Toxics
+Toxins
+Transplantology
+Trauma Care
+Trends in Higher Education
+Tropical Medicine and Infectious Disease
+Universe
+Urban Science
+Uro
+Vaccines
+Vehicles
+Venereology
+Veterinary Sciences
+Vibration
+Virtual Worlds
+Viruses
+Vision
+Waste
+Water
+Wind
+Women
+World
+World Electric Vehicle Journal
+Youth
+Zoonotic Diseases
+
+
+Subscribe
+
+
+
+
+
+
+
+© 1996-2024 MDPI (Basel, Switzerland) unless otherwise stated
+
+
+
+Disclaimer
+
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely
+those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or
+the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas,
+methods, instructions or products referred to in the content.
+
+
+Terms and Conditions
+
+
+Privacy Policy
+
+
+
+
+
+
+
+We use cookies on our website to ensure you get the best experience.
+Read more about our cookies here.
+
+
+Accept
+
+
+
+
+
+
+Share Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy
+
+
+
+clear
+
+
+
+
+
+Share
+
+
+
+
+
+https://www.mdpi.com/116952
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clear
+
+
+Back to TopTop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

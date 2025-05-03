@@ -1,0 +1,317 @@
+
+
+
+
+
+ 
+
+
+	Staline, Joseph (1879-1953) Сталин, Иосиф Виссарионович (1879-1953)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+paprika.idref.fr
+
+
+
+data.idref.fr
+
+
+
+Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Bonjour ,
+					
+
+Bienvenue sur IdRef, Identifiants et référentiels pour l'Enseignement supérieur et la Recherche.
+
+
+
+
+
+
+
+
+
+
+
+
+Staline, Joseph (1879-1953) Сталин, Иосиф Виссарионович (1879-1953)
+
+
+
+
+
+
+
+
+Contrôle Paprika
+
+
+data.idref
+
+
+Élément EAD
+
+
+Export biblio
+
+
+Export XML
+
+
+Export JSON
+
+
+Export RDF
+
+
+Améliorer la notice
+
+
+Signaler une erreur
+
+
+
+
+                  Identifiant pérenne de la notice : 027147029
+
+                     URI de l'entité :
+                     http://www.idref.fr/027147029/id
+Notice de type
+                  Personne
+                  
+
+
+Point d'accès autorisé
+
+Staline, Joseph (1879-1953)
+
+Сталин, Иосиф Виссарионович (1879-1953)
+
+Pseudonyme
+
+
+
+Variantes de point d'accès
+
+Staline, Iosif Vissarionovitch[Nom de personne]
+
+Djougachvili, Soso[Nom de personne]
+
+Djougachvili , Joseph[Nom de personne]
+
+סטאלין, יוסף[Nom de personne]
+
+סטאלין, י[Nom de personne]
+
+סטאלינ, יוסף[Nom de personne]
+
+סטאלינ, י[Nom de personne]
+
+სტალინი, იოსებ[Nom de personne]
+
+Stalini, Ioseb[Nom de personne]
+
+Джугашвили, Сосо[Nom de personne]
+
+Džugašvili, Soso[Nom de personne]
+
+
+
+
+Information
+
+ (par souci de protection des données à caractère personnel, le jour et le mois de naissance peuvent ne pas être affichés)
+Langue d'expression : russe
+Pays : URSS
+Date de naissance :   
+                     	                        1879
+Date de mort :   
+                     	                        1953
+Genre : Masculin
+
+
+
+Notes
+Note publique d'information : A dirigé l'Union soviétique entre 1928 et 1953. De 1922 à 1953, il fut secrétaire
+                     général du Parti communiste d'Union soviétique
+
+
+Identifiants externes
+
+
+
+
+ Identifiant VIAF : http://viaf.org/viaf/101787139
+
+ Identifiant Wikipédia : https://fr.wikipedia.org/wiki/Joseph_Staline
+ Identifiant ARK BNF : http://catalogue.bnf.fr/ark:/12148/cb11925406n
+ Identifiant ISNI : 0000000121457825
+
+
+
+Forme parallèle
+
+Stalin, Iosif Vissarionovič (1879-1953)
+Pseudonyme
+
+
+
+Source
+
+BN Service russe
+
+Lénine tel qu'il fut / par J. Staline, V. Molotov, K. Vorochilov [et al.], 1934
+
+Hruŝev o Staline / Sostavitelʹ A. Serebrennikov
+
+Хрущев о Сталине / Составитель А. Серебренников, 1989
+
+http://fr.wikipedia.org/wiki/Joseph_Staline en ligne le 14/03/2007
+
+
+
+... Références liées : ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IdRef - Identifiants et Référentiels pour l'ESR
+				L'interface publique IdRef permet la consultation des notices d'autorités produites par les établissements membres des réseaux documentaires de l'ESR (Sudoc, Calames, Star). 
+				
+				IdRef est à la disposition des usagers professionnels habilités à créer/corriger/enrichir les notices d'autorité (authentification requise). 
+				A partir d'IdRef, une gamme de services (triple store data.idref.fr, entrepôt OAI-PMH, APIs) est disponible en accès libre pour faciliter la réutilisation des données.
+			
+
+Pour les développeurs
+
+
+Documentation IdRef
+
+
+APIs et web services
+
+
+data.idref.fr
+
+
+OAI-PMH IdRef
+
+
+GitHub Abes
+
+
+
+
+Utilisation des données
+				Libre et gratuite sous licence Etalab
+				
+
+
+							GitHub Etalab	
+						
+
+
+
+
+
+
+
+Assistance
+Guichet AbesSTP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A propos |
+				Partenaires |
+				Données Personnelles |
+				CGU |
+				Mentions Légales |
+				Accessibilité numérique
+
+
+
+
+
+
+

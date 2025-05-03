@@ -1,0 +1,1894 @@
+
+
+
+
+Help:CirrusSearch - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+		In other languages
+	
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+Beginning
+
+
+
+
+
+1How it works
+
+
+
+
+
+
+
+2What's improved?
+
+
+
+
+
+
+
+3How frequently is the search index updated?
+
+
+
+
+
+
+
+4Search suggestions
+
+
+
+
+
+
+
+5Full text search
+
+
+
+Toggle Full text search subsection
+
+
+
+
+
+5.1Words, phrases, and modifiers
+
+
+
+
+
+5.1.1Insource
+
+
+
+
+
+
+
+
+
+5.2Prefix and namespace
+
+
+
+
+
+5.2.1prefix:
+
+
+
+
+
+
+
+
+
+5.3Exclude content from the search index
+
+
+
+
+
+
+
+
+
+6Filters
+
+
+
+Toggle Filters subsection
+
+
+
+
+
+6.1Intitle and incategory
+
+
+
+
+
+
+
+6.2Deepcategory
+
+
+
+
+
+
+
+6.3Linksto
+
+
+
+
+
+
+
+6.4Hastemplate
+
+
+
+
+
+
+
+6.5Inlanguage
+
+
+
+
+
+
+
+6.6Contentmodel
+
+
+
+
+
+
+
+6.7subpageof
+
+
+
+
+
+
+
+6.8Articletopic
+
+
+
+
+
+
+
+6.9Pageid
+
+
+
+
+
+
+
+
+
+7Page weighting
+
+
+
+Toggle Page weighting subsection
+
+
+
+
+
+7.1Morelike
+
+
+
+
+
+
+
+7.2Prefer-recent
+
+
+
+
+
+
+
+7.3Boost-templates
+
+
+
+
+
+
+
+
+
+8Regular expression searches
+
+
+
+Toggle Regular expression searches subsection
+
+
+
+
+
+8.1Metacharacters
+
+
+
+
+
+
+
+8.2Substitutions for some metacharacters
+
+
+
+
+
+
+
+8.3Refining with an exact string
+
+
+
+
+
+
+
+8.4Regex on titles
+
+
+
+
+
+
+
+8.5Advanced example
+
+
+
+
+
+
+
+
+
+9Geo Search
+
+
+
+Toggle Geo Search subsection
+
+
+
+
+
+9.1bounded
+
+
+
+
+
+
+
+9.2boosted
+
+
+
+
+
+
+
+
+
+10File properties search
+
+
+
+Toggle File properties search subsection
+
+
+
+
+
+10.1filetype
+
+
+
+
+
+
+
+10.2filemime
+
+
+
+
+
+
+
+10.3filesize
+
+
+
+
+
+
+
+10.4File measures
+
+
+
+
+
+
+
+
+
+11Wikibase search
+
+
+
+
+
+
+
+12Cross-wiki search results
+
+
+
+
+
+
+
+13Explicit sort orders
+
+
+
+
+
+
+
+14Interface for advanced options
+
+
+
+
+
+
+
+15See also
+
+
+
+
+
+
+
+16External links
+
+
+
+
+
+
+
+17Notes and references
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Help:CirrusSearch
+
+
+
+
+
+
+
+
+
+
+HelpDiscussion
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From mediawiki.org
+
+
+Translate this pageLanguages:Bahasa Indonesia
+Bahasa Melayu
+Deutsch
+Dusun Bundu-liwan
+English
+Nederlands
+Sunda
+Tiếng Việt
+Türkçe
+català
+dansk
+español
+français
+interlingua
+italiano
+magyar
+norsk bokmål
+polski
+português
+português do Brasil
+shqip
+suomi
+svenska
+čeština
+Ελληνικά
+български
+македонски
+русский
+українська
+ייִדיש
+עברית
+اردو
+العربية
+فارسی
+پښتو
+ߒߞߏ
+अवधी
+हिन्दी
+বাংলা
+தமிழ்
+తెలుగు
+ไทย
+မြန်မာဘာသာ
+中文
+日本語
+한국어
+
+
+Note: When you edit this page, you agree to release your contribution under the CC0. See Public Domain Help Pages for more info. 
+
+
+
+
+The quickest way to find information in Wikimedia projects is to look it up directly. 
+On every page there is a search box.
+CirrusSearch is a MediaWiki extension that uses Elasticsearch to provide enhanced search features over the default MediaWiki search.
+The Wikimedia Foundation uses CirrusSearch for all Wikimedia projects.
+This page describes the features of CirrusSearch.
+If your question is not answered here, feel free to ask on the talk page and someone will answer it for you.
+For information on the MediaWiki extension, see Extension:CirrusSearch .
+For its use on Wikidata, see Help:Extension:WikibaseCirrusSearch .
+
+How it works
+Enter keywords and phrases and press ↵ Enter or Return on your keyboard or click the magnifying glass icon, "Search", or "Go" button.
+If a page has the same title as what you entered, you will be directed to that page.
+Otherwise, it searches all pages on the wiki, and presents a list of articles that matched your search terms, or a message informing you that no page has all the key words and phrases.
+If you click the "Search" button without filling in anything, you will be taken to Special:Search which gives you extra searching options (also available from any search results list)
+You may find it useful to restrict a search to pages within a particular namespace, e.g., only search within the User pages.
+Check the namespaces you require for this search.
+
+All keywords mentioned below are case-sensitive and in lower case.
+What's improved?
+CirrusSearch features three main improvements over the default MediaWiki search, namely:
+
+Better support for searching in different languages.
+Faster updates to the search index, meaning changes to articles are reflected in search results much faster.
+Expanding templates, meaning that all content from a template is now reflected in search results.
+How frequently is the search index updated?
+There are two primary search indexes to consider:
+The first is full-text search, on Special:Search.
+This index is updated in near real time.
+Changes to pages should appear within a few minutes in the search results, but 30 minutes is still considered normal operation.
+Changes to templates should take effect in articles that include the template in a few minutes, taking up to several hours depending on the number of pages using the template.
+A null edit to the article will force the change through, but that shouldn't be required if everything is going well.
+The second index to consider is the fuzzy auto-complete title search.
+This index is updated once a day and mirrors what was found in the full-text search index at the time the index was updated.
+Depending on timing a new page could take two days to be found in the fuzzy title autocomplete.
+If this is unacceptable for a particular use case, within user search options the title completion can be changed to classic prefix search which uses the full-text search index.
+
+Search suggestions
+The search suggestions you get when you type into the search box that drops down candidate pages is sorted by a rough measure of article quality.
+This takes into account the number of incoming wikilinks, the size of the page, the number of external links, the number of headings, and the number of redirects.
+Search suggestions can be skipped and queries will go directly to the search results page.
+Add a tilde ~ before the query.
+Example "~Frida Kahlo".
+The search suggestions will still appear, but hitting the Enter key at any time will take you to the search results page.
+Accent/diacritic folding is turned on for some languages; the details are language-specific.
+The algorithm used to rank suggestions is described in more detail at Extension:CirrusSearch/CompletionSuggester#Ranking criteria.
+
+Full text search
+A "full text search" is an "indexed search".
+All pages are stored in the wiki database, and all the words in the non-redirect pages are stored in the search database, which is an index to practically the full text of the wiki.
+Each visible word is indexed to the list of pages where it is found, so a search for a word is as fast as looking up a single-record.[1]
+Furthermore, for any changes in wording, the search index is updated within seconds.
+There are many indexes of the "full text" of the wiki to facilitate the many types of searches needed.
+The full wikitext is indexed many times into many special-purpose indexes, each parsing the wikitext in whatever way optimizes their use.
+Example indexes include:
+
+"auxiliary" text, includes hatnotes, captions, ToC, and any wikitext classed by an HTML attribute class=searchaux.
+"Lead-in" text is the wikitext between the top of the page and the first heading.
+The "category" text indexes the listings at the bottom.
+Templates are indexed. If the transcluded words of a template change, then all the pages that transclude it are updated. (This can take a long time depending on a job queue.) If the subtemplates used by a template change, the index is updated.
+Document contents that are stored in the File/Media namespace are now indexed. Thousands of formats are recognized.
+There is support for dozens of languages, but all languages are wanted.
+There is a list of currently supported languages at elasticsearch.org; see their documentation on contributing to submit requests or patches.
+Third-party open-source libraries are also used to support additional languages not covered by Elasticsearch.
+CirrusSearch will optimize your query, and run it. The resulting titles are weighted by relevance, and heavily post-processed, 20 at a time, for the search results page. For example snippets are garnered from the article, and search terms are highlighted in bold text.
+Search results will often be accompanied by various preliminary reports. These include Did you mean (spelling correction), and, when no results would otherwise be found it will say Showing results for (query correction) and search instead for (your query).
+Search features also include:
+
+Sorting navigation suggestions by the number of incoming links.
+Starting with the tilde character ~ to disable navigation and suggestions in such a way that also preserves page ranking.
+Smart-matching characters by normalizing (or "folding") non-keyboard characters into keyboard characters.
+Words and phrases that match are highlighted in bold on the search results page. The highlighter is a cosmetic analyzer, while the search-indexing analyzer actually finds the page, and these may not be 100% in sync, especially for regex. The highlighter can match more or less accurately than the indexer.
+
+
+Words, phrases, and modifiers
+The basic search term is a word or a "phrase in quotes".
+Details vary by language, especially for languages without spaces, but search typically recognizes a "word" to be:
+
+a string of digits
+a string of letters
+subwords between letters/digit transitions, such as in txt2regex
+subwords inside a compoundName using camelCase
+A "stop word" is a word that is ignored (because it is common, or for other reasons).
+The list of stop words is language-specific and not all languages support stop words.[2] A given search term matches against content (rendered on the page). To match against wikitext instead, use the insource search parameter (See section below). Each search parameter has its own index, and interprets its given term in its own way.[3]
+Spacing between words, phrases, parameters, and input to parameters, can include generous instances of whitespace and greyspace characters.
+"Greyspace characters" are all the non-alphanumeric characters ~!@#$%^&()_+-={}|[]\:";'<>?,./.
+A mixed string of greyspace characters and whitespace characters, is "greyspace", and is treated as one big word boundary.
+Greyspace is how indexes are made and queries are interpreted.[4]
+Two exceptions are where 1) an embedded:colon is one word (it being treated as a letter), and 2) an embedded comma , such as in 1,2,3, is treated as a number.
+Greyspace characters are otherwise ignored unless, due to query syntax, they can be interpreted as modifier characters.
+The modifiers are ~ * \? - " ! . Depending on their placement in the syntax they can apply to a term, a parameter, or to an entire query. Word and phrase modifiers are the wildcard, proximity, and fuzzy searches. Each parameter can have their own modifiers, but in general:
+
+A fuzzy-word or fuzzy-phrase search can suffix a tilde ~ character (and a number telling the degree).
+A tilde ~ character prefixed to the first term of a query guarantees search results instead of any possible navigation.
+A wildcard character inside a word can be an (escaped) question mark \? for one character or an asterisk * character for zero or more characters.
+Truth-logic can interpret AND and OR, but parameters cannot. Note that the AND and OR operators currently do not function in the traditional truth-logic manner! For details see more on logical operators.
+Truth-logic understands - or ! prefixed to a term to invert the usual meaning of the term from "match" to "exclude".
+Words that begin with - or !, such as -in-law or !Kung can exactly match titles and redirects, but will also match every document that does not contain the negated word, which is usually almost all documents. To search for such terms other than as exact matches for titles or redirects, use the insource search parameter (See section below).
+Quotes around words mark an "exact phrase" search. For parameters they are also needed to delimit multi-word input.
+Stemming is automatic but can be turned off using an "exact phrase".
+The two wildcard characters are the star and the (escaped) question mark, and both can come in the middle or end of a word. The escaped question mark \? stands for one character and the star * stands for any number of characters. Because many users, instead of writing a query, will ask a question, any question mark is ignored unless purposefully escaped \? into its wildcard meaning.
+A phrase search can be initiated by various hints to the search engine. Each method of hinting has a side-effect of how tolerant the matching of the word sequence will be. For greyspace, camelCase, or txt2number hints:
+
+given words-joined_by_greyspace(characters) or wordsJoinedByCamelCaseCharacters it finds words joined by ... characters, in their bare forms or greyspace forms.
+txt2number will match txt 2 number or txt-2.number.
+Stop words are enabled for the edge cases (in the periphery) of a grey_space or camelCase phrase. An example using the, of, and a is that the_invisible_hand_of_a matches invisible hand within the text meetings invisible hand shake.
+A "search instead" report is triggered when a universally unknown word is ignored in a phrase.
+Each one of the following types of phrase-matching contains and widens the match-tolerances of the previous one:
+
+An "exact phrase" "in quotes" will tolerate (match with) greyspace. Given "exact_phrase" or "exact phrase" it matches "exact]phrase".
+A greyspace_phrase initiates stemming and stop word checks.
+Given CamelCase it will additionally match camelcase, in all lowercase, because CirrusSearch is not case sensitive in matching. Note that CamelCase matching is not enabled for all languages.
+Some parameters interpret greyspace phrases, but other parameters, like insource only interpret the usual "phrase in quotes".
+
+In search terminology, support for "stemming" means that a search for "swim" will also include "swimming" and "swimmed", but may not include irregular forms like "swam".
+
+
+Search phrase
+
+parserfunction
+parserFunction
+parser function
+parser-function
+parser:function
+parSer:funcTion
+
+
+parserfunction
+
+
+N
+N
+N
+N
+
+
+"parser function"
+N
+N
+
+
+N
+N
+
+
+parser_function
+N
+
+
+
+N
+N
+
+
+parserFunction
+
+
+
+
+N
+N
+
+
+"parser:function"
+N
+N
+N
+N
+
+
+
+
+"parser_function"
+N
+N
+
+
+N
+N
+
+
+"parSer_funcTion"
+N
+N
+
+
+N
+N
+
+
+parSer_FuncTion
+N
+N
+
+
+
+
+
+Note that all stemming is case insensitive.
+Note how the "exact phrase" search interpreted the embedded:colon character as a letter, but not the embedded_underscore character. A similar event occurs with the comma , character inside a number.
+Given in:this:word, CirrusSearch, when in an "exact phrase" context, (which includes the insource parameter context), will not match in, this, or word, but will then only match in:this:word.
+Otherwise, remember that for CirrusSearch words are letters, numbers, or a combination of the two, and case does not matter. 
+The common word search employs the space character and is aggressive with stemming, and when the same words are joined by greyspace characters or camelCase they are aggressive with phrases and subwords. 
+When common words like "of" or "the" are included in a greyspace-phrase, they are ignored, so as to match more aggressively.
+A greyspace_phrase search term, or a camelCase, or a txt2number term, match the signified words interchangeably. You can use any of those three forms.[5]
+Now camelcase matches camelCase because Search is not case sensitive, but camelCase matches camelcase because camelCase is more aggressive.
+Like the rest of Search, subword "words" are not case-sensitive. By comparison the "exact phrase" is greyspace oriented and ignores numeric or letter-case transitions, and stemming. "Quoted phrases" are not case sensitive.
+From the table we can surmise that the basic search parser_function -"parser function" is the sum of the basic searches parserFunction and parser<stems> function<stems>.
+Making inquiries with numbers, we would find that:
+
+Plan9 or Plan_9 matches any of: plan9, plans 9, planned 9th, (planned) 9.2, "plans" (9:24)
+"plan9" only matches plan9 (case insensitive)
+Plan*9 matches plan9 or planet4589.
+The star * wildcard matches a string of letters and digits within a rendered word, but never the beginning character.
+One or more characters must precede the * character.
+
+When * matches numbers, a comma is considered part of one number, but the decimal point is considered a greyspace character, and will delimit two numbers.
+Inside an "exact phrase" * is treated as a greyspace character and not a wild card character, so it delimits words.
+The \? wildcard represents one letter or number; *\? is also accepted, but \?* is not recognized.
+The wildcards are for basic word, phrase, and insource searches, and may also be an alternative to (some) advanced regex searches (covered later).
+Putting a tilde ~ character after a word or phrase activates a fuzzy search.
+
+For a phrase it is termed a proximity search, because proximal words are tolerated to an approximate rather than exact phrase.
+For example, "exact one two phrase"~2 matches exact phrase.
+For a word it means extra characters or changed characters.
+For a phrase a fuzzy search requires a whole number telling it how many extra words to fit in, but for a word a fuzzy search can have a decimal fraction, defaulting to word~0.5 (word~.5), where at most two letters can be found swapped, changed, or added, but never the first two letters.
+For a proximity phrase, a large number can be used, but that is an "expensive" (slow) search.
+For a word word~2 is most fuzzy with an edit distance of 2 (default), and word~1 is least fuzzy, and word~0 is not fuzzy at all.
+
+
+
+flowers algernon
+Flowers for Algernon
+flowers are for Algernon
+Flowers a1 2b 3c 4f 5j 6l 7j 8p q9 z10 for Algernon
+
+
+"flowers algernon"
+
+N
+N
+N
+
+
+"flowers algernon"~0
+
+N
+N
+N
+
+
+"flowers algernon"~1
+
+
+N
+N
+
+
+"flowers algernon"~2
+
+
+
+N
+
+
+"flowers algernon"~11
+
+
+
+
+
+
+"algernon flowers"~1
+N
+N
+N
+N
+
+
+"algernon flowers"~2
+
+N
+N
+N
+
+
+"algernon flowers"~3
+
+
+N
+N
+
+
+"algernon flowers"~4
+
+
+
+N
+
+
+"algernon flowers"~13
+
+
+
+
+
+For the closeness value necessary to match in reverse (right to left) order, count and discard all the extra words, then add twice the total count of remaining words minus one.
+(In other words, add twice the number of segments).
+For the full proximity algorithm, see Elasticsearch slop.
+Quotes turn off stemming, "but appending"~ the tilde reactivates the stemming.
+
+
+
+
+flowers
+flower
+Flowers for Algernon
+flower for Algernon
+
+
+
+
+flowers
+
+
+
+
+
+Stemming is in effect.
+
+
+"flowers"
+
+N
+
+N
+
+Proximity search turns off stemming.
+
+
+"flowers"~
+
+
+
+
+
+Proximity plus stemming by suffixing a tilde.
+
+
+"flowers for algernon"
+N
+N
+
+N
+
+Proximity search turns off stemming.
+
+
+"flowers for algernon"~
+N
+N
+
+
+
+Proximity plus stemming by suffixing a tilde.
+
+
+"flowers algernon"~1
+N
+N
+
+N
+
+Proximity search turns off stemming.
+
+
+"flowers algernon"~1~
+N
+N
+
+
+
+Proximity plus stemming by suffixing a tilde.
+
+Insource
+
+
+≥ 1.24Gerrit change 137733
+
+Insource searches can be used to find any one word rendered on a page, but it's made for finding any phrase you might find - including MediaWiki markup (aka wikicode), on any page except redirects. This phrase completely ignores greyspace: insource: "state state autocollapse" matches |state={{{state|autocollapse}}}.
+
+
+
+insource: wordinsource: "word1 word2"
+
+Greyspace characters are ignored, just as they are with word searches and exact-phrase searches.
+
+
+insource:/regexp/insource:/regexp/i
+
+These are regular expressions. They aren't efficient, so only a few are allowed at a time on the search cluster, but they are very powerful. The regular expression matches case-sensitively by default; case-insensitivity can be opted in with the extra i, which is even less efficient.
+
+Insource complements itself. On the one hand it has full text search for any word in the wikitext, instantly. On the other hand it can process a regexp search for any string of characters.[6]
+Regexes scan all the textual characters in a given list of pages; they don't have a word index to speed things up, and the process is interrupted if it runs for more than twenty seconds.
+Regexes run last in a query, so to limit needless character-level scanning, every regex query should include other search terms to limit the number of documents that need to be scanned.[7]
+Often the best candidate to add to the regex query insource:/arg/ is insource:arg, where arg is the same (and uses no wildcards).
+The syntax for the regexp is insource: no space, and then /regexp/. (No other parameter disallows a space. All the parameters except insource:/regexp/ accept space after their colon.)
+Insource indexed-search and regexp-search roles are similar in many respects: 
+
+Both search wikitext only.
+Neither finds things "sourced" by a transclusion.
+Neither does stemmed, fuzzy, or proximity searches.
+Both want the fewest results, and both work faster when accompanied by another clause.
+But indexed searches all ignore greyspace; wildcards searches do not match greyspace, so regexes are the only way to find an exact string of any and all characters, for example a sequence of two spaces.
+Regexes are an entirely different class of search tool that make matching a literal string easy (basic, beginner use), and make matching by metacharacter expressions possible (advanced use) on the wiki.
+See #Regular expression searches below.
+
+The insource parameter treats words with embedded colons as one word. This affects search queries for templates, parser functions, URLs, wikilinks, HTML tags, and comments.
+When possible, please avoid running a bare regexp search. See how this is always possible at #Regular expression searches, below.
+To search for words that begin with - or !, such as -in-law or !Kung, use a case-insensitive insource query together with a simple search on the "plain" version of the term (to avoid a bare regexp search). For example, "in-law" insource:/-in-law/i or "kung" insource:/!kung/i.
+Prefix and namespace
+Prepending a namespace term like file: to a search query limits results to a specific namespace , instead of searching the entire wiki.
+The default namespace is "Main".
+Only one namespace name can be set from the search box query.
+It must be the first term in the query, or, if used as part of a prefix: term, must appear as the last term in the query.
+Two or more namespaces may be searched from the Advanced pane of the search bar found on the top of every search results page, Special:Search.
+Your search domain, as a profile of namespaces, can be set here.
+The namespaces list will then present itself on the first page of future search results to indicate the search domain of the search results.
+To unset this, select the default namespace (shown in parentheses), select "Remember", and press Search.
+The search bar graphically sets and indicates a search domain. "Content pages" (mainspace), "Multimedia" (File), "Everything" (all plus File), "Translations", etc., are hyperlinks that can activate the query in that domain, and then indicate this by going inactive (dark). But the query will override the search bar.
+When a namespace or prefix is used in the query the search bar activations and indications may be misleading, so the search bar and the search box are mutually exclusive (not complementary) ways to set the search domain.
+A namespace term overrides the search bar, and a prefix: term overrides a namespace.
+To specify a namespace name, prefix it with a colon, e.g., talk:.
+Use all: to search across all namespaces, or : (a single colon) to search just the main article namespace.
+The all: term does not include the File: namespace, which includes media content held at Commons such as PDF, which are all indexed and searchable.
+When File is involved, a namespace modifier local: has an effect, otherwise it is ignored.
+As with search parameters, local: and all: must be lowercase.
+Namespaces names, though, are case insensitive.
+Namespace aliases  are accepted.
+
+
+
+talk: "Wind clock"
+
+Find pages in the Talk namespace whose title or text contains the phrase "wind clock".
+
+
+file: "Wind clock"
+
+Find pages in File namespace, whose title, text, or media content contains the phrase "wind clock".
+
+
+file: local: "Wind clock"
+
+Filter out results from Commons wiki.
+
+
+local: "Wind clock"
+
+Ignored. Searches mainspace. Local is ignored unless File is involved.
+
+prefix:
+The prefix: parameter matches any number of first-characters of all pagenames in one namespace.[8]
+When the first letters match a namespace name and colon, the search domain changes.
+Given a namespace only, prefix: will match all its pagenames. Given one character only, it cannot be - (dash), ' (quote), or " (double quote). The last character cannot be a colon.
+For pagenames that match, their subpage titles match by definition. 
+The prefix: parameter does not allow a space before a namespace, but allows whitespace before a pagename.
+This term always goes at the end, so that pagename characters may contain quotation marks (").
+
+
+
+prefix:cow
+
+Find pages in mainspace whose title starts with the three letters c o w.
+
+
+domestic   prefix:cow
+
+Find pages in mainspace whose title starts with the three letters c o w, and that contain the word "domestic".
+
+
+domestic   prefix:cow/
+
+List any existing subpages of Cow but only if they contain the word "domestic". This is a very common search and is frequently built using a special URL parameter called prefix=.
+
+
+domestic   prefix:Talk:cow/
+
+List any subpages of Talk:cow, but only if they contain the word "domestic".
+
+
+1967   prefix:Pink Floyd/
+
+List any subpages of Pink Floyd, but only if it also contains the word "1967".
+
+The Translate extension creates a sort of "language namespace" of translated versions of a page.
+However, unlike namespace or prefix, which create the initial search domain, the inlanguage parameter is a filter of it. (See the next section.)
+
+Exclude content from the search index
+Content can be excluded from the search index by adding class="navigation-not-searchable". This will instruct CirrusSearch to ignore this content from the search index (see task T162905 for more context).
+Additionally content can be marked as auxiliary information by adding class="searchaux".
+This will instruct CirrusSearch to move the content from the main text to an auxiliary field which has lower importance for search and snippet highlighting.
+This distinction is used for items such as image thumbnail descriptions, 'see also' sections, etc.
+
+Filters
+A filter will have multiple instances, or negated instances, or it can run as a standalone filtering a search domain.
+A query is formed as terms that filter a search domain.
+Adding another word, phrase, or parameter filters more. A highly refined search result may have very many Y/N filters when every page in the results will be addressed. (In this case ranking is largely irrelevant.)
+Filtering applies critically to adding a regex term; you want as few pages as possible before adding a regex (because it can never have a prepared index for its search).
+A namespace is a specified search domain but not a filter because a namespace will not run standalone.
+A prefix will negate so it is a filter.
+The search parameters below are filters for which there may be multiple instances.
+Insource (covered above) is also a filter, but insource:/regexp/ is not a filter. Filters and all other search parameters are lowercase. (Namespaces are an exception, being case insensitive.)
+
+Intitle and incategory
+Word and phrase searches match in a title and match in the category box on bottom of the page. But with these parameters you can select titles only or category only.
+
+cow*
+Find articles whose title or text contains words that start with cow
+intitle:foo
+Find articles whose title contains foo. Stemming is enabled for foo.
+intitle:"fine line"
+Find articles whose title contains fine line. Stemming is disabled.
+intitle:foo bar
+Find articles whose title contains foo and whose title or text contains bar.
+-intitle:foo bar
+Find articles whose title does not contain foo and whose title or text contains bar.
+incategory:Music
+Find articles that are in Category:Music
+incategory:"music history"
+Find articles that are in Category:Music_history
+incategory:"musicals" incategory:"1920"
+Find articles that are in both Category:Musicals and Category:1920
+-incategory:"musicals" incategory:"1920"
+Find articles that are not in Category:Musicals but are in Category:1920
+Intitle and incategory are old search parameters. Incategory no longer searches any subcategory automatically, but you can now add multiple category pagenames manually.
+
+
+
+≥ 1.31Gerrit change 413896
+
+Since MediaWiki 1.31-wmf.23  Regular expression searches are supported for intitle:
+
+intitle:/regex/, intitle:/regex/i
+Everything written in the #Regular expression searches is also valid for these searches, including warnings.
+
+When possible, please avoid running a bare regexp search. See how this is always possible at #Regular expression searches, below.
+Deepcategory
+Deep category search allows to search in category and all subcategories. The depth of the tree is limited by 5 levels currently (configurable) and the number of categories is limited by 256 (configurable). The deep search uses SPARQL Category service from WDQS. Keywords are deepcategory or deepcat. Example:
+
+deepcat:"musicals"
+Find articles that are in Category:Musicals or any of the subcategories.
+The DeepCat gadget that previously implemented the parameter was sunsetted in January 2020.
+
+Linksto
+Linksto finds wikilinks to a given name, not links to content. The input is the canonical, case sensitive, page name.
+It must match the title line of the content page, exactly, before any title modifications of the letter-case. (It must match its {{FULLPAGENAME}}, e.g. Help:CirrusSearch.)
+Linksto does not find redirects. It only finds [[wikilinks]], even when they are made by a template.
+It does not find a link made by a URL, even if that URL is an internal wiki link. 
+To find all wikilinks to a "Help:Cirrus Search", if "Help:Searching" and "H:S" are redirects to it:
+
+linksto: "Help:Cirrus Search"
+linksto: Help:Searching
+linksto: H:S
+CirrusSearch -linksto: Help:CirrusSearch finds articles that mention "CirrusSearch" but not in a wikilink.
+
+Hastemplate
+You can specify template usage with hastemplate: template. Input the canonical pagename to find all usage of the template, but use any of its redirect pagenames finds just that naming. Namespace aliases are accepted, capitalization is entirely ignored, and redirects are found, all in one name-search. (Compare boost-template no default namespace; linksto no namespace aliases, case-sensitive, no redirects; intitle no redirects.)
+Hastemplate finds secondary (or meta-template) usage on a page: it searches the post-expansion inclusion. This is the same philosophy as for words and phrases from a template, but here it's for templates from a template. The page will be listed as having that content even though that content is not seen in the wikitext.
+
+hastemplate: "quality image", finds "Template:Quality image" usage in your default search domain (namespaces).
+hastemplate: portal:contents/tocnavbar, finds mainspace usage of a "Contents/TOCnavbar" template in the Portal namespace.
+For installations with the Translate extension, hastemplate searches get interference wherever Template:Translatable template name wraps the template name of a translatable template. Use insource instead.
+
+Inlanguage
+For installations with the Translate extension, inlanguage is important for highly refined searches and page counts.
+
+inlanguage: language code
+will produce search results in that language only.
+For example
+
+to count all Japanese pages on the wiki
+all: inlanguage: ja
+to filter out German and Spanish pages in the Help namespace
+help: -inlanguage: de -inlanguage: es
+to ignore Translate, and where English is the base language, add
+inlanguage:en
+Contentmodel
+The contentmodel: keyword allows to limit the search to pages of a specific content model. For possible models cf. Content handlers. E.g.:
+
+To see only JSON pages:
+contentmodel:json
+subpageof
+To find sub-pages.
+
+subpageof: ParentPage
+For example
+
+To find all subpages of CirrusSearch.
+subpageof:CirrusSearch
+Use double quotes if the parent page contains spaces.
+subpageof:"Requests for comment"
+unlike prefix:, do not include the page namespace in the keyword value. If you want to limit to sub-pages of a particular namespace use the namespace filter.
+Articletopic
+The articletopic: keyword allows filtering search results by topic. For possible topics see Help:CirrusSearch/articletopic .
+E.g. articletopic:books will filter the search results to articles about books.
+articletopic:books|films will filter to articles about books or films.
+articletopic:books articletopic:films will filter to articles which are about both books and films.
+Only mainspace articles belong into topics, and topics are only available on Wikipedias.
+Unlike other filters, articletopic also does page weighting: articles which are a stronger match for a topic will be higher in the search results (while articles which aren't about that subject at all will be removed from the result set completely).
+Topic models are derived via machine learning from ORES.
+Any given article receives a score on dozens of different topics, and therefore may appear under different keywords.
+For instance, the article on Albert Einstein may appear as a "physics" article and a "biography" article.
+All Wikipedias have scores available -- some have local-language topic models that have coverage on all articles.
+Other languages do not have local ORES models, and are using English-language scores assigned to articles in the local language that also exist in English Wikipedia.
+The languages with such "cross-wiki" scores do not have 100% coverage -- depending on the language, it may only be something like 60% of articles that have topics available.
+Topic-related search data is updated weekly, so recently created articles might not show up in topic-based search queries.
+
+Pageid
+The pageid: keyword restricts search results to the given set of page IDs.
+This is not really useful for manual searching; it can be used by software tools for checking whether a set of pages match the given set of search conditions (e.g. for re-validating cached search results).
+
+Page weighting
+Weighting determines snippet, suggestions, and page relevance. The normal weight is one. Additional weighting is given through multipliers.
+If the query is just words, pages that match them in order are given a boost. If you add any explicit phrases to your search, or for certain other additions, this "prefer phrase" feature is not applied. 
+
+Morelike
+morelike:page name 1|page name 2|...|page name n
+Find articles whose text is most similar to the text of the given articles.
+morelike:wasp|bee|ant
+Find articles about stinging insects.
+morelike:template:search|template:regex|template:usage
+Find templates about regex searching for template usage on the wiki.
+morelike is a "greedy" keyword, meaning that it cannot be combined with other search queries. If you want to use other search queries, use morelikethis in your search:
+
+morelikethis:bee hastemplate:"featured article"
+Find articles about bees that also have the "featured article" template.
+The morelike: query works by choosing a set of words in the input articles and run a query with the chosen words. You can tune the way it works by adding the following parameters to the search results URL:
+
+cirrusMltMinDocFreq: Minimum number of documents (per shard) that need a term for it to be considered.
+cirrusMltMaxDocFreq: Maximum number of documents (per shard) that have a term for it to be considered.
+cirrusMltMaxQueryTerms: Maximum number of terms to be considered.
+cirrusMltMinTermFreq: Minimum number of times the term appears in the input to doc to be considered. For small fields (title) this value should be 1.
+cirrusMltMinWordLength: Minimal length of a term to be considered. Defaults to 0.
+cirrusMltMaxWordLength: The maximum word length above which words will be ignored. Defaults to unbounded (0).
+cirrusMltFields (comma separated list of values): These are the fields to use. Allowed fields are title, text, auxiliary_text, opening_text, headings and all.
+cirrusMltUseFields (true|false): use only the field data. Defaults to false: the system will extract the content of the text field to build the query.
+cirrusMltPercentTermsToMatch: The percentage of terms to match on. Defaults to 0.3 (30 percent).
+Example: &cirrusMtlUseFields=yes&cirrusMltFields=title&cirrusMltMinTermFreq=1&cirrusMltMinDocFreq=1&cirrusMltMinWordLength=2
+
+These settings can be made persistent by overriding cirrussearch-morelikethis-settings in System message.
+
+Prefer-recent
+Adding prefer-recent: anywhere in the query gives recently edited articles a slightly larger than normal boost in the page-ranking rules.
+Prefer-recent is only applied when using the default relevance sort order.
+It defaults to boost only 60% of the score, in a large, 160-day window of time, which can be entered in the query as prefer-recent:0.6,160. This plays well with other page ranking rules, and is intended for most searches.
+You can manipulate the rules: prefer-recent:boost,recent
+Technically, "boost" is the proportion of score to scale, and "recent" is the half life in days.
+The boost is more than the usual multiplier, it is an exponential boost.
+The factor used in the exponent is the time since the last edit. 
+For example
+
+prefer-recent:,7
+Pages older than 7 days are boosted half as much, and pages older than 14 days are boosted half as much again, and so on.
+For a simple "sort by date" in highly refined search results, where page ranking and boosting are largely meaningless, just boost the entire score.
+
+prefer-recent:1,7 - weeks
+prefer-recent:1,1 - days
+prefer-recent:1,0.0007 - minutes
+prefer-recent:1,0.0001 - 8.64 seconds
+prefer-recent:1,0.00001 - seconds
+Boost-templates
+You can boost pages' scores based on what templates they contain. This can be applied to all search queries by declaring boosts via MediaWiki:Cirrussearch-boost-templates, or ad-hoc in individual queries via the boost-templates:"" operator. If the boost-templates operator is set in a query, then the contents of cirrussearch-boost-templates are ignored.
+Similar to the prefer-recent feature, boost-templates is applied as part of the default relevance sort order. It has no effect on other search orders.
+The syntax of the message is as follows:
+
+Everything from a # character to the end of the line is considered a comment, and ignored.
+Every non-blank line is interpreted as the exact name of a template that should receive boosting (including namespace prefix), followed by a pipe "|" character, followed by a number, followed by a "%" character.
+Good examples:
+
+ Template:Important|150%
+ Template:Very_Very_Important|300%
+ Template:Less_important|50%
+
+Bad examples:
+
+ Template:Foo|150.234234% # decimal points are not allowed.
+ Foo|150% # technically valid, but acts on transclusions of Foo (main space article) instead of Template:Foo.
+
+Some examples:
+
+boost-templates:"Template:Quality_Image|200%" incategory:china
+Find files in the China category, sorting quality images first.
+boost-templates:"Template:Quality_Image|200% Template:Low_Quality|50%" incategory:china
+Find files in the China category, sorting quality images first and low-quality images last.
+boost-templates:"Template:Quality_Image|200% Template:Low_Quality|50%" popcorn
+Find files about popcorn, sorting quality images first and low-quality images last. Remember that through the use of the cirrussearch-boost-templates message this can be reduced to just popcorn.
+Decimal points are not permitted in percentage values. Search scoring is such that fractions of a percent are unlikely to make a difference.
+Beware that if you add very low or very high percentages via cirrussearch-boost-templates, they can poison the full-text scoring.
+For example, if Wikipedia were to boost the "Featured article" template by 1 million percent, then, searches for any term mentioned in featured articles, would rank the featured article above even the dedicated article about that term.
+Phrase matching would be similarly blown away, so a search like brave new world would return a featured article as first result even if it merely has those three words mentioned throughout it, instead of the more relevant article about Brave New World itself.
+
+Regular expression searches
+ Warning: Do not run a bare insource:/regexp/ search. It will probably timeout after 20 seconds anyway, while blocking the queries of responsible users.
+A basic indexed search finds words rendered visible on a page. Hyphenation and punctuation marks and bracketing, slash and other math and computing symbols, are merely boundaries for the words. It is not possible to include them in an indexed search.
+Mostly that search behavior is wanted by the user. However, sometimes one wants to have the ability for a more precise search.
+To get around the syntactic deficiency of index-based searches regexp searches can be used.
+But as queries with only regexp expressions are very slow and resource consuming, they should always be combined with an index-based search, such that the regexp search-domain gets limited to the results of one or more index-based search.
+An "exact string" regexp search is a basic search; it will simply "quote" the entire regexp, or "backslash-escape" all non-alphanumeric characters in the string. All regexp searches also require that the user develops a simple filter to generate the search domain for the regex engine to search (index based search domain marked bold, regexp part marked in italics):
+
+insource:"debian.reproducible.net" insource:/debian\.reproducible\.net/
+insource:"c:\program files (x86)" insource:/C\:\\Program Files \(x86\)/i
+insource:"<tag>{{template}}</tag>" insource:/"<tag>{{template}}<"\/"tag>"/
+insource:"[[title|link label]]'s" insource:/"[[title|link label]]'s"/
+insource:/regexp/ prefix:{{FULLPAGENAME}}
+The last example works from a link on a page, but {{FULLPAGENAME}} doesn't function in the search box.
+For example: [[Special:Search/insource:/regex/ prefix:{{FULLPAGENAME}}]]  finds the term regex on this page.
+A query with no namespace specified and no prefix specified searches your default search domain, (settable on any search-results page, i.e. at Special:Search). Some users keep their default search domain at "all namespaces", i.e. the entire wiki. On a large wiki if this user does a bare regexp search it will probably fail, incurring a timeout, before completing the search.
+A regex search actually scours each page in the search domain character-by character.
+By contrast, an indexed search actually queries a few records from a database separately maintained from the wiki database, and provides nearly instant results.
+So when using an insource:// (a regexp of any kind), consider adding other search terms that will limit the regex search domain as much as possible.
+There are many search terms that use an index and so instantly provide a more refined search domain for the /regexp/. In order of general effectiveness:
+
+insource:"" with quotation marks, duplicating the regexp except without the slashes or escape characters, is ideal.
+intitle (without regex search), incategory, and linksto are excellent filters.
+hastemplate: is a very good filter.
+"word1 word2 word3", with or without the quotation marks, are good.
+namespace: is practically useless, but may enable a slow regexp search to complete.
+To test a bare regexp query you can create a page with test patterns, and then use the prefix parameter with that fullpagename.
+The match will be highlighted.
+It searches that page (in the database) and its subpages. 
+Search terms that do not increase the efficiency of a regexp search are the page-scoring operators: morelike, boost-template, and prefer-recent.
+
+Metacharacters
+This section covers how to escape metacharacters used in regexp searches.
+For the actual meaning of the metacharacters see the explanation of the syntax.[9]
+
+The use of an exact string requires a regexp, but the regexp term obligates the search to limit itself. Add a regexp term, never search a bare regexp. Start by noting the number of pages in a previous search before committing an exact string search. Querying with an exact string requires a filtered search domain.
+For example: 
+
+to search a namespace, gauge the number of pages with a single term that is a namespace. This will list the number of pages in that namespace.
+starting out to find again what you may have seen, like "wiki-link" or "(trans[in]clusion)" start with namespace and insource filters.
+There are some notable differences from standard regex metacharacters:
+
+The \n or \r\n are not reserved for matching a newline. To search for a string that contains a newline, you can do a search like insource:/[^\}]\}\}[^\} \|]{2}\<noinclude/i which means not a curly brace, then two curly braces, then any two characters except a curly brace, space, or pipe, then a ‎<noinclude> tag. The "any character except" will include a newline in the search. Note thas this search was designed only to match to the following string:
+}}
+
+<noinclude>
+
+The dot . metacharacter stands for any character including a newline, so .* matches across lines.
+The number # sign means something, and must be escaped.[10]
+The ^ and $ are not implemented. Like "grep" (global per line, regular expression, print each line), each insource:// is a "global per document, regular expression, search-results-list each document" per document.
+< and > support a multi-digit numeric range like [0-9] does, but without regard to the number of character positions, or the range in each position, so <9-10> works, and even <1-111> works.
+Substitutions for some metacharacters
+While character classes \n, \s, \S are not supported, in case of an acute need to use them in a regular expression, you may use these workarounds:
+
+
+
+
+
+PCRE
+
+CirrusSearch
+
+Description
+
+
+\n
+[^ -􏿿]
+A newline (also a tabulation character can be found)[11]
+
+
+[^\n]
+[ -􏿿]
+Any character except a newline and tabulation
+
+
+\s
+[^!-􏿿]
+A whitespace character: space, newline, or tabulation
+
+
+\S
+[!-􏿿]
+Any character except whitespace
+
+In these ranges, " " (space) is the character immediately following the control characters, "!" is the character immediately following space, and "􏿿" is U+10FFFF, the last character in Unicode.
+Thus, the range from " " to "􏿿" includes all characters except for control characters (of which articles may contain newlines and tabulation), while the range from "!" to "􏿿" includes all characters except for control characters and space.
+
+Refining with an exact string
+refining an ongoing search process with what you want to see, like "2 + 2 = 4", or "site.org" This is ideally the best use of regex, because it adds it as a single regexp term while refining a search, the limited number of pages the regexp must crawl is can be seen.
+You can start out intending an exact string search, but keep in mind:
+
+regex only search the wikitext not the rendered text, so there are some differences around the markup, and even the number of space characters must match precisely.
+You are obligated to supply an accompanying filter.
+You must learn how to escape regex metacharacters.
+There are two ways to escape metacharacters. They are both useful at times, and sometimes concatenated side-by-side in the escaping of a string.
+
+Backslash-escape one of them \char. The insource:/regexp/ uses slashes to delimit the regexp. Giving /reg/exp/ is ambiguous, so you must write /reg\/exp/.
+Put a string of them in double quotes "string". Because escaping a character can't hurt, you can escape any character along with any possible metacharacters in there. Escaping with quotes is cleaner.
+You can't mix methods, but you can concatenate them.
+Double-quotes escaping using insource:/"regexp"/ is an easy way to search for many kinds of strings, but you can't backslash-escape anything inside a double-quoted escape.
+
+/"[[page/name|{{temp-late"/ instead of /\[\[page\/name\|\{\{temp\-late/
+/"literal back\slash"/ is as good as /literal back\\slash/
+But /"This \" fails"/ always.
+And /"This \/ depends"/. It finds the \/ literally, which is not the / you probably wanted.
+Backslash-escape using insource:/regexp/ allows escaping the " and / delimiters, but requires taking into account metacharacters, and escaping any:
+
+To match a / delimiter character use \/.
+To match a " delimiter character use \".
+The escaped metacharacters would be \~\@\#\&\*\(\)\-\+\{\}\[\]\|\<\>\?\.\\.
+The equivalent expression escaped with double-quotes is "~@#&*()-+{}[]|\<>?.\".
+The simplest algorithm to create the basic string-finding expression using insource:/"regexp"/, need not take metacharacters into account except for the " and / characters:
+
+Write the/str"ing out. (The /" delimiters "/ are not shown.)
+Replace " with "\"" (previous double-quote: stop, concatenate, quote restart).
+Replace / with "\/" (stop, concatenate, start).
+You get insource:/"the"\/"str"\""ing"/, showing concatenation of the two methods.
+While refining a regexp on a search results page, keep in mind that the snippet "wikitext" has modified spacing. Regex are sensitive to space characters, so copying from snippets is dangerous.
+The square-bracket notation for creating your own character-class also escapes its metacharacters. To target a literal right square bracket in your character-class pattern, it must be backslash escaped, otherwise it can be interpreted as the closing delimiter of the character-class pattern definition.
+The first position of a character class will also escape the right square bracket. Inside the delimiting square brackets of a character class, the dash character also has special meaning (range) but it too can be included literally in the class the same way as the right square bracket can.
+For example both of these patterns target a character that is either a dash or a right square bracket or a dot: [-.\]] or [].\-].
+For general examples using metacharacters:
+
+insource:"2+2=4" insource:/"2+2=4"/ matches "2 + 2 = 4", with zero spaces between the characters.
+insource:"2 + 2 = 4" insource:/2 ?\+ ?2 ?= ?4\./ match with zero or one space in between. The equals = sign is not a metacharacter, but the plus + sign is.
+insource:"<tag>[[link|2\3?]]\</tag>" insource:/"<tag>[[link|2\3?]]<"\/"tag>"/
+Regex on titles
+The insource keyword does only search the page source content.
+To run regex searches on the title strings intitle:/regex/ can be used.
+
+Advanced example
+For example, using metacharacters to find the usage of a template called Val having, inside the template call, an unnamed parameter containing a possibly signed, three to four digit number, possibly surrounded by space characters, and on the same page, inside a template Val call, a named argument fmt=commas having any allowable spaces around it, (it could be the same template call, or a separate one):
+
+hastemplate:val insource:"fmt commas" insource:/\{\{ *[Vv]al *\|[^}]*fmt *= *commas/ insource:/\{\{ *[Vv]al *\|[^}]*[-+]?[0-9]{3,4} *[|}]/
+Note that the = sign in "fmt commas" is not needed but that adding it would not change the search results.
+It is fast because it uses two filters so that every page the regexp crawls has the highest possible potential.
+
+Geo Search
+Searching based on the (primary) coordinates associated with pages.
+Depends on Extension:GeoData  and {{#coordinates:}}
+
+bounded
+You can limit search to pages identified as being near some specified geographic coordinates.
+The coordinates can either be specified as a <lat>,<lon> pair, or by providing a page title from which to source the coordinates.
+A distance to limit the search to can be prepended if desired.
+Examples:
+
+neartitle:"San Francisco"
+neartitle:"100km,San Francisco"
+nearcoord:37.77666667,-122.39
+nearcoord:42km,37.77666667,-122.39
+boosted
+You can alternatively increase the score of pages within a specified geographic area.
+The syntax is the same as bounded search, but with boost- prepended to the keyword.
+This effectively doubles the score for pages within the search range, giving a better chance for nearby search results to be near the top.
+
+boost-neartitle:"San Francisco"
+boost-neartitle:"100km,San Francisco"
+boost-nearcoord:37.77666667,-122.39
+boost-nearcoord:42km,37.77666667,-122.39
+File properties search
+
+
+≥ 1.28Gerrit change 311061
+
+Since MediaWiki 1.28, CirrusSearch supports indexing and searching of properties of files in the File: namespace. This includes:
+
+file media type
+MIME type
+size
+width & height
+resolution
+bit depth for files that support these
+While these predicates are useful only for files, they by themselves do not limit search to the File: namespace. It is recommended to include this namespace in a search or restrict the search to only this namespace when using these conditionals.
+filetype
+Searching for file type allows to retrieve files according to their classification, such as office documents, videos, raster images, vector images, etc. The following types currently exist: 
+
+UNKNOWN
+BITMAP
+DRAWING
+AUDIO
+VIDEO
+MULTIMEDIA
+OFFICE
+TEXT
+EXECUTABLE
+ARCHIVE
+This list may be extended in the future. See also MEDIATYPE_* constants in Defines.php.
+The syntax of the search is: filetype:{type}. Example:
+filetype:video - looks for all videos
+The filetype search is not case-sensitive. 
+
+filemime
+Matches file MIME type. The syntax is:
+filemime:{MIMEtype} - look for files of this MIME type
+The argument can be quoted to specify exact match. Without quotes, partial matches to components of MIME type will be accepted too.
+Examples:
+
+filemime:"image/png" - look for files with MIME type exactly image/png
+filemime:pdf - look for all PDF documents
+-filemime:pdf - skip all PDF documents (notably on Commons)
+The MIME type search is not case-sensitive.
+
+filesize
+Search for file of given size, in kilobytes (kilobyte means 1024 bytes). The syntax is:
+
+filesize:{number} or filesize:>{number} - file with size at least given number
+filesize:<{number} - file with size no more than given number
+filesize:{number},{number} - file with size between given numbers
+Examples:
+
+filesize:>20 or filesize:20 - files 20KB and bigger
+filesize:<1024 - files smaller than 1MB
+filesize:100,500 - files with sizes between 100KB and 500KB
+File measures
+It is possible to search for specific file measures: width, height, resolution (which is defined as square root of height × width), and bit depth. Not all files may have these properties. The syntax is:
+
+{measure}:{number} - file with measure that equals to given number
+{measure}:>{number} - file with measure that is at least given number
+{measure}:<{number} - file with measure that is no more than given number
+{measure}:{number},{number} - file with measure that is between given numbers
+Where measure can be:
+filew or filewidth - file width
+fileh or fileheight - file height
+fileres - file resolution (see above)
+filebits - file bit depth
+Examples:
+filew:>800 fileh:>600 - files that are at least 800×600 pixels in size
+filebits:16 - files with 16-bit color depth
+fileheight:100,500 - file between 100 and 500 pixels high
+
+Wikibase search
+The Wikibase  extension defines some search keywords in order to make it easier to search for certain Wikibase items. This is useful on Wikidata  and other Wikibase sites, including to search for images with Structured data on Wikimedia Commons .
+See Help:WikibaseCirrusSearch  for details.
+
+Cross-wiki search results
+There are two kinds of cross-wiki results that may be shown when searching on Wikipedia.
+Cross-project search (also known as interwiki search, sister search, or sister projects search) shows additional results from other projects (Wiktionary, Wikisource, Wikiquote, etc.) shown to the side on the Wikipedia results page.
+Cross-project search is available on most Wikipedias with sister projects.
+Cross-language search (see blog post) refers to additional results shown below the main results that are from a Wikipedia in a different language.
+Cross-language search uses a heavily modified and optimized version of a light-weight language detector called TextCat .
+Cross-language search is currently only available on a few Wikipedias (see TextCat link for details).
+
+Explicit sort orders
+In addition to the default relevance based sort, CirrusSearch can provide results using a few other explicit sort orders.
+Specifying a sorting order other than relevance will disable all search keywords that affect scoring, such as prefer-recent or boost-templates.
+The keywords will still be parsed, but they will have no effect.
+Sorting options are currently available from the MediaWiki API by providing the srsort parameter.
+Guidance:
+Sorting options can be manually added to a search URL by adding &sort=order, for example:
+
+https://www.mediawiki.org/w/index.php?search=foo&sort=last_edit_desc
+Valid sort orders include:
+
+
+
+URL supplement
+
+Description
+
+
+&sort=incoming_links_asc
+
+Lowest to highest number of incoming links. This is approximately from least to most popular.
+
+
+&sort=incoming_links_desc
+
+Highest to lowest number of incoming links. This is approximately from most to least popular.
+
+
+&sort=last_edit_asc
+
+From least recently to most recently edited
+
+
+&sort=last_edit_desc
+
+From most to least recently edited
+
+
+&sort=create_timestamp_asc
+
+From least to most recently created
+
+
+&sort=create_timestamp_desc
+
+From most to least recently created
+
+
+&sort=just_match
+
+A simple relevance sort based only on text matching
+
+
+&sort=relevance
+
+A relevance sort taking into account many features of the document
+
+
+&sort=random
+
+Randomized
+
+
+&sort=none
+
+Unsorted, arbitrarily ordered lists. Preferred for large result sets.
+
+Interface for advanced options
+Advanced Search Interface
+The AdvancedSearch extension adds an improved interface to the search page allowing the use of several options described above in a user-friendly manner. See here for the user manual.
+
+See also
+Extension:CirrusSearch 
+Completion Suggester - the incremental search feature of CirrusSearch
+Wikimedia Search Platform/Search/Glossary  — definitions, context, and links for terms related to search.
+See Help:Searching  for MWSearch, used by the many wikis that don't have a search extension.
+External links
+From Lucene, highly relevant documentation.
+Full specifications in the extension's browser tests As of 2017
+Extension:CirrusSearch/Profiles – sets of tunable parameters that influence various aspect of the indexing
+Wikimedia blog articles related to search
+WMF Global Search
+Notes and references
+
+↑ 
+Note that the tagline is not part of the actual content.
+To see the searchable content for a page append ?action=cirrusdump to the URL.
+
+↑ Stop words are rarely called for in CirrusSearch, except for when they are in certain kinds of phrases, as explained below.
+
+↑ CirrusSearch parameters do not use a consistent way to handle these search terms.
+
+↑ The same analyzer used to index the wikitext is also used to interpret the query.
+
+↑ For example, common terms on this wiki, MediaWiki.org, are, redundantly, (searched):
+
+udp2log or udp2log2 (though the extra 2 will affect ranking)
+html2wt or wt2html
+log2ip or ip2log
+There's test2wiki, wiki2xml, wiki2dict, apache2handler, apache2ctl, etc.
+
+↑ CirrusSearch regex do not address the newline character directly, but a dot . will match a newline.
+
+↑ A slow regex search cannot disable search, but can disable another's regex search, since there are only a limited number of regex searches allowed at a time.
+
+↑ Prefix does not match on first-characters of fullpagenames, so you cannot search two namespaces at once just because they start with the same letters, such as both namespace and namespace talk in one query.
+
+↑ For the formal definition see the Lucene grammar for regular expressions.
+
+↑ Class RegExp, Lucene RegExp syntax
+
+↑ To exclude the tabulation character as well, copy it and add it to the character set.
+
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Help:CirrusSearch&oldid=6524036"
+Categories: SearchHelpHidden category: Pages containing potentially dated statements
+
+
+
+
+
+
+ This page was last edited on 15 May 2024, at 22:39.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

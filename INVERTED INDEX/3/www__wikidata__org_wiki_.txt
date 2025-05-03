@@ -1,0 +1,367 @@
+
+
+
+
+Wikidata
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikidata:Main Page
+
+From Wikidata
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Welcome to Wikidata
+
+the free knowledge base with 109,700,606 data items that anyone can edit.
+
+
+Introduction • Project Chat • Community Portal • Help
+
+
+Want to help translate? Translate the missing messages.
+
+
+
+
+
+
+Welcome!
+
+Wikidata is a free and open knowledge base that can be read and edited by both humans and machines.
+Wikidata acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others.
+Wikidata also provides support to many other sites and services beyond just Wikimedia projects! The content of Wikidata is available under a free license, exported using standard formats, and can be interlinked to other open data sets on the linked data web.
+
+
+
+
+Get involved
+For a complete starters’ guide, visit the community portal.
+Learn about Wikidata
+
+What is Wikidata? Read the Wikidata introduction.
+Explore Wikidata by looking at a featured showcase item for author Douglas Adams (Q42).
+Get started with Wikidata's SPARQL query service.
+Contribute to Wikidata
+
+Learn to edit Wikidata: follow the tutorials.
+Work with other volunteers on a subject that interests you: join a WikiProject.
+Individuals and organizations can also donate data.
+Meet the Wikidata community
+
+Visit the community portal or attend a Wikidata event.
+Create a user account.
+Talk and ask questions on the Project chat, Telegram groups, or the live IRC chatconnect.
+Use data from Wikidata
+
+Learn how you can retrieve and use data from Wikidata.
+More...
+
+
+News
+
+2024-04-05: Wikidata holds the Leveling Up Days, an online event focused on learning more about how to contribute to Wikidata from the 5th to 7th and 12th to 14th of April.
+2024-04-03: The development team at WMDE will hold the 2024 Q2 Wikidata+Wikibase office hour on Wednesday, 10th April 2024 (18:00 Berlin) in the Wikidata Telegram group.
+2024-03-12: Wikidata records its 2,100,000,000th edit.
+2024-01-24: Wikidata tool QuickStatements (Q20084080) ran its batch 222222.
+2024-01-17: The Wikidata development team held Wikidata+Wikibase office hour, talking about what they've been working on. Find the session log here.
+2023-11-30: Wikidata holds the Data Modelling Days, an online event focused on how to describe and organise data in Wikidata, from the 30th of November to the 2nd of December.
+More news... (edit [in English]) 
+
+
+
+
+
+Learn about data
+
+New to the wonderful world of data? Develop and improve your data literacy through content designed to get you up to speed and feeling comfortable with the fundamentals in no time.
+
+
+
+
+
+Item: Earth (Q2)
+
+
+
+Property: highest point (P610)
+
+
+
+custom value: Mount Everest (Q513)
+
+
+
+
+Current highlights
+
+Eurovision Song Contest 2025 (Q118421125)
+Bambie Thug (Q124361424)
+Porto do Souto (Q55094462)
+Andrey Belousov (Q4082839)
+Roger Corman (Q318292) (pictured)
+2024 Catalan parliament election (Q106363345)
+Eden Golan (Q81436819)
+
+
+Discover
+
+Innovative applications and contributions from the Wikidata community
+Featured WikiProject:
+WikiProject Music
+
+
+Wikiproject Music is home to editors that help add data about artists, music releases, tracks, awards, and performances! Additionally, importing from and linking Wikidata with the many music databases and streaming services is another focus of the project. Read about our data model on our project page and come chat with us on Telegram.
+More:
+
+Check out Wikidata:Tools for some of our best tools and gadgets for using and exploring Wikidata.
+Know of an interesting project or research conducted using Wikidata? You can nominate content to be featured on the Main page here!
+
+
+
+
+Contact
+
+
+
+Wikidata mailing list
+Wikidata technical mailing list
+Discussion requests for specific topics
+Facebook, Mastodon, Twitter
+
+
+Leave a message at project chat
+Telegram General Chat, Telegram Help or on IRCconnect
+Report a technical problem
+Keep up-to-date: Weekly summaries
+
+
+
+
+
+
+
+Wikidata is part of the non-profit, multilingual, free-content Wikimedia family.
+
+
+
+ Wikipedia – Encyclopedia   
+ Wiktionary – Dictionary and thesaurus   
+ Wikibooks – Textbooks, manuals, and cookbooks   
+ Wikinews – News   
+ Wikiquote – Collection of quotations   
+ Wikisource – Library   
+ Wikiversity – Learning resources   
+ Wikivoyage – Travel guides   
+ Wikispecies – Directory of species   
+ Wikifunctions – Free software functions   
+ Wikimedia Commons – Media repository   
+ Incubator – New language versions   
+ Meta-Wiki – Wikimedia project coordination   
+ MediaWiki – Software documentation   
+
+
+
+
+
+
+
+
+Retrieved from "https://www.wikidata.org/w/index.php?title=Wikidata:Main_Page&oldid=1816946465"
+Category: Wikidata
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+EnglishNot logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+Main PageDiscussion
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpDonate
+
+
+
+
+
+Lexicographical data
+
+
+
+Create a new LexemeRecent changesRandom Lexeme
+
+
+
+
+
+Tools
+
+
+
+What links hereRelated changesSpecial pagesPermanent linkPage informationGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+Print/export
+
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+In other projects
+
+
+
+Wikimedia CommonsWikimedia FoundationMediaWikiMeta-WikiWikimedia OutreachMultilingual WikisourceWikispeciesWikibooksWikifunctionsWikimaniaWikinewsWikipediaWikiquoteWikisourceWikiversityWikivoyageWiktionary
+
+
+
+
+
+In Wikipedia
+
+
+
+Qafár afАԥсшәаAcèhАдыгабзэAfrikaansAlemannischАлтай тилአማርኛPangcahAragonésÆngliscअंगिकाالعربيةܐܪܡܝܐالدارجةمصرىঅসমীয়াAsturianuAtikamekwАварKotavaअवधीAymar aruAzərbaycancaتۆرکجهБашҡортсаBasa BaliBoarischŽemaitėškaBatak TobaBikol CentralБеларускаяБеларуская (тарашкевіца)BetawiБългарскиभोजपुरीBislamaBanjarပအိုဝ်ႏဘာႏသာႏBamanankanবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiBasa UgiБуряадCatalàChavacano de Zamboanga閩東語 / Mìng-dĕ̤ng-ngṳ̄НохчийнCebuanoChamoruChahta anumpaᏣᎳᎩTsetsêhestâheseکوردیCorsuNēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDagbanliDeutschDagaareThuɔŋjäŋZazakiDolnoserbskiडोटेलीދިވެހިބަސްཇོང་ཁEʋegbeΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraEstremeñuفارسیMfantseFulfuldeSuomiVõroNa Vosa VakavitiFøroysktFɔ̀ngbèFrançaisArpetanNordfriiskFurlanFryskGaeilgeGagauz贛語Kriyòl gwiyannenGàidhligGalegoگیلکیAvañe'ẽगोंयची कोंकणी / Gõychi KonknniBahasa Hulontalo𐌲𐌿𐍄𐌹𐍃𐌺Ghanaian PidginગુજરાતીWayuunaikiFarefareGungbeGaelgHausa客家語/Hak-kâ-ngîHawaiʻiעבריתहिन्दीFiji HindiHiri MotuHrvatskiHornjoserbsceKreyòl ayisyenMagyarՀայերենԱրեւմտահայերէնOtsihereroInterlinguaBahasa IndonesiaInterlingueIgboIgalaIñupiatunIlokanoГӀалгӀайIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ / inuktitut日本語PatoisLa .lojban.JawaქართულიQaraqalpaqshaTaqbaylitАдыгэбзэKabɩyɛTyapKongoGĩkũyũKwanyamaҚазақшаKalaallisutភាសាខ្មែរಕನ್ನಡ한국어Перем комиKanuriКъарачай-малкъарकॉशुर / کٲشُرRipoarischKurdîKʋsaalКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛаккуЛезгиLingua Franca NovaLugandaLimburgsLigureLadinLombardLingálaລາວلۊری شومالیLietuviųLatgaļuLatviešuMadhurâमैथिलीBasa BanyumasanМокшеньMalagasyEbonОлык марийMāoriMinangkabauМакедонскиമലയാളംМонголꯃꯤꯇꯩ ꯂꯣꯟဘာသာမန်मराठीКырык марыBahasa MelayuMaltiMvskokeMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाOshiwamboLi NihaNederlandsNorsk nynorskNorsk bokmålNovialߒߞߏNouormandSesotho sa LeboaDiné bizaadChi-ChewaOccitanLivvinkarjalaOromooଓଡ଼ିଆИронਪੰਜਾਬੀPangasinanKapampanganPapiamentuPicardNaijáDeitschPälzischपालिNorfuk / PitkernPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsPinayuananRuna SimiRumantschRomani čhibIkirundiRomânăArmãneashtiTarandíneРусскийРусиньскыйIkinyarwandaसंस्कृतम्Саха тылаᱥᱟᱱᱛᱟᱲᱤSarduSicilianuScotsسنڌيDavvisámegiellaSängöSrpskohrvatski / српскохрватскиTaclḥitၽႃႇသႃႇတႆး සිංහලSimple EnglishSlovenčinaسرائیکیSlovenščinaGagana SamoaAnarâškielâChiShonaSoomaaligaShqipСрпски / srpskiSranantongoSiSwatiSesothoSeelterskSundaSvenskaKiswahiliŚlůnskiSakizayaதமிழ்TayalತುಳುతెలుగుTetunТоҷикӣไทยትግርኛTürkmençeTagalogTolışiSetswanaLea faka-TongaTok PisinTürkçeSeediqXitsongaТатарча / tatarçaChiTumbukaTwiReo tahitiТыва дылУдмуртئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha / ўзбекчаTshivendaVènetoVepsän kel’Tiếng ViệtWest-VlamsVolapükWalonWinarayWolof吴语ХальмгIsiXhosaმარგალურიייִדישYorùbáVahcuenghZeêuwsⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ中文文言閩南語 / Bân-lâm-gú粵語IsiZulu
+
+Edit links
+
+
+
+
+
+
+ This page was last edited on 22 January 2023, at 14:51.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+
+
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Data access
+
+
+
+
+
+
+
+

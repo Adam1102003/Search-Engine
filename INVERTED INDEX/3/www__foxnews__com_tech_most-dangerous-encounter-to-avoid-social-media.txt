@@ -1,0 +1,475 @@
+
+
+
+The most dangerous encounter to avoid in social media | Fox News
+
+
+  Fox News Media Fox News MediaFox BusinessFox NationFox News AudioFox WeatherOutkickBooks Fox News  
+                U.S.
+              
+                Politics
+              
+                World
+              
+                Opinion
+              
+                Media
+              
+                Entertainment
+              
+                Sports
+              
+                Lifestyle
+              
+                Video
+              
+                AI
+               More Expand / Collapse search Login Watch TV Menu    
+          U.S.
+         
+            Crime
+          
+            Military
+          
+            Education
+          
+            Terror
+          
+            Immigration
+          
+            Economy
+          
+            Personal Freedoms
+          
+            Fox News Investigates
+          
+            Digital Originals
+          
+          Politics
+         
+            Executive
+          
+            Senate
+          
+            House
+          
+            Judiciary
+          
+            Foreign Policy
+          
+            Polls
+          
+            Elections
+          
+          World
+         
+            U.N.
+          
+            Conflicts
+          
+            Terrorism
+          
+            Disasters
+          
+            Global Economy
+          
+            Environment
+          
+            Religion
+          
+            Scandals
+          
+          Opinion
+         
+          Media
+         
+            FOX Nation Coverage
+          
+          Entertainment
+         
+            Celebrity News
+          
+            Movies
+          
+            TV News
+          
+            Music News
+          
+            Style News
+          
+            Entertainment Video
+          
+          Sports
+         
+            NFL
+          
+            College Football
+          
+            MLB
+          
+            NBA
+          
+            NHL
+          
+            Golf
+          
+            Tennis
+          
+            Soccer
+          
+            UFC
+          
+            WWE
+          
+          Lifestyle
+         
+            Health
+          
+            Food & Drink
+          
+            Auto
+          
+            Travel & Outdoors
+          
+            Real Estate
+          
+            House & Home
+          
+            Style & Beauty
+          
+            Family
+          
+            Faith
+          
+          FOX Business
+         
+            Personal Finance
+          
+            Economy
+          
+            Markets
+          
+            Watchlist
+          
+            Lifestyle
+          
+            Real Estate
+          
+            Tech
+          
+          Science & Tech
+         
+            Air & Space
+          
+            Security
+          
+            Innovation
+          
+            Video Games
+          
+            Military Tech
+          
+            Planet Earth
+          
+            Wild Nature
+          
+          Watch Live 
+         
+            FOX News Shows
+          
+            Programming Schedule
+          
+            On Air Personalities
+          
+            Full Episodes
+          
+            Show Clips
+          
+            News Clips
+          
+          Apps & Products
+         
+            FOX News Go
+          
+            FOX Weather
+          
+            FOX Nation
+          
+            FOX News Shop
+          
+            FOX News Radio
+          
+            Outkick
+          
+            Newsletters
+          
+            Podcasts
+          
+          Games
+         
+            Daily Crossword Puzzle
+          
+            Crazy Crystals Match 3 Game
+          
+            Word Scramble
+          
+            Mini Crossword Puzzle
+          
+            Stack and Match Block Puzzle
+          
+            5 Across the Letter Word Game
+           Fox News Updated Terms of UseNew Privacy PolicyYour Privacy ChoicesClosed Caption PolicyHelpContact UsAccessibility Statement 
+      This material may not be published, broadcast, rewritten,
+      or redistributed. ©2024 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by
+      Factset. Powered and implemented by
+      FactSet Digital Solutions.
+      Legal Statement. Mutual Fund and ETF data provided by
+      Refinitiv Lipper.
+     Facebook Twitter Instagram RSS Email        TECH The most dangerous encounter to avoid in social media How to protect yourself, your money, your tech from social engineering schemes   
+      By
+      Kurt Knutsson, CyberGuy Report  Fox News  
+      Published
+       May 8, 2024 10:00am EDT  Facebook Twitter Flipboard Comments Print Email  close      Video Social media guiding protests’ narrative: Hogan Fox News contributor Mollie Hemingway and Democrat strategist Tim Hogan join "MediaBuzz" to discuss campus antisemitism. They are dangerous, tricky scams designed to tug at your better judgment, draining bank accounts, creating havoc with your friends, and manipulating your reputation. Social engineering scams – the type of scams used by criminals to exploit a person's trust to obtain money or sensitive information or both – have become much more sophisticated with the rise of artificial intelligence.    I’m passionate about protecting your privacy and security. I often hear from people saying, "Why should I care? I’d never fall for one of these scams." Guess again.Until now, popular phishing scams typically involved scammers calling innocent people, claiming to be from a company, and convincing them they owe money on an invoice or something. To combat this, brands have tried to protect their customers by saying, "They'll never call." But with OpenAI’s recent announcement of its voice-mimicking tool, we're heading into a new era of social engineering scams.  We spoke to Tom Tovar, CEO of Appdome, a cybersecurity company dedicated to protecting mobile apps. He unveils the unsettling truth about social engineering scams and warns that it’s not just about being aware – it’s about being prepared. The time to change our mindset is now or risk becoming the next victim in the ever-evolving game of digital deception.  CLICK TO GET KURT’S FREE CYBERGUY NEWSLETTER WITH SECURITY ALERTS, QUICK VIDEO TIPS, TECH REVIEWS, AND EASY HOW-TO’S TO MAKE YOU SMARTER  Illustration of artificial intelligence (Kurt "CyberGuy" Knutsson)How to spot a social engineering scam  In the intricate world of cybersecurity threats, social engineering scams really make their mark by cleverly manipulating our human instincts and emotions. According to Tovar, "Social engineering scams exploit the everyday fear, uncertainty, and doubt in humans to gain access to protected accounts, information, resources, payments, and more. These attacks can also abuse commercial expectations, business processes, and psychological tactics to trick humans into interacting with the scam."WHAT IS ARTIFICIAL INTELLIGENCE (AI)?  Illustration of artificial intelligence over data (Kurt "CyberGuy" Knutsson)  MORE: UNFORGETTABLE MOTHER’S DAY GIFTS 2024What are some of the most recent social engineering scams?In these scams, fraudsters masquerade as employees from banks, financial institutions or government agencies to gain the trust of their targets. Another social engineering scam could look like a vacation giveaway from a familiar friend but is instead a trick to get you to engage. By leveraging this trust, they manipulate individuals into divulging sensitive information or making financial transactions that benefit the scammer.  "In these attacks, the attacker has to get the user to interact," Tovar explains."So, they may send a very convincing text message to the victim purporting to be the fraud department of the bank." This text message will say something like, "Did you make this purchase?" showcasing a supposedly fraudulent amount, usually concerning enough to panic the victim into replying "no" as quickly as possible. When they do this, they may receive a response saying, "Thank you. Someone from our fraud team will be in touch with you shortly."    From there, the attacker and the victim are now in direct communication, where they can be tricked into handing over their sensitive information. In other scenarios, they may be told they need to download specific software to mitigate whichever situation the scammer convinced them of. With this software, the scammer can control the entire device.Though there are other variations of this new social engineering style, they all involve taking advantage of the victim's emotions and vulnerability to commit their deceptive act. When we asked Tovar how we can expect social engineering scams to change with this current wave of AI-supported, AI-generated scams, he said, "It's just the wind before the storm."  Illustration of AI aimed at you (Kurt "CyberGuy" Knutsson)MORE: CAN AI HELP SOMEONE STAGE A FAKE KIDNAPPING SCAM AGAINST YOUR FAMILY?How should you adjust your outlook to recognize better and combat social engineering scams?    Many brands have told their customers, "We'll never call you," to fight these impersonation scams. It makes sense but only leads scammers to devise new ways to trick their victims. Not only this, but according to Tovar, there's another issue with telling your users that you won't call them. "As brand loyalists, enthusiasts and supporters, that's not really what we want our favorite brands to say." He's right. After all, one of the reasons customers may choose one brand over the competition is the ease with which they can talk to somebody if they have a question or concern.  Scammer using AI to trick you (Kurt "CyberGuy" Knutsson)MORE: HOW SCAMMERS HAVE SUNK TO NEW LOW WITH AI OBITUARY SCAM TARGETING THE GRIEVINGBeyond gut feelings: Navigating the blurred lines of AI-driven scamsTovar says, "Of course, if someone calls you, you want to be aware of what you're being asked to do, and if it sounds fishy, don't do it." But because of AI's sophistication and the clever, innovative tricks that scammers have up their sleeves, asking you to go with your "gut feeling" is simply not enough. "The line between what feels fishy and what feels real is gone."  A woman answering phone call while on her laptop (Kurt "CyberGuy" Knutsson)Proactive steps against sophisticated social engineering scams  Protecting yourself from social engineering scams, especially in the age of AI, requires a multifaceted approach. Here are some steps to help you safeguard against such threats.    1. Stay informed: Keep up to date with the latest scam tactics and cybersecurity news. Awareness is the first line of defense.2. Verify independently: If contacted by someone claiming to be from a company, verify the claim by contacting the company directly through official channels.  GET FOX BUSINESS ON THE GO BY CLICKING HERE3. Guard personal information: Be cautious about sharing personal information, especially in response to unsolicited communications.  4. Use two-factor authentication: Enable two-factor authentication wherever possible to add an extra layer of security.  5. Be skeptical: Approach too-good-to-be-true offers and urgent requests for action with skepticism.6. Secure communications: Use encrypted communication channels and avoid discussing sensitive information over unsecured networks.  7. Regularly update systems: Keep operating systems and cybersecurity software up to date to protect against known vulnerabilities.    8. Avoid unknown links and downloads: Do not click on links or download attachments from unknown sources, as they may contain malware. The best way to protect yourself from clicking malicious links that install malware that may get access to your private information is to have antivirus protection installed on all your devices. This can also alert you of any phishing emails or ransomware scams. Get my picks for the best 2024 antivirus protection winners for your Windows, Mac, Android & iOS devices.9. Report suspicious activity: If you suspect a social engineering attempt, report it to the appropriate authorities.By implementing these steps, individuals and organizations can build a stronger defense against the evolving landscape of social engineering scams. It’s important to remember that as technology advances, so do the tactics of scammers. Continuous education and vigilance are key to staying protected.Kurt's key takeaways  Sadly, dodging sneaky social engineering scams is part of our everyday life in the world of connecting online. It’s like a game of digital cat-and-mouse, and we’ve got to stay one step ahead. So, what’s the game plan? First, let’s keep our eyes peeled for the latest scammer tricks – it’s all about staying in the know. However, it's also about prevention, not just detection. If you get a call or message that smells fishy, trust your gut and double-check with the official sources. Remember, sharing is not always caring, especially regarding your personal information. Oh, and those too-good-to-be-true offers? That's a big red flag. Let’s not make it easy for the scammers.  CLICK HERE TO GET THE FOX NEWS APPHave you ever encountered a social engineering scam? What red flags helped you recognize it? Let us know by writing us at Cyberguy.com/Contact.    For more of my tech tips and security alerts, subscribe to my free CyberGuy Report Newsletter by heading to Cyberguy.com/Newsletter.Ask Kurt a question or let us know what stories you'd like us to cover.  Answers to the most asked CyberGuy questions:What is the best way to protect your Mac, Windows, iPhone and Android devices from getting hacked?What is the best way to stay private, secure and anonymous while browsing the web?  Copyright 2024 CyberGuy.com. All rights reserved.  Kurt "CyberGuy" Knutsson is an award-winning tech journalist who has a deep love of technology, gear and gadgets that make life better with his contributions for Fox News & FOX Business beginning mornings on "FOX & Friends." Got a tech question? Get Kurt’s free CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com.                  
+
+
+
+
+Get a daily look at what’s developing in science and technology throughout the world.
+Arrives Weekly
+
+Subscribe
+
+Subscribed
+
+
+
+
+
+
+Subscribe
+
+You've successfully subscribed to this newsletter!
+
+     
+          U.S.
+         
+            Crime
+          
+            Military
+          
+            Education
+          
+            Terror
+          
+            Immigration
+          
+            Economy
+          
+            Personal Freedoms
+          
+            Fox News Investigates
+          
+            Digital Originals
+          
+          Politics
+         
+            Executive
+          
+            Senate
+          
+            House
+          
+            Judiciary
+          
+            Foreign Policy
+          
+            Polls
+          
+            Elections
+          
+          World
+         
+            U.N.
+          
+            Conflicts
+          
+            Terrorism
+          
+            Disasters
+          
+            Global Economy
+          
+            Environment
+          
+            Religion
+          
+            Scandals
+          
+          Opinion
+         
+          Media
+         
+            FOX Nation Coverage
+          
+          Entertainment
+         
+            Celebrity News
+          
+            Movies
+          
+            TV News
+          
+            Music News
+          
+            Style News
+          
+            Entertainment Video
+          
+          Sports
+         
+            NFL
+          
+            College Football
+          
+            MLB
+          
+            NBA
+          
+            NHL
+          
+            Golf
+          
+            Tennis
+          
+            Soccer
+          
+            UFC
+          
+            WWE
+          
+          Lifestyle
+         
+            Health
+          
+            Food & Drink
+          
+            Auto
+          
+            Travel & Outdoors
+          
+            Real Estate
+          
+            House & Home
+          
+            Fitness & Well-being
+          
+            Style & Beauty
+          
+            Family
+          
+            Faith
+          
+          FOX Business
+         
+            Personal Finance
+          
+            Economy
+          
+            Markets
+          
+            Watchlist
+          
+            Lifestyle
+          
+            Real Estate
+          
+            Tech
+          
+          Science & Tech
+         
+            Air & Space
+          
+            Security
+          
+            Innovation
+          
+            Video Games
+          
+            Military Tech
+          
+            Planet Earth
+          
+            Wild Nature
+          
+          Watch Live
+         
+            FOX News Shows
+          
+            Programming Schedule
+          
+            On Air Personalities
+          
+            Full Episodes
+          
+            Show Clips
+          
+            News Clips
+          
+          About
+         
+            Contact Us
+          
+            Careers
+          
+            Fox Around the World
+          
+            Advertise With Us
+          
+            Media Relations
+          
+            Corporate Information
+          
+            Compliance
+          
+          Apps & Products
+         
+            FOX News Go
+          
+            FOX Weather
+          
+            FOX Nation
+          
+            FOX News Shop
+          
+            FOX News Radio
+          
+            Outkick
+          
+            Newsletters
+          
+            Podcasts
+          
+          Games
+         
+            Daily Crossword Puzzle
+          
+            Crazy Crystals Match 3 Game
+          
+            Word Scramble
+          
+            Mini Crossword Puzzle
+          
+            Stack and Match Block Puzzle
+          
+            5 Across the Letter Word Game
+           Facebook Twitter Instagram Youtube Flipboard LinkedIn Slack RSS Newsletters Spotify iHeartRadio Fox News Updated Terms of UseNew Privacy PolicyYour Privacy ChoicesClosed Caption PolicyHelpContact UsAccessibility Statement 
+        This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by
+        Factset. Powered and implemented by
+        FactSet Digital Solutions.
+        Legal Statement. Mutual Fund and ETF data provided by
+        Refinitiv Lipper.
+      
+
+
+

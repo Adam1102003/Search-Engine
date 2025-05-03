@@ -1,0 +1,366 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BBC - Things
+
+
+
+
+
+
+
+          Homepage     Accessibility links   Skip to content   Accessibility Help       BBC Account        Notifications         Home            News            Sport            Weather            iPlayer            Sounds            Bitesize     CBeebies     CBBC     Food         Home     News     Sport     Business     Innovation     Culture     Travel     Earth     Video     Live               More menu    Search BBC        Search BBC              Home            News            Sport            Weather            iPlayer            Sounds            Bitesize     CBeebies     CBBC     Food        Home     News     Sport     Business     Innovation     Culture     Travel     Earth     Video     Live         Close menu    
+
+
+
+
+
+
+
+
+
+ThingsBeta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+History
+Events of the past 
+
+http://www.bbc.co.uk/things/03eb3674-6190-4cd7-8104-1a00991d67a3#id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+Properties
+
+
+rdf:type
+
+
+
+core:Theme
+
+
+
+core:Thing
+
+
+
+tagging:AmbiguousTerm
+
+
+
+tagging:Genre
+
+
+
+tagging:TagConcept
+
+
+core:disambiguationHint
+
+
+Events of the past 
+                
+
+core:label
+
+
+am: ታሪክ
+                
+
+ar: التاريخ
+                
+
+az: Tarix
+                
+
+bn: ইতিহাস
+                
+
+cy: Hanes
+                
+
+en-gb: History
+                
+
+es: Historia
+                
+
+fa: تاریخ
+                
+
+fr: Histoire
+                
+
+gu: ઈતિહાસ
+                
+
+ha: Tarihi
+                
+
+hi: इतिहास
+                
+
+id: Sejarah
+                
+
+ig: Akụkọ mgbe gboo
+                
+
+ja: 歴史
+                
+
+ko: 역사
+                
+
+ky: Тарых
+                
+
+mr: इतिहास
+                
+
+my: သမိုင်း
+                
+
+ne: ‌इतिहास
+                
+
+om: Seenaa
+                
+
+pa: ਇਤਿਹਾਸ
+                
+
+pcm: Olden days
+                
+
+ps: تاریخ
+                
+
+pt-br: História
+                
+
+ru: История
+                
+
+rw: Amateka
+                
+
+si: ඉතිහාසය
+                
+
+so: Taariikh
+                
+
+sr-cyrl: Историја
+                
+
+sr-latn: Istorija
+                
+
+sw: Historia
+                
+
+ta: வரலாறு
+                
+
+te: చరిత్ర
+                
+
+th: ประวัติศาสตร์
+                
+
+ti: ታሪኽ
+                
+
+tr: Tarih
+                
+
+uk: Історія
+                
+
+ur: تاریخ
+                
+
+uz-cyrl: Тарих
+                
+
+vi: Lịch sử
+                
+
+yo: Itan
+                
+
+zh-hans: 历史
+                
+
+zh-hant: 歷史
+                
+
+core:notablyAssociatedWith
+
+
+
+http://www.bbc.co.uk/things/68826b27-1f7b-4891-a6f6-d55c86da2918#id
+
+
+
+http://www.bbc.co.uk/things/7047e74c-b9ae-4c02-a4a8-748df451ac58#id
+
+
+core:preferredLabel
+
+
+History
+                
+
+core:primaryTopicOf
+
+
+
+http://en.wikipedia.org/wiki/History
+
+
+core:sameAs
+
+
+
+dbpedia:History
+
+
+
+http://www.wikidata.org/entity/Q309
+
+
+core:shortLabel
+
+
+History
+                
+
+tagging:subConceptOf
+
+
+
+http://www.bbc.co.uk/things/e3886abc-b0ca-4415-9574-1d4ffb162395#id
+
+
+tagging:superConceptOf
+
+
+
+http://www.bbc.co.uk/things/5aca32b8-ff04-4044-a8cd-f23a8f26d392#id
+
+
+
+http://www.bbc.co.uk/things/b93e66fb-0f4c-45a0-ba60-a6faabdc394b#id
+
+
+
+http://www.bbc.co.uk/things/c177940f-427b-41ef-8414-9277ad4bdf5b#id
+
+
+
+
+View
+                    Turtle (.ttl)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              The BBC does not offer a warranty for the quality and availability of the data nor does it endorse any of the explicit or implicit associations provided by the Things website.
+              Some of the information displayed is brought in from open data sources such as Wikipedia and MusicBrainz which may not have been reviewed by professional editors.
+              If you find any of the content factually incorrect or highly offensive you can edit the data at these original sources.
+            
+
+
+
+
+
+     Explore the BBC      Home            News            Sport            Weather            iPlayer            Sounds            Bitesize     CBeebies     CBBC     Food         Home     News     Sport     Business     Innovation     Culture     Travel     Earth     Video     Live              Terms of Use About the BBC Privacy Policy Privacy Policy Cookies Cookies Accessibility Help Parental Guidance Contact the BBC Make an editorial complaint BBC emails for you Advertise with us   Copyright © 2024 BBC. The BBC is not responsible for the content of external sites.   Read about our approach to external linking.                  
+
+

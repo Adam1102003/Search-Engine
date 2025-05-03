@@ -1,0 +1,746 @@
+
+
+
+
+Manual:Extensions - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+		In other languages
+	
+
+
+Englishไทย
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+Beginning
+
+
+
+
+
+1Types of extensions
+
+
+
+Toggle Types of extensions subsection
+
+
+
+
+
+1.1Parser tags
+
+
+
+
+
+
+
+1.2Parser functions
+
+
+
+
+
+
+
+1.3Hooks
+
+
+
+
+
+
+
+1.4Special pages
+
+
+
+
+
+
+
+1.5Skins
+
+
+
+
+
+
+
+1.6Magic words
+
+
+
+
+
+
+
+1.7API
+
+
+
+
+
+
+
+1.8Page content models
+
+
+
+
+
+
+
+1.9Authentication
+
+
+
+
+
+
+
+
+
+2Finding extensions
+
+
+
+Toggle Finding extensions subsection
+
+
+
+
+
+2.1Browsing extensions
+
+
+
+
+
+
+
+2.2Checking installed extensions
+
+
+
+
+
+
+
+2.3Popular extensions
+
+
+
+
+
+
+
+
+
+3Installing an extension
+
+
+
+
+
+
+
+4Upgrading an extension
+
+
+
+
+
+
+
+5Uninstalling an extension
+
+
+
+
+
+
+
+6See also
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Manual:Extensions
+
+
+
+
+
+
+
+
+
+
+ManualDiscussion
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From mediawiki.org
+
+
+Translate this pageLanguages:Bahasa Indonesia
+Deutsch
+English
+Esperanto
+Nederlands
+Tiếng Việt
+Türkçe
+dansk
+español
+español (formal)
+français
+italiano
+magyar
+polski
+português
+português do Brasil
+română
+suomi
+svenska
+čeština
+Ελληνικά
+български
+мокшень
+русский
+українська
+العربية
+تۆرکجه
+سنڌي
+فارسی
+پښتو
+ไทย
+中文
+吴语（简体）
+日本語
+한국어
+
+Extensions: 
+
+
+Development 
+Tag extensions 
+Parser functions 
+Hooks 
+Special pages 
+Skins 
+Magic words 
+API 
+Content models 
+
+
+
+An extension lets you customise how MediaWiki looks and works.
+
+Wiki users can browse through extensions.
+System administrators can install (or remove) extensions on the MediaWiki installations that they manage.
+Developers can write new extensions or improve or maintain extensions.
+While some extensions are maintained by MediaWiki developers, others were written by third-party developers. 
+As a result, many have bugs, and they are not all guaranteed to be compatible with each other. 
+Some are unmaintained; not all extensions work on all versions of MediaWiki. 
+Use any extension, especially those tagged as insecure, at your own risk. 
+If you are using an extension that requires patches to the core software, be sure to back up your database.
+This helps avoid the risk of breaking your wiki.
+
+Types of extensions
+
+
+
+ Parser tags
+Parser tags extend the built-in wiki markup with additional capabilities, whether simple string processing, or full-blown information retrieval.→ Learn more about parser tags 
+
+
+ Parser functions
+Parser functions are special wiki markup syntax that can 'interact' with other wiki elements in the page, and give a specific output.→ Learn more about parser functions 
+
+
+ Hooks
+Hooks allow custom code to be executed when some defined event (such as saving a page or a user logging in) occurs.→ Learn more about hooks 
+
+
+ Special pages
+Special pages are pages that are created by the software on demand to perform a specific function.→ Learn more about special pages 
+
+
+ Skins
+Skins allow users to customise the look and feel of MediaWiki.→ Learn more about skins 
+
+
+ Magic words
+Magic words are a technique for mapping a variety of wiki text strings to a single ID that is associated with a function.→ Learn more about magic words 
+
+
+ API
+MediaWiki provides an action API, a web service that allows access to some wiki-features like authentication, page operations, and search.→ Learn more about the MediaWiki API 
+
+
+ Page content models
+The ContentHandler  introduced in MediaWiki 1.21  makes it possible for wiki pages to be composed of data other than wikitext, such as JSON or Markdown.→ Learn more about content models 
+
+
+ Authentication
+MediaWiki provides SessionManager and AuthManager, two authentication-related frameworks to enhance security via custom authentication mechanisms.→ Learn more about authentication 
+Finding extensions
+Browsing extensions
+You can browse Category:Extensions by category  to see the full range of extensions that have already been written.  
+For information on installing these extensions or writing your own, see below.
+
+Checking installed extensions
+Only someone with administration access to the filesystem (and often the database too) on a server can install extensions for MediaWiki, but anyone can check which extensions are active on an instance of MediaWiki by accessing the Special:Version page. 
+For example, these extensions are active in the English Wikipedia.
+
+Popular extensions
+There are a number of ways of finding popular extensions.
+The first set is those that are bundled with MediaWiki (a list that is reviewed regularly, and to which anyone can suggested an addition).
+Extensions that are downloaded from MediaWiki.org via the ExtensionDistributor  mechanism have some statistics gathered.
+The top 15 most downloaded extensions are listed at Special:ExtensionDistributor, and applicable extensions have their download count shown in their infobox.
+Note that these numbers do not account for alternate ways of installing extensions, such as via Git or Composer.
+A third option is to look at WikiApiary 's counts of wikis that extensions are installed on.
+This has the advantage of representing actual installations and not just downloads (i.e. it queries the wiki's APIs), but it is also (as of 2023) not completely up to date.
+It also doesn't count installations on private wikis.
+
+Installing an extension
+For further guidance, see also Manual:Extensions/Installation and upgrade 
+MediaWiki is ready to accept extensions just after installation is finished. 
+To add an extension follow these steps:
+
+Before you start
+Many extensions provide instructions designed for installation using Unix commands. You require shell access (SSH) to enter these commands listed on the extension help pages.
+Download your extension.
+Extension Distributor helps you to select and download most of the popular extensions.
+Extensions are usually distributed as modular packages. They generally go in their own subdirectory of $IP /extensions/.  A list of extensions stored in the Wikimedia Git repository is located at git:mediawiki/extensions. Some extensions don't use version control and are not recommended.
+Some extensions are also available in bundles, composer  or package repositories.
+It's recommended to read the README file before installation. It usually contains important info about configuration.
+Install your extension.
+At the end of the LocalSettings.php  file, add:
+wfLoadExtension( 'ExtensionName' );
+
+This line forces the PHP interpreter to read the extension file, and thereby make it accessible to MediaWiki.
+Some extensions can conflict with maintenance scripts, for example if they directly access $_SERVER (not recommended).
+In this case they can be wrapped in the conditional so maintenance scripts can still run.
+if ( !$wgCommandLineMode ) {
+   wfLoadExtension ( 'ExtensionName' );
+}
+
+The maintenance script importDump.php  will fail for any extension which requires customised namespaces which is included inside the conditional above such as Extension:Semantic MediaWiki , Extension:Page Forms .
+Ensure that required permissions are set for extensions!
+While this installation procedure is sufficient for most extensions, some require a different installation procedure. Check your extension's documentation for details.
+If you want to alter configuration variables in LocalSettings.php, you have to do this typically after including the extension. Otherwise defaults defined in the extension will overwrite your settings.
+Upgrading an extension
+Some extensions require to be updated whenever you update MediaWiki, while others work with multiple versions. 
+To upgrade to a new version of an extension:
+
+Download the new version of the extension
+Replace all the extension files in the extensions/ExtensionName directory with the new files. Do not remove the extension configuration present in LocalSettings.php
+If the extension requires changes to the MediaWiki database, you will need to run the update.php  maintenance script. Most extensions will mention if this script needs to be run or not. (Perform backup of your data before executing the script). If you don't have command line access, you can also use the web updater.
+These instructions cover 99% of extensions. If the specific extension you are upgrading has instructions that differ from these, you should probably follow the specific extension's instructions
+Uninstalling an extension
+Remove the line from LocalSettings.php with the extension name to uninstall it:
+
+wfLoadExtension( 'ExtensionName' );
+
+You must remove any lines pertaining to the configuration of the extension.
+See also
+Category:Extensions 
+Template:Extension 
+Manual:Developing extensions 
+Manual:Translating extensions  - Information about translating extensions.
+Special:ExtensionDistributor - Includes a list of the 15 most downloaded extensions in Wikimedia version control
+extloc - Where are MediaWiki extensions deployed in Wikimedia production?
+API:SiteInfo extension information
+
+Extensions :
+
+
+Category 
+All 
+Requests 
+Tag extensions 
+Extensions FAQ 
+Installation and upgrade 
+Registration 
+List of extension hooks 
+Extension default namespaces 
+
+
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Manual:Extensions&oldid=6474869"
+Categories: Customization techniquesExtension creation
+
+
+
+
+
+
+ This page was last edited on 18 April 2024, at 08:23.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

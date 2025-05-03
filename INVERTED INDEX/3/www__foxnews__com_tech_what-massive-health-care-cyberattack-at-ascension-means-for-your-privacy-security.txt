@@ -1,0 +1,475 @@
+
+
+
+What massive health care cyberattack at Ascension means for your privacy, security | Fox News
+
+
+  Fox News Media Fox News MediaFox BusinessFox NationFox News AudioFox WeatherOutkickBooks Fox News  
+                U.S.
+              
+                Politics
+              
+                World
+              
+                Opinion
+              
+                Media
+              
+                Entertainment
+              
+                Sports
+              
+                Lifestyle
+              
+                Video
+              
+                AI
+               More Expand / Collapse search Login Watch TV Menu    
+          U.S.
+         
+            Crime
+          
+            Military
+          
+            Education
+          
+            Terror
+          
+            Immigration
+          
+            Economy
+          
+            Personal Freedoms
+          
+            Fox News Investigates
+          
+            Digital Originals
+          
+          Politics
+         
+            Executive
+          
+            Senate
+          
+            House
+          
+            Judiciary
+          
+            Foreign Policy
+          
+            Polls
+          
+            Elections
+          
+          World
+         
+            U.N.
+          
+            Conflicts
+          
+            Terrorism
+          
+            Disasters
+          
+            Global Economy
+          
+            Environment
+          
+            Religion
+          
+            Scandals
+          
+          Opinion
+         
+          Media
+         
+            FOX Nation Coverage
+          
+          Entertainment
+         
+            Celebrity News
+          
+            Movies
+          
+            TV News
+          
+            Music News
+          
+            Style News
+          
+            Entertainment Video
+          
+          Sports
+         
+            NFL
+          
+            College Football
+          
+            MLB
+          
+            NBA
+          
+            NHL
+          
+            Golf
+          
+            Tennis
+          
+            Soccer
+          
+            UFC
+          
+            WWE
+          
+          Lifestyle
+         
+            Health
+          
+            Food & Drink
+          
+            Auto
+          
+            Travel & Outdoors
+          
+            Real Estate
+          
+            House & Home
+          
+            Style & Beauty
+          
+            Family
+          
+            Faith
+          
+          FOX Business
+         
+            Personal Finance
+          
+            Economy
+          
+            Markets
+          
+            Watchlist
+          
+            Lifestyle
+          
+            Real Estate
+          
+            Tech
+          
+          Science & Tech
+         
+            Air & Space
+          
+            Security
+          
+            Innovation
+          
+            Video Games
+          
+            Military Tech
+          
+            Planet Earth
+          
+            Wild Nature
+          
+          Watch Live 
+         
+            FOX News Shows
+          
+            Programming Schedule
+          
+            On Air Personalities
+          
+            Full Episodes
+          
+            Show Clips
+          
+            News Clips
+          
+          Apps & Products
+         
+            FOX News Go
+          
+            FOX Weather
+          
+            FOX Nation
+          
+            FOX News Shop
+          
+            FOX News Radio
+          
+            Outkick
+          
+            Newsletters
+          
+            Podcasts
+          
+          Games
+         
+            Daily Crossword Puzzle
+          
+            Crazy Crystals Match 3 Game
+          
+            Word Scramble
+          
+            Mini Crossword Puzzle
+          
+            Stack and Match Block Puzzle
+          
+            5 Across the Letter Word Game
+           Fox News Updated Terms of UseNew Privacy PolicyYour Privacy ChoicesClosed Caption PolicyHelpContact UsAccessibility Statement 
+      This material may not be published, broadcast, rewritten,
+      or redistributed. ©2024 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by
+      Factset. Powered and implemented by
+      FactSet Digital Solutions.
+      Legal Statement. Mutual Fund and ETF data provided by
+      Refinitiv Lipper.
+     Facebook Twitter Instagram RSS Email        TECH What massive health care cyberattack at Ascension means for your privacy, security Digital security breach at one of largest health systems in US a wake-up call in patient data world   
+      By
+      Kurt Knutsson, CyberGuy Report  Fox News  
+      Published
+       May 13, 2024 10:00am EDT  Facebook Twitter Flipboard Comments Print Email  close      Video Pharmacy cyberattack blamed on foreign 'nation-state' Carl Szabo, vice president and general counsel for NetChoice, joins "Fox & Friends" to discuss the growing concerns about cyberattacks and the government's responsibility to "stand up." Ascension, one of the largest health systems in the United States with 140 hospitals, faced a significant cyberattack that disrupted its operations. It was reported that the attack caused patient record systems to go offline, forcing medical staff to resort to paper records. This event is a stark reminder of the vulnerability of America’s health care system to cyberthreats.    CLICK TO GET KURT’S FREE CYBERGUY NEWSLETTER WITH SECURITY ALERTS, QUICK VIDEO TIPS, TECH REVIEWS AND EASY HOW-TO’S TO MAKE YOU SMARTER  Hospital workers (Ascension) (Kurt "CyberGuy" Knutsson)What was the immediate impact of the cyberattack?The aftermath of the cyberattack was immediate and disruptive. Emergency crews had to divert patients to other hospitals, and staff had to implement manual workarounds. Essential systems like MyChart, phone services and electronic ordering for tests and medications were affected. The company has had to delay some elective procedures and appointments, urging patients to come prepared with detailed notes on their conditions.  Mother, daughter and doctor in hospital (Ascension) (Kurt "CyberGuy" Knutsson)  MORE: 5 BEST TELEMEDICINE APPS FOR VIRTUAL HEALTH CAREAscension's response  Ascension’s response was swift, with an investigation launched to determine the extent of the breach. The health system, which is based in St. Louis, has not provided a timeline for service restoration but has assured us that they are working diligently to resolve the issues. Nurses and staff have had to adapt quickly, facing challenges such as accessing electronic health records and using devices like glucometers that rely on electronic identification systems.  Emergency sign outside hospital (Kurt "CyberGuy" Knutsson)  MORE: HOW GENERATIVE AI COULD CUT HEALTH CARE COSTS AND DEVELOP NEW CANCER DRUGS Cybersecurity in health careThe recent security failures in hospitals have been likened to car owners leaving their keys on the seat with the door unlocked. The American Hospital Association supports voluntary cybersecurity goals but has expressed concerns over mandatory measures proposed by the Biden administration. They argue that such requirements could unfairly penalize hospitals for vulnerabilities introduced by third-party technologies.  Image of stethoscope in hospital (Kurt "CyberGuy" Knutsson)  MORE: A DAD'S LIFE-SAVING INVENTION IS INSPIRED BY HIS WIFE'S NEAR-DEATH ORDEALThe bigger picture paints concerning trend in health careThis cyberattack is not an isolated incident. It follows a concerning trend of increased cyberthreats to U.S. medical systems. Just recently, Change Healthcare suffered a similar fate, which had widespread repercussions across the health care industry. The Ascension hack, while smaller in scope, directly impacted systems crucial for patient care.  An Ascension spokesperson provided this statement, which is posted on the nonprofit's website, "Safely caring for patients remains our highest priority as we navigate this cybersecurity incident. We are actively supporting our ministries as they continue to provide safe, patient care with established downtime protocols and procedures, in which our workforce is well-trained. It is expected that we will be utilizing downtime procedures for some time."    You can read the company's entire statement here.8 proactive steps to take in the face of health care cyberattacksIn the wake of the cyberattack on Ascension, consider taking several proactive steps to protect your personal information and prepare for potential disruptions in health care services:1) Stay informed: Keep up to date with the latest news from Ascension and other reliable sources to know the status of the systems and services.    2) Personal health records: Maintain personal health records saved on your own devices or printed out, including a list of medications, allergies, past surgeries and other relevant health information. This can be invaluable if electronic health records are temporarily inaccessible.3) Emergency preparedness: Have a plan for medical emergencies that includes knowing alternative health care facilities and understanding how to reach them if your primary hospital is affected. For example, my nearest emergency department recently had a waiting time of several hours while a top hospital an hour away could see many patients within minutes.4) Cybersecurity best practices: Practice good cybersecurity hygiene by using strong, unique passwords for online accounts. Consider using a password manager to generate and store complex passwords. Also, enable two-factor authentication where available.  5) Vigilance against phishing: Be extra cautious of phishing attempts, as cyberattacks often lead to an increase in phishing emails and calls, trying to exploit the situation. The best way to protect yourself from clicking malicious links that install malware that may get access to your private information is to have antivirus protection installed on all your devices. This can also alert you of any phishing emails or ransomware scams. Get my picks for the best 2024 antivirus protection winners for your Windows, Mac, Android & iOS devices.    6) Contact health care providers: If you have appointments or procedures scheduled, contact your health care provider to confirm or reschedule as needed should a cyberattack disrupt normal operations.7) Patient portals: If you use patient portals like MyChart, monitor them for updates regarding your medical records and communication with health care providers.  8) Data breach response: In case of a data breach, be ready to follow instructions from Ascension or any affected medical provider regarding credit monitoring or other protective measures.By taking these eight steps, you can help safeguard your personal health information and ensure better continuity of care during cyber-related disruptions.Kurt's key takeaways  The cyberattack on Ascension underscores the urgent need for stronger cybersecurity measures in health care. With the White House pushing for "mandatory minimum" cybersecurity standards, it’s clear that voluntary measures are no longer sufficient. The health care industry must prioritize cybersecurity to protect against such threats and ensure the safety and privacy of patient data. For us as patients, we need to have a backup plan and keep track of our medical records as much as possible.  What role should government agencies play in bolstering cybersecurity measures within private health care systems? Let us know by writing us at Cyberguy.com/Contact.For more of my tech tips and security alerts, subscribe to my free CyberGuy Report Newsletter by heading to Cyberguy.com/Newsletter.  Ask Kurt a question or let us know what stories you'd like us to cover.    Answers to the most asked CyberGuy questions:What is the best way to protect your Mac, Windows, iPhone and Android devices from getting hacked?What is the best way to stay private, secure and anonymous while browsing the web?Copyright 2024 CyberGuy.com. All rights reserved.  Kurt "CyberGuy" Knutsson is an award-winning tech journalist who has a deep love of technology, gear and gadgets that make life better with his contributions for Fox News & FOX Business beginning mornings on "FOX & Friends." Got a tech question? Get Kurt’s free CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com.                  
+
+
+
+
+Get a daily look at what’s developing in science and technology throughout the world.
+Arrives Weekly
+
+Subscribe
+
+Subscribed
+
+
+
+
+
+
+Subscribe
+
+You've successfully subscribed to this newsletter!
+
+     
+          U.S.
+         
+            Crime
+          
+            Military
+          
+            Education
+          
+            Terror
+          
+            Immigration
+          
+            Economy
+          
+            Personal Freedoms
+          
+            Fox News Investigates
+          
+            Digital Originals
+          
+          Politics
+         
+            Executive
+          
+            Senate
+          
+            House
+          
+            Judiciary
+          
+            Foreign Policy
+          
+            Polls
+          
+            Elections
+          
+          World
+         
+            U.N.
+          
+            Conflicts
+          
+            Terrorism
+          
+            Disasters
+          
+            Global Economy
+          
+            Environment
+          
+            Religion
+          
+            Scandals
+          
+          Opinion
+         
+          Media
+         
+            FOX Nation Coverage
+          
+          Entertainment
+         
+            Celebrity News
+          
+            Movies
+          
+            TV News
+          
+            Music News
+          
+            Style News
+          
+            Entertainment Video
+          
+          Sports
+         
+            NFL
+          
+            College Football
+          
+            MLB
+          
+            NBA
+          
+            NHL
+          
+            Golf
+          
+            Tennis
+          
+            Soccer
+          
+            UFC
+          
+            WWE
+          
+          Lifestyle
+         
+            Health
+          
+            Food & Drink
+          
+            Auto
+          
+            Travel & Outdoors
+          
+            Real Estate
+          
+            House & Home
+          
+            Fitness & Well-being
+          
+            Style & Beauty
+          
+            Family
+          
+            Faith
+          
+          FOX Business
+         
+            Personal Finance
+          
+            Economy
+          
+            Markets
+          
+            Watchlist
+          
+            Lifestyle
+          
+            Real Estate
+          
+            Tech
+          
+          Science & Tech
+         
+            Air & Space
+          
+            Security
+          
+            Innovation
+          
+            Video Games
+          
+            Military Tech
+          
+            Planet Earth
+          
+            Wild Nature
+          
+          Watch Live
+         
+            FOX News Shows
+          
+            Programming Schedule
+          
+            On Air Personalities
+          
+            Full Episodes
+          
+            Show Clips
+          
+            News Clips
+          
+          About
+         
+            Contact Us
+          
+            Careers
+          
+            Fox Around the World
+          
+            Advertise With Us
+          
+            Media Relations
+          
+            Corporate Information
+          
+            Compliance
+          
+          Apps & Products
+         
+            FOX News Go
+          
+            FOX Weather
+          
+            FOX Nation
+          
+            FOX News Shop
+          
+            FOX News Radio
+          
+            Outkick
+          
+            Newsletters
+          
+            Podcasts
+          
+          Games
+         
+            Daily Crossword Puzzle
+          
+            Crazy Crystals Match 3 Game
+          
+            Word Scramble
+          
+            Mini Crossword Puzzle
+          
+            Stack and Match Block Puzzle
+          
+            5 Across the Letter Word Game
+           Facebook Twitter Instagram Youtube Flipboard LinkedIn Slack RSS Newsletters Spotify iHeartRadio Fox News Updated Terms of UseNew Privacy PolicyYour Privacy ChoicesClosed Caption PolicyHelpContact UsAccessibility Statement 
+        This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by
+        Factset. Powered and implemented by
+        FactSet Digital Solutions.
+        Legal Statement. Mutual Fund and ETF data provided by
+        Refinitiv Lipper.
+      
+
+
+

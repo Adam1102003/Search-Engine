@@ -1,0 +1,619 @@
+
+
+
+
+Help:Navigation - MediaWiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageGet MediaWikiGet extensionsTech blogContribute
+
+
+
+
+
+		Support
+	
+
+
+User helpFAQTechnical manualSupport deskCommunication
+
+
+
+
+
+		Development
+	
+
+
+Developer portalCode statistics
+
+
+
+
+
+		mediawiki.org
+	
+
+
+Community portalRecent changesTranslate contentRandom pageVillage pumpSandbox
+
+
+
+
+
+		In other languages
+	
+
+
+AlemannischالعربيةБългарскиবাংলাکوردیCymraegDeutschEnglishEspañolفارسیFrançaisGalegoעברית日本語Қазақша한국어LëtzebuergeschBahasa MelayuनेपालीNederlandsNorsk bokmålپښتوPortuguêsسنڌيසිංහලSimple EnglishSvenskaไทยTürkçeاردوTiếng Việt
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+Beginning
+
+
+
+
+
+1Sidebar
+
+
+
+Toggle Sidebar subsection
+
+
+
+
+
+1.1Navigation
+
+
+
+
+
+
+
+1.2Toolbox
+
+
+
+
+
+
+
+
+
+2Page tabs
+
+
+
+
+
+
+
+3User links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Help:Navigation
+
+
+
+
+
+
+
+
+
+
+HelpDiscussion
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From mediawiki.org
+
+
+Translate this pageLanguages:Bahasa Indonesia
+Cymraeg
+Deutsch
+English
+Lëtzebuergesch
+Mara
+Nederlands
+Qaraqalpaqsha
+Scots
+Tiếng Việt
+Türkçe
+asturianu
+català
+chiShona
+dansk
+español
+français
+hrvatski
+interlingua
+italiano
+lietuvių
+magyar
+norsk bokmål
+occitan
+polski
+português
+português do Brasil
+română
+slovenčina
+slovenščina
+suomi
+svenska
+čeština
+ślůnski
+Ελληνικά
+Ποντιακά
+беларуская (тарашкевіца)
+български
+русский
+татарча / tatarça
+українська
+қазақша
+ייִדיש
+עברית
+العربية
+فارسی
+پښتو
+ߒߞߏ
+भोजपुरी
+मराठी
+हिन्दी
+বাংলা
+ไทย
+ລາວ
+မြန်မာဘာသာ
+中文
+日本語
+ꯃꯤꯇꯩ ꯂꯣꯟ
+한국어
+
+
+Note: When you edit this page, you agree to release your contribution under the CC0. See Public Domain Help Pages for more info. 
+
+
+
+
+Special pages - Help 
+
+
+All pages 
+ApiSandbox 
+Diff 
+ExpandTemplates 
+Merge history 
+New files 
+New pages 
+PermanentLink 
+Preferences 
+Random page 
+Random root page 
+Recent changes 
+Undelete 
+Watchlist 
+What links here 
+
+
+Every page on a MediaWiki site not only has information to show you but also allows you to move to other pages.
+This is called "navigation".
+To help you navigate, every page on MediaWiki, has three main navigation elements:
+
+The sidebar gives you access to important pages in the wiki such as recent changes or upload file. MediaWiki requires you to log in before seeing all of the sidebar options.
+Links (often called tabs) which relate to the page currently displayed: its associated discussion page, the version history, and – most notably – the edit link.
+User links; as an anonymous user, you'll see a link to create an account or log in. As a logged-in user you have a collection of personal links, including ones to your user page and preferences.
+In addition to the standard navigation elements that each page has, a page will have its own unique information which appears in the larger main area of the page.
+Generally within this information will be links to other pages.
+This page mainly documents the MonoBook and Vector skins.
+Appearances may be different when using other skins.
+
+
+Sidebar
+Example sidebar, shown along the page
+The sidebar is displayed on the edge of the page below the site logo (if using the MonoBook or Vector skin).
+This sidebar gives you access to important pages in the wiki such as Recent Changes or Upload File.
+
+Navigation
+Clicking on the logo brings you back to the main page of the wiki.
+The links in the navigation section just below will take you to important pages of the wiki.
+These links can be configured by site administrators.
+
+Toolbox
+The tools contains a selection of links which change depending on what type of page you are viewing.
+
+On all pages (except special pages)
+
+"What links here" takes you to a special page that lists the pages on that wiki which contain a link to the current page. This is helpful when you are looking for pages of related information. The "what links here" information can also be useful when you are refactoring wiki pages and need to check whether links to this page are still relevant after changes in the current page.
+The "related changes" tool lists all recent changes in the pages linked to from the current page. Recent changes to all relevant template pages are included in the resulting page list. The "Hide minor edits" option that can be set in the user preferences applies, among other things, to "related changes".
+On all pages (including special pages)
+
+"upload file" displays a special page that allows logged-in users to upload images and other files to the wiki. Uploaded files can be linked from or embedded in wiki pages. This link is not displayed if file uploading is not enabled.Uploading files, viewing files on the server, including them in wiki pages and managing the uploaded files is discussed in the managing files section of this manual.
+The "special pages" tool lists the MediaWiki special pages. In MediaWiki terminology, a special page is one that presents information about the Wiki and/or allows access to administration activities for the wiki. For example, a list of users registered with the wiki, statistics about the wiki such as the number of pages and number of page edits, system logs, a list of orphaned pages, and so on. The content of these special pages is generated automatically when the special page is loaded.The function and use of the default special pages can be found in the special pages section of this manual.
+
+
+Page tabs
+Default page tabs at the top of the page
+The page tabs are displayed at the top of the page to the right of the site logo (if using the MonoBook or Vector skin).
+These tabs allow you to perform actions or view pages that are related to the current page.
+The available default actions include: viewing, editing, and discussing the current page.
+The specific tabs displayed on your pages depend on whether or not you are logged into the wiki and whether you have sysop (administrator) privileges on the wiki.
+On special pages, only the namespace tab is displayed.
+
+Default for all users
+
+"namespace" (page, help, special page, template, user page etc.)
+"discussion"
+"edit" (may read "view source" if anonymous editing is disabled, the page is in the MediaWiki: namespace, or the page is protected)
+"history"
+Extra tabs for logged-in users
+
+"move"
+"watch"
+Extra tabs for sysops
+
+"protect"
+"delete"
+Administrators can add or remove tabs by using JavaScript or installing extensions, so the tabs you see may be different depending on which wiki you are using.
+
+User links
+Default user links at the top right of the page
+The user links are displayed at the top far right of the page (if using the default Vector skin).
+These tabs allow the logged-in user to view and edit their user page and wiki preferences.
+Additionally, the user links allow the user to quickly access their contributions to the wiki and logout.
+For anonymous users the user links is replaced by a link to the wiki login page or, if enabled by the site administrator, a link to your IP address and your IP address's talk page.
+
+"Username"
+This links to your user page which is where you can put information about yourself, store bits of information you want to remember or whatever else you fancy.
+"Talk"
+This links to your discussion page, where people can leave messages for you.
+"Preferences"
+Allows you to change your personal site preferences.
+"Watchlist"
+A list of all pages that you are watching. Pages can be added to this list by clicking "watch" at the top of the page.
+"Contributions"
+A list of all contributions you have made to the wiki.
+"Log out"
+Click this link to log out of the wiki.
+
+
+
+
+Retrieved from "https://www.mediawiki.org/w/index.php?title=Help:Navigation&oldid=6090182"
+Categories: Special PagesHelp
+
+
+
+
+
+
+ This page was last edited on 2 September 2023, at 04:53.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+

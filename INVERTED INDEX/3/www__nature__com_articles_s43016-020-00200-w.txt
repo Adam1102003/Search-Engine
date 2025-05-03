@@ -1,0 +1,969 @@
+
+
+
+Impacts of home cooking methods and appliances on the GHG emissions of food | Nature Food
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all journals
+
+
+
+
+Search
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+
+About the journal
+
+
+
+
+Publish with us
+
+
+
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+
+
+
+nature
+
+
+
+nature food
+
+
+
+brief communications
+
+
+
+
+article
+
+
+
+
+
+
+
+
+
+                        Impacts of home cooking methods and appliances on the GHG emissions of food
+                    
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+Brief Communication
+Published: 11 December 2020
+
+Impacts of home cooking methods and appliances on the GHG emissions of food
+Angelina Frankowska1, Ximena Schmidt Rivera2, Sarah Bridle1, Alana Marielle Rodrigues Galdino Kluczkovski 
+            ORCID: orcid.org/0000-0001-6462-68011, Jacqueline Tereza da Silva 
+            ORCID: orcid.org/0000-0002-6082-89053,4, Carla Adriano Martins1, Fernanda Rauber 
+            ORCID: orcid.org/0000-0001-9693-79543, Renata Bertazzi Levy3, Joanne Cook 
+            ORCID: orcid.org/0000-0002-2499-00831 & …Christian Reynolds5,6 Show authors
+
+Nature Food
+volume 1, pages 787–791 (2020)Cite this article
+
+
+
+
+2233 Accesses
+
+
+26 Citations
+
+
+216 Altmetric
+
+
+Metrics details
+
+
+
+
+
+Subjects
+
+AgricultureCultural and media studiesEnergy and societyEnergy science and technologyHealth humanities
+
+
+
+
+AbstractFood is widely acknowledged as a major contributor to climate change but estimates of food-related greenhouse gas (GHG) emissions frequently consider supply chain stages only up to the farm gate or regional distribution centres. Here we estimate GHG emissions associated with different cooking methods and appliances in the UK. Data on current cooking practices were collected through a survey with more than 700 respondents. Our results reveal that home cooking accounts for as much as 61% of total emissions associated with specific foods, and that this can be substantially reduced through alternative, readily available cooking practices.
+
+
+You have full access to this article via your institution.
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+Similar content being viewed by others
+
+
+
+
+
+
+Food systems are responsible for a third of global anthropogenic GHG emissions
+                                        
+
+
+Article
+08 March 2021
+
+
+
+
+
+
+
+
+
+Global greenhouse gas emissions from animal-based foods are twice those of plant-based foods
+                                        
+
+
+Article
+13 September 2021
+
+
+
+
+
+
+
+
+
+Future warming from global food consumption
+                                        
+
+
+Article
+Open access
+06 March 2023
+
+
+
+
+
+
+
+
+MainThe contribution of home cooking to climate change is rarely assessed because data on household cooking practices are scarce. Yet understanding climate change impacts of different food items from cradle to grave is vital for effectively reducing greenhouse gas (GHG) emissions.When whole life cycles of food products are taken into account, food is estimated to emit up to 37% of global GHG emissions1. Most studies estimate the climate change impact of food only up to the retail/purchase stages of the food supply chain, thus excluding consumption (here defined as food preparation and cooking). However, the preparation of meat and vegetables can contribute up to 20% and 36% of total product emissions, respectively, when recipe recommendations of major cooking methods are followed2,3. Cooking food from scratch at home can result in lower overall GHG emissions than consuming ready-made meals4.Previous studies have indicated that GHG emissions from home cooking can be reduced by minimizing cooking times and appliance use. Such a reduction can reach 86% in the case of pasta5 and the equivalent of 18–55% less energy use in the case of roast beef and Yorkshire puddings6. However, little is known about actual cooking practices for different foods in households. Previously recorded cooking practices adopted by university students could indicate how to reduce GHG emissions due to unsustainable cooking7, but are not representative of general consumption patterns across the population.In this article we assess the impact of home cooking based on actual cooking practices and preferences rather than solely on recipe recommendations. We first report the results of a UK-wide survey conducted to collect data on cooking practices considering various foods, appliances and cooking times. Then, we compare different cooking methods with respect to their GHG emissions and estimate the contribution of cooking to food products’ overall impact on climate change. Based on these results, we identify the least and most sustainable cooking techniques as well as opportunities to reduce their GHG footprint. Unsustainable cooking practices such as prolonged heating-up of the oven or overcooking food, as well as not using energy-efficient appliances, may be factors that increase GHG emissions unnecessarily. Addressing these issues can help raise awareness about the contribution of cooking to climate change and how unsustainable cooking practices can exacerbate the problem.Cooking practices in the UKOur survey revealed that on average cooking accounts for 6–61% of the total GHG emission impacts for a given food (Fig. 1a). In the particular case of vegetables (namely, potatoes, carrots, cabbage, cauliflower and onions), cooking accounts for up to 61% of their total emissions. In the case of meat and fish, it represents 8–27% of their total emissions.Fig. 1: Total GHG emissions of various food items.Each bar indicates the share of a given item’s climate change impact associated with preconsumption and cooking. Supplementary Fig. 2 shows the results normalized by protein and calorie content. Numbers in parentheses are the percentage cooking impact.Full size imageConsidering foods that are ready to eat, the toasting of bread contributes 13% of the total emissions released (Fig. 1). For semicooked or precooked foods, such as tofu and Quorn, cooking accounts for up to 42% of their GHGs. Cooking canned baked beans, which are ready to eat after being heated up, represents 6% of their total emissions. Cooking other types of canned pulses (beans or chickpeas) with other ingredients in various dishes represents 28% of their total GHG emissions.Cooking meat accounts for the highest overall emissions across the various foods in the UK. This is due to the long cooking times (>60 min) of oven roasting, which consumes the most energy among the different appliance types (Fig. 2f,g, Supplementary Fig. 1p,q and Supplementary Tables 1 and 2). However, while lamb and beef cause the highest total GHG emissions by far, cooking impacts are mostly less than 11% of total GHG emissions. Compared with the precooking stage (60 kgCO2e per kg cooked), cooking-related emissions (up to 6.9 kgCO2e per kg cooked) are negligible. This suggests that reducing the consumption of lamb and beef is more important than changing the cooking method. Replacing some meat with pulses provides a rich protein source that generates lower GHG emissions. For instance, frozen and canned pulses reduce emissions by up to 29 times and ninefold compared with beef/lamb and pork/chicken meat, respectively, per kilogram of cooked food (Fig. 1). Pulses also perform better in terms of protein content, reducing GHG emissions by about 40% compared with chicken/pork and by up to sixfold compared with beef/lamb (Supplementary Fig. 2). Furthermore, apart from mushrooms GHG emissions from beef are the highest among the different foods in terms of calorie content (Supplementary Fig. 2).Fig. 2: GHG emissions of various cooking methods when applied to different food items in relation to their cooking times.a–g, For each given food and per relevant cooking method, the cooking time, the share of total GHG emissions represented by cooking, as well as the amount of GHG emissions per weight of food are shown. Relevant cooking methods are those identified through the survey as applied to each of the food items. (s.1), stove; (e.2), electric; (o.3), oven.Full size imageGHG emissions from different cooking methodsThe amount of GHG emissions differs considerably among the various cooking methods, as shown in Fig. 2 for some selected foods and in Supplementary Fig. 1 for the remainder. Cooking emissions can be at least halved (in the case of toast) and reduced up to 16-fold (in the case of tofu/Quorn) by changing the cooking method used.Considering the most common cooking appliances, ovens are the least sustainable due to comparatively long cooking times and high energy demand, while microwaves have the lowest overall impact. For vegetables, roasting in the oven comprises 53–78% of the total impact (Fig. 2b and Supplementary Fig. 1a–d). Due to the differences in taste, texture and aroma resulting from oven and microwave preparation, the comparison of these two methods may be considered misleading. Nevertheless, precooking some types of food in a microwave would decrease the time required in the oven without substantially affecting sensorial properties—ultimately resulting in lower GHG emissions.Cooking in a microwave, steaming and boiling are comparable methods for reheating, defrosting and preparing vegetables, fruits, eggs and fish. Using the stovetop for these foods and practices leads to the highest impact among appliances since energy demand and cooking time are higher due to energy losses and the time it takes to reach cooking temperatures (Supplementary Table 1). By contrast, microwaving reduces GHG emissions by 41–78% compared with boiling and steaming. Electric steaming has the lowest impact for vegetables (Fig. 2b and Supplementary Fig. 1a,d,g).Using an electric grill may be a good alternative to toasting or grilling in the oven since an electric grill consumes half of the energy. For instance, grilling chicken in an electric grill releases 73% less GHG emissions than grilling in an oven. Electric grilling corresponds to 9% of the impact coming from the consumption stage, as opposed to 27% for oven grilling (Fig. 2f).Cooking under pressure is an efficient way of cooking meat, pulses, potatoes and vegetables because the cooking time is substantially shortened. Using an electric pressure cooker as opposed to one that operates on the stovetop could further reduce emissions, since 50% less energy is required. Sous-vide cooking, also known as low-temperature, long-time cooking, involves placing food under vacuum inside a plastic pouch/bag and submerging this in a heated water bath for several hours until it reaches a desired internal core temperature; this method also has a low GHG emission footprint, though other environmental issues due to the plastic use must be considered6. However, sous-vide cooking is not represented in the survey and pressure cooking is hardly used in the UK. Only 2% of the participants prepared beef under pressure, and they reported cooking meat for longer than recommended by recipes. Although slow cookers are the most energy-efficient appliances, generating low GHG emissions despite the long cooking times (see Supplementary Table 1), they are not used much in the UK either. Such limited use and the unrealistically short cooking times reported for slow cooking in the survey suggest that respondents may have been confused by this response option and indicate the need for more research on less popular cooking methods (see Supplementary Information).In summary, our results underscore the importance of analysing cooking practices for mitigating climate change, particularly when consumption is an important contributor to the overall impact of food. Cooking time is instrumental in determining food-based GHG emissions and is a potential opportunity for emission reduction. The GHG footprint of cooking can be reduced substantially by changing the cooking method and appliance. Different cooking methods can complement each other to shorten the total usage of unsustainable appliances, thereby reducing GHG emissions. Using cleaner energy sources will also lower current cooking emission levels; the increasing use of renewables has the potential to decarbonize the electricity grid, allowing the use of electric appliances or biogas for ovens and hobs, for example. Our finding that low-emission cooking methods (that is, pressure cooking and slow cooking) are not commonly used in the UK reveals the potential for improvements in home cooking habits. Finally, we note that our analysis has focused on the UK cooking culture, but similar analyses are needed to understand the climate change impact of different cooking cultures around the worldMethodsA survey was used to capture data on cooking habits in households including the cooking time and method (https://osf.io/t7h4x/?view_only=83a37df45ab747609259575aa093ac01). The survey has been conducted across the UK, considering the 30 food items most consumed nationally. Data were collected from 765 participants (n = 765), who were asked to specify cooking method, appliance and time for 30 foods of a given portion size. The data were cleaned by applying sigma clipping to remove outliers. Furthermore, a cutoff criterion of n > 10 participants was considered for each cooking method to be accounted for in the evaluation. Data cleaning resulted in 684 ≤ n ≤ 759 depending on the type of food and cooking method.Eleven different cooking methods, involving ten types of appliance, were assessed. We assumed that stovetops are used for shallow frying, while boiling can be done on the stovetop or in the microwave. Roasting, baking, grilling (broiling) and toasting are conducted in the oven. Additionally, an electric grill and toaster might be considered for grilling and for toasting bread, respectively. We also assumed that sous vide devices, electric grills, slow cookers, microwaves and toasters are all electric appliances; pressure cooking, steaming and deep frying could be conducted either in specialized electric appliances (that is, pressure cookers, steamers and deep fryers) or on the stovetop—we assumed an equal share of each of these two options due to lack of data. Further assumptions include toasting bread in a toaster or in the oven, with the former representing 70% of the cases as most UK households own a toaster8. Most ovens in the UK (70%) are powered by electricity, with the remainder being run on natural gas; stovetops, on the contrary, are mostly fuelled by natural gas (62%), with the remainder (38%) powered by electricity9.We built a database of energy consumption of household appliances based on the energy usage of the various appliances declared by the manufacturer. GHG emissions were calculated based on the energy demand of the cooking method, the median cooking time drawn from the survey and the carbon emission factors of the UK national electricity mix and natural gas for the year 2019 (ref. 10).Data on precooking GHG emissions for the different foods were taken from existing literature and aggregated with the cooking impacts estimated from the survey2,5,11,12,13,14,15,16,17,18,19,20. The share of total impact represented by each cooking method was also based on the survey.Supplementary Tables 1 and 2 contain the assumptions described above as well as a list of the different food items, portion sizes, median cooking times, preconsumption data sources, share of cooking methods and the conversion factors of raw to cooked foods for the former (and the average energy consumption of the different cooking appliances for the latter). The questionnaire can be found in Supplementary Table 3. The results for raw food, and normalized by protein and calorie content are displayed in Supplementary Figs. 2 and 3. Information about typical methods used by respondents can be found in Supplementary Fig. 4.Reporting SummaryFurther information on research design is available in the Nature Research Reporting Summary linked to this article.Ethics declarationWritten informed consent was obtained from the 765 study participants before assessing the survey. This research was approved by the University of Sheffield Reseach Ethics Committee on 9 March 2020 (application number 033516).
+
+
+Data availability
+All data that support the findings of this study are available from the corresponding author upon reasonable request.
+ReferencesRosenzweig, C. et al. Climate change responses benefit from a global food system approach. Nat. Food 1, 94–97 (2020).Article 
+    
+                    Google Scholar 
+                Frankowska, A., Jeswani, H. K. & Azapagic, A. Environmental impacts of vegetables consumption in the UK. Sci. Total Environ. 682, 80–105 (2019).Article 
+    ADS 
+    CAS 
+    
+                    Google Scholar 
+                Frankowska, A. Environmental impacts on the food–energy–water nexus in the UK food sector. PhD thesis, Univ. Manchester (2019).Schmidt Rivera, X. C., Espinoza Orias, N. & Azapagic, A. Life cycle environmental impacts of convenience food: comparison of ready and home-made meals. J. Clean. Prod. 73, 294–309 (2014).Article 
+    CAS 
+    
+                    Google Scholar 
+                Cimini, A. & Moresi, M. Energy efficiency and carbon footprint of home pasta cooking appliances. J. Food Eng. 204, 8–17 (2017).Article 
+    
+                    Google Scholar 
+                Reynolds, C. J. Energy embodied in household cookery: the missing part of a sustainable food system? Part 2: A life cycle assessment of roast beef and Yorkshire pudding. Energy Procedia 123, 228–234 (2017).Article 
+    
+                    Google Scholar 
+                Clear, A. K., Hazas, M., Morley, J., Friday, A. & Bates, O. Domestic food and sustainable design: a study of university student cooking and its impacts. In Conference on Human Factors in Computing Systems—Proceedings 2447–2456 (Association for Computing Machinery, 2013).Which of the following household appliances does your household own? Statista Global Consumer Survey 2019 https://www.statista.com/forecasts/997843/household-appliances-ownership-in-the-uk (2019).Energy Follow-Up Survey 2011: Domestic Appliances, Cooking & Cooling Equipment (DECC, 2011); https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/274778/9_Domestic_appliances__cooking_and_cooling_equipment.pdfAnnual Conversion Factor Publications (DBEIS, 2019); https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019Recchia, L., Cappelli, A., Cini, E., Pegna, F. G. & Boncinelli, P. Environmental sustainability of pasta production chains: an integrated approach for comparing local and global chains. Resources 8, 56 (2019).Article 
+    
+                    Google Scholar 
+                Poore, J. & Nemecek, T. Reducing food’s environmental impacts through producers and consumers. Science 360, 987–992 (2018).Article 
+    ADS 
+    CAS 
+    
+                    Google Scholar 
+                Jeswani, H., Burkinshaw, R. & Azapagic, A. Environmental sustainability issues in the food–energy–water nexus: breakfast cereals and snacks. Sustain. Prod. Consum. 2, 17–28 (2015).Article 
+    
+                    Google Scholar 
+                Robinson, B., Winans, K., Kendall, A., Dlott, J. & Dlott, F. A life cycle assessment of Agaricus bisporus mushroom production in the USA. Int. J. Life Cycle Assess. 24, 456–467 (2019).Article 
+    CAS 
+    
+                    Google Scholar 
+                Usubharatana, P. & Phungrassami, H. Life cycle assessment of the straw mushroom production. Appl. Ecol. Environ. Res. 14, 367–382 (2016).Article 
+    
+                    Google Scholar 
+                Gunady, M. G. A., Biswas, W., Solah, V. A. & James, A. P. Evaluating the global warming potential of the fresh produce supply chain for strawberries, romaine/cos lettuces (Lactuca sativa), and button mushrooms (Agaricus bisporus) in Western Australia using life cycle assessment (LCA). J. Clean. Prod. 28, 81–87 (2012).Article 
+    
+                    Google Scholar 
+                Blonk, H., Kool, A., Luske, B., Ponsioen, T. & Scholten, J. Methodology for Assessing Carbon Footprints of Horticultural Products (Blonk Milieu Advies, 2010).Frankowska, A., Jeswani, H. K. & Azapagic, A. Life cycle environmental impacts of fruits consumption in the UK. J. Environ. Manage. 248, 109111 (2019).Article 
+    
+                    Google Scholar 
+                Noya, I. et al. Carbon and water footprint of pork supply chain in Catalonia: from feed to final products. J. Environ. Manage. 171, 133–143 (2016).Article 
+    
+                    Google Scholar 
+                Carbon Footprinting Emissions Report (Quorn, 2019); https://www.quorn.co.uk/files/content/Carbon_Footprint_Results_UK.pdfDownload referencesAcknowledgementsThis research activity was funded through multiple research grants from Research Councils UK, the University of Manchester, the University of Sheffield, the STFC Food Network+ and the HEFCE Catalyst-funded N8 AgriFood Resilience Programme with matched funding from the N8 group of universities. Specific named projects that funded this research include the STFC GCRF-funded project ‘Trends in greenhouse gas emissions from Brazilian foods using GGDOT’ (ST/S003320/1), the STFC-funded project ‘Piloting Zooniverse for food, health and sustainability citizen science’ (ST/T001410/1) and the STFC Food Network+ Awarded Scoping Project ‘Piloting Zooniverse to help us understand citizen food perceptions’. Funding was also supplied from Research England via the University of Sheffield QR Strategic Priorities Fund projects ‘Cooking as part of a sustainable food system—creating an wider evidence base for policy makers’ and ‘Food based citizen science in the UK as a policy tool’. This research project arose from the N8 AgriFood-funded project ‘Greenhouse Gas and Dietary choices Open-source Toolkit (GGDOT) hacknights.’ X.S.R. was supported through Brunel University internal research England GCRF QR Fund. A.K. and C.A.M. were supported through University of Manchester GCRF QR Visiting Researcher Fellowships.Author informationAuthors and AffiliationsDepartment of Physics and Astronomy, University of Manchester, Manchester, UKAngelina Frankowska, Sarah Bridle, Alana Marielle Rodrigues Galdino Kluczkovski, Carla Adriano Martins & Joanne CookEquitable Development and Resilience Research Group, College of Engineering, Design and Physical Science, Brunel University London, London, UKXimena Schmidt RiveraSchool of Medicine, University of São Paulo, São Paulo, BrasilJacqueline Tereza da Silva, Fernanda Rauber & Renata Bertazzi LevyHCor Research Institute, São Paulo, BrasilJacqueline Tereza da SilvaDepartment of Geography, University of Sheffield, Sheffield, UKChristian ReynoldsCentre for Food Policy, City, University of London, London, UKChristian ReynoldsAuthorsAngelina FrankowskaView author publicationsYou can also search for this author in
+                        PubMed Google ScholarXimena Schmidt RiveraView author publicationsYou can also search for this author in
+                        PubMed Google ScholarSarah BridleView author publicationsYou can also search for this author in
+                        PubMed Google ScholarAlana Marielle Rodrigues Galdino KluczkovskiView author publicationsYou can also search for this author in
+                        PubMed Google ScholarJacqueline Tereza da SilvaView author publicationsYou can also search for this author in
+                        PubMed Google ScholarCarla Adriano MartinsView author publicationsYou can also search for this author in
+                        PubMed Google ScholarFernanda RauberView author publicationsYou can also search for this author in
+                        PubMed Google ScholarRenata Bertazzi LevyView author publicationsYou can also search for this author in
+                        PubMed Google ScholarJoanne CookView author publicationsYou can also search for this author in
+                        PubMed Google ScholarChristian ReynoldsView author publicationsYou can also search for this author in
+                        PubMed Google ScholarContributionsA.F., X.S.R., S.B., R.B.L. and C.R. conceptualized the study. A.F. provided data analysis. A.F., X.S.R., S.B., A.M.R.G.K., J.T.d.S., C.A.M., F.R., R.B.L. and C.R. developed the methodology. A.F. ran the modelling and conducted the formal analysis. A.F. and J.C. developed the visualizations and figures. A.F. provided the writing (original draft) with X.S.R., S.B., A.M.R.G.K., J.T.d.S., C.A.M., F.R., R.B.L., J.C. and C.R. providing additional writing, review and editing. X.S.R. and C.R. developed the survey, and conducted the data collection and data linking (as part of a wider team). X.S.R., S.B., J.T.d.S., R.B.L. and C.R. provided funding acquisition. X.S.R., S.B. and C.R. provided project administration and team supervision.Corresponding authorCorrespondence to
+                Angelina Frankowska.Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional informationPeer review information Nature Food thanks N. Rao, P. Behrens and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Supplementary informationSupplementary InformationSupplementary Text 1, Figs. 1–4, Tables 1 and 2.Reporting SummarySupplementary DataCooking impacts per kg raw; cooking impacts per kg cooked.Rights and permissionsReprints and permissionsAbout this articleCite this articleFrankowska, A., Rivera, X.S., Bridle, S. et al. Impacts of home cooking methods and appliances on the GHG emissions of food.
+                    Nat Food 1, 787–791 (2020). https://doi.org/10.1038/s43016-020-00200-wDownload citationReceived: 09 April 2020Accepted: 10 November 2020Published: 11 December 2020Issue Date: December 2020DOI: https://doi.org/10.1038/s43016-020-00200-wShare this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        
+
+
+
+This article is cited by
+
+
+
+
+
+                                        Product-group-specific nutrient index as a nutritional functional unit for the Life Cycle Assessment of protein-rich foods
+                                    
+
+
+Venla KyttäAnna KårlundMerja Saarinen
+
+The International Journal of Life Cycle Assessment (2023)
+
+
+
+
+                                        Extending the product-group-specific approach in nutritional life cycle assessment
+                                    
+
+
+Venla KyttäAnna KårlundMerja Saarinen
+
+The International Journal of Life Cycle Assessment (2023)
+
+
+
+
+                                        Sustainable meat consumption: global and regional greenhouse gas emission implications and counterfactual scenario analyses
+                                    
+
+
+Cynthia Sau Chun YipYuk Cheung YipWendy Chan
+
+Environment, Development and Sustainability (2023)
+
+
+
+
+                                        Climate Change and Six Americas: What Can Behavior Analysts Do?
+                                    
+
+
+Elizabeth MeshesLincoln Z. KamauKimberly Benjamin Hoppin
+
+Behavior and Social Issues (2022)
+
+
+
+
+
+
+
+
+
+
+
+
+You have full access to this article via your institution.
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+Associated content
+
+
+Collection
+
+First Anniversary Collection
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+                                    Research articles
+                                
+
+
+
+                                    Reviews & Analysis
+                                
+
+
+
+                                    News & Comment
+                                
+
+
+
+                                    Current issue
+                                
+
+
+
+                                    Collections
+                                
+
+
+
+
+Follow us on Twitter
+                            
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+About the journal
+
+
+
+                                    Aims & Scope
+                                
+
+
+
+                                    Journal Information
+                                
+
+
+
+                                    Journal Metrics
+                                
+
+
+
+                                    About the Editors
+                                
+
+
+
+                                    Research Cross-Journal Editorial Team
+                                
+
+
+
+                                    Reviews Cross-Journal Editorial Team
+                                
+
+
+
+                                    Our publishing models
+                                
+
+
+
+                                    Editorial Values Statement
+                                
+
+
+
+                                    Editorial Policies
+                                
+
+
+
+                                    Advisory Panel
+                                
+
+
+
+                                    Content Types
+                                
+
+
+
+                                    Contact
+                                
+
+
+
+
+
+
+Publish with us
+
+
+
+                                    Submission Guidelines
+                                
+
+
+
+                                    For Reviewers
+                                
+
+
+
+                                    Language editing services
+                                
+
+
+Submit manuscript
+
+
+
+
+
+
+
+Search
+
+Search articles by subject, keyword or author
+
+
+
+
+
+
+Show results from
+
+All journals
+This journal
+
+
+
+Search
+
+
+
+
+
+
+                Advanced search
+            
+
+Quick links
+
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+
+
+
+
+
+
+
+
+
+
+                    Nature Food (Nat Food)
+                
+
+ISSN 2662-1355 (online)
+    
+
+
+
+
+
+
+nature.com sitemap
+
+
+
+About Nature Portfolio
+
+About us
+Press releases
+Press office
+Contact us
+
+
+
+Discover content
+
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+
+
+
+Publishing policies
+
+Nature portfolio policies
+Open access
+
+
+
+Author & Researcher services
+
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+
+
+
+Libraries & institutions
+
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+
+
+
+Advertising & partnerships
+
+Advertising
+Partnerships & Services
+Media kits
+
+Branded
+                        content
+
+
+
+Professional development
+
+Nature Careers
+Nature 
+                        Conferences
+
+
+
+Regional websites
+
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+
+
+
+
+
+
+Privacy
+                Policy
+Use
+                of cookies
+
+Your privacy choices/Manage cookies
+                
+
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+
+
+
+
+
+
+
+© 2024 Springer Nature Limited
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+Sign up for the Nature Briefing: Anthropocene newsletter — what matters in anthropocene research, free to your inbox weekly.
+
+
+
+
+
+
+
+
+
+Email address
+
+
+
+Sign up
+
+
+
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing: Anthropocene
+            
+
+
+
+
+
+
+
+
+
